@@ -1,12 +1,14 @@
 ![Site Star](https://readme-typing-svg.demolab.com/?font=Roboto&size=40&duration=4000&pause=2000&color=5D5D5D&center=true&vCenter=true&width=540&lines=Site+Star.)
 
-Astro Theme: 
+Astro Theme: https://astro.build/themes/details/astro-site-star/
 
-Live Demo: https://sitestar.howduudu.tech
+Live demo: https://sitestar.howduudu.tech/en/
+
+Custom display devices: https://sitestar.howduudu.tech/en/preview/?url=https%3A%2F%2Fsitestar.howduudu.tech%2Fen%2F
 
 ![page](./public/images/screen.png)
 
-## **Features88**
+## Features
 
 * Built with Astro and Tailwind CSS
 * SEO-friendly
@@ -38,14 +40,14 @@ Command | Action
 `npm run preview` | Preview the production build locally
 `npm run auto-deploy-website` | Build and deploy to GitHub repository
 
-## **License**
+## License
 
 Astro Site Star is licensed under the MIT license — see the [LICENSE](./LICENSE.md) file for details.
 
-## **Thanks**
+## Thanks
 
 Thanks to [codepen](https://codepen.io/yagoestevez/pen/oapQEJ) for providing the public idea.
 
-**If it helps you, please give a thumbs up. The project address is:**
+**If it helps you, please give a thumbs up. The project address is:** https://github.com/pysunday/astro-sitestar
 
-![DesignPhotographyPortfolio Stars](https://api.star-history.com/svg?repos=pysunday/DesignPhotographyPortfolio)
+![Astro Site Star Stars](https://api.star-history.com/svg?repos=pysunday/astro-sitestar)
