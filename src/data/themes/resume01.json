@@ -1,0 +1,16 @@
+{
+    "url": "https://astro.build/themes/details/resume01/",
+    "name": "resume01",
+    "title": "Resume01",
+    "desc": "This template allows you to present your skills and achievements on the Internet with an innovative website for which you do not need to write a single line of code.",
+    "article": "\n<p>\n  Resume01 is a website template that simplifies the process of developing a website for your\n  resume. It has never been simpler to showcase your website creatively. This template allows you to\n  present your skills and achievements on the Internet with an innovative website for which you do\n  not need to write a single line of code.\n</p>\n<p>\n  It is a beautifully designed template that is specially designed to highlight your achievements\n  and build trust. Creating an appealing and professional-looking resume website is no longer an\n  ordeal when you select this template.\n</p>\n<p>\n  All it takes to launch a full-fledged resume website is installing and configuring the template to\n  meet your requirements. By opting for this creative template for Astro, you will not spend hours\n  setting up a website on your desk. Simply configure it, enter your details, and your resume\n  website is ready to launch.\n</p>\n<h3>Key Features</h3>\n<ul>\n<li>Easy customization options</li>\n<li>User-friendly and convincing interface</li>\n<li>Easy to edit</li>\n<li>No coding required</li>\n<li>Downloadable CV option for the reader</li>\n<li>2 Different layouts with day and night mode</li>\n<li>Easy contact us detail form for effortless inquiries</li>\n<li>Portfolio details with all client details</li>\n<li>Special sections like About Us, Resume Details, Portfolio, Contact</li>\n<li>TinaCMS connected</li>\n</ul>\n",
+    "typeUrl": "https://acquaint.gumroad.com/l/astro-resume01",
+    "liveUrl": "https://resume01-rho.vercel.app/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fresume-01-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fresume-01-2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fresume-01-3.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fresume-01-4.webp&w=1600&h=900&f=webp"
+    ]
+}

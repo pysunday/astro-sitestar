@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/cvpafe/",
+    "name": "cvpafe",
+    "title": "CVPage",
+    "desc": "A minimalist CV page for you.  ä¸ä¸ªæç®çç®ä»é¡µé¢ã",
+    "article": "",
+    "typeUrl": "https://github.com/reonokiy/cvpage",
+    "liveUrl": "https://demo.cvpage.nokiy.net",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/reonokiy/cvpage",
+        "name": "cvpage",
+        "full_name": "reonokiy/cvpage",
+        "description": null,
+        "stargazers_count": 5,
+        "created_at": "2025-01-16T02:53:14Z",
+        "updated_at": "2025-07-23T12:35:05Z",
+        "pushed_at": "2025-01-17T09:13:04Z",
+        "git_url": "git://github.com/reonokiy/cvpage.git",
+        "ssh_url": "git@github.com:reonokiy/cvpage.git",
+        "clone_url": "https://github.com/reonokiy/cvpage.git",
+        "homepage": "http://demo.cvpage.nokiy.net/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fm2q80jwvpmuwrrtto87so16tthias7ad91eotd.webp&w=1600&h=900&f=webp"
+    ]
+}

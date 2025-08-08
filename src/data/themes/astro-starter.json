@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-starter/",
+    "name": "astro-starter",
+    "title": "Astro Starter",
+    "desc": "A preconfigured starting point for developers looking to build a website with Astro, using Bookshop components in CloudCannon.",
+    "article": "<p>A starting point for developers looking to build a website with Astro, using Bookshop components in CloudCannon.</p><p>Create your own copy, and start creating your own components to use in the CloudCannon CMS. Build components with .jsx or .astro.</p><p>To cut down on setup time, this starter template includes some commonly used <a href=\"https://cloudcannon.com/templates/astro-starter/#features\" rel=\"nofollow ugc\">features</a> in CloudCannon.</p><p>This template is aimed at helping developers build sites quickly, rather than providing editors with a fully built editable site.</p>",
+    "typeUrl": "https://github.com/CloudCannon/astro-starter",
+    "liveUrl": "https://tiny-jackal.cloudvent.net/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/CloudCannon/astro-starter",
+        "name": "astro-starter",
+        "full_name": "CloudCannon/astro-starter",
+        "description": "A starting point for developers looking to build a website with Astro, using Bookshop components in CloudCannon.",
+        "stargazers_count": 21,
+        "created_at": "2023-10-26T19:25:45Z",
+        "updated_at": "2025-06-28T04:04:36Z",
+        "pushed_at": "2025-07-07T03:21:47Z",
+        "git_url": "git://github.com/CloudCannon/astro-starter.git",
+        "ssh_url": "git@github.com:CloudCannon/astro-starter.git",
+        "clone_url": "https://github.com/CloudCannon/astro-starter.git",
+        "homepage": ""
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fbuim0w0e71b11j8xzi2jw6dp9bansd3951hw0c.webp&w=1600&h=900&f=webp"
+    ]
+}

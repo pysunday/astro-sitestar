@@ -1,0 +1,16 @@
+{
+    "url": "https://astro.build/themes/details/saaspro-astro/",
+    "name": "saaspro-astro",
+    "title": "Saaspro Astro",
+    "desc": "Saaspro Astro -  SaaS template for startups and agencies",
+    "article": "<p>A customizable SaaS template for startups and agencies, with a seamless development environment</p><p><br/></p><h2>Key features:</h2><p><br/></p><ul><li>15+ Unique Pages</li><li>Highly customizable (Color, Font, Menu, Social Links, SEO Meta Tags, etc.)</li><li>Fast by default (95+ Google PageSpeed Score)</li><li>Built with Astro v5 and Tailwind CSS v4</li><li>Netlify &amp; Vercel setting pre-configured</li><li>Contact form support</li><li>Taxonomy support</li><li>Support OG image</li><li>Support Disqus Comments</li><li>Write and update content in Markdown / MDX</li><li>MDX components auto-import</li><li>Fully responsive on desktops, tablets, and smartphones</li><li>SEO Friendly</li><li>Clean folder structure</li><li>Simple and easy development environment setup</li><li>Compatible with all modern browsers</li><li>Clean code</li><li>Animation on scroll</li><li>Free Google fonts</li><li>Font Awesome icons</li><li>Lifetime free updates</li></ul><h2>Pages:</h2><ol><li>Homepage</li><li>How it works</li><li>Pricing</li><li>Blog</li><li>Blog Single</li><li>Solutions</li><li>Case study</li><li>Case study single</li><li>About</li><li>Contact</li><li>Elements</li><li>Tags</li><li>Features</li><li>Terms &amp; Conditions</li><li>Sign In</li><li>Sign Up</li><li>Custom 404</li><li>Privacy policy</li></ol><p><br/></p>",
+    "typeUrl": "https://themefisher.com/products/saaspro-astro?aff=ab",
+    "liveUrl": "https://saaspro-astro.vercel.app/?aff=ab",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fvnv9n92vl55ceevvxvlq59swc35j6uufrxv8os.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fw4988r81ukaxs5xsbb5ndt5sevdmu6cu8l7lpf.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fhk088oamdsczwt5vlaibdh0gtkztzivdeex2mr.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fe5f6x8gae5qib9xqyob9x3xcpidf4hgaox3qpi.webp&w=1600&h=900&f=webp"
+    ]
+}

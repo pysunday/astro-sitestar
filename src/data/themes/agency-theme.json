@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/agency-theme/",
+    "name": "agency-theme",
+    "title": "Agency Theme",
+    "desc": "A simple yet elegant landing page for a social media marketing site.",
+    "article": "<h3><strong>ð Live Demo</strong></h3><p>Check out the live demo: <a href=\"https://vbartalis.github.io/agency-template/\" rel=\"nofollow ugc\">Social Media Marketing Agency Theme</a></p><h3><strong>ð¨ Description</strong></h3><p>This is a modern, responsive Astro theme designed for social media marketing agencies. It features a sleek design with sections for solutions, services, features, brands, and more, making it perfect for agencies looking to showcase their expertise and attract potential clients.</p><h3><strong>ð§ Technologies &amp; Features</strong></h3><p>- Built with Astro for fast, efficient static site generation</p><p>- Styled using Tailwind CSS for rapid, customizable styling</p><p>- Responsive design that looks great on desktop and mobile devices</p><p>- Includes sections for:</p><p>  - Hero banner</p><p>  - Solutions overview</p><p>  - Services overview</p><p>  - Brands we've worked with</p><p>  - Features</p><p>  - Frequently Asked Questions</p><p>  - Call-to-Action</p><h3><strong>ð License</strong></h3><p>This project is MIT licensed.</p>",
+    "typeUrl": "https://github.com/vbartalis/agency-template",
+    "liveUrl": "https://vbartalis.github.io/agency-template/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/vbartalis/agency-template",
+        "name": "agency-template",
+        "full_name": "vbartalis/agency-template",
+        "description": null,
+        "stargazers_count": 14,
+        "created_at": "2024-01-29T11:13:33Z",
+        "updated_at": "2025-07-20T03:41:58Z",
+        "pushed_at": "2025-05-08T18:49:57Z",
+        "git_url": "git://github.com/vbartalis/agency-template.git",
+        "ssh_url": "git@github.com:vbartalis/agency-template.git",
+        "clone_url": "https://github.com/vbartalis/agency-template.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F8dn9dvi7euxue4qilygo7jqwnjszbc1ens87av.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F20ynjlnbrzcls4d8xkxmb2hec0r3gwu3wpi7nc.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://astro.build/themes/details/minimal-portfolio-template/",
+    "name": "minimal-portfolio-template",
+    "title": "Minimal portfolio template",
+    "desc": "Share your work with SEO optimized minimalistic design",
+    "article": "<h2>Check out the <a href=\"https://minimal-portfolio.witzdam.com/\" rel=\"nofollow ugc\">Preview</a>!</h2><p>Free and open source Astro template made with Tailwind CSS. </p><h2>ð¥ Features</h2><ul><li>Fully responsive</li><li>Perfect Google Lighthouse score</li><li>Fast and SEO optimized blog with Markdown support</li><li>Fully customizable</li><li>Home, About, Projects and Blog pages</li><li>Self host ready</li></ul><p><br/></p><p><br/></p><p>Inspired by the great design of <a href=\"https://www.b-r.io/\" rel=\"nofollow ugc\">Brian Ruiz</a></p>",
+    "typeUrl": "https://github.com/TimWitzdam/astro-minimal-portfolio-template",
+    "liveUrl": "https://minimal-portfolio.witzdam.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/TimWitzdam/astro-minimal-portfolio-template",
+        "name": "astro-minimal-portfolio-template",
+        "full_name": "TimWitzdam/astro-minimal-portfolio-template",
+        "description": "Minimalistic portfolio template for Astro with Tailwind",
+        "stargazers_count": 67,
+        "created_at": "2024-03-27T08:45:58Z",
+        "updated_at": "2025-08-05T04:43:58Z",
+        "pushed_at": "2025-02-03T16:24:37Z",
+        "git_url": "git://github.com/TimWitzdam/astro-minimal-portfolio-template.git",
+        "ssh_url": "git@github.com:TimWitzdam/astro-minimal-portfolio-template.git",
+        "clone_url": "https://github.com/TimWitzdam/astro-minimal-portfolio-template.git",
+        "homepage": "https://minimal-portfolio.witzdam.com/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fxkruce7wz06d09d5k2so28bqaiymssphtjij6p.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F4gooaamgmb5lyq6xiozjnsfdxbxlsn0hkzv8iu.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fmpukkb136mwdor9ak5cab8k5isjixit4fkvyyk.webp&w=1600&h=900&f=webp"
+    ]
+}

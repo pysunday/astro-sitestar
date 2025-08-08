@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/jordan-blake-portfolio/",
+    "name": "jordan-blake-portfolio",
+    "title": "Jordan Blake Portfolio",
+    "desc": "Jordan Blake Portfolio is a sleek, free template built with Astro.js, designed to help developers showcase their projects and skills in a modern, responsive format. Perfect for creating a professional online presence with ease.",
+    "article": "<p><strong>Jordan Blake Portfolio</strong> is a modern, free template crafted for web developers who want to showcase their work in a professional and visually striking manner. Built with Astro.js, this template leverages the power of TypeScript, Tailwind CSS, and GSAP to deliver a fast, responsive, and highly customizable experience. Whether you're highlighting your projects, providing contact information, or showcasing your skills, this template offers a polished and efficient solution. Perfect for developers at any stage, Jordan Blake Portfolio makes it easy to create an impressive online presence that reflects your expertise and style.</p>",
+    "typeUrl": "https://github.com/denv17/jordan-blake-portfolio",
+    "liveUrl": "https://jordan-blake.web.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/denv17/jordan-blake-portfolio",
+        "name": "jordan-blake-portfolio",
+        "full_name": "denv17/jordan-blake-portfolio",
+        "description": null,
+        "stargazers_count": 7,
+        "created_at": "2024-08-24T23:37:55Z",
+        "updated_at": "2025-04-11T04:18:17Z",
+        "pushed_at": "2025-02-11T15:55:41Z",
+        "git_url": "git://github.com/denv17/jordan-blake-portfolio.git",
+        "ssh_url": "git@github.com:denv17/jordan-blake-portfolio.git",
+        "clone_url": "https://github.com/denv17/jordan-blake-portfolio.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fuiafi039ge53ta9qxq1pepzgic6ts5f69e2y1w.webp&w=1600&h=900&f=webp"
+    ]
+}

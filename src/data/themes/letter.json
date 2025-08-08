@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/letter/",
+    "name": "letter",
+    "title": "Letter",
+    "desc": "Letter is a simple opinionated theme designed for developers and digital creatives, focus on simplicity and easy to use. ",
+    "article": "<p>Share your <strong>online resume</strong> or <strong>portfolio</strong> even <strong>FAQ</strong> through fully typed markdown. Built for developers and digital creatives!</p><p><br/></p><ul><li>Astro v5 + Tailwind v4</li><li>Built-in i18n</li><li>CI pipeline (ESLint + Prettier + TS Typecheck + Lighthouse)</li><li>CD pipeline (<a href=\"https://pages.cloudflare.com/\" rel=\"nofollow ugc\">Cloudflare Pages</a>)</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/riceball-tw/letter",
+    "liveUrl": "https://weweweb.pages.dev/en/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/riceball-tw/letter",
+        "name": "letter",
+        "full_name": "riceball-tw/letter",
+        "description": "Letter is a simple opinionated astro.js theme designed for developers and digital creatives",
+        "stargazers_count": 2,
+        "created_at": "2023-06-10T03:28:49Z",
+        "updated_at": "2025-07-30T18:59:51Z",
+        "pushed_at": "2025-06-15T06:24:22Z",
+        "git_url": "git://github.com/riceball-tw/letter.git",
+        "ssh_url": "git@github.com:riceball-tw/letter.git",
+        "clone_url": "https://github.com/riceball-tw/letter.git",
+        "homepage": "https://weweweb.pages.dev/en/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fo2p41cnmifac65mkzur51qz859pj2lmokt3vf5.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fbjy9nsciz1e970nnh7yac37gb6z3xwketbuauy.webp&w=1600&h=900&f=webp"
+    ]
+}

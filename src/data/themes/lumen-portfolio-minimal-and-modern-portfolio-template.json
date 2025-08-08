@@ -1,0 +1,16 @@
+{
+    "url": "https://astro.build/themes/details/lumen-portfolio-minimal-and-modern-portfolio-template/",
+    "name": "lumen-portfolio-minimal-and-modern-portfolio-template",
+    "title": "Lumen Portfolio",
+    "desc": "A minimalist and modern portfolio template perfect for showcase your work while allowing easy and seamless data updates.",
+    "article": "<ul><li>Automatically generates both web pages and formal resumes for printing based on JSON files, making data updates easy and fast.</li><li>Perfect Lighthouse score</li><li>Responsive and modern design</li><li>SEO optimized</li><li>Dark/Light theme</li><li>Built with Astro v5 and Tailwind CSS v3</li></ul>",
+    "typeUrl": "https://arthurmachado.gumroad.com/l/lumen-portfolio",
+    "liveUrl": "https://lumen.arthurmachado.dev",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F7ygeu8c07niu8ic4e3wdpfm653yfwpzl8klazf.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F5s5osegn8irb7bglzkoal8tmohble1upod3l40.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fd6cezn3crradpv2s4jhy1wttodnsolimef2n7c.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ff3u6kau0sh51t05swuigq3nsye3zq4tq0d0ui5.webp&w=1600&h=900&f=webp"
+    ]
+}

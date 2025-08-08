@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/codextremeos/",
+    "name": "codextremeos",
+    "title": "CodeXtreme Web",
+    "desc": "CodeXtremeOS is a modern and blazing-fast web template built with Astro and Tailwind CSS",
+    "article": "<p>â¡ Key Features:</p><p><br/></p><p>â Lightning-fast performance powered by Astro ð</p><p>â Minimalist dark interface for a clean and professional experience</p><p>â Standout typography with modern, accessible fonts for clarity</p><p>â Fully responsive and customizable with Tailwind CSS</p><p>â SEO-friendly and optimized for instant loading</p><p>â Support for modern technologies, including Astro, TypeScript, and more</p><p>â Contact &amp; social media links to easily connect with potential clients or collaborators</p><p>â Intuitive interactivity with smooth dropdown menus for sections like \"What I Do?\"</p><p>â Personalized touches, such as animated code in the background for a unique visual impact</p><p>â Dark &amp; Light mode toggle for an adaptable user experience</p><p>â Optimized for accessibility ensuring inclusivity for all users</p>",
+    "typeUrl": "https://github.com/CodeF1ow/codextreme-web",
+    "liveUrl": "https://www.codextreme.me",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/K1riDev/codextreme-web",
+        "name": "codextreme-web",
+        "full_name": "K1riDev/codextreme-web",
+        "description": "🌐 CodeXtreme Web - Website built with Astro and Tailwind for easily downloading the CodeXtremeOS ISO.",
+        "stargazers_count": 17,
+        "created_at": "2025-01-26T03:38:57Z",
+        "updated_at": "2025-08-08T01:21:32Z",
+        "pushed_at": "2025-08-08T01:21:35Z",
+        "git_url": "git://github.com/K1riDev/codextreme-web.git",
+        "ssh_url": "git@github.com:K1riDev/codextreme-web.git",
+        "clone_url": "https://github.com/K1riDev/codextreme-web.git",
+        "homepage": "https://codextreme.me"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F460l0sdstj9aqt0ev0qjsoxg57xuucepboxgat.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3aycgmjcpjb7va926fvwflum8j9at2y774i5gd.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F98dewayexafa8hbrh0cll4uikf1vcbfxgr2dw2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ftnfcui26lraoklr45aozc43gv6nhxtc8fevwv5.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fvo9nod1iseihg9qdmia0s6bj5erkb3zdlrpew9.webp&w=1600&h=900&f=webp"
+    ]
+}

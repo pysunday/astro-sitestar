@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/dynamic-all-in-one-portfolio/",
+    "name": "dynamic-all-in-one-portfolio",
+    "title": "Dynamic all-in-one portfolio",
+    "desc": "Meticulously Crafted Portfolio â Designed for Dynamic Printing",
+    "article": "<p>I <strong>curated</strong> and <strong>combined</strong> the best portfolio ideas from across the web to create a visually stunning yet lightweight <strong>UI</strong>. The design prioritizes aesthetics without overloading scripts, ensuring a smooth user experience. As a bonus, thereâs a hidden <strong>Neovim</strong> Mode for the geeks to <u>enjoy</u>.</p>",
+    "typeUrl": "https://github.com/ArielFalcon/portfolio",
+    "liveUrl": "https://www.arielfalcon.me/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/ArielFalcon/portfolio",
+        "name": "portfolio",
+        "full_name": "ArielFalcon/portfolio",
+        "description": "My professional portfolio",
+        "stargazers_count": 48,
+        "created_at": "2025-01-07T08:01:21Z",
+        "updated_at": "2025-08-01T10:31:23Z",
+        "pushed_at": "2025-08-01T10:31:19Z",
+        "git_url": "git://github.com/ArielFalcon/portfolio.git",
+        "ssh_url": "git@github.com:ArielFalcon/portfolio.git",
+        "clone_url": "https://github.com/ArielFalcon/portfolio.git",
+        "homepage": "https://www.arielfalcon.me"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ferifyygj9oslxz4st8d5yv5yjio1of9pzxkvca.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Felgyc47zplywri5e3e9gxhrxtfzymztnnvea2g.webp&w=1600&h=900&f=webp"
+    ]
+}

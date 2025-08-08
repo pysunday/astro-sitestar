@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/superweb-barebones/",
+    "name": "superweb-barebones",
+    "title": "SuperWeb Barebones",
+    "desc": "A default starter template for Astro + Tailwind CSS. Sitemap, RSS feed, and Open Graph protocol support included. Zero frameworks and minimal styling.",
+    "article": "<p>Welcome to Barebones, an open source template for <a href=\"https://astro.build/\">Astro</a> designed for simplicity and flexibility. Whether you're a seasoned developer or just starting out, Barebones provides everything you need to kickstart your next blog with minimal setup.</p><p><br/></p><p>Head over to the <a href=\"https://github.com/superwebthemes/barebones\" rel=\"nofollow ugc\">repository</a> and check out our <a href=\"https://barebones.superwebthemes.com\" rel=\"nofollow ugc\">documentation</a> to get started.</p><h2>Key features</h2><ul><li><strong>Batteries included:</strong> Get started immediately with a ready-to-use setup. Start writing right away, no extensive configuration required.</li><li><strong>Fast by default:</strong> Leverage the power of Astro, Tailwind CSS, and Markdown to create fast, lightweight web pages.</li><li><strong>Extensible and customizable:</strong> Perfect foundation to build upon and meet your unique needs.</li><li><strong>SEO-friendly:</strong> Sitemap, RSS feeds, and Open Graph protocol support out of the box.</li><li><strong>Best practices:</strong> Follows industry best practices for development, ensuring high-quality, maintainable code.</li><li><strong>Accessible:</strong> Dark and light mode support, keyboard navigation, and semantic HTML. Fully compliant with WCAG standards.</li><li><strong>Free and open source:</strong> Join the community and contribute to make this project even better!</li></ul><h2>Core Web Vitals</h2><p>Performance: <strong>100</strong></p><p>Accessibility: <strong>100</strong></p><p>Best Practices: <strong>100</strong></p><p>SEO: <strong>100</strong></p><h2>Further reading</h2><p>Read the <a href=\"https://docs.superwebthemes.com\" rel=\"nofollow ugc\">documentation for Barebones</a>, join our <a href=\"https://discord.gg/V5MCBCsAjJ\" rel=\"nofollow ugc\">Discord server</a>, or find us on X (Twitter) at <a href=\"https://x.com/superwebthemes\" rel=\"nofollow ugc\">@superwebthemes</a>.</p><h2>Styled examples</h2><p>If you're interested in predesigned websites built with Barebones, check out <a href=\"https://superwebthemes.com\" rel=\"nofollow ugc\"><strong>SuperWeb Themes</strong></a> â a variety of expertly designed Barebones examples by us.</p>",
+    "typeUrl": "https://github.com/superwebthemes/barebones",
+    "liveUrl": "https://barebones.superwebthemes.com",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/trevortylerlee/barebones",
+        "name": "barebones",
+        "full_name": "trevortylerlee/barebones",
+        "description": "Welcome to Barebones, an ultra minimalistic Astro + Tailwind CSS starter template.",
+        "stargazers_count": 43,
+        "created_at": "2024-08-13T22:40:45Z",
+        "updated_at": "2025-07-29T16:20:30Z",
+        "pushed_at": "2025-07-24T05:27:03Z",
+        "git_url": "git://github.com/trevortylerlee/barebones.git",
+        "ssh_url": "git@github.com:trevortylerlee/barebones.git",
+        "clone_url": "https://github.com/trevortylerlee/barebones.git",
+        "homepage": "https://barebones.superwebthemes.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fdvv2fob5bcp4r7lywgo9ivrdfhv2fsd9jcjyot.webp&w=1600&h=900&f=webp"
+    ]
+}

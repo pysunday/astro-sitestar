@@ -1,0 +1,17 @@
+{
+    "url": "https://astro.build/themes/details/darkrise-astro/",
+    "name": "darkrise-astro",
+    "title": "Darkrise Astro",
+    "desc": "DarkRise is a high-performance Astro theme for SaaS and startups. Its sleek design and flexible layout options let you create stunning websites quickly and easily. Enjoy blazing-fast load times and captivate your audience.",
+    "article": "<h2>Features:</h2><ul><li>Google PageSpeed Score 100/100 (Desktop)</li><li>Highly customizable (Color, Font, Menu, Social Links, SEO Meta Tags, etc.)</li><li>10+ Unique Pages</li><li>Built with Astro v5 and Tailwind CSS v4</li><li>Netlify &amp; Vercel Configured</li><li>Google Map integrated</li><li>Search Feature</li><li>Taxonomy support</li><li>Contact form support</li><li>Disqus Comments available</li><li>Support OG image</li><li>Fully responsive on desktops, tablets, and smartphones</li><li>SEO Friendly</li><li>Clean folder structure</li><li>Simple and easy development environment setup</li><li>Free Update and Lifetime Priority Support</li><li>Detail Documentation.</li></ul><h2>Pages:</h2><ol><li><strong>Home</strong></li><li><strong>Feature</strong></li><li><strong>Pricing</strong></li><li><strong>About</strong></li><li><strong>Integration</strong></li><li><strong>Changelog</strong></li><li><strong>Blog</strong></li><li><strong>Contact</strong></li><li><strong>Privacy Policy</strong></li><li><strong>Terms &amp; Conditions</strong></li><li><strong>404</strong></li></ol><h2>Special Features</h2><ol><li><strong>Mega Menu</strong></li><li><strong>AOS Animation</strong></li></ol><p><br/></p><h2>Some Packages Version</h2><ol><li><strong>Astro</strong>: 4.13.3</li><li><strong>Tailwind CSS</strong>: 3.4.8</li><li><strong>Typescript</strong>: 5.5.3</li></ol><p><br/></p>",
+    "typeUrl": "https://themefisher.com/products/darkrise-astro?aff=ab",
+    "liveUrl": "https://darkrise-astro.vercel.app/?aff=ab",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fygc9y9vdies2lmf1cheqk0em6l9qvz9t4aj3o8.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fftbo840condz9dh7q2ovq4l61pmn7fq1kdqoql.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fozoydwvd7rckoxupg94gr1m3ucw4tt9jafr3m9.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fsltb6ocxyulputgmgys3lf3ao7986429ey0d99.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fxnrsogwcmt1l2xy3771w4t39zqqa2p6g91cxyj.webp&w=1600&h=900&f=webp"
+    ]
+}

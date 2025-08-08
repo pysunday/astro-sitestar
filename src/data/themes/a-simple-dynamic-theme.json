@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/a-simple-dynamic-theme/",
+    "name": "a-simple-dynamic-theme",
+    "title": "A simple dynamic theme",
+    "desc": "A simple Astro blog theme. It supports responsive layout and dark mode, and uses the motion framework to make the interface dynamic.",
+    "article": "<p>A <strong>simple</strong> Astro blog theme.</p><p>Supports <strong>responsive layout</strong> and <strong>dark mode</strong>.</p><p>Uses motion framework to make the interface <strong>dynamic</strong>.</p><p>Supports <strong>\"Back to Top\" button</strong>.</p><p>Supports reading blog <strong>subtitles</strong>.</p><p>Supports <strong>one-click copy of blog code</strong>.</p><p>Supports <strong>customize friendly links</strong>.</p>",
+    "typeUrl": "https://github.com/LuoYuXuanRyan/radish_garden",
+    "liveUrl": "https://luoyuxuanryan.pages.dev/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/LuoYuXuanRyan/radish_garden",
+        "name": "radish_garden",
+        "full_name": "LuoYuXuanRyan/radish_garden",
+        "description": "A simple astro blog theme template, easy to config.",
+        "stargazers_count": 8,
+        "created_at": "2024-10-26T05:50:12Z",
+        "updated_at": "2025-06-29T05:09:24Z",
+        "pushed_at": "2025-05-19T07:12:48Z",
+        "git_url": "git://github.com/LuoYuXuanRyan/radish_garden.git",
+        "ssh_url": "git@github.com:LuoYuXuanRyan/radish_garden.git",
+        "clone_url": "https://github.com/LuoYuXuanRyan/radish_garden.git",
+        "homepage": "https://luoyuxuanryan.pages.dev"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fu0v12weryqo8jene903f4h68jcst2vhpaedp8k.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F9mnox3bpfbzatstuxkhdm2dk1z1ofqz20em803.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fmu1m62izcqnabfl53tqr8rasc04sjzj8sky6ai.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Frwvjwdrjbigr45m9slta0n9ug0sxfidc5c68n3.webp&w=1600&h=900&f=webp"
+    ]
+}

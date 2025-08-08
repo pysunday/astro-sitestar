@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/minted-directory/",
+    "name": "minted-directory",
+    "title": "Minted Directory",
+    "desc": "Theme for creating static directory websites fast that are SEO optimized. Use markdown and front-matter data for listings.",
+    "article": "<h2>What Is This Theme For:</h2><p>This template makes it <strong>easy and free to start a directory website with good SEO.</strong></p><h2>What Is A Directory Website:</h2><p>A directory website curates a list of links or resources related to a specific niche. The purpose is to help visitors easily find businesses, products, locations, or other relevant content.</p><p>Popular ways to monetize directory websites include:</p><ul><li>Selling promoted spots.</li><li>Using affiliate links.</li><li>Displaying ads.</li></ul><p>Success in these strategies requires attracting a significant amount of visitors, depending on your niche. Effective marketing through SEO and organic social media content is essential.</p><h2>Features Included:</h2><p>The theme includes the features:</p><ul><li>Add Listings with markdown.</li><li>SEO optimizations and pSEO out of the box</li><li>Pre-built components for directories.</li><li>Customizable style.</li><li>Dark/Light mode</li><li>Sponsored Content</li><li>Emoji favicon</li></ul><h2>Example:</h2><p>This is a completed example website using the theme:</p><p><a href=\"https://bestmeditationapps.com\" rel=\"nofollow ugc\">bestmeditationapps</a></p>",
+    "typeUrl": "https://github.com/masterkram/minted-directory-astro",
+    "liveUrl": "https://minted-directory-astro.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/masterkram/minted-directory-astro",
+        "name": "minted-directory-astro",
+        "full_name": "masterkram/minted-directory-astro",
+        "description": "Markdown driven directory template. Built with Astro and Tailwindcss. Optimized for SEO. Beautiful Customizable Style",
+        "stargazers_count": 118,
+        "created_at": "2024-10-15T21:09:01Z",
+        "updated_at": "2025-08-01T07:42:23Z",
+        "pushed_at": "2025-04-02T13:15:16Z",
+        "git_url": "git://github.com/masterkram/minted-directory-astro.git",
+        "ssh_url": "git@github.com:masterkram/minted-directory-astro.git",
+        "clone_url": "https://github.com/masterkram/minted-directory-astro.git",
+        "homepage": "https://minteddirectory.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fdfhwteumw1voheal7usa38r7mr952c1vfnn16l.webp&w=1600&h=900&f=webp"
+    ]
+}

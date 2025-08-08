@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-milidev/",
+    "name": "astro-milidev",
+    "title": "Astro Milidev",
+    "desc": "a minimalistic portfolio+blog Astro theme",
+    "article": "<p>It originates from <a href=\"https://github.com/trevortylerlee\" rel=\"nofollow ugc\">Trevor Lee</a>'s <a href=\"https://astro-micro.vercel.app/\" rel=\"nofollow ugc\">Astro Micro</a> theme, which is based on <a href=\"https://github.com/markhorn-dev\" rel=\"nofollow ugc\">Mark Horn</a>'s <a href=\"https://astro-nano-demo.vercel.app/\" rel=\"nofollow ugc\">Astro Nano</a> (after \"nano\" and \"micro\" comes \"mili\", hence the first part of the name).</p><p>Astro Milidev enhances the above codebases with a variety of features. I customized the original theme for my personal website, and also refactored core parts of the code, making it more customizable and extensible.</p><p>The changelog is available in this post: <a href=\"https://bartoszlenar.github.io/astro-milidev/blog/everything-new-in-astro-milidev\" rel=\"nofollow ugc\">Everything new in Astro Milidev</a>. Another post <a href=\"https://bartoszlenar.github.io/astro-milidev/blog/getting-started\" rel=\"nofollow ugc\">Getting started</a> explains the configuration process step by step. </p><p>The code is MIT-licensed and available on <a href=\"https://github.com/bartoszlenar/astro-milidev\" rel=\"nofollow ugc\">GitHub</a>.</p>",
+    "typeUrl": "https://github.com/bartoszlenar/astro-milidev",
+    "liveUrl": "https://bartoszlenar.github.io/astro-milidev",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/bartoszlenar/astro-milidev",
+        "name": "astro-milidev",
+        "full_name": "bartoszlenar/astro-milidev",
+        "description": "Astro Milidev is a minimalistic portfolio+blog Astro theme.",
+        "stargazers_count": 16,
+        "created_at": "2024-12-26T09:55:55Z",
+        "updated_at": "2025-07-22T20:04:41Z",
+        "pushed_at": "2025-02-11T21:43:06Z",
+        "git_url": "git://github.com/bartoszlenar/astro-milidev.git",
+        "ssh_url": "git@github.com:bartoszlenar/astro-milidev.git",
+        "clone_url": "https://github.com/bartoszlenar/astro-milidev.git",
+        "homepage": "https://bartoszlenar.github.io/astro-milidev/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F9iusb7vtxsjhd2sero1scgzzxamso4st3gumv3.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://astro.build/themes/details/spark/",
+    "name": "spark",
+    "title": "Spark",
+    "desc": "A powerful multilingual Astro starter theme featuring Alpine.js, MDX, sitemap generation, and Tailwind for rapid, responsive, and dynamic web development.",
+    "article": "<p>This Astro starter theme is designed for developers looking to create fast, multilingual websites with ease. </p><p><br/></p><p>Built with Alpine.js for lightweight interactivity, MDX for content-driven components, and Tailwind for customizable and responsive design. It also includes built-in sitemap generation, making it SEO-friendly and ready for production. </p><p><br/></p><p>So, whether you're building a blog, a portfolio, or a complex site, this theme offers flexibility and performance, all while supporting multiple languages.</p>",
+    "typeUrl": "https://github.com/Ruben-Winant/astro_spark_template",
+    "liveUrl": "https://spark.rubenwinant.be/en",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Ruben-Winant/astro_spark_template",
+        "name": "astro_spark_template",
+        "full_name": "Ruben-Winant/astro_spark_template",
+        "description": null,
+        "stargazers_count": 11,
+        "created_at": "2024-06-05T22:43:08Z",
+        "updated_at": "2025-07-01T08:19:27Z",
+        "pushed_at": "2024-09-26T18:38:38Z",
+        "git_url": "git://github.com/Ruben-Winant/astro_spark_template.git",
+        "ssh_url": "git@github.com:Ruben-Winant/astro_spark_template.git",
+        "clone_url": "https://github.com/Ruben-Winant/astro_spark_template.git",
+        "homepage": "https://astro-spark-template.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fbbv8syfuuvfco6seuy6dzconekmwf8sxg8vfim.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fati1bm18vf0v0njngt9a87606xeh0npbh3cjv8.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fumjtmljy22gtl2r47pw0yqf38vgbjnfirsxe0f.webp&w=1600&h=900&f=webp"
+    ]
+}

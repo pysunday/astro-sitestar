@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/foxi/",
+    "name": "foxi",
+    "title": "Foxi",
+    "desc": "Free Template with superb performance and amazing design, perfect for startups and SaaS websites, built with Astro & Tailwind CSS.",
+    "article": "<p><strong>Foxi</strong> is a free, highly customizable, and production-ready template for Astro, utilizing Tailwind CSS components. Designed with developers in mind, Foxi offers a solid foundation for building modern, high-performance websites quickly and efficiently.</p><h3><strong>Last Updated</strong></h3><p>June 04, 2025 </p><h3><strong>Pro Version</strong></h3><p><strong>Foxi Pro</strong> builds upon the solid foundation of the free Foxi template, enhancing it with 20+ pre-designed pages and 30+ reusable components, offering advanced features like multilingual support, seamless content management with Keystatic CMS, stunning visuals including sliders and animations, and enhanced navigation tools like a Mega Menu. Packed with SEO optimizations, integrated analytics, and both light and dark mode support, Foxi Pro is the perfect solution for your productivity toolkit.</p><p><a href=\"https://astro.build/themes/details/foxi-pro/\">View Foxi Pro</a> | <a href=\"https://foxi-pro.netlify.app/\" rel=\"nofollow ugc\">View Foxi Pro live Demo</a></p><h3><strong>Features</strong></h3><ul><li><strong>Perfect Scores in PageSpeed Insights</strong>:<strong> </strong>Achieve perfect 100s for both desktop and mobile performance.</li><li><strong>Built with Tailwind CSS</strong>: Powered by Tailwind CSS for rapid UI development and responsive design.</li><li><strong>Light &amp; Dark Mode Support</strong>: Seamlessly switch between light and dark themes to suit user preferences.</li><li><strong>Modular Design</strong>: Mix and match content blocks effortlessly to create custom pages tailored to your needs.</li><li><strong>Fully Responsive &amp; Customizable</strong>: Ensure your site looks great on any device, with easy customization to match your brandâs identity.</li><li><strong>SEO-friendly</strong>: Optimized for search engines to improve visibility and organic traffic.</li><li><strong>Pre-designed Pages</strong>: Includes a variety of pages such as Home, Pricing, Features, Contact, and more, to get you started quickly.</li><li><strong>Blog with MDX Support &amp; Tags</strong>: Create dynamic blog content with Markdown and JSX, complete with tagging for better organization.</li><li><strong>Easy Updates with JSON Files</strong>: Simplify content management and updates using structured JSON files.</li><li><strong>Page Loading &amp; Transition Animations</strong>: Enhance user experience with smooth loading and transition effects.</li><li><strong>Clean Code &amp; Folder Structure</strong>: Maintain a well-organized codebase thatâs easy to navigate and extend.</li><li><strong>Heroicons by Tailwind</strong>: Access a wide range of high-quality icons to use across your site.</li><li><strong>Built-in Contact Form</strong>: Ready-to-use contact form included.</li><li><strong>Utilizes WindUI Components</strong>: Integrates optional WindUI TailwindCSS components.</li><li><strong>Modular Design</strong>: The template is organized into reusable blocks enabling easy customization and expansion.</li><li><strong>Integrated Analytics:</strong> Includes integrated Google Analytics and Google Tag Manager functionalities.</li><li><strong>Sitemap XML:</strong> Includes a ready-made sitemap XML for search engine indexing.</li></ul><h3><strong>Want Custom Features? </strong></h3><p>Get in touch with us for any customization needs or inquiries. Contact us through email at <a href=\"mailto:info@oxygenna.com\" rel=\"nofollow ugc\">info@oxygenna.com</a> or join our community on <a href=\"https://discord.gg/YC5Eup8ZEx\" rel=\"nofollow ugc\">Discord</a>!</p>",
+    "typeUrl": "https://github.com/oxygenna-themes/foxi-astro-theme",
+    "liveUrl": "https://foxi.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/oxygenna-themes/foxi-astro-theme",
+        "name": "foxi-astro-theme",
+        "full_name": "oxygenna-themes/foxi-astro-theme",
+        "description": "Foxi is an Astro theme crafted with Tailwind CSS, designed for blazing-fast performance and seamless user experience. Perfect for creating modern, responsive SaaS websites with minimal effort.",
+        "stargazers_count": 202,
+        "created_at": "2024-07-01T13:17:06Z",
+        "updated_at": "2025-08-02T12:26:56Z",
+        "pushed_at": "2025-06-30T07:06:47Z",
+        "git_url": "git://github.com/oxygenna-themes/foxi-astro-theme.git",
+        "ssh_url": "git@github.com:oxygenna-themes/foxi-astro-theme.git",
+        "clone_url": "https://github.com/oxygenna-themes/foxi-astro-theme.git",
+        "homepage": "https://foxi.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fvaov1ubkyi3pxwdli4cche51g56zgrtdbsa287.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fsybz192tyq9uxo4r2y3ofq8g0b71vc2yp2upft.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fapud6lyyw2au6d302c4moje08t3zq741kfysup.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F4wrw8gkmxtsu3m29t4a8kxar3tnytwvx0671lz.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ffvhz5b02w21bbne3mi5l8p6tv2k6lurpheuh46.webp&w=1600&h=900&f=webp"
+    ]
+}

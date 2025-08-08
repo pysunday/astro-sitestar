@@ -1,0 +1,29 @@
+{
+    "url": "https://astro.build/themes/details/low-power-blog/",
+    "name": "low-power-blog",
+    "title": "Low Power Blog",
+    "desc": "A minimalist blog template focused on energy efficiency and low-power computing. Built with Astro and designed to be lightweight and performant.",
+    "article": "<h2>Low Power Blog</h2><p>A minimalist blog template focused on energy efficiency and low-power computing. Built with Astro and designed to be lightweight and performant.</p><h2>Features</h2><p><br/></p><ul><li>Minimalist monochrome design</li><li>Lightweight and fast loading</li><li>Content collections for blog posts and pages</li><li>Tag system for content organization</li><li>Responsive grid layout</li><li>Energy-efficient grayscale images</li><li>Used astro-imagetools</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/temaprint/eco",
+    "liveUrl": "https://eco.temaprint.com",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/temaprint/eco",
+        "name": "eco",
+        "full_name": "temaprint/eco",
+        "description": "A minimalist blog template focused on energy efficiency and low-power computing. Built with Astro and designed to be lightweight and performant.",
+        "stargazers_count": 13,
+        "created_at": "2025-03-11T14:26:38Z",
+        "updated_at": "2025-07-22T20:44:10Z",
+        "pushed_at": "2025-03-18T07:22:27Z",
+        "git_url": "git://github.com/temaprint/eco.git",
+        "ssh_url": "git@github.com:temaprint/eco.git",
+        "clone_url": "https://github.com/temaprint/eco.git",
+        "homepage": "https://eco.temaprint.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fitzm3tc0c14foukb6gssbw62ygrq7qvckkzo00.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fxyszd23l4jvk5q9o85duw1on7v2ycpql9ono1i.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fmztfvnaew0flmtsklm6b7rodtxs0gsub1nsxb1.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/i18n-starter/",
+    "name": "i18n-starter",
+    "title": "i18n Starter",
+    "desc": "i18n Starter is a simple Astro theme for creating multilingual websites.",
+    "article": "<p>It supports<a href=\"https://docs.astro.build/en/guides/internationalization/\"> i18n routing in Astro v4.0</a>.</p><p><br/></p><h2>Features</h2><ul><li>Support for Astro's official i18n functionality</li><li>Various methods for managing multilingual pages</li><li>Vanilla CSS</li><li>SEO-friendly</li></ul>",
+    "typeUrl": "https://github.com/psephopaiktes/astro-i18n-starter",
+    "liveUrl": "https://astro-i18n-starter.pages.dev/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/psephopaiktes/astro-i18n-starter",
+        "name": "astro-i18n-starter",
+        "full_name": "psephopaiktes/astro-i18n-starter",
+        "description": "A minimal i18n astro theme",
+        "stargazers_count": 115,
+        "created_at": "2024-05-25T06:35:35Z",
+        "updated_at": "2025-08-04T14:42:38Z",
+        "pushed_at": "2025-04-18T07:24:17Z",
+        "git_url": "git://github.com/psephopaiktes/astro-i18n-starter.git",
+        "ssh_url": "git@github.com:psephopaiktes/astro-i18n-starter.git",
+        "clone_url": "https://github.com/psephopaiktes/astro-i18n-starter.git",
+        "homepage": "https://astro-i18n-starter.pages.dev"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fyhpsk12hvh191am0e5p70dvsr1g0xoq9znybzd.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fab124txi13nezlg334bi4knissgoofplcnv3we.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F2v2hjh0vgjc2m6gfc7qtdliq16isfriqhv4j71.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fz4uhyim1e82kg4y83rqtonkttu90ie7gmbp4ta.webp&w=1600&h=900&f=webp"
+    ]
+}

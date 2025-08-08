@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/freedom-stack-full-stack-starter-kit/",
+    "name": "freedom-stack-full-stack-starter-kit",
+    "title": "Freedom Stack - Full-stack Starter Kit",
+    "desc": "An Astro-based full-stack starter kit that feels freeing, and is free.",
+    "article": "<p>Freedom Stack is a full-stack boilerplate designed to simplify web development by integrating various tools and frameworks. It emphasizes an HTML-first approach, aiming to make development approachable, efficient, and cost-effective.</p><p><strong>Key Components:</strong></p><ul><li><strong>UI Layer:</strong></li><li>Astro: A straightforward web meta-framework.</li><li>Tailwind CSS: Utility-first CSS framework for styling.</li><li>Preline UI and Daisy UI: Tailwind-based component libraries.</li><li>Lucide Icons: A versatile icon library.</li><li><strong>Interactivity Layer:</strong></li><li>TypeScript: Ensures type safety.</li><li>AlpineJS: Manages state and interactivity.</li><li>HTMX: Facilitates HTML partials/snippets over the wire.</li><li><strong>Backend Data Layer:</strong></li><li>Astro DB: A managed SQL database that's fast and easy to use.</li><li>Drizzle ORM: Simplifies database interactions without requiring SQL syntax knowledge.</li><li>Better Auth: Provides in-house authentication services.</li></ul><p><strong>Vision and Principles:</strong></p><p>The project aspires to offer a lightweight, intuitive web development stack that minimizes maintenance and server costs. Its core principles include:</p><ul><li><strong>Approachability:</strong> Designed for developers of all levels, emphasizing intuitive database management and reducing boilerplate code.</li><li><strong>Flow:</strong> Promotes an HTML-first methodology, focusing on the DOM layer for styling, structuring, and interactivity.</li><li><strong>Affordability:</strong> Aims to be financially sustainable, especially for indie developers and startups, by leveraging tools with generous free tiers.</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/cameronapak/freedom-stack",
+    "liveUrl": "https://freedom.faith.tools/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/cameronapak/freedom-stack",
+        "name": "freedom-stack",
+        "full_name": "cameronapak/freedom-stack",
+        "description": "A full-stack Astro starter kit that feels freeing and is free. Ready for use, and even better when using Cursor's IDE.",
+        "stargazers_count": 172,
+        "created_at": "2024-02-17T05:23:33Z",
+        "updated_at": "2025-08-04T15:17:50Z",
+        "pushed_at": "2025-07-21T11:30:58Z",
+        "git_url": "git://github.com/cameronapak/freedom-stack.git",
+        "ssh_url": "git@github.com:cameronapak/freedom-stack.git",
+        "clone_url": "https://github.com/cameronapak/freedom-stack.git",
+        "homepage": "https://freedom.faith.tools"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Faiw5h7zbuqqp1vnn55sv3onelop7yhdyjy82qz.webp&w=1600&h=900&f=webp"
+    ]
+}

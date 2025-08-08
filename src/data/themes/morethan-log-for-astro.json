@@ -1,0 +1,29 @@
+{
+    "url": "https://astro.build/themes/details/morethan-log-for-astro/",
+    "name": "morethan-log-for-astro",
+    "title": "Morethan-Log for Astro",
+    "desc": "A modern, customizable blog template built with Astro. Features i18n support, dark mode, full-text search, PWA capabilities, and SEO optimization. Inspired by the popular morethan-log template for Next.js. Fork and start blogging in minutes!",
+    "article": "<p>I loved the original <a href=\"https://github.com/morethanmin/morethan-log\" rel=\"nofollow ugc\"><strong>morethan-log</strong></a> Next.js template so much that I ported it to Astro for my own site, <a href=\"https://sereja.com/\" rel=\"nofollow ugc\"><strong>sereja.com</strong></a> - and open-sourced the result as <a href=\"https://github.com/JustSereja/morethan-log-astro\" rel=\"nofollow ugc\"><strong>morethan-log-astro</strong></a> so fellow Astro fans can spin up a blazing-fast blog with the same clean design in seconds.</p>",
+    "typeUrl": "https://github.com/JustSereja/morethan-log-astro",
+    "liveUrl": "https://morethan-log-astro.sereja.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/JustSereja/morethan-log-astro",
+        "name": "morethan-log-astro",
+        "full_name": "JustSereja/morethan-log-astro",
+        "description": "A modern, customizable blog template built with Astro. Features i18n support, dark mode, full-text search, PWA capabilities, and SEO optimization. Inspired by the popular morethan-log template for Next.js. Fork and start blogging in minutes!",
+        "stargazers_count": 1,
+        "created_at": "2025-07-29T22:01:43Z",
+        "updated_at": "2025-08-04T19:37:18Z",
+        "pushed_at": "2025-08-04T19:37:32Z",
+        "git_url": "git://github.com/JustSereja/morethan-log-astro.git",
+        "ssh_url": "git@github.com:JustSereja/morethan-log-astro.git",
+        "clone_url": "https://github.com/JustSereja/morethan-log-astro.git",
+        "homepage": "https://morethan-log-astro.sereja.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fkylr710hl3yjrietmoy922sff9wdusfnrj8izf.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F2r0b54bbdbtedsz0ixa0tcgknyjiuocsr72qpy.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fbk7fsenlj4r9z73gr8i6edgr84rt9u1h5mahn9.webp&w=1600&h=900&f=webp"
+    ]
+}

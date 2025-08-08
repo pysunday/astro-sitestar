@@ -1,0 +1,29 @@
+{
+    "url": "https://astro.build/themes/details/neon-mint/",
+    "name": "neon-mint",
+    "title": "NeonMint",
+    "desc": "Is a modern, minimalist template crafted for developers and digital creatives.",
+    "article": "<h2><strong>NeonMint - Quick Guide</strong></h2><h2><strong>ð¯ What is it?</strong></h2><p>NeonMint is a modern and minimalist template with a dark aesthetic and mint green accents. Perfect for portfolios, dashboards, or tech landing pages.</p><h2><strong>ð ï¸ Technology Stack</strong></h2><p>Framework: Astro v5.6.1</p><p>UI Library: Preact v10.26.2</p><p>Styling: TailwindCSS v4.0.8</p><p>Icons: astro-icon v1.1.5</p><p>Syntax Highlighting: PrismJS v1.30.0</p><p>Animations: tailwindcss-animated v2.0.0</p><p>Analytics: @vercel/speed-insights v1.2.0</p><p><br/></p><h2><strong>â¨ Features</strong></h2><p>Static site, fast loading</p><p>Modern styling with Tailwind</p><p>Dark mode</p><p>TypeScript support</p><p>Built-in analytics and SEO tools</p>",
+    "typeUrl": "https://github.com/EFEELE/NeonMint",
+    "liveUrl": "https://neonmint.efeele.dev",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/EFEELE/NeonMint",
+        "name": "NeonMint",
+        "full_name": "EFEELE/NeonMint",
+        "description": "is a modern, minimalist web template created for developers, designers, and digital creatives. This project aims to offer an elegant and functional visual experience, combining a dark-toned aesthetic with mint green accents to highlight content without distractions.",
+        "stargazers_count": 82,
+        "created_at": "2025-04-07T20:41:27Z",
+        "updated_at": "2025-08-07T14:19:55Z",
+        "pushed_at": "2025-07-22T07:32:14Z",
+        "git_url": "git://github.com/EFEELE/NeonMint.git",
+        "ssh_url": "git@github.com:EFEELE/NeonMint.git",
+        "clone_url": "https://github.com/EFEELE/NeonMint.git",
+        "homepage": "https://neonmint.efeele.dev/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fyhor4ijqd08fnzu7d7gg40i947rsqd3lqipmdw.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fpt26y6q2v8hm9qwv1xawo3ypx9qzp7pik9tgqy.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fa0npe49hvbb4uto4dqwc09n1tkuahm5tqm91ht.webp&w=1600&h=900&f=webp"
+    ]
+}

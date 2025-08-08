@@ -1,0 +1,17 @@
+{
+    "url": "https://astro.build/themes/details/qurno-astro/",
+    "name": "qurno-astro",
+    "title": "Qurno Astro",
+    "desc": "ð A minimal and feature-rich theme for your blog and personal website with clean and elegant look. \r\nIncluded TinaCMS (ready to use)",
+    "article": "<p>Minimal Blog theme made with MDX and TailwindCSS. It has all the required elements and features (like: Link Preview, Code Highlighting etc) to create a mobile ready blog website with amazing experience. Itâs support gallery and single image with zoom effect and it also has lot more elements to make a perfect blog site.</p><p><strong>Features:</strong></p><ul><li><strong>3 Homepage</strong> included personal homepage layout</li><li>Google PageSpeed â <strong>92</strong><em>(Mobile)</em><strong> </strong>â<strong> 100</strong><em>(Desktop)</em></li><li><strong>TinaCMS</strong> Included TinaCMS config (ready to use)</li><li><strong>TailwindCSS</strong> Made with TailwindCSS</li><li><strong>Layout</strong>: Minimal design with 3 Homepage Layout</li><li><strong>Post Layout</strong>: Adjust the Column of posts per Row</li><li><strong>Theme Switcher</strong>: Supports Dark and Light mode</li><li><strong>Search</strong>: Interactive Blog search</li><li><strong>Post Components</strong> Widely usable blog post components</li><li><strong>Tags &amp; Categories</strong>: Filter posts by Tags and Categories</li><li><strong>Archive</strong>: Archive posts by Year</li><li><strong>RSS Feed </strong>supports RSS feed</li><li><strong>Share Post</strong>: Share posts on social media</li><li><strong>Newsletter</strong>: Integrated Newsletter form with MailChimp</li><li><strong>Contact Form</strong>: works with (Airform, Formspree, Sheetmonkey and alternatives)</li><li><strong>Video</strong>: Supports Youtube, Vimeo and Self Hosted video</li><li><strong>Image &amp; Galley</strong>: Galley and single image with Zoom Preview</li><li><strong>404 Page</strong>: Custom 404 Page</li><li>Lifetime Free update</li><li>Cross Browser Compatibility</li><li>Helpful documentation</li><li>SEO friendly code</li><li>it has Privacy page</li><li>Valid code &amp; Mobile ready layout</li><li>Based on Astro v5.0.0</li></ul>",
+    "typeUrl": "https://platol.lemonsqueezy.com/buy/fd99fe19-d32e-44fb-a97f-c75935e4b784",
+    "liveUrl": "https://qurno-astro.vercel.app/?source=astro",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fwwjubg8ew0ghzmpz461ep97mc25mhpygtte1rv.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F6ebp68smi2srmmn63gsqt6v83dhdwwvbbhsb45.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fcgpgqnrcjazayq0kdpfrubjtiodmwnbgrqms6x.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F0iu5wgwe5x4mh2uldhvl81wmlt520yulyrgmbv.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fz0ro4rhb0niodwn3edd9ehi42djayraoxz2t8r.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://astro.build/themes/details/logbook-astro/",
+    "name": "logbook-astro",
+    "title": "Logbook Astro",
+    "desc": "Logbook Astro a minimalist theme for bloggers & writers with 16+ premium pages, clean design & Tailwind CSS for seamless online presence.",
+    "article": "<p><br/></p><h2>Key feature:</h2><ul><li>Google PageSpeed Score -/100 (Desktop)</li><li>Highly customizable (Color, Font, Menu, Social Links, SEO Meta Tags, etc.)</li><li>16+ Unique Pages</li><li>Built with Tailwind</li><li>Built with Astro v5 and Tailwind CSS v4</li><li>Netlify &amp; Vercel Configured</li><li>Google Map integrated</li><li>Search Feature</li><li>Taxonomy support</li><li>Contact form support</li><li>Disqus Comments available</li><li>Support OG image</li><li>Fully responsive on desktops, tablets, and smartphones</li><li>SEO Friendly</li><li>Clean folder structure</li><li>Simple and easy development environment setup</li><li>Free Update and Lifetime Premium Support</li><li>Detail Documentation.</li></ul><h2>Pages:</h2><ol><li>Blog Homepage Full Width</li><li>Blog Homepage Full with Left Sidebar</li><li>Blog Homepage Full with Right Sidebar</li><li>Blog Homepage List Style</li><li>Blog Homepage List with Left Sidebar</li><li>Blog Homepage List with Right Sidebar</li><li>Blog Homepage Grid Style</li><li>Blog Homepage Grid with Left Sidebar</li><li>Blog Homepage Grid with Right Sidebar</li><li>Blog Single</li><li>Element</li><li>Author</li><li>Category</li><li>Tag</li><li>Contact</li><li>About</li><li>404</li></ol><p><br/></p>",
+    "typeUrl": "https://themefisher.com/products/logbook-astro/?aff=ab",
+    "liveUrl": "https://logbook-astro.vercel.app/?aff=ab",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Feem2gy2umcskckzyr1t3yn4w5xbec1mc2vruso.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F2rvlhul8lm664vxnnnmtalfhrfhd5ewi3th3me.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fx4irrem8lcg4s6koykk9ej1p2qlmj9o3y8soec.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fusfmi085thhlwxqid62npc9lw4y41uja8p1j4i.webp&w=1600&h=900&f=webp"
+    ]
+}

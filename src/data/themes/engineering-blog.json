@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/engineering-blog/",
+    "name": "engineering-blog",
+    "title": "Engineering Blog",
+    "desc": "A template for creating engineering blogs with multiple authors, co-authoring, topics, search, and more.",
+    "article": "\n<p>\n  This free template serves as a starting point for engineering blogs with multiple contributors. It\n  allows for multiple authors, co-authoring blog posts, search functionality, blog drafts and more.\n</p>\n<p>\n  It has a simplistic design allowing so you can make some minor configuration changes (name,\n  website URL, etc.) and launch it. Or you can choose to make it completely your own.\n</p>\n<p>Here is the full list of features:</p>\n<p>â Easy configuration</p>\n<p>â Minimal styling (make it your own!)</p>\n<p>â 100/100 Lighthouse performance</p>\n<p>â SEO-friendly with canonical URLs and OpenGraph data</p>\n<p>â Uses astro:assets for optimized images</p>\n<p>â Sitemap support</p>\n<p>â RSS Feed support</p>\n<p>â Markdown &amp; MDX support</p>\n<p>â Search functionality</p>\n<p>â Author system</p>\n<p>â Multiple authors per post (co-authoring)</p>\n<p>â Topics</p>\n<p>â Blog pagination</p>\n<p>â Blog drafts</p>\n",
+    "typeUrl": "https://github.com/EddyVinck/astro-engineering-blog",
+    "liveUrl": "https://astro-engineering-blog.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/EddyVinck/astro-engineering-blog",
+        "name": "astro-engineering-blog",
+        "full_name": "EddyVinck/astro-engineering-blog",
+        "description": "A template for creating engineering blogs with multiple authors, co-authoring, topics, search, and more",
+        "stargazers_count": 41,
+        "created_at": "2023-04-11T12:34:10Z",
+        "updated_at": "2025-06-18T16:48:03Z",
+        "pushed_at": "2024-10-04T09:40:43Z",
+        "git_url": "git://github.com/EddyVinck/astro-engineering-blog.git",
+        "ssh_url": "git@github.com:EddyVinck/astro-engineering-blog.git",
+        "clone_url": "https://github.com/EddyVinck/astro-engineering-blog.git",
+        "homepage": "https://astro-engineering-blog.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fengineering-blog-hero.webp&w=1600&h=900&f=webp"
+    ]
+}

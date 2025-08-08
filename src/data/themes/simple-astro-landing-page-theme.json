@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/simple-astro-landing-page-theme/",
+    "name": "simple-astro-landing-page-theme",
+    "title": "Simple Astro Landing Page Theme",
+    "desc": "Simple Astro Landing Page Theme is... just that, a simple FREE, CUSTOMIZABLE, and PRODUCCTION-READY, Landing Page Theme build with Astro and Tailwind CSS.",
+    "article": "<h2>Simple Astro Landing Page Theme. A simple Landing Page built with Astro, TailwindCSS and TypeScript</h2><h3>Simple Astro Landing Page Theme is... just that, a simple FREE, CUSTOMIZABLE, and PRODUCCTION-READY, Landing Page Theme build with Astro and Tailwind CSS.</h3><h3>ð Features</h3><p>Simplicity and High Performance.</p><p><br/></p><p>-  â Astro 4.15</p><p>-  â TylwindCSS</p><p>-  â TypeScript</p><p>-  â Responsive</p><p>-  â SEO-friendly</p><p>-  â OG</p><p> \t-  â Description</p><p> \t-  â Image</p><h3>ð Project Structure</h3><p>Inside of your Simple Astro Landing Page project, you'll see the following folders and files:</p><p><br/></p><pre>/\r\nâââ public/\r\nâ  âââ img/\r\nâ    âââ img_00.jpg\r\nâ    âââ img_01.jpg\r\nâ  âââ favicon.svg\r\nâââ src/\r\nâ  âââ components/\r\nâ    âââ Footer.astro\r\nâ    âââ Hero.astro\r\nâ    âââ Section.astro\r\nâ  âââ pages/\r\nâ    âââ index.astro\r\nâ  âââ styles/\r\nâ    âââ global.css\r\nâ  âââ env.d.ts\r\nâââ .gitignore\r\nâââ astro.config.mjs\r\nâââ package.json\r\nâââ package-lock.json\r\nâââ tailwind.config.mjs\r\nâââ tsconfig.json\r\n</pre><p><br/></p><p>As a simple landing page, we only provide a single page which is going to be rendering the different components: Footer, Hero, and Section.</p><h3>ð§ Commands</h3><p>All commands are run from the root of the project, from a terminal:</p><p><br/></p><pre>| `npm install`             | Installs dependencies from package.json\r\n| `npm clean-install`       | Installs dependencies from package-lock.json (Recommended)\r\n| `npm run dev`             | Starts local dev server at `localhost:4321`\r\n| `npm run build`           | Build your production site to `./dist/`\r\n| `npm run preview`         | Preview your build locally, before deploying\r\n| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check`\r\n| `npm run astro -- --help` | Get help using the Astro CLI\r\n</pre><h3>â­ Feedback and bugs ð</h3><p>If you find any bug or just want to give your feedback (remember the â­ ^^), **Feel free to do it**. I am, like you, constantly learning and things change so quickly that... no one knows ^^</p><h3>Version control ð</h3><p>- <a href=\"https://github.com/Inushin/simpleAstroLandingPageTheme/tree/v1.0\" rel=\"nofollow ugc\">v1.0 - Current</a> - Creation of the rep with the theme finished</p><p><br/></p>",
+    "typeUrl": "https://github.com/Inushin/simpleAstroLandingPageTheme",
+    "liveUrl": "https://simpleastrolandingpagetheme.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Inushin/simpleAstroLandingPageTheme",
+        "name": "simpleAstroLandingPageTheme",
+        "full_name": "Inushin/simpleAstroLandingPageTheme",
+        "description": "A simple Landing Page built with Astro, TailwindCSS and TypeScript",
+        "stargazers_count": 2,
+        "created_at": "2024-09-14T14:23:48Z",
+        "updated_at": "2025-03-07T18:36:01Z",
+        "pushed_at": "2024-10-01T21:02:09Z",
+        "git_url": "git://github.com/Inushin/simpleAstroLandingPageTheme.git",
+        "ssh_url": "git@github.com:Inushin/simpleAstroLandingPageTheme.git",
+        "clone_url": "https://github.com/Inushin/simpleAstroLandingPageTheme.git",
+        "homepage": "https://simpleastrolandingpagetheme.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F7b6dgohciowaj94sme6blkksta3lscvndfd466.webp&w=1600&h=900&f=webp"
+    ]
+}

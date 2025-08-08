@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/aria/",
+    "name": "aria",
+    "title": "Aria",
+    "desc": "A personal blog, portfolio, or blog template",
+    "article": "",
+    "typeUrl": "https://github.com/ccbikai/astro-aria",
+    "liveUrl": "https://kai.bi/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/ccbikai/astro-aria",
+        "name": "astro-aria",
+        "full_name": "ccbikai/astro-aria",
+        "description": "A personal blog, portfolio, or blog template",
+        "stargazers_count": 296,
+        "created_at": "2024-05-13T08:30:05Z",
+        "updated_at": "2025-08-05T06:26:49Z",
+        "pushed_at": "2025-04-25T00:23:22Z",
+        "git_url": "git://github.com/ccbikai/astro-aria.git",
+        "ssh_url": "git@github.com:ccbikai/astro-aria.git",
+        "clone_url": "https://github.com/ccbikai/astro-aria.git",
+        "homepage": "https://kai.bi"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fyufeyjd8bk8d3iu7p24cbz5nt8kbi2rjcvf87m.webp&w=1600&h=900&f=webp"
+    ]
+}

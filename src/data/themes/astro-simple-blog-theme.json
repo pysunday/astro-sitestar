@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-simple-blog-theme/",
+    "name": "astro-simple-blog-theme",
+    "title": "Astro Simple Blog Theme",
+    "desc": "A simple blog is a simple blog theme for Astro 4.",
+    "article": "<h2><strong>Astro Simple blog theme</strong></h2><p>simple blog is a simple blog theme for <a href=\"https://docs.astro.build\">Astro</a>.</p><h3><strong>Credits</strong></h3><p>This theme is built upon a theme called <a href=\"https://github.com/10mohi6/hugo-theme-simple-blog\" rel=\"nofollow ugc\">simple-blog</a> for <a href=\"https://gohugo.io/\" rel=\"nofollow ugc\">hugo</a>. Full design credit goes to <a href=\"https://github.com/10mohi6\" rel=\"nofollow ugc\">10mohi6</a>.</p><h3><strong>Features</strong></h3><ul><li>content</li><li>view transitions</li><li>pagination</li><li>tags</li><li>categories</li></ul><h3>Site Configuration</h3><pre>{\r\n\r\n  \"site\": {\r\n\r\n    \"baseUrl\": \"/\",\r\n\r\n    \"language\": \"en\",\r\n\r\n    \"title\": \"Astro Themes\",\r\n\r\n    \"description\": \"&lt;your site description&gt;\",\r\n\r\n    \"copyright\": \"Â© 2024 copyright text.\"\r\n\r\n  },\r\n\r\n  \"memus\":[\r\n\r\n    {\r\n\r\n      \"identifier\": \"about\",\r\n\r\n      \"name\": \"About\",\r\n\r\n      \"url\": \"/about/\"\r\n\r\n    }\r\n\r\n  ],\r\n\r\n  \"settings\": {\r\n\r\n    \"pagination\": 6,\r\n\r\n    \"blog_folder\": \"posts\"\r\n\r\n  }\r\n\r\n}\r\n</pre><h3><strong>License</strong></h3><p>This template is [MIT](LICENSE) licensed.</p><p><br/></p>",
+    "typeUrl": "https://github.com/dofbi/astro-simple-blog-theme",
+    "liveUrl": "https://astro-simple-blog.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/dofbi/astro-simple-blog-theme",
+        "name": "astro-simple-blog-theme",
+        "full_name": "dofbi/astro-simple-blog-theme",
+        "description": "Porting simple-blog a simple blog theme for Hugo to Astro theme",
+        "stargazers_count": 21,
+        "created_at": "2022-05-01T00:01:50Z",
+        "updated_at": "2025-04-28T18:30:37Z",
+        "pushed_at": "2024-08-14T19:51:16Z",
+        "git_url": "git://github.com/dofbi/astro-simple-blog-theme.git",
+        "ssh_url": "git@github.com:dofbi/astro-simple-blog-theme.git",
+        "clone_url": "https://github.com/dofbi/astro-simple-blog-theme.git",
+        "homepage": "https://astro-simple-blog.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fqplvv6wq9sxa79zmizdy54jxmbronb1a6ti0fm.webp&w=1600&h=900&f=webp"
+    ]
+}

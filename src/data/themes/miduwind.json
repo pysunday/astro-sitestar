@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/miduwind/",
+    "name": "miduwind",
+    "title": "Miduwind",
+    "desc": "Newest open-source links page, customizable via JSON. Made with Astro 5 and Tailwind 4.",
+    "article": "<p>After the amazing reception of <a href=\"https://astrolinkhub.netlify.app/\" rel=\"nofollow ugc\">AstroLinkHub</a> I've decided to bring you an improved, modern and fully customizable link page. Inspired by the work of the talented <a href=\"https://midu.dev/\" rel=\"nofollow ugc\">Midudev</a> and his <a href=\"https://www.youtube.com/watch?v=R5EXap3vNDA\" rel=\"nofollow ugc\">Tailwind 2025 course</a>, I introduce you to <a href=\"https://miduwind.netlify.app/\" rel=\"nofollow ugc\">Miduwind</a>:</p><ul><li>Using Astro (v5.7) and Tailwind (v4.1)</li><li>Create your very own links page for FREE</li><li>And most importantly, update it very easily using JSON</li></ul>",
+    "typeUrl": "https://github.com/MarcosKlender/Miduwind",
+    "liveUrl": "https://miduwind.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/MarcosKlender/Miduwind",
+        "name": "Miduwind",
+        "full_name": "MarcosKlender/Miduwind",
+        "description": "Newest open-source links page, customizable via JSON. Made with Astro 5 and Tailwind 4.",
+        "stargazers_count": 0,
+        "created_at": "2025-05-09T16:49:00Z",
+        "updated_at": "2025-06-07T02:32:00Z",
+        "pushed_at": "2025-06-07T02:31:56Z",
+        "git_url": "git://github.com/MarcosKlender/Miduwind.git",
+        "ssh_url": "git@github.com:MarcosKlender/Miduwind.git",
+        "clone_url": "https://github.com/MarcosKlender/Miduwind.git",
+        "homepage": "https://miduwind.netlify.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fm3rby95ohinrtbjl3vsekk2isu743xz7v6m80d.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/ov-template/",
+    "name": "ov-template",
+    "title": "OV Template",
+    "desc": "Personal Blog & Portfolio: Empower Your Digital Presence.",
+    "article": "\n<p>\n  Introducing a versatile and free template designed for use with the latest Astro version. This\n  template boasts frequent updates, a user-friendly interface, and compatibility with various\n  purposes. Ideal for showcasing your portfolio, crafting blog articles, and sharing your personal\n  narrative. Unlock the potential to express yourself effortlessly with this template.\n</p>\n<h3>Features</h3>\n<ul>\n<li>Frequent updates</li>\n<li>Full Responsive, mobile friendly</li>\n<li>Modern UI designed from scratch</li>\n<li>About &amp; Portfolio page</li>\n</ul>\n",
+    "typeUrl": "https://github.com/vratskyi/vratskyi.github.io",
+    "liveUrl": "https://vratskyi.pages.dev/en/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/vratskyi/vratskyi.github.io",
+        "name": "vratskyi.github.io",
+        "full_name": "vratskyi/vratskyi.github.io",
+        "description": "Personal Blog & Portfolio",
+        "stargazers_count": 26,
+        "created_at": "2023-12-28T20:47:12Z",
+        "updated_at": "2025-07-08T13:02:54Z",
+        "pushed_at": "2024-03-08T01:42:06Z",
+        "git_url": "git://github.com/vratskyi/vratskyi.github.io.git",
+        "ssh_url": "git@github.com:vratskyi/vratskyi.github.io.git",
+        "clone_url": "https://github.com/vratskyi/vratskyi.github.io.git",
+        "homepage": "https://vratskyi.pages.dev/en/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fov-template-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fov-template-2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fov-template-3.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fov-template-4.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fov-template-5.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/blogsmith-free/",
+    "name": "blogsmith-free",
+    "title": "Blogsmith Free",
+    "desc": "A free blog theme with many features and utilities to jumpstart your website. Built with Astro v5 and Tailwind CSS v4.",
+    "article": "<p><em>Save weeks of time and get a blog up and running in a snap.</em></p><p>Blogsmith is the perfect way to showcase your writing and connect with your audience. It's built on Astro with Tailwind CSS for styling.</p><h2>Features</h2><ul><li>MDX blog</li><li>Incredibly easy navbar configuration</li><li>Admonition / Callout component</li><li>Blog posts pagination</li><li>Categories</li><li>Multiple author support</li><li>Relevant SEO metadata</li><li>View Transitions enabled</li><li>Built-in image optimization with astro:assets</li><li>Sitemap and RSS feed</li><li>Legal and other pages</li></ul><h2>Blogsmith Pro</h2><p>There is also a pro version with many additional features available which you can check out <a href=\"https://cosmicthemes.com/themes/blogsmith-pro/\" rel=\"nofollow ugc\">here</a></p>",
+    "typeUrl": "https://github.com/Boston343/blogsmithfree",
+    "liveUrl": "https://blogsmithfree.cosmicthemes.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Boston343/blogsmithfree",
+        "name": "blogsmithfree",
+        "full_name": "Boston343/blogsmithfree",
+        "description": "A free and open source blog template by Cosmic Themes. Built with Astro and Tailwind CSS.",
+        "stargazers_count": 12,
+        "created_at": "2024-10-20T06:38:22Z",
+        "updated_at": "2025-07-03T01:29:36Z",
+        "pushed_at": "2025-05-09T11:26:35Z",
+        "git_url": "git://github.com/Boston343/blogsmithfree.git",
+        "ssh_url": "git@github.com:Boston343/blogsmithfree.git",
+        "clone_url": "https://github.com/Boston343/blogsmithfree.git",
+        "homepage": "https://blogsmithfree.cosmicthemes.com/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fwi2ymp4l2ypeasqjwvpvurwcao4ckc3gmqoh0l.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fyeqolkkj3ropsag5tsdjrx95jk0jagcrvw3j1l.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fmoeauio7g0i06zy8ea7yv11qk41qwcltdip37e.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F2rhn28l99uvas4w3helg3vpymfvtplo0sfx2d6.webp&w=1600&h=900&f=webp"
+    ]
+}

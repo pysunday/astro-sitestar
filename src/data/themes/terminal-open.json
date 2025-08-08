@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/terminal-open/",
+    "name": "terminal-open",
+    "title": "Terminal Open",
+    "desc": "Terminal Open is a fully template website with a MacOS terminal interface, retrieving data and updating news quickly, allowing users to multitask without missing any interesting news.",
+    "article": "<p>Through the MacOS terminal interface, the website displays data collected and processed from RSS feeds, allowing real-time tracking.</p><p>This interface enables you to quickly update information and news from your favorite websites without directly accessing or processing RSS data.</p><p>To clone the `\\terminal-open` repository to your personal account, simply enter:</p><pre>gh repo clone nhavantuonglai/terminal-open\r\n</pre><p>Then, open the folder containing the project source code and run the following command to install the necessary node dependencies:</p><pre>npm install\r\n</pre><p>Once completed, proceed with the following command:</p><pre>npm run dev\r\n</pre><p>Next, access the following URL to view the website interface on your local machine (localhost) and update related content:</p><pre>http://localhost:4321/\r\n</pre><p>Contact information:</p><p>â Email: info@nhavantuonglai.com.</p><p>â Website: nhavantuonglai.com.</p><p>If you have any questions, need support, or wish to collaborate, do not hesitate to contact github/nhavantuonglai via email at info@nhavantuonglai.com for the quickest and most convenient connection.</p>",
+    "typeUrl": "https://github.com/nhavantuonglai/terminal-open",
+    "liveUrl": "https://terminal-open.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/nhavantuonglai/themes-terminal",
+        "name": "themes-terminal",
+        "full_name": "nhavantuonglai/themes-terminal",
+        "description": "Website hoàn thiện với giao diện terminal MacOS, lấy dữ liệu và cập nhật tin tức nhanh chóng, giúp người dùng làm việc đa nhiệm mà không bỏ lỡ bất kỳ tin tức thú vị nào.",
+        "stargazers_count": 2,
+        "created_at": "2025-02-13T09:41:22Z",
+        "updated_at": "2025-06-30T12:41:18Z",
+        "pushed_at": "2025-05-27T07:06:18Z",
+        "git_url": "git://github.com/nhavantuonglai/themes-terminal.git",
+        "ssh_url": "git@github.com:nhavantuonglai/themes-terminal.git",
+        "clone_url": "https://github.com/nhavantuonglai/themes-terminal.git",
+        "homepage": "https://banmaixanh.org/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fj9va3jnlj33iztf3doknr7fqsbml42n2cz80i2.webp&w=1600&h=900&f=webp"
+    ]
+}

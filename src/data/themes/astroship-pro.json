@@ -1,0 +1,17 @@
+{
+    "url": "https://astro.build/themes/details/astroship-pro/",
+    "name": "astroship-pro",
+    "title": "Astroship Pro",
+    "desc": "Astroship Pro is a SAAS, Startup Astro Website Template and Landing Page built with Astro & Tailwind CSS.",
+    "article": "\n<p>\n<strong>Astroship Pro</strong> is a pro version of the popular starter template <a href=\"https://astro.build/themes/details/astroship/\" rel=\"nofollow ugc\">Astroship</a>. Astroship Pro template can be used for SAAS, startups, marketing websites &amp; landing pages.\n  Built with Astro &amp; TailwindCSS. You can quickly create any website with this website template.\n</p>\n<h3>Features:</h3>\n<ul>\n<li>Pro Layouts &amp; Features</li>\n<li>10+ Pages Included</li>\n<li>Blog with Pagination Support</li>\n<li>Pricing with Comparison</li>\n<li>Features &amp; Integrations Page</li>\n<li>Responsive Navbar with Dropdown</li>\n<li>Working Contact form</li>\n<li>About &amp; Team Page</li>\n</ul>\n<p>\n  Check out the <a href=\"https://astro.build/themes/details/astroship/\">Free Version</a> here.\n</p>\n",
+    "typeUrl": "https://web3templates.com/templates/astroship-pro-astro-saas-website-template",
+    "liveUrl": "https://astroship-pro.web3templates.com/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastroship-pro-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastroship-pro-2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastroship-pro-3.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastroship-pro-4.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastroship-pro-5.webp&w=1600&h=900&f=webp"
+    ]
+}

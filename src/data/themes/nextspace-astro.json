@@ -1,0 +1,17 @@
+{
+    "url": "https://astro.build/themes/details/nextspace-astro/",
+    "name": "nextspace-astro",
+    "title": "Nextspace Astro",
+    "desc": "Tailored for Architecture, Interior Design, and Creative Professionals\r\n",
+    "article": "<p>Designed for architects, interior designers, and creatives, Nextspace is a modern Astro theme that highlights projects beautifully and efficiently with its clean aesthetic and speed.</p><p><br/></p><h2>Key Features:</h2><ul><li>Built with Astro v5 and Tailwind CSS v4,</li><li>15+ Professionally designed pages (Home, Studio, Projects, Services, Blog, Contact, etc.)</li><li>99 Google PageSpeed Score</li><li>Sleek, minimal design with stunning visuals</li><li>Fully responsive and mobile-optimized layout</li><li>Optimized for SEO and fast-loading performance</li><li>Customizable design â colors, fonts, layout elements</li><li>Modular codebase with developer-friendly structure</li><li>Markdown &amp; MDX support for easy content updates</li><li>Auto-imported MDX components</li><li>Contact form integration out of the box</li><li>Cross-browser compatibility</li><li>Google Fonts &amp; Font Awesome integration</li><li>Lifetime free updates</li><li>Premium customer support</li></ul><p><br/></p><h2>Unique Pages:</h2><ol><li>Homepage</li><li>About</li><li>Terms</li><li>Services</li><li>Blog</li><li>Privacy</li><li>Reviews</li><li>Blog Details</li><li>FAQs</li><li>Projects</li><li>Gallery</li><li>Contact</li><li>Project Details</li><li>Career</li><li>Elements</li><li>404</li></ol>",
+    "typeUrl": "https://themefisher.com/products/nextspace-astro/?aff=ab",
+    "liveUrl": "https://nextspace-astro.vercel.app/?aff=ab",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3350c66o2p2cxe3yn6q4qbhkta1wyh4zb28bg2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fku0modqfybn3skikx1u5ft47tgho1c8ibglvvp.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F48chrvnnk7l1tmygys9wkndaeio4diopr7cf5q.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fwkzuwpq44uds2ji211gx50taze0ezie68ifcx6.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3wnzf5j1sue7kv4jo9156sonpl7su07k2sv7gp.webp&w=1600&h=900&f=webp"
+    ]
+}

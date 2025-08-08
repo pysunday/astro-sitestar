@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/kaizen-minimal-portfolio/",
+    "name": "kaizen-minimal-portfolio",
+    "title": "Kaizen - Minimal Portfolio",
+    "desc": "A modern, minimalist portfolio website built with Astro. Features a collection of blog posts, projects, and professional experiences.",
+    "article": "",
+    "typeUrl": "https://github.com/bytekai/minimal-astro-portfolio",
+    "liveUrl": "https://bytekai.dev",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/bytekai/minimal-astro-portfolio",
+        "name": "minimal-astro-portfolio",
+        "full_name": "bytekai/minimal-astro-portfolio",
+        "description": "A free modern, minimalist portfolio template built with Astro. Features a collection of blog posts, projects, and professional experiences.",
+        "stargazers_count": 53,
+        "created_at": "2025-01-08T04:00:29Z",
+        "updated_at": "2025-08-07T20:58:58Z",
+        "pushed_at": "2025-01-08T04:10:08Z",
+        "git_url": "git://github.com/bytekai/minimal-astro-portfolio.git",
+        "ssh_url": "git@github.com:bytekai/minimal-astro-portfolio.git",
+        "clone_url": "https://github.com/bytekai/minimal-astro-portfolio.git",
+        "homepage": "https://bytekai.dev"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3iml0ocw5jzzkrb9ud3zxc3316x27c1o30jdiy.webp&w=1600&h=900&f=webp"
+    ]
+}

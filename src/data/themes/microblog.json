@@ -1,0 +1,29 @@
+{
+    "url": "https://astro.build/themes/details/microblog/",
+    "name": "microblog",
+    "title": "Microblog",
+    "desc": "Your next Micro Blog.",
+    "article": "<p>The template includes:</p><ul><li>Landing</li><li>Blog home</li><li>Blog post</li><li>Tag index</li><li>Tag Categories</li><li>RSS</li></ul><p>Updated: 16.06.25</p><p><br/></p><p>This template is open-source software licensed under the <a href=\"https://opensource.org/licenses/GPL-3.0\" rel=\"nofollow ugc\">GPL-3.0 license</a>. Feel free to fork, modify, and use it in your projects.</p><p><br/></p><p>If you have any questions do not hesitate to reach out on:</p><ul><li>Twitter: @Mike_Andreuzza or @lexingtonthemes</li><li>Email: michael@lexingtonthemes.com</li></ul><p><br/></p><p>Thank you so much for reading and showing interest on this template, if you need more templates, a bundle that includes other templates, free updates is also offered on Lexington Themes. </p><ul><li><a href=\"https://lexingtonthemes.com/pricing/\" rel=\"nofollow ugc\">Learn more about the bundle</a></li></ul><p><br/></p><p>\n</p>",
+    "typeUrl": "https://github.com/michael-andreuzza/microblog",
+    "liveUrl": "https://microblog.lexingtonthemes.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/michael-andreuzza/microblog",
+        "name": "microblog",
+        "full_name": "michael-andreuzza/microblog",
+        "description": null,
+        "stargazers_count": 103,
+        "created_at": "2023-12-17T08:02:03Z",
+        "updated_at": "2025-08-06T05:37:21Z",
+        "pushed_at": "2025-06-16T19:31:33Z",
+        "git_url": "git://github.com/michael-andreuzza/microblog.git",
+        "ssh_url": "git@github.com:michael-andreuzza/microblog.git",
+        "clone_url": "https://github.com/michael-andreuzza/microblog.git",
+        "homepage": "https://microblog.lexingtonthemes.com/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F288nk4p78l96jl8c6py9pb4rkkrllbrsc0mvc3.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F2oxg7zd83pwj4nda3t6z86ye244bc6458fsnob.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F71vrsfhcg3uacq9hmqcirkrloh90iwzhdga7xr.webp&w=1600&h=900&f=webp"
+    ]
+}

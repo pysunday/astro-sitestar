@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-storyblok-template/",
+    "name": "astro-storyblok-template",
+    "title": "Astro-Storyblok Template",
+    "desc": "This project serves as an example of the template to build portfolio/product/blog websites. It is completely static which means it doesn't need a server and during the build time it generates all the files needed for the website to work.",
+    "article": "<h3>Key components are:</h3><ul><li>TypeScript</li><li>Astro.js </li><li>TailwindCSS </li><li>Storyblok</li><li>Netlify hosting</li></ul><p><br/></p><p><br/></p><p><br/></p>",
+    "typeUrl": "https://github.com/MichalRsa/freelance-sample-page",
+    "liveUrl": "https://kawusia-coffee-bar.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/MichalRsa/freelance-sample-page",
+        "name": "freelance-sample-page",
+        "full_name": "MichalRsa/freelance-sample-page",
+        "description": null,
+        "stargazers_count": 10,
+        "created_at": "2024-03-06T14:53:48Z",
+        "updated_at": "2025-07-22T20:39:17Z",
+        "pushed_at": "2024-04-16T08:47:51Z",
+        "git_url": "git://github.com/MichalRsa/freelance-sample-page.git",
+        "ssh_url": "git@github.com:MichalRsa/freelance-sample-page.git",
+        "clone_url": "https://github.com/MichalRsa/freelance-sample-page.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F9a1r9xbn1wwrbhotbj5ejgaosqbapzaybwfk1o.webp&w=1600&h=900&f=webp"
+    ]
+}

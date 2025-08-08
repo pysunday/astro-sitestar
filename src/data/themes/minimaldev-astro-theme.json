@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/minimaldev-astro-theme/",
+    "name": "minimaldev-astro-theme",
+    "title": "MinimalDev Astro Theme",
+    "desc": "Minimal Astro + TypeScript blog theme with MDX and SEO. Fast, clean, and mobile-ready. ",
+    "article": "<p>This is a minimalist, high-performance blog template built with Astro and TypeScript. Itâs designed for developers who want a fast, SEO-optimized, and MDX-powered blog without unnecessary complexity or external UI frameworks.</p><h3>Highlights</h3><ul><li>â <strong>Clean Design</strong> â Simple and responsive with dark/light mode</li><li>ð <strong>MDX Support</strong> â Write blog posts using .mdx with custom components</li><li>ð <strong>Keyboard Search</strong> â Built-in search (Cmd/Ctrl + K) across all content</li><li>ð <strong>Tag &amp; Category Pages</strong> â Auto-generated and paginated</li><li>ð <strong>SEO Ready</strong> â Includes OpenGraph, robots.txt, sitemap, RSS</li><li>ð <strong>Easy Deployment</strong> â Preconfigured for Netlify, Vercel, or static hosting</li><li>ð  <strong>No Tailwind, No FSD, No Extra Tools</strong> â Pure Astro + TypeScript</li></ul><p>Ideal for personal blogs, developer journals, and content-driven sites.</p>",
+    "typeUrl": "https://github.com/anliberant/jsdev-astro-theme",
+    "liveUrl": "https://jsdev-astro-theme.vercel.app",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/anliberant/jsdev-astro-theme",
+        "name": "jsdev-astro-theme",
+        "full_name": "anliberant/jsdev-astro-theme",
+        "description": "Minimal Astro + TypeScript blog theme with MDX and SEO support. Lightweight, responsive, and ready to deploy.",
+        "stargazers_count": 1,
+        "created_at": "2025-08-03T14:08:10Z",
+        "updated_at": "2025-08-07T05:27:37Z",
+        "pushed_at": "2025-08-03T14:42:15Z",
+        "git_url": "git://github.com/anliberant/jsdev-astro-theme.git",
+        "ssh_url": "git@github.com:anliberant/jsdev-astro-theme.git",
+        "clone_url": "https://github.com/anliberant/jsdev-astro-theme.git",
+        "homepage": "https://jsdev.space"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fy6trripbz86ki6qcnh768fejy2nufubvbelp2m.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F5sb87d4cisyzzu8yqzoma78p5jbt9rdsrh873l.webp&w=1600&h=900&f=webp"
+    ]
+}

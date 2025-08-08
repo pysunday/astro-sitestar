@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/t3ma-blog/",
+    "name": "t3ma-blog",
+    "title": "t3ma Blog",
+    "desc": "This is a custom-built Astro t3ma template that serves as the foundation for publishing and showcasing various projects, themes, and technical insights. It is designed for performance, readability, and scalability while maintaining a modern aesthetic.",
+    "article": "<h2>Astro t3ma Blog Template</h2><p><br/></p><p>This is a custom-built Astro t3ma template that serves as the foundation for publishing and showcasing various projects, themes, and technical insights. It is designed for performance, readability, and scalability while maintaining a modern aesthetic.</p><h2>Features</h2><p><br/></p><ul><li>ð Built with Astro â A fast, static site generator for optimal performance.</li><li>ð¨ Tailwind CSS â Ensures a clean, responsive, and modern UI.</li><li>ð Markdown &amp; MDX Support â Easily write and manage content.</li><li>ð SEO-Optimized â Structured metadata for better search visibility.</li><li>ð Modular Components â Designed with reusable Astro components.</li><li>ð± Fully Responsive â Works seamlessly on all devices.</li></ul><h2>Blog Sections</h2><p><br/></p><p>This template hosts a variety of projects and blog posts, including:</p><h3>ð Projects</h3><h3>ð¼ Work Experience</h3><h2>Content Structure</h2><p><br/></p><pre>/src/content/posts/   # Blog posts in Markdown/MDX\r\n/src/content/pages/   # Static pages\r\n/src/layouts/         # Layout files\r\n/src/components/      # Reusable UI components\r\n/public/images/       # Image assets\r\n</pre><h2><br/></h2><p><br/></p>",
+    "typeUrl": "https://github.com/temaprint/t3ma",
+    "liveUrl": "https://temaprint.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/temaprint/t3ma",
+        "name": "t3ma",
+        "full_name": "temaprint/t3ma",
+        "description": "This is a custom-built Astro t3ma template that serves as the foundation for publishing and showcasing various projects, themes, and technical insights.",
+        "stargazers_count": 5,
+        "created_at": "2025-03-11T15:37:38Z",
+        "updated_at": "2025-06-05T21:11:01Z",
+        "pushed_at": "2025-03-17T08:06:55Z",
+        "git_url": "git://github.com/temaprint/t3ma.git",
+        "ssh_url": "git@github.com:temaprint/t3ma.git",
+        "clone_url": "https://github.com/temaprint/t3ma.git",
+        "homepage": "https://temaprint.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F4cqhtk9416mleg9jix1itnqx1qu2o3yj0vjkv5.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ffx7ly4a229re5345yl92pl1opp77v9fwtxvh1g.webp&w=1600&h=900&f=webp"
+    ]
+}

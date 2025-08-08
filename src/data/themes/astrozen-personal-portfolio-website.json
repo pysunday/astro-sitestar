@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astrozen-personal-portfolio-website/",
+    "name": "astrozen-personal-portfolio-website",
+    "title": "AstroZen - Personal Portfolio Website",
+    "desc": "AstroZen is a minimalist, accessible and responsive portfolio template for your personal portfolio website. It is built with Astro and TailwindCSS.",
+    "article": "",
+    "typeUrl": "https://github.com/immois/astro-zen",
+    "liveUrl": "https://astro-zen.vercel.app",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/immois/astro-zen",
+        "name": "astro-zen",
+        "full_name": "immois/astro-zen",
+        "description": "Minimalist, accessible and SEO-optimized personal portfolio website template.",
+        "stargazers_count": 30,
+        "created_at": "2024-09-13T15:27:31Z",
+        "updated_at": "2025-08-02T16:10:44Z",
+        "pushed_at": "2025-06-23T18:30:59Z",
+        "git_url": "git://github.com/immois/astro-zen.git",
+        "ssh_url": "git@github.com:immois/astro-zen.git",
+        "clone_url": "https://github.com/immois/astro-zen.git",
+        "homepage": "https://astro-zen.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fbmhsvv5eyb4kstutny4na3ptcbufqsr4l991r1.webp&w=1600&h=900&f=webp"
+    ]
+}

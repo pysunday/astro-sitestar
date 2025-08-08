@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-simple-portfolio/",
+    "name": "astro-simple-portfolio",
+    "title": "Astro Simple Portfolio",
+    "desc": "A simple and high performing portfolio template.",
+    "article": "<p>A simple and high performing portfolio template.</p><h3>Key Features</h3><ul><li>ð¨ Highly customizable (Color, Font, etc.)</li><li>â¡ Fast by default (100 Google PageSpeed Score)</li><li>ð¨ Built with Tailwind CSS framework</li><li>ð± Fully responsive on desktops, tablets, and smartphones</li><li>ð¬ Code format using <a href=\"https://biomejs.dev/\" rel=\"nofollow ugc\">Biomejs</a></li><li>ð SEO Friendly</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/saminnet/astro-simple-portfolio",
+    "liveUrl": "https://astro-simple-portfolio.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/saminnet/astro-simple-portfolio",
+        "name": "astro-simple-portfolio",
+        "full_name": "saminnet/astro-simple-portfolio",
+        "description": "Very simple portfolio built using Astro",
+        "stargazers_count": 18,
+        "created_at": "2024-05-20T10:14:17Z",
+        "updated_at": "2025-07-18T06:00:18Z",
+        "pushed_at": "2025-08-05T06:26:49Z",
+        "git_url": "git://github.com/saminnet/astro-simple-portfolio.git",
+        "ssh_url": "git@github.com:saminnet/astro-simple-portfolio.git",
+        "clone_url": "https://github.com/saminnet/astro-simple-portfolio.git",
+        "homepage": "https://astro-simple-portfolio.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fd2iocqd7jkf818pj79ix4r0qw0nc9xuv1bgevx.webp&w=1600&h=900&f=webp"
+    ]
+}

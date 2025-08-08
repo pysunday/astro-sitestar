@@ -1,0 +1,29 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import clsx from 'clsx';
+import ImgPanel from '@/components/common/ImgPanel.astro';
+import Pagination from '@/components/common/Pagination';
+import { Button } from "@/components/ui/button";
+import { Icon } from 'astro-icon/components';
+import Footer from "@/components/sitestar/Footer.astro";
+import { getI18n } from "@/i18n/index"
+
+const { currentLocale } = Astro
+const i18n = await getI18n(currentLocale, 'sitestar')
+const { sites, current_page, total_page } = Astro.props;
+---
+<BaseLayout title={i18n('html_head.title', { page: current_page })} hasCursor={false}>
+  <div class="py-8 flex flex-col max-w-[1400px] mx-auto w-[90%] md:w-[80%] xl:w-[70%]">
+    <Button variant="link" className="text-xl font-blod text-left w-max">
+      <Icon name="back" />
+      <a href="javascript:history.back()">{i18n('btn.back')}</a>
+    </Button>
+    <div class="relative my-12 grid sm:grid-cols-2 xl:grid-cols-3 gap-8">
+      {sites.map((it, idx) => <ImgPanel
+        {...it}
+      />)}
+    </div>
+    <Pagination client:only="react" current={current_page} total={total_page} path="/all"/>
+  </div>
+  <Footer/>
+</BaseLayout>

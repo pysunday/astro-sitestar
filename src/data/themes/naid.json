@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/naid/",
+    "name": "naid",
+    "title": "NAID",
+    "desc": "A template for doers, minimal, bold, built for speed",
+    "article": "<p>This is the end of a weekend long project to learn more about utility CSS frameworks and Astro templates. The main goal in creating this template was to recreate the look of the voidzero.dev website using only Uno CSS. Outside of a few exceptions, that goal was accomplished.</p><p><br/></p><p>The secondary goal of this template was to be something a developer could pick up and edit to fit their needs easily. It stays as close to Astro practices as possible, doesnât include unnecessary plugins or build processes. If you build sites with Astro and use any of the official templates as a base, this should be familiar to work in.</p>",
+    "typeUrl": "https://github.com/studiolumina/naid",
+    "liveUrl": "https://sl-naid.netlify.app",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/studiolumina/naid",
+        "name": "naid",
+        "full_name": "studiolumina/naid",
+        "description": "A template for doers built with Astro and Uno CSS",
+        "stargazers_count": 38,
+        "created_at": "2024-10-03T15:02:14Z",
+        "updated_at": "2025-07-11T01:54:51Z",
+        "pushed_at": "2024-12-13T20:19:51Z",
+        "git_url": "git://github.com/studiolumina/naid.git",
+        "ssh_url": "git@github.com:studiolumina/naid.git",
+        "clone_url": "https://github.com/studiolumina/naid.git",
+        "homepage": "https://sl-naid.netlify.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fpe1kvenfufggdnzl2lvmzbjuhcvdqqu0xubxwt.webp&w=1600&h=900&f=webp"
+    ]
+}

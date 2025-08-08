@@ -1,0 +1,29 @@
+{
+    "url": "https://astro.build/themes/details/treelink-free-open-source-alternative-to-linktree/",
+    "name": "treelink-free-open-source-alternative-to-linktree",
+    "title": "Treelink: Free, open source alternative to Linktree",
+    "desc": "Create your site with our online tool and deploy in minutes. Free & open source with zero dependencies installed.",
+    "article": "<p><a href=\"https://example.treelink.app\" rel=\"nofollow ugc\">Live example</a></p><p><a href=\"https://treelink.app\" rel=\"nofollow ugc\">Online tool</a></p><p><a href=\"https://docs.treelink.app\" rel=\"nofollow ugc\">Documentation</a></p><h2>ð Getting started</h2><pre># Run this in your terminal...\r\nnpm init astro -- --template trevortylerlee/treelink\r\n\r\n# ... or read the quick start guide...\r\n# https://docs.treelink.app/guides/quick-start/\r\n\r\n# ... or watch on YouTube\r\n# https://youtu.be/3-eALOdm-3s?si=o6O3_Ackrbp0gkLH\r\n</pre><p><br/></p><h2>â¨ Features</h2><ul><li>Customizable, with premade themes for light and dark mode</li><li>Custom OpenGraph images per post, with a fallback image</li><li>Icon support for hundreds of sites</li><li>RSS and sitemap generation</li><li>Optional blog</li><li>Web Vitals: 100 100 100 100</li></ul>",
+    "typeUrl": "https://github.com/trevortylerlee/treelink",
+    "liveUrl": "https://treelink.app",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/trevortylerlee/treelink",
+        "name": "treelink",
+        "full_name": "trevortylerlee/treelink",
+        "description": "Free, open source Linktree alternative built with Astro & Tailwind CSS",
+        "stargazers_count": 54,
+        "created_at": "2024-10-05T20:25:28Z",
+        "updated_at": "2025-08-04T10:27:13Z",
+        "pushed_at": "2024-10-31T06:06:03Z",
+        "git_url": "git://github.com/trevortylerlee/treelink.git",
+        "ssh_url": "git@github.com:trevortylerlee/treelink.git",
+        "clone_url": "https://github.com/trevortylerlee/treelink.git",
+        "homepage": "https://treelink.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fv77cskh1km2tnyzr943bi4brpb8h78zs7v82de.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3sq3g097lu70j39j9adnlvwx17erk586tnr35g.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F18ahfbupjprm813gbpind1iv8ac9fch5a2fkoy.webp&w=1600&h=900&f=webp"
+    ]
+}

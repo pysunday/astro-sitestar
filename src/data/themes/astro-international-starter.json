@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-international-starter/",
+    "name": "astro-international-starter",
+    "title": "ASTRO INTERNATIONAL STARTER",
+    "desc": "An starter of astro with taiwlind, astro, i18n, to not start of 0",
+    "article": "",
+    "typeUrl": "https://github.com/hdz-Mastery/astro_international_starter",
+    "liveUrl": "https://astro-international-starter.netlify.app",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/hdz-Mastery/astro_international_starter",
+        "name": "astro_international_starter",
+        "full_name": "hdz-Mastery/astro_international_starter",
+        "description": "start with i18n",
+        "stargazers_count": 1,
+        "created_at": "2025-07-11T14:57:24Z",
+        "updated_at": "2025-07-11T17:38:42Z",
+        "pushed_at": "2025-07-11T16:09:28Z",
+        "git_url": "git://github.com/hdz-Mastery/astro_international_starter.git",
+        "ssh_url": "git@github.com:hdz-Mastery/astro_international_starter.git",
+        "clone_url": "https://github.com/hdz-Mastery/astro_international_starter.git",
+        "homepage": "https://astro-international-starter.netlify.app/es/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3xm969n1xf6e081f4vct09zxxkvl1c6bu0zcby.webp&w=1600&h=900&f=webp"
+    ]
+}

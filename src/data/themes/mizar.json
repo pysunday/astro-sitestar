@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/mizar/",
+    "name": "mizar",
+    "title": "Mizar",
+    "desc": "Minimal agency template",
+    "article": "<h2><strong>Features</strong></h2><ul><li><strong>â</strong> Localization</li><li><strong>â</strong> Blog</li><li><strong>â</strong> CMS for editing blog post (thanks to Keystatic)</li><li><strong>â</strong> PWA (thanks to vite-pwa)</li></ul>",
+    "typeUrl": "https://github.com/majesticooss/mizar",
+    "liveUrl": "https://mizar.majestico.co",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/majesticooss/mizar",
+        "name": "mizar",
+        "full_name": "majesticooss/mizar",
+        "description": null,
+        "stargazers_count": 37,
+        "created_at": "2024-06-29T21:53:30Z",
+        "updated_at": "2025-07-29T02:28:51Z",
+        "pushed_at": "2025-03-13T09:06:46Z",
+        "git_url": "git://github.com/majesticooss/mizar.git",
+        "ssh_url": "git@github.com:majesticooss/mizar.git",
+        "clone_url": "https://github.com/majesticooss/mizar.git",
+        "homepage": "https://mizar.majestico.co"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fhwcvt2mlf59p244dbkm5lhxa11jc4jx8wluyx4.webp&w=1600&h=900&f=webp"
+    ]
+}

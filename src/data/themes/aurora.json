@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/aurora/",
+    "name": "aurora",
+    "title": "Aurora",
+    "desc": "A minimal blog theme built with Astro, Svelte and plain CSS. It is focused on accessibility and usability.",
+    "article": "\n<p>\n  All the interactiveness of the website is packed into three dropdowns that are located at the\n  right of the top navigation bar. Every menu can be opened with a simple keyboard shortcut:\n</p>\n<p>- Table of contents: <strong>Shift + c</strong></p>\n<p>- Search for an article: <strong>Shift + s</strong></p>\n<p>- Theme toggle: <strong>Shift + t</strong></p>\n<p>- Close menu: Escape (<strong>Esc</strong>)</p>\n<p>\n  The styles are simple, there are small improvements for some elements to keep everything\n  consistent and responsive.\n</p>\n<h2>Table of contents</h2>\n<p>Secondary headings (&lt;code&gt;&lt;h2&gt;&lt;/code&gt;) are listed here, so each page is easy to navigate.</p>\n<h2>Search</h2>\n<p>\n  I wrote a simple algorithm for the search, and the matching works well. You can write the blog\n  title words in any order, leave letters out, have multiple spaces between words, and more.\n</p>\n<h2>Theme toggle</h2>\n<p>\n  There are three websites themes: Light, Dark and System (inherits the theme of your browser or\n  operating system).\n</p>\n",
+    "typeUrl": "https://github.com/thiloho/aurora",
+    "liveUrl": "https://aurora.thilohohlt.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/thiloho/aurora",
+        "name": "aurora",
+        "full_name": "thiloho/aurora",
+        "description": "Minimal blog theme built with Astro, mainly focused on accessibility and usability.",
+        "stargazers_count": 19,
+        "created_at": "2023-05-18T01:25:53Z",
+        "updated_at": "2025-05-22T14:54:27Z",
+        "pushed_at": "2024-09-21T17:16:11Z",
+        "git_url": "git://github.com/thiloho/aurora.git",
+        "ssh_url": "git@github.com:thiloho/aurora.git",
+        "clone_url": "https://github.com/thiloho/aurora.git",
+        "homepage": "https://aurora.thilohohlt.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Faurora-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Faurora-2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Faurora-3.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Faurora-4.webp&w=1600&h=900&f=webp"
+    ]
+}

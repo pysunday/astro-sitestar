@@ -1,0 +1,16 @@
+{
+    "url": "https://astro.build/themes/details/astroletter/",
+    "name": "astroletter",
+    "title": "AstroLetter",
+    "desc": "A minimalist blog template that puts your content in the spotlight",
+    "article": "<p><span>This blog template is all about simplicity and making your content the star of the show. Itâs built with Tailwind CSS, itâs responsive, and looks great on any device. Weâve kept it extremely lightweight and fast by not using any JavaScript. Itâs perfect for those who appreciate speed and ease of use.</span></p><p><br/></p><p><span>The template is also themeable and customizable, allowing you to tweak the look and feel to match your style. Plus, you donât need to know how to code to use it. If you can write in markdown, youâre all set to create and publish your content.</span></p><p><br/></p><p><span>In essence, this blog template is designed to be easy to use while offering the flexibility to make it your own. Itâs a straightforward way to get your words out there, without any fuss.</span></p>",
+    "typeUrl": "https://store.cafezinho.co/buy/da8782ee-8ac9-47b3-b5e4-7946d990ecc4",
+    "liveUrl": "https://astroletter-preview.pages.dev/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F9s5m3n27k31h9keerkiqdcjsedb2gk2r5k3nq7.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fhhrwc8qfv98g4b4zhubc7pniwc735wfjakte0k.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F5y1ldk327ceuftnk1vxr9bgnn7vli64yd4blen.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fsfge60p70i1ys7d8mddndd0kawkipu060i2316.webp&w=1600&h=900&f=webp"
+    ]
+}

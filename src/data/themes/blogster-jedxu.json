@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/blogster-jedxu/",
+    "name": "blogster-jedxu",
+    "title": "Blogster JedXu",
+    "desc": "A minimalist personal blog.",
+    "article": "\n<h2>Jed's log</h2>\n<p>A minimalist personal blog</p>\n<h3>Stack</h3>\n<ul>\n<li>Astro: Astro powers the world's fastest websites</li>\n<li>Typescript: Typed JavaScript for better tools</li>\n<li>Tailwind CSS: Practical First CSS Framework</li>\n<li>Vue3: Partially adopting Vue3 component form</li>\n</ul>\n<h3>Plan Todo</h3>\n<ul>\n<li>UI: Better looking UI style (minimalist style)</li>\n<li>Dark mode: Switching between light and dark modes</li>\n<li>Responsive: Good design for mobile device</li>\n</ul>\n",
+    "typeUrl": "https://github.com/JedediahXu/Jed-blog",
+    "liveUrl": "https://jedxu.info/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/JedediahXu/Jed-blog",
+        "name": "Jed-blog",
+        "full_name": "JedediahXu/Jed-blog",
+        "description": "Jed-blog",
+        "stargazers_count": 24,
+        "created_at": "2023-08-08T01:17:38Z",
+        "updated_at": "2025-06-16T13:55:34Z",
+        "pushed_at": "2025-05-06T08:03:13Z",
+        "git_url": "git://github.com/JedediahXu/Jed-blog.git",
+        "ssh_url": "git@github.com:JedediahXu/Jed-blog.git",
+        "clone_url": "https://github.com/JedediahXu/Jed-blog.git",
+        "homepage": "https://www.jedxu.info/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fblogster-jedxu-hero.webp&w=1600&h=900&f=webp"
+    ]
+}

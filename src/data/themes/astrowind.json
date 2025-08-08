@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/astrowind/",
+    "name": "astrowind",
+    "title": "AstroWind",
+    "desc": "Free, customizable and production-ready template for Astro using Tailwind CSS.",
+    "article": "<p><strong>AstroWind</strong> is a Free, Customizable and Production-ready template for Astro using Tailwind CSS. Suitable for Startups, Small Business, SaaS websites, Professional Portfolios, Marketing websites, Landing Pages &amp; Blogs.</p><h2>Philosophy</h2><p>Simplicity, Best Practices and High Performance</p><h2>Features</h2><ul><li>Build with TypeScript</li><li>Production-ready scores in PageSpeed Insights reports.</li><li>SEO-friendly</li><li>Responsive Design.</li><li>Integration with Tailwind CSS supporting Dark mode and RTL.</li><li>Highly Customizable.</li><li>Image Optimization (using new Astro Assets and Unpic for Universal image CDN).</li><li>Open Graph tags and dynamic OG image generation for social media sharing.</li><li>Sitemap</li><li>Analytics built-in</li><li>Blog with automatic RSS feed, MDX support, Categories &amp;amp; Tags, Authors, Social Share</li><li>Includes draft posts &amp;amp; pagination</li><li>A lot of Widgets: Heros, Features, FAQs, Pricing ...</li><li>Pages: Services, Pricing, About, Contact, Terms ...</li><li>Home Pages and Landing Pages: Startup, SaaS, Personal ...</li><li>Preconfigured for Decap CMS</li></ul><p><br/></p><p>This template was built with love by <a href=\"https://onwidget.com/\" rel=\"nofollow ugc\">onWidget</a> using <em>Astro</em> and <em>Tailwind CSS</em>.</p><p>For more information on how to get started and what tools were you please check out the <a href=\"https://github.com/onwidget/astrowind\" rel=\"nofollow ugc\">official repository on GitHub</a>.</p>",
+    "typeUrl": "https://github.com/onwidget/astrowind",
+    "liveUrl": "https://astrowind.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/onwidget/astrowind",
+        "name": "astrowind",
+        "full_name": "onwidget/astrowind",
+        "description": "⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.",
+        "stargazers_count": 4838,
+        "created_at": "2022-06-24T03:13:29Z",
+        "updated_at": "2025-08-07T12:44:15Z",
+        "pushed_at": "2025-04-23T02:15:50Z",
+        "git_url": "git://github.com/onwidget/astrowind.git",
+        "ssh_url": "git@github.com:onwidget/astrowind.git",
+        "clone_url": "https://github.com/onwidget/astrowind.git",
+        "homepage": "https://astrowind.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F6cyavwyrjn269c26digka63moeseq6825extnk.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F0rlfn0glhe25jqvk5vu6s6jlytf1nwiozevojy.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F5ei6t55wr01nph8uc5psj1oo6ycokguhvsp2bz.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ffq09ms2axdjvwb00brfavfbnculi9oook22uh3.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fl2h6lwzzs5dbhfxikaqfhybu40owxbyycgt7fe.webp&w=1600&h=900&f=webp"
+    ]
+}

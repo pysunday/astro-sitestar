@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/pawstronaut/",
+    "name": "pawstronaut",
+    "title": "Pawstronaut",
+    "desc": "Pawstronaut is a theme designed for animal shelters.",
+    "article": "<h2>Pawstronaut</h2><p><br/></p><p>Pawstronaut is a free theme for the Astro framework, designed specifically for animal shelters. It provides a beautiful and functional starting point for your next animal shelter website. Whether you're running a cat shelter, dog shelter, or any other type of animal rescue organization, Pawstronaut has you covered with its clean design and easy-to-use components.</p><p><br/></p><h2>ð About Pawstronaut</h2><p><br/></p><p>Pawstronaut is perfect for animal shelter owners, developers, and designers who want to quickly set up a stylish and responsive website. It leverages modern web technologies to ensure a smooth and performant user experience.</p><p><br/></p><h2>ð ï¸ Technologies Used</h2><p><br/></p><p>-  <strong>Astro</strong>: The core framework for building fast, content-focused websites.</p><p>-  <strong>TailwindCSS</strong>: A utility-first CSS framework for rapid UI development.</p><p>-  <strong>Alpine.js</strong>: A lightweight JavaScript framework for adding interactivity.</p><p><br/></p><h2>ð Premade Pages</h2><p><br/></p><p>-  Home</p><p>-  About Us</p><p>-  Blog</p><p>-  Cats</p><p>-  Contact</p><p>-  Privacy Policy</p><p><br/></p><h2>ð§© Available Components</h2><p><br/></p><p>-  Article</p><p>-  Badge</p><p>-  Button</p><p>-  Card</p><p>-  CardBlogPost</p><p>-  CardCat</p><p>-  CardMember</p><p>-  CallToAction</p><p>-  Container</p><p>-  Faq</p><p>-  Footer</p><p>-  FormAdoption</p><p>-  FormContactastro</p><p>-  Header</p><p>-  Heading</p><p>-  Hero</p><p>-  LogoContainer</p><p>-  Map</p><p>-  Members</p><p>-  Section</p><p>-  ShowBlogs</p><p>-  ShowCats</p><p>-  SocialMediaIcons</p><p>-  TableHours</p><p>-  WideImage</p><p><br/></p><h2>ð Stuck?</h2><p><br/></p><p>If you have any questions or need help with Pawstronaut, feel free to reach out to me at info [at] wpinfusion.com, or open an issue on the Pawstronaut GitHub repository https://github.com/wpinfusion/pawstronaut</p><p><br/></p>",
+    "typeUrl": "https://github.com/wpinfusion/pawstronaut",
+    "liveUrl": "https://pawstronaut.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/wpinfusion/pawstronaut",
+        "name": "pawstronaut",
+        "full_name": "wpinfusion/pawstronaut",
+        "description": "Pawstronaut is an Astro theme designed for pet shelter and adoption agencies",
+        "stargazers_count": 12,
+        "created_at": "2024-12-23T20:47:48Z",
+        "updated_at": "2025-07-15T06:51:08Z",
+        "pushed_at": "2025-05-14T18:28:52Z",
+        "git_url": "git://github.com/wpinfusion/pawstronaut.git",
+        "ssh_url": "git@github.com:wpinfusion/pawstronaut.git",
+        "clone_url": "https://github.com/wpinfusion/pawstronaut.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F9pcgqkpr0m9vp5nykxmqg0j1f225n9fmj4x8lo.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fcj05wegku67gdcjtvlc9434ps9kqcjfgfa7gyg.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F1z98gqxjnyewaqbak7rppozpxsrg4gf40nvhbh.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F59y6ad1gxbm62pmz0k0wnh09kp8skptjwut283.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F5dt7hjit89xpkm4e6g52ia7gnittf4uommhs41.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://astro.build/themes/details/shadowstack-portfolio/",
+    "name": "shadowstack-portfolio",
+    "title": "Shadowstack Portfolio",
+    "desc": "A static portfolio theme that uses some great Astro features.",
+    "article": "<p>A portfolio theme that renders static pages and uses Tailwind and Astro image optimization in a simple clean layout. </p>",
+    "typeUrl": "https://github.com/leabs/shadowstack-portfolio",
+    "liveUrl": "https://shadowstack-portfolio.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/leabs/shadowstack-portfolio",
+        "name": "shadowstack-portfolio",
+        "full_name": "leabs/shadowstack-portfolio",
+        "description": "A simple clean modern looking portfolio built with Astro and Tailwind",
+        "stargazers_count": 25,
+        "created_at": "2024-02-12T15:07:39Z",
+        "updated_at": "2025-07-06T16:06:54Z",
+        "pushed_at": "2025-05-10T12:22:08Z",
+        "git_url": "git://github.com/leabs/shadowstack-portfolio.git",
+        "ssh_url": "git@github.com:leabs/shadowstack-portfolio.git",
+        "clone_url": "https://github.com/leabs/shadowstack-portfolio.git",
+        "homepage": "https://shadowstack-portfolio.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fslv6mxkzctk7q72wamfg4dcbq8nn404u9dvj9z.png&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fjt2lak4azc4fthx3r7oowd35r0ubojl3v79m6f.png&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fkh6mlrtpz4qdf9khmv27rlfz1fzjunwty7ilb3.png&w=1600&h=900&f=webp"
+    ]
+}

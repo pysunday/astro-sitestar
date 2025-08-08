@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/astro-with-aceternity-ui/",
+    "name": "astro-with-aceternity-ui",
+    "title": "Astro with Aceternity Ui",
+    "desc": "Using Aceternity ui in Astro project.",
+    "article": "<p>Using React, Framer Motion and Aceternity ui in Astro project.</p>",
+    "typeUrl": "https://github.com/Tokigin/astro-aceternity",
+    "liveUrl": "https://astro-aceternity-tk.vercel.app",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Tokigin/astro-aceternity",
+        "name": "astro-aceternity",
+        "full_name": "Tokigin/astro-aceternity",
+        "description": "Using Aceternity ui in Astro project ",
+        "stargazers_count": 16,
+        "created_at": "2024-08-14T08:08:57Z",
+        "updated_at": "2025-07-16T11:42:43Z",
+        "pushed_at": "2024-10-28T04:50:40Z",
+        "git_url": "git://github.com/Tokigin/astro-aceternity.git",
+        "ssh_url": "git@github.com:Tokigin/astro-aceternity.git",
+        "clone_url": "https://github.com/Tokigin/astro-aceternity.git",
+        "homepage": "https://astro-aceternity-tk.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F5fca2yz6txim5euqv488dvihnxqgyeryylqqs4.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fizok0gs0uuxv4pv449h3kfn4at0t42c8culp66.webp&w=1600&h=900&f=webp"
+    ]
+}

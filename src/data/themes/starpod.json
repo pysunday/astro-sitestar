@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/starpod/",
+    "name": "starpod",
+    "title": "Starpod",
+    "desc": "Create an amazing podcast website in 5 minutes.",
+    "article": "<p><span>Starpod is the easiest way to create a podcast website in 5 minutes or less and it is 100% free and open source. Simply set your RSS feed and define a few config values and you'll have a podcast website in no time!</span></p>",
+    "typeUrl": "https://github.com/shipshapecode/starpod",
+    "liveUrl": "https://starpod.dev/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/shipshapecode/starpod",
+        "name": "starpod",
+        "full_name": "shipshapecode/starpod",
+        "description": "Create an amazing podcast website in 5 minutes",
+        "stargazers_count": 54,
+        "created_at": "2024-03-20T01:58:26Z",
+        "updated_at": "2025-08-03T12:17:18Z",
+        "pushed_at": "2025-08-03T12:17:14Z",
+        "git_url": "git://github.com/shipshapecode/starpod.git",
+        "ssh_url": "git@github.com:shipshapecode/starpod.git",
+        "clone_url": "https://github.com/shipshapecode/starpod.git",
+        "homepage": "https://starpod.dev"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Frvjejhrgszb8ivlugz30e6oak0xsupefci05f5.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fn84i5fet8d354mh51pis6g4jvncbu565y9pcy6.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fojtnszlfkkl98vnn1h4xtb52qn5bvbqufbnu19.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fnehrr3asx3qw2wx64q2n6f65zf90zyp1f0rs7h.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fzv4bi5jjan3lnr3exlvwcf27a4ex2fznwmkiq1.webp&w=1600&h=900&f=webp"
+    ]
+}

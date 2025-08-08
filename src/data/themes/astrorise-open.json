@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astrorise-open/",
+    "name": "astrorise-open",
+    "title": "AstroRise - Open",
+    "desc": "Modern, fast, and fully static. Focus on your product while this theme handles smooth customization.",
+    "article": "<p><strong>AstroRise â Open</strong> is a modern, feature-focused Astro theme designed to help you launch and grow your website with confidence and speed. Its clean and minimal layout provides a highly customizable foundation, making it easy to tailor your site exactly to your needsâwhether youâre starting from scratch or scaling up.</p><p><br/></p><p>With this template, you can deliver a fast, content-rich experienceâall fully static. That means lightning-fast performance and ultra-low hosting costs on platforms like Cloudflare Pages or GitHub Pages.</p><p><br/></p><p>Perfect for early-stage startups and growing businesses alike, this theme gives you all the essentials to establish your presence onlineâwithout the overhead. Spend less time setting up, and more time building your product.</p><h3><strong>ð Key Features</strong></h3><p><br/></p><ul><li><strong>Customizable UI Components</strong>: Inspired by Shadcn, with support for theme customization via tools like tweakcn.</li><li><strong>Full SSG Architecture</strong>: Everything is statically generated, resulting in fast load times and cheap, hassle-free hosting.</li><li><strong>Modular Component Design</strong>: Built for easy extension and maintenance.</li></ul><p><br/></p><p><strong>Whether you need a personal blog, a product landing page, or a scalable content hub, AstroRise â Open</strong> provides a rock-solid foundation to grow with your vision.</p><p><br/></p><p>If youâre looking for additional features, check out <a href=\"https://astro.build/themes/details/astrorise-scale/\"><strong>AstroRise â Scale</strong></a>, which includes:</p><p><br/></p><ul><li><strong>Searchable Blog</strong>: Tag filtering and full-text client-side search powered by Pagefind.</li><li><strong>Easy i18n</strong>: Internationalization enabled by default, with simple instructions to disable if needed.</li></ul><p><br/></p><p><strong>Need a missing component or want something tweaked? Just let us knowâweâre happy to help!</strong></p>",
+    "typeUrl": "https://github.com/dyskinmel/astro-rise-open",
+    "liveUrl": "https://astro-rise-open.pages.dev/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/dyskinmel/astro-rise-open",
+        "name": "astro-rise-open",
+        "full_name": "dyskinmel/astro-rise-open",
+        "description": null,
+        "stargazers_count": 0,
+        "created_at": "2025-04-14T16:52:10Z",
+        "updated_at": "2025-04-17T20:30:27Z",
+        "pushed_at": "2025-04-21T18:53:49Z",
+        "git_url": "git://github.com/dyskinmel/astro-rise-open.git",
+        "ssh_url": "git@github.com:dyskinmel/astro-rise-open.git",
+        "clone_url": "https://github.com/dyskinmel/astro-rise-open.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fu39sojwggdegwq1jd6yirdx1zgzw6tpzdgkqmw.webp&w=1600&h=900&f=webp"
+    ]
+}

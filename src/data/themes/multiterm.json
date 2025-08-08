@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/multiterm/",
+    "name": "multiterm",
+    "title": "MultiTerm",
+    "desc": "A coder-ready blog theme with 59 of your favorite color schemes to choose from ð¨â¡ï¸ ",
+    "article": "<p><strong>MultiTerm</strong> is an Astro blog theme designed for coders who love their color schemes. Easily theme your whole website with your favorite color schemes and have your prose rendered with a nod to the aesthetics of raw markdown.</p><p><br/></p><ul><li><strong>Amazing Theme Selection</strong>: Personalize your blog's appearance with your favorite editor color scheme. Pick your favorite <a href=\"https://expressive-code.com/guides/themes/#available-themes\" rel=\"nofollow ugc\">Shiki themes</a> bundled with Expressive Code.</li><li><strong>Dark/Light/Auto Theme Mode</strong>: Choose any two Shiki themes and use the standard light/dark/auto model for automatically adapting to your reader's theme preferences with button in the site header.</li><li><strong>Multiple Theme Mode</strong>: Choose three (or all 59!) Shiki themes and allow your reader to choose their favorite from a dialog menu opened from a button in the header. Every element seamlessly changes color interactively using the magic of CSS variables.</li><li><strong>GitHub Activity Widget</strong>: Optionally include a GitHub activity React component on the homepage that (of course) matches the active color scheme perfectly.</li><li><strong>Markdown Extensions</strong>: Admonitions, table of contents, MDX, and auto-generated reading time estimates.</li><li><strong>RSS Feed and Sitemap</strong>: Built-in support for RSS feeds and sitemap with no extra configuration.</li><li><strong>Social Links</strong>: Easily include links to common developer platforms including GitHub, Mastodon, Twitter, LinkedIn and E-mail.</li><li><strong>Responsive Design</strong>: Optimized for all devices, from desktops to mobile phones.</li><li><strong>SEO Optimized</strong>: Boost your site's visibility with built-in SEO best practices and automatically generated social card images for every page via <a href=\"https://github.com/vercel/satori\" rel=\"nofollow ugc\">Satori</a>.</li><li><strong>Customizable Build</strong>: Powered by <a href=\"https://astro.build/\">Astro</a>, render as a static site (the default) or generate content dynamically.</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/stelcodes/multiterm-astro",
+    "liveUrl": "https://multiterm.stelclementine.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/stelcodes/multiterm-astro",
+        "name": "multiterm-astro",
+        "full_name": "stelcodes/multiterm-astro",
+        "description": "A coder-ready Astro blog theme with 60 of your favorite color schemes to choose from 🎨⚡️",
+        "stargazers_count": 80,
+        "created_at": "2025-07-16T15:12:21Z",
+        "updated_at": "2025-08-07T23:04:51Z",
+        "pushed_at": "2025-08-07T23:04:47Z",
+        "git_url": "git://github.com/stelcodes/multiterm-astro.git",
+        "ssh_url": "git@github.com:stelcodes/multiterm-astro.git",
+        "clone_url": "https://github.com/stelcodes/multiterm-astro.git",
+        "homepage": "https://multiterm.stelclementine.com/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fvnrkghkcoj0ayrx4k770nj3gm018srho81d1nd.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fgiq0qro0s0vbhtjn558bej4fx0y3wofhnf6j8o.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F6m3natu5wmr3nievv4w46vde43uua5hjjcie3d.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Flksau2e12hclrhwvk4mknkvc4xd2qlq7ftr5ne.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fkbhuu2zdlumbbvydltay49mp1e54529uwtp4qh.webp&w=1600&h=900&f=webp"
+    ]
+}

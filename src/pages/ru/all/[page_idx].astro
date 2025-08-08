@@ -1,0 +1,19 @@
+---
+import App from '@/components/pages/sitestar/all/index.astro'
+import getThemes from '@/lib/themes/getThemes';
+
+export const getStaticPaths = async () => {
+  const onePageNumber = 18;
+  const sites = await getThemes();
+  const total_page = Math.round(sites.length / onePageNumber);
+  return new Array(total_page).fill(0).map((it, idx) => {
+    const current_page = idx + 1;
+    return {
+      params: { page_idx: current_page },
+      props: { sites: sites.slice(idx * onePageNumber, current_page * onePageNumber), current_page, total_page }
+    }
+  })
+};
+---
+
+<App {...Astro.props}/> 

@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/astronavigator/",
+    "name": "astronavigator",
+    "title": "AstroNavigator",
+    "desc": "AstroNavigator is an Astro-powered platform for efficient information discovery, featuring categorized blogs, company profiles, message updates, and curated resource links.",
+    "article": "<h2>ð Overview</h2><p>AI Information Navigator is a cutting-edge information aggregation platform built with the Astro framework, designed to revolutionize how users discover and interact with AI-related content. this comprehensive platform serves as a centralized hub for AI enthusiasts, professionals, and researchers, offering four key features:</p><p><br/></p><p>ð Categorized Blogs: Curated articles spanning AI, Machine Learning, Data Science, and Web Development</p><p><br/></p><p>ð¢ Company Profiles: Detailed insights into AI companies, from tech giants to innovative startups</p><p><br/></p><p>ð° Tech News Center: Real-time updates on AI advancements and industry developments</p><p><br/></p><p>ð Resource Directory: Carefully selected links to development tools, learning resources, and AI platforms</p><p><br/></p><h2>ð¡ Key Highlights</h2><p><br/></p><p>Smart Categorization: Advanced filtering system for precise content discovery</p><p><br/></p><p>Responsive Design: Seamless experience across all devices</p><p><br/></p><p>SEO Optimized: Enhanced visibility with canonical URLs and OpenGraph data</p><p><br/></p><p>Real-time Updates: Latest industry news and technological developments</p><p><br/></p><h2>ð¯ Purpose</h2><p><br/></p><p>Created to address the growing need for organized AI information, this platform transforms complex data into accessible, well-structured content. Whether you're tracking industry trends, researching companies, or seeking educational resources, AI Information Navigator provides a streamlined, user-friendly experience.</p>",
+    "typeUrl": "https://github.com/BetaStreetOmnis/AstroNavigator",
+    "liveUrl": "https://astronavigator-5s.pages.dev/links/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/BetaStreetOmnis/AstroNavigator",
+        "name": "AstroNavigator",
+        "full_name": "BetaStreetOmnis/AstroNavigator",
+        "description": "AstroNavigator is a web platform built with the Astro framework, designed to enhance information discovery and navigation. It provides a seamless interface for users to access diverse data and resources efficiently, making it ideal for quick and reliable information retrieval.",
+        "stargazers_count": 8,
+        "created_at": "2024-12-10T15:18:41Z",
+        "updated_at": "2025-07-16T02:43:54Z",
+        "pushed_at": "2025-01-12T11:33:15Z",
+        "git_url": "git://github.com/BetaStreetOmnis/AstroNavigator.git",
+        "ssh_url": "git@github.com:BetaStreetOmnis/AstroNavigator.git",
+        "clone_url": "https://github.com/BetaStreetOmnis/AstroNavigator.git",
+        "homepage": "https://astronavigator-5s.pages.dev"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3gptpto024dvs9mnqb4qru2nmbr40ljdn1fdy4.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fq2did1v2c96or4uxvay2be4oyne3w414xo9p0h.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fsd8dsbdwbpmr7i3prw5a8yhvx34j5vtqbbyjt6.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fu950ooa7b88bokta4rt2qa4k8nlvfe1n8fto1s.webp&w=1600&h=900&f=webp"
+    ]
+}

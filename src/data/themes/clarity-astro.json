@@ -1,0 +1,17 @@
+{
+    "url": "https://astro.build/themes/details/clarity-astro/",
+    "name": "clarity-astro",
+    "title": "Clarity Astro",
+    "desc": "Clarity Astro: A sleek, fast SaaS template with Tailwind.",
+    "article": "<p><br/></p><h2>Key Features:</h2><p><br/></p><ul><li>14 Complete SaaS Pages</li><li>100/100 Google PageSpeed Score on Desktop</li><li>Highly customizable (Color, Font, Menu, Social Links, SEO Meta Tags, etc.)</li><li>Built with Astro v5 and Tailwind CSS v4</li><li>Netlify &amp; Vercel setting pre-configured</li><li>Support Disqus Comments</li><li>Write and update content in Markdown / MDX</li><li>MDX components auto-import</li><li>Fully responsive on desktops, tablets, and smartphones</li><li>Clean folder structure</li><li>Simple and easy development environment setup</li><li>Compatible with all modern browsers</li><li>SEO Friendly</li><li>Animation on scroll</li><li>Free Google fonts</li><li>Lifetime free updates</li><li>Detail Documentation</li></ul><p><br/></p><h2>Pages :</h2><ol><li>About</li><li>Features</li><li>Changelog</li><li>Integrations</li><li>Book a Demo</li><li>Contact</li><li>Blog</li><li>Blog Single</li><li>Pricing</li><li>Privacy Policy</li><li>Terms &amp; Conditions</li><li>404 Page</li><li>Elements</li><li>FAQ</li></ol><h2><br/></h2><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p>",
+    "typeUrl": "https://themefisher.com/products/clarity-astro?aff=ab",
+    "liveUrl": "https://clarity-astro.vercel.app/?aff=ab",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3h4h2901q3vozm8fftv35jgzj1kekd35z39oin.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fl4pnybcrbsisunkqz8dnyh9bkh7lys189ols2j.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fmbjazs2k6f4i2pmth0wjsg66xzuymi9vd4qfqx.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F53qdd0khz6137fz2ji1riv55g0rz25vy7tctmh.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F0yqnrfqgnorg55xtqop6a0tlaap8m3rcy5pvvn.webp&w=1600&h=900&f=webp"
+    ]
+}

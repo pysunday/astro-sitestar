@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/astro-persona-portfolio-blog/",
+    "name": "astro-persona-portfolio-blog",
+    "title": "Astro Persona - Portfolio & Blog",
+    "desc": "A modern and clean Astro theme for personal portfolios and bilingual (French/English) blogs. Built with TypeScript, Tailwind CSS, and MDX, focusing on performance and best practices. Ideal for developers and content creators",
+    "article": "<p>Discover a sleek, performant, and developer-friendly Astro theme designed for impactful personal portfolios and engaging bilingual blogs. </p><p><br/></p><p>This theme is built from the ground up with modern web technologies and best practices in mind, making it an excellent starter for developers, writers, and creators who want to showcase their work and share their insights in both French and English.</p><p><br/></p><p>Key Features:</p><p><br/></p><p>*  Built with Astro: Leverage the power of Astro for a super-fast, content-focused website with excellent SEO.</p><p>*  Bilingual Support: Easily manage and present content in multiple languages (configured for French and English out-of-the-box).</p><p>*  Portfolio Showcase: Dedicated sections and layouts to elegantly display your projects and case studies.</p><p>*  MDX Powered Blog: Write rich, interactive blog posts using MDX, combining Markdown with React components.</p><p>*  Tailwind CSS Styling: A utility-first CSS framework for rapid UI development and easy customization.</p><p>*  TypeScript Ready: Enjoy the benefits of static typing for a more robust and maintainable codebase.</p><p>*  Responsive Design: Looks great on all devices, from desktops to smartphones.</p><p>*  Clean Code &amp; Architecture: Developed with a focus on readability, maintainability, and adherence to Clean Code principles.</p><p>*  SEO Optimized: Solid foundations for search engine visibility.</p><p><br/></p><p>Ideal for:</p><p><br/></p><p>*  Software Developers &amp; Engineers</p><p>*  Technical Writers</p><p>*  Freelancers</p><p>*  Content Creators with a bilingual audience</p><p><br/></p><p>Get started quickly and build a stunning online presence with this versatile Astro theme!</p>",
+    "typeUrl": "https://github.com/bakate/astro-theme-starter",
+    "liveUrl": "https://astro-theme-starter-hz9r.vercel.app/en/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/bakate/astro-theme-starter",
+        "name": "astro-theme-starter",
+        "full_name": "bakate/astro-theme-starter",
+        "description": "A modern and clean Astro theme for personal portfolios and bilingual (French/English) blogs. Built with TypeScript, Tailwind CSS, and MDX, focusing on performance and best practices. Ideal for developers and content creators",
+        "stargazers_count": 13,
+        "created_at": "2025-06-03T17:39:36Z",
+        "updated_at": "2025-07-31T11:03:09Z",
+        "pushed_at": "2025-06-04T04:20:58Z",
+        "git_url": "git://github.com/bakate/astro-theme-starter.git",
+        "ssh_url": "git@github.com:bakate/astro-theme-starter.git",
+        "clone_url": "https://github.com/bakate/astro-theme-starter.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fqa0keyy38bkdukfe7ordrm1ee2402fdi42aimm.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fbx6vnv22y35uiwfyp942zki3gnsc63tvsod5au.webp&w=1600&h=900&f=webp"
+    ]
+}

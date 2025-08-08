@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/dante/",
+    "name": "dante",
+    "title": "Dante",
+    "desc": "A uncluttered minimal Astro.js + Tailwind CSS theme designed for those who appreciate clarity and minimalism.",
+    "article": "<p>\r\nDanteâs straightforward design prioritizes essential elements and readability, resulting in a lightweight and efficient website.\r\n</p><p><br/></p><p>This theme supports a markdown/MDX-powered blog, RSS feed, subscription form, tags, and tag pages, is SEO-friendly, and has dark and light color modes, etc.\r\n</p><h2>Theme Features</h2><ul><li>Dark and light color mode</li><li>Hero section with bio</li><li>Portfolio collection</li><li>Pagination support</li><li>Post tags support</li><li>Subscription form</li><li>View transitions</li><li>Tailwind CSS</li><li>Mobile-first responsive layout</li><li>SEO-friendly with canonical URLs and OpenGraph data</li><li>Sitemap support</li><li>RSS Feed support</li><li>Markdown &amp; MDX support</li></ul><p>\n</p><p>For more Astro.js themes please check <a href=\"https://justgoodui.com/\" rel=\"nofollow ugc\"><strong>JustGoodUI.com</strong></a>.</p><p>\n</p>",
+    "typeUrl": "https://github.com/JustGoodUI/dante-astro-theme",
+    "liveUrl": "https://dante-astro-theme.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/JustGoodUI/dante-astro-theme",
+        "name": "dante-astro-theme",
+        "full_name": "JustGoodUI/dante-astro-theme",
+        "description": "Dante, a single-author blog and portfolio theme for Astro.js. ",
+        "stargazers_count": 415,
+        "created_at": "2024-01-11T15:23:14Z",
+        "updated_at": "2025-08-06T12:31:06Z",
+        "pushed_at": "2025-04-01T09:07:48Z",
+        "git_url": "git://github.com/JustGoodUI/dante-astro-theme.git",
+        "ssh_url": "git@github.com:JustGoodUI/dante-astro-theme.git",
+        "clone_url": "https://github.com/JustGoodUI/dante-astro-theme.git",
+        "homepage": "https://dante-astro-theme.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fdante-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fdante-2.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-resume/",
+    "name": "astro-resume",
+    "title": "Astro Resume",
+    "desc": "Resume builder based on Markdown and Tailwind CSS. Built with Astro, and inspired by Standard Resume.",
+    "article": "",
+    "typeUrl": "https://github.com/EmaSuriano/astro-resume",
+    "liveUrl": "https://astro-resume.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/EmaSuriano/astro-resume",
+        "name": "astro-resume",
+        "full_name": "EmaSuriano/astro-resume",
+        "description": "Resume builder written in Markdown using Astro with Tailwind",
+        "stargazers_count": 85,
+        "created_at": "2022-10-26T15:00:56Z",
+        "updated_at": "2025-08-07T06:08:00Z",
+        "pushed_at": "2025-08-01T08:11:33Z",
+        "git_url": "git://github.com/EmaSuriano/astro-resume.git",
+        "ssh_url": "git@github.com:EmaSuriano/astro-resume.git",
+        "clone_url": "https://github.com/EmaSuriano/astro-resume.git",
+        "homepage": "https://astro-resume.netlify.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-resume.webp&w=1600&h=900&f=webp"
+    ]
+}

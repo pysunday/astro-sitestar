@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-shadcn-ui-template/",
+    "name": "astro-shadcn-ui-template",
+    "title": "Astro Shadcn UI Template",
+    "desc": "This template helps you build apps with Astro, Tailwind CSS, and shadcn/ui.",
+    "article": "\n<p>This template helps you build apps with Astro, Tailwind CSS, and\n  shadcn/ui.</p>\n",
+    "typeUrl": "https://github.com/AREA44/astro-shadcn-ui-template",
+    "liveUrl": "https://astro-shadcn-ui-template.vercel.app",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/area44/astro-shadcn-ui-template",
+        "name": "astro-shadcn-ui-template",
+        "full_name": "area44/astro-shadcn-ui-template",
+        "description": "This template helps you build apps with Astro, Tailwind CSS, and  shadcn/ui",
+        "stargazers_count": 175,
+        "created_at": "2023-09-15T14:59:52Z",
+        "updated_at": "2025-08-03T07:02:20Z",
+        "pushed_at": "2025-08-03T07:02:17Z",
+        "git_url": "git://github.com/area44/astro-shadcn-ui-template.git",
+        "ssh_url": "git@github.com:area44/astro-shadcn-ui-template.git",
+        "clone_url": "https://github.com/area44/astro-shadcn-ui-template.git",
+        "homepage": "https://astro-shadcn-ui-template.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fshadcn-ui-template-hero.webp&w=1600&h=900&f=webp"
+    ]
+}

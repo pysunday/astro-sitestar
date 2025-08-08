@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astronaut/",
+    "name": "astronaut",
+    "title": "Astronaut",
+    "desc": "Opinionated starter theme for personal websites, landing pages, et cetera.",
+    "article": "<p>This is my go-to template for starting fresh projects and comes with the following features:</p><p><br/></p><ul><li>Absolute imports</li><li>CSS reset</li><li>Custom fonts</li><li>Fluid responsive design</li><li>Preference detection</li><li>Pre-commit hooks</li><li>Prettier config</li><li>SEO optimisation</li><li>Security headers</li><li>Usability improvements</li></ul><p><br/></p><p>Check out the website for more features and have fun creating great websites with it!\r\n</p>",
+    "typeUrl": "https://github.com/stevefrenzel/astro-naut",
+    "liveUrl": "https://astro-naut.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/stevefrenzel/astro-naut",
+        "name": "astro-naut",
+        "full_name": "stevefrenzel/astro-naut",
+        "description": "Starter template for static site generator Astro",
+        "stargazers_count": 45,
+        "created_at": "2023-11-04T09:48:10Z",
+        "updated_at": "2025-08-01T13:10:15Z",
+        "pushed_at": "2025-08-01T13:10:11Z",
+        "git_url": "git://github.com/stevefrenzel/astro-naut.git",
+        "ssh_url": "git@github.com:stevefrenzel/astro-naut.git",
+        "clone_url": "https://github.com/stevefrenzel/astro-naut.git",
+        "homepage": "https://astro-naut.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fcybpl4s7yimb1qwziyn4h5i0w5e16ojzp2ctuz.webp&w=1600&h=900&f=webp"
+    ]
+}

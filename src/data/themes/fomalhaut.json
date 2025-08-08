@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/fomalhaut/",
+    "name": "fomalhaut",
+    "title": "Fomalhaut",
+    "desc": "Creative satro agency template made with tailwind and GSAP",
+    "article": "<h2><strong>Features</strong></h2><ul><li><strong>â</strong> Localization</li><li><strong>â</strong> Blog</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/majesticooss/fomalhaut",
+    "liveUrl": "https://fomalhaut.majestico.co",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/majesticooss/fomalhaut",
+        "name": "fomalhaut",
+        "full_name": "majesticooss/fomalhaut",
+        "description": null,
+        "stargazers_count": 23,
+        "created_at": "2024-05-01T13:00:54Z",
+        "updated_at": "2025-08-05T02:23:48Z",
+        "pushed_at": "2025-02-23T14:55:55Z",
+        "git_url": "git://github.com/majesticooss/fomalhaut.git",
+        "ssh_url": "git@github.com:majesticooss/fomalhaut.git",
+        "clone_url": "https://github.com/majesticooss/fomalhaut.git",
+        "homepage": "https://fomalhaut.majestico.co"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fp9a9vf7vbfv5j9utllok5l8mehj4regq7qeiqm.webp&w=1600&h=900&f=webp"
+    ]
+}

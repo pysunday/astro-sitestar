@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-minimal-blog/",
+    "name": "astro-minimal-blog",
+    "title": "Astro Minimal Blog",
+    "desc": "A minimal blog using Tailwind CSS and TypeScript. Integrated tags with filtering for posts by tags, RSS support, auto-generated web manifest and SEO readiness.",
+    "article": "",
+    "typeUrl": "https://github.com/alexanderhodes/astro-minimal-blog",
+    "liveUrl": "https://sunny-arithmetic-1e866e.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/alexanderhodes/astro-minimal-blog",
+        "name": "astro-minimal-blog",
+        "full_name": "alexanderhodes/astro-minimal-blog",
+        "description": "Minimalistic blog theme built with astro",
+        "stargazers_count": 25,
+        "created_at": "2022-08-23T18:00:42Z",
+        "updated_at": "2025-04-08T15:53:29Z",
+        "pushed_at": "2023-05-03T15:00:20Z",
+        "git_url": "git://github.com/alexanderhodes/astro-minimal-blog.git",
+        "ssh_url": "git@github.com:alexanderhodes/astro-minimal-blog.git",
+        "clone_url": "https://github.com/alexanderhodes/astro-minimal-blog.git",
+        "homepage": "https://sunny-arithmetic-1e866e.netlify.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-minimal-blog.webp&w=1600&h=900&f=webp"
+    ]
+}

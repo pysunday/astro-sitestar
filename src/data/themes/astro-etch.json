@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/astro-etch/",
+    "name": "astro-etch",
+    "title": "Astro Etch",
+    "desc": "This is a minimal blog system that I use to write. It is based on Astro. Styling is done with Tailwind CSS. The theme was based off of a hugo theme named etch.",
+    "article": "<h2>Features</h2><ul><li><strong>Responsive Design</strong>: Astro Etch is designed to look great on all devices. Theme is based on a Hugo theme named <a href=\"https://github.com/LukasJoswiak/etch\" rel=\"nofollow ugc\">etch</a>.</li><li><strong>Markdown Support</strong>: Focus on your writing with markdown support powered by Astro. MDX is also supported.</li><li><strong>SEO Friendly</strong>: Astro Etch is optimized for search engines. It has a sitemap, RSS feed, and Open Graph images.</li><li><strong>Syntax Highlighting</strong>: Code blocks are styled with Shiki (from Astro).</li><li><strong>Tailwind CSS</strong>: Astro Etch uses <a href=\"https://tailwindcss.com\" rel=\"nofollow ugc\">Tailwind CSS</a> for styling.</li><li><strong>React Components</strong>: Use React components if you need dynamic content.</li></ul>",
+    "typeUrl": "https://github.com/lhr0909/astro-etch",
+    "liveUrl": "https://astro-etch.pages.dev",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/lhr0909/astro-etch",
+        "name": "astro-etch",
+        "full_name": "lhr0909/astro-etch",
+        "description": "Minimal blog style template, built with Astro.",
+        "stargazers_count": 8,
+        "created_at": "2025-01-04T02:17:40Z",
+        "updated_at": "2025-04-16T06:35:54Z",
+        "pushed_at": "2025-01-04T03:13:55Z",
+        "git_url": "git://github.com/lhr0909/astro-etch.git",
+        "ssh_url": "git@github.com:lhr0909/astro-etch.git",
+        "clone_url": "https://github.com/lhr0909/astro-etch.git",
+        "homepage": "https://astro-etch.pages.dev"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3yiyhqiraiv6y8w7jmiik6z1ij6mz5t82vmvav.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fwqbck6myywrqjmklvup5o4mzf7zjpp300pxz9j.webp&w=1600&h=900&f=webp"
+    ]
+}

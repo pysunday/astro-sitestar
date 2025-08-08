@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/macos-portfolio-extended/",
+    "name": "macos-portfolio-extended",
+    "title": "macos-portfolio-extended",
+    "desc": "An open source interactive portfolio website, with a chatbot that resembles you, a clean and modern design, sections for education, experience, skills, competitions, and more. Built with Astro.js, Tailwind CSS, TypeScript, React, and Vercel.",
+    "article": "",
+    "typeUrl": "https://github.com/aabdoo23/portfolio",
+    "liveUrl": "https://aabdoo23.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/aabdoo23/portfolio",
+        "name": "portfolio",
+        "full_name": "aabdoo23/portfolio",
+        "description": "Interactive macOS-inspired portfolio with AI-powered chat, multiple app, movable windows, dynamic backgrounds, and SEO optimization and much more",
+        "stargazers_count": 54,
+        "created_at": "2025-04-16T13:28:44Z",
+        "updated_at": "2025-08-03T13:08:45Z",
+        "pushed_at": "2025-05-26T12:27:54Z",
+        "git_url": "git://github.com/aabdoo23/portfolio.git",
+        "ssh_url": "git@github.com:aabdoo23/portfolio.git",
+        "clone_url": "https://github.com/aabdoo23/portfolio.git",
+        "homepage": "https://aabdoo23.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F6ikerf94fr39h4wigvtqpn5vob9wl8eebwk1hm.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fjed5uqfbfa2ntilvl9djw5nqj71qj1mcy4u8kd.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fqp5iufwvbnm07v5ae78vibldh6pfnheoaaf64v.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fqkec00foie8164u6fzi4v7di212ucn7lwoa4fc.webp&w=1600&h=900&f=webp"
+    ]
+}

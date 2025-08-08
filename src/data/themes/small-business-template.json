@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/small-business-template/",
+    "name": "small-business-template",
+    "title": "Small Business Template",
+    "desc": "A basic small business website template, shipped ready for user customization. Achieves perfect lighthouse scores.",
+    "article": "",
+    "typeUrl": "https://github.com/Dillonpw/small-bis",
+    "liveUrl": "https://small-bis.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Dillonpw/small-bis",
+        "name": "small-bis",
+        "full_name": "Dillonpw/small-bis",
+        "description": null,
+        "stargazers_count": 10,
+        "created_at": "2024-05-23T22:44:29Z",
+        "updated_at": "2025-03-24T02:01:06Z",
+        "pushed_at": "2025-01-05T22:08:33Z",
+        "git_url": "git://github.com/Dillonpw/small-bis.git",
+        "ssh_url": "git@github.com:Dillonpw/small-bis.git",
+        "clone_url": "https://github.com/Dillonpw/small-bis.git",
+        "homepage": "https://small-bis.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3hk86o694rcm7rjahz21rzgqlxv3mkzjtmaz3n.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-simple-boilerplate-tailwind-sitemap-google-fonticons-metadata/",
+    "name": "astro-simple-boilerplate-tailwind-sitemap-google-fonticons-metadata",
+    "title": "Astro Simple Boilerplate - Tailwind, Sitemap, Google Font/Icons, Metadata",
+    "desc": " I made this Astro website starter because it's my go-to setup for Astro projects. It includes a very basic Astro installation as well as other integrations that may be useful including Tailwind CSS, Astro Sitemap, Google Font and Icons + more",
+    "article": "<p>I made this Astro website starter because it's my go-to setup for Astro projects. It includes:</p><p>-Astro Tailwind CSS integration: <a href=\"https://docs.astro.build/en/guides/integrations-guide/tailwind/\">https://docs.astro.build/en/guides/integrations-guide/tailwind/</a></p><p>-Astro sitemap integration: <a href=\"https://docs.astro.build/en/guides/integrations-guide/sitemap/\">https://docs.astro.build/en/guides/integrations-guide/sitemap/</a></p><p>-Integration of Google Material Icons: <a href=\"https://developers.google.com/fonts/docs/material_icons#setup_method_1_using_via_google_fonts\" rel=\"nofollow ugc\">https://developers.google.com/fonts/docs/material_icons#setup_method_1_using_via_google_fonts</a></p><p>-Integration of Google Fonts: <a href=\"https://fonts.google.com/\" rel=\"nofollow ugc\">https://fonts.google.com/</a></p><p>-Structured metadata setup for improved SEO (see header in layout file)</p><p>-Added navbar and footer components</p><p>-Added 404 page: <a href=\"https://astro-simple-starter.netlify.app/404\" rel=\"nofollow ugc\">https://astro-simple-starter.netlify.app/404</a></p>",
+    "typeUrl": "https://github.com/Sean-93/astro-basic-starter",
+    "liveUrl": "https://astro-simple-starter.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Sean-93/astro-basic-starter",
+        "name": "astro-basic-starter",
+        "full_name": "Sean-93/astro-basic-starter",
+        "description": "This is a basic starter for the Astro web framework - comes with Tailwind, and Google Material Icons integration",
+        "stargazers_count": 4,
+        "created_at": "2024-12-06T02:59:50Z",
+        "updated_at": "2025-05-21T11:39:39Z",
+        "pushed_at": "2025-02-23T00:03:02Z",
+        "git_url": "git://github.com/Sean-93/astro-basic-starter.git",
+        "ssh_url": "git@github.com:Sean-93/astro-basic-starter.git",
+        "clone_url": "https://github.com/Sean-93/astro-basic-starter.git",
+        "homepage": "https://astro-simple-starter.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Frbn1knxdnonpyslmu9oh7r104fnja7o4o1rtlj.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/photography-portfolio-template/",
+    "name": "photography-portfolio-template",
+    "title": "Minimalistic Photography Portfolio",
+    "desc": "A clean, minimal photography portfolio template. Features responsive design, image collections, lightbox gallery, and configurable galleryâperfect for showcasing your work with style.",
+    "article": "<h2>Minimalistic Photography Portfolio</h2><h3>Description</h3><p>A modern, fast, and highly customizable photography portfolio template.</p><p>Ideal for photographers who want to showcase their work through a sleek, performant, and professional website.</p><h3>Key Features</h3><ul><li>Fully responsive design</li><li>Optimized image loading and handling</li><li>Easy to customize</li><li>Easy to organized gallery via a yaml file</li><li>Multiple collections support</li><li>Image zoom capabilities</li><li>Automatic deployment to GitHub pages</li></ul><h3>Built With</h3><ul><li>Typescript</li><li>Tailwind</li><li>Sharp </li><li>GLightbox</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/rockem/astro-photography-portfolio",
+    "liveUrl": "https://rockem.github.io/astro-photography-portfolio/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/rockem/astro-photography-portfolio",
+        "name": "astro-photography-portfolio",
+        "full_name": "rockem/astro-photography-portfolio",
+        "description": "AstroJS based photography portfolio site template",
+        "stargazers_count": 21,
+        "created_at": "2025-03-13T18:36:47Z",
+        "updated_at": "2025-08-04T08:48:22Z",
+        "pushed_at": "2025-07-08T05:25:29Z",
+        "git_url": "git://github.com/rockem/astro-photography-portfolio.git",
+        "ssh_url": "git@github.com:rockem/astro-photography-portfolio.git",
+        "clone_url": "https://github.com/rockem/astro-photography-portfolio.git",
+        "homepage": "https://rockem.github.io/astro-photography-portfolio/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ft8ypob9q2dpsycekmzcvasypdrney5ap1h5vve.webp&w=1600&h=900&f=webp"
+    ]
+}

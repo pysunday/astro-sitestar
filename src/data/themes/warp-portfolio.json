@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/warp-portfolio/",
+    "name": "warp-portfolio",
+    "title": "Warp Portfolio",
+    "desc": "Open source web portfolio, inspired by Warp Terminal. Made with Astro 5.",
+    "article": "<p>WarpPortfolio is a web portfolio inspired by Warp Terminal. Built with Astro and Tailwind CSS, this project aims to provide a sleek and modern portfolio template.</p><p>It also supports internationalization (i18n), making it accessible to a global audience! ð</p><p>Whether you're a developer looking to showcase your projects or a designer wanting a clean and modern portfolio, WarpPortfolio offers a solid foundation to build upon.</p>",
+    "typeUrl": "https://github.com/MarcosKlender/WarpPortfolio",
+    "liveUrl": "https://warpportfolio.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/MarcosKlender/WarpPortfolio",
+        "name": "WarpPortfolio",
+        "full_name": "MarcosKlender/WarpPortfolio",
+        "description": "Open source web portfolio, inspired by Warp Terminal. Made with Astro 5.",
+        "stargazers_count": 3,
+        "created_at": "2024-12-31T14:48:50Z",
+        "updated_at": "2025-06-15T09:34:45Z",
+        "pushed_at": "2025-03-21T14:51:07Z",
+        "git_url": "git://github.com/MarcosKlender/WarpPortfolio.git",
+        "ssh_url": "git@github.com:MarcosKlender/WarpPortfolio.git",
+        "clone_url": "https://github.com/MarcosKlender/WarpPortfolio.git",
+        "homepage": "https://warpportfolio.netlify.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3ngwqyg3jod7eixdcuz5fixet6td3qgxvqddg8.webp&w=1600&h=900&f=webp"
+    ]
+}

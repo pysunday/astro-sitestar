@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/portfolio-apto-para-todo-pblico-portfolio-suitable-for-all-audiences/",
+    "name": "portfolio-apto-para-todo-pblico-portfolio-suitable-for-all-audiences",
+    "title": "Portfolio Pietro ",
+    "desc": "Espero que mi portfolio les sirva a todos, esta hecho con mucho amor. \r\nSi les gusta dejen una estrella en Github! â¥\r\n\r\nI hope my portfolio is helpful to everyone, it was made with a lot of love. \r\nIf you like it, please leave a star on GitHub! â¥",
+    "article": "<p>En este proyecto podras encontrar un Portfolio utilizable por todo tipo de programadores interesados en mostrar sus conocimientos.</p><p>Posee secciones como:</p><p>Inicio, que muestra una imagen nuestra con una descripcion y links a nuestras redes mas importantes, que pueden ser LinkedIn, nuestro correo, discord, etc.</p><p>Tecnologias, muestra los lenguajes, frameworks, apps, que sabemos utilizar.</p><p>Proyectos, aqui se puede encontrar una lista de los proyectos que hayamos realizado y queremos compartir.</p><p>Certificados, aqui podemos cargar los certificados que poseemos.</p><p>Sobre mi, por ultimo esta esta seccion donde podemos hablar de una forma mas profunda sobre nosotros y nuestros intereses.</p><p><br/></p><p>In this project, you will find a portfolio suitable for all types of programmers interested in showcasing their skills.</p><p>It features sections such as:</p><p>Home: This section displays an image of us along with a description and links to our most important social media, which can include LinkedIn, our email, Discord, etc.</p><p>Technologies: This section shows the languages, frameworks, and apps we know how to use.</p><p>Projects: Here you can find a list of the projects we have completed and wish to share.</p><p>Certificates: In this section, we can upload the certificates we possess.</p><p>About Me: Lastly, this section allows us to talk in more depth about ourselves and our interests.</p>",
+    "typeUrl": "https://github.com/Pietro923/portfolio-Pietro",
+    "liveUrl": "https://portfolio-pietro.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Pietro923/portfolio-Pietro",
+        "name": "portfolio-Pietro",
+        "full_name": "Pietro923/portfolio-Pietro",
+        "description": "Mi portfolio hecho con mucho amor en Astro",
+        "stargazers_count": 15,
+        "created_at": "2024-07-26T03:19:27Z",
+        "updated_at": "2025-07-13T08:34:25Z",
+        "pushed_at": "2024-08-08T23:26:44Z",
+        "git_url": "git://github.com/Pietro923/portfolio-Pietro.git",
+        "ssh_url": "git@github.com:Pietro923/portfolio-Pietro.git",
+        "clone_url": "https://github.com/Pietro923/portfolio-Pietro.git",
+        "homepage": "https://portfolio-pietro.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F8bpm12fcfz1puggdncvg4h5tbjw6to2r82vs99.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F26l22myw8wuz6rfozvayi5tda04j7nwle73ils.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fqck9dsf2bp868dqgn9c6o1vs7ko7ygo7zxy9fy.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F10mhsewpe94515jqkjon8bpas9t062ghftv0zo.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fz69u1jaf2tsznnqhlfv971j9n1bf0rdic8yldb.webp&w=1600&h=900&f=webp"
+    ]
+}

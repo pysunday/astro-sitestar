@@ -1,0 +1,15 @@
+{
+    "url": "https://astro.build/themes/details/minty-fresh-saas/",
+    "name": "minty-fresh-saas",
+    "title": "Minty Fresh SaaS",
+    "desc": "MintryFresh is a sleek and modern Astro SaaS theme designed for innovative tech companies and startups",
+    "article": "<p>The theme features a clean and minimalistic design with a fresh mint color palette that evokes a sense of innovation and simplicity. The theme offers a smooth user experience with intuitive navigation, responsive layouts, and fast loading times.</p><p>It includes customizable components such as pricing tables, testimonials, feature showcases, and call-to-action sections, all designed to highlight the unique value of your SaaS product. With a focus on clarity and usability, MintryFresh is perfect for showcasing your software solutions and engaging potential customers.</p><h3>Features</h3><ul><li>Optimized for high performance with a Google PageSpeed score of 97</li><li>Features over 12 pages</li><li>Allows content creation and updates in Markdown or MDX</li><li>OG image support included</li><li>Fully customizable (CSS, Menu Links, Socials, SEO meta tags)</li><li>Automatically imports MDX components</li><li>Includes contact form support (incl. a small form in the footer)</li><li>API &amp; Feedback forms</li><li>Responsive design for desktops, tablets, and smartphones</li><li>Journal / News Articles</li><li>Built using the Tailwind CSS framework</li><li>SEO-friendly structure</li></ul><h3>Content / Pages</h3><ul><li>Landing Page (Home by clicking on logo)</li><li>Product (solutions, comparisons)</li><li>How it works</li><li>Sign Up &amp; Sign In</li><li>Journal / News (+ individual articles)</li><li>Pricing (+ price comparison table)</li><li>Changelog</li><li>API Page (for Developers / includes Swagger-like form with code snippets)</li><li>About (Benefits, Values &amp; Timeline/Journey components)</li><li>Career (+ open role / job positions)</li><li>FAQ Page</li><li>Contact Sales (contact form)</li></ul><p><br/></p>",
+    "typeUrl": "https://www.etsy.com/uk/listing/1844094356/saas-astro-theme-mintyfresh",
+    "liveUrl": "https://mintyfresh.vercel.app/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fs3zzu5varkpzhci48qtbm1f6ec3dwmkth7gl91.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fm5uwcwn0e0kvxwtytn5fbbvc3bnuz3w03gced4.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fik3xl7cwacy2tr8uk5f9k9xerc9o7tkxu4cgqr.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/meo/",
+    "name": "meo",
+    "title": "Meo/Minimalism",
+    "desc": "A fast, minimalist-style blog theme. Features good mobile responsiveness and performance.\r\n\r\nå¿«éãç®çº¦é£æ ¼çåå®¢ä¸»é¢ãå·æè¯å¥½çç§»å¨ç«¯ééåæ§è½ã",
+    "article": "<p>This theme is installed as an integration, which clarifies the Git commit history and simplifies upgrading the theme when a new version is released.</p><p><br/></p><p>è¯¥ä¸»é¢ä½ä¸ºéæå®è£ï¼è¿ä½¿å¾ Git æäº¤åå²æ´å æ¸æ°ï¼å¹¶ç®åäºåå¸æ°çæ¬æ¶ä¸»é¢åçº§è¿ç¨ã</p>",
+    "typeUrl": "https://github.com/miaobuao/astro-theme-meo-minimalism",
+    "liveUrl": "https://astro-theme-meo-minimalism.pages.dev/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/miaobuao/astro-theme-meo-minimalism",
+        "name": "astro-theme-meo-minimalism",
+        "full_name": "miaobuao/astro-theme-meo-minimalism",
+        "description": null,
+        "stargazers_count": 6,
+        "created_at": "2025-01-14T10:29:38Z",
+        "updated_at": "2025-07-15T14:20:18Z",
+        "pushed_at": "2025-07-15T14:15:46Z",
+        "git_url": "git://github.com/miaobuao/astro-theme-meo-minimalism.git",
+        "ssh_url": "git@github.com:miaobuao/astro-theme-meo-minimalism.git",
+        "clone_url": "https://github.com/miaobuao/astro-theme-meo-minimalism.git",
+        "homepage": "https://astro-theme-meo-minimalism.pages.dev/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ftdzshzcpjkxlpsbfc62o3w1bqcvmy89laro2p0.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F29wyuwdut45owsgw96h5d76xj94vllhib1bima.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/starlight-flexoki/",
+    "name": "starlight-flexoki",
+    "title": "Starlight Flexoki",
+    "desc": "A warm and friendly theme for your Starlight docs based on the Flexoki colour palette.",
+    "article": "<p>This is a theme for the <a href=\"https://starlight.astro.build/\">Starlight</a> docs framework based on the <a href=\"https://stephango.com/flexoki\" rel=\"nofollow ugc\">Flexoki colour palette</a>.</p><h2>Features</h2><ul><li><strong>Flexoki colour theme:</strong> Dark and light colour schemes based on Flexokiâs warm and inky shades, including matching syntax highlighting.</li><li><strong>Readable design:</strong> A simple design with minimal clutter, featuring large body text and clear details.</li><li><strong>Configurable accent color:</strong> Pick from Flexokiâs eight accent colour options.</li></ul>",
+    "typeUrl": "https://github.com/delucis/starlight-theme-flexoki",
+    "liveUrl": "https://delucis.github.io/starlight-theme-flexoki/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/delucis/starlight-theme-flexoki",
+        "name": "starlight-theme-flexoki",
+        "full_name": "delucis/starlight-theme-flexoki",
+        "description": "Starlight theme based on the Flexoki colour palette",
+        "stargazers_count": 25,
+        "created_at": "2025-02-21T00:49:56Z",
+        "updated_at": "2025-08-04T10:00:41Z",
+        "pushed_at": "2025-08-07T16:48:14Z",
+        "git_url": "git://github.com/delucis/starlight-theme-flexoki.git",
+        "ssh_url": "git@github.com:delucis/starlight-theme-flexoki.git",
+        "clone_url": "https://github.com/delucis/starlight-theme-flexoki.git",
+        "homepage": "https://delucis.github.io/starlight-theme-flexoki/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fh5r3hjfo11e2zkg6bfuaixu49n06o0fk14r226.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F850r04nwvr5hzhvyzk6k70hxxqs65buugzaoqb.webp&w=1600&h=900&f=webp"
+    ]
+}

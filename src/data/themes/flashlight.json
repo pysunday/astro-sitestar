@@ -1,0 +1,16 @@
+{
+    "url": "https://astro.build/themes/details/flashlight/",
+    "name": "flashlight",
+    "title": "Flashlight",
+    "desc": "A powerful AstroJS theme for your next project. Includes 6 themes, dark + light mode, functioning contact form, testimonials, and a single config file for a lightning fast launch.",
+    "article": "<p>Introducing a refined website template developed with Tailwind CSS, designed to enhance your online presence with a blend of simplicity and functionality. This template comes equipped with six pre-configured themes, available in both light and dark modes, to suit a variety of preferences. Customization is straightforward: easily adjust or create new themes to reflect your brand, all through an intuitive setup.</p><p><br/></p><p>Included in the template are essential pages such as Main, About, Contact, Team, Blog, FAQ, and Pricing, ensuring a complete and professional website. Everything can be managed via a single configuration file, making it possible to get your site up and running quickly. Moreover, the integrated contact form, supported by Formspree, provides a simple, cost-free way to connect with your audience.</p><p><br/></p><p>This template offers everything necessary to establish a polished, fully functional website quickly and efficiently, ideal for businesses and individuals looking for a clean and effective online presence.</p>",
+    "typeUrl": "https://store.cafezinho.co/buy/ba843963-5ff7-4c12-8783-ddc19ca6dd9a",
+    "liveUrl": "https://flashlight-preview.pages.dev/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F4wjqzujar9h6jvmaqsxxk32rnozkltsczz12ow.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Flmnds5r8q03onnpw1ffjwmv96n77i5n55vlqq0.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fnzim7t5a0kapjb0tvrl4qkkuanps006m4hw6om.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F2fvwaf6sqwo8khz9yhd6o3ikrh3d0vvuavmxb0.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/astro-spaceship/",
+    "name": "astro-spaceship",
+    "title": "Spaceship",
+    "desc": "Publish your Obsidian vault as a fast, elegant website using Astro and TailwindCSS. Supports Obsidian-style links, image embeds, tree navigation, backlinks, and moreâperfect for digital gardens and personal wikis.",
+    "article": "<p><strong>Astro Spaceship</strong> is a powerful, minimal, and flexible theme designed for turning your <a href=\"https://obsidian.md\" rel=\"nofollow ugc\">Obsidian</a> vault into a beautiful, static website using <a href=\"https://astro.build\">Astro</a> and <a href=\"https://tailwindcss.com\" rel=\"nofollow ugc\">TailwindCSS</a>. Whether you're sharing your digital garden, notes, or a Zettelkasten, this theme helps bring your knowledge to the web with elegance and ease.</p><h2>â¨ Features</h2><ul><li>ð <strong>Obsidian Link and Image Resolution</strong></li><li> Seamlessly supports [[wiki-links]] and embeds like ![[image.png]], just like in Obsidian. No need to manually convert links or media.</li><li>ð <strong>Frontmatter Metadata for Publishing</strong></li><li> Control visibility, titles, descriptions, tags, and more with simple frontmatter options. Choose what gets published and how it appears.</li><li>ð² <strong>Tree Navigation Bar</strong></li><li> Navigate your notes with a collapsible file tree that mirrors your vault structure. Makes exploring content intuitive and fast.</li><li>ð <strong>Table of Contents (ToC)</strong></li><li> Auto-generated ToC for every page, based on headings in your notes. Helps readers easily jump to sections.</li><li>ð <strong>Links and Backlinks</strong></li><li> Display outgoing links and backlinks at the bottom of each note, making your web of notes as interconnected as your vault.</li></ul><h2>ð Built With</h2><ul><li><a href=\"https://astro.build/\"><strong>Astro</strong></a> â Lightning-fast static site generation.</li><li><a href=\"https://tailwindcss.com/\" rel=\"nofollow ugc\"><strong>TailwindCSS</strong></a> â Utility-first CSS for rapid UI styling.</li><li><a href=\"https://www.markdownguide.org/\" rel=\"nofollow ugc\"><strong>Markdown</strong></a> â Your content stays in plain text, easy to version and manage.</li></ul><h2>ð Use Cases</h2><ul><li>Publish a second brain or digital garden</li><li>Share your research notes and knowledge base</li><li>Create a personal wiki</li><li>Document creative projects or coursework</li></ul><p><br/></p><h2>ð  Setup &amp; Usage</h2><pre>npm create astro@latest -- --template aitorllj93/astro-theme-spaceship\r\n</pre><h2>ð§  Notes</h2><ul><li>Internal links work only for files within the vault structure.</li><li>Uses YAML frontmatter for publishing logic.</li><li>Markdown rendering includes code highlighting, and responsive design out-of-the-box.</li></ul><h2>ð§ª Future Improvements</h2><ul><li>Search functionality</li><li>Dark mode toggle</li><li>Custom plugin support</li><li>Tag pages and graph view</li></ul><h2>ð License</h2><p>MIT â Free to use, modify, and share.</p>",
+    "typeUrl": "https://github.com/aitorllj93/astro-theme-spaceship",
+    "liveUrl": "https://aitorllamas.com/astro-theme-spaceship/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/aitorllj93/astro-theme-spaceship",
+        "name": "astro-theme-spaceship",
+        "full_name": "aitorllj93/astro-theme-spaceship",
+        "description": "Publish your Obsidian vault to the web with Astro and TailwindCSS.",
+        "stargazers_count": 32,
+        "created_at": "2025-04-06T13:52:54Z",
+        "updated_at": "2025-08-06T08:14:32Z",
+        "pushed_at": "2025-08-03T13:36:34Z",
+        "git_url": "git://github.com/aitorllj93/astro-theme-spaceship.git",
+        "ssh_url": "git@github.com:aitorllj93/astro-theme-spaceship.git",
+        "clone_url": "https://github.com/aitorllj93/astro-theme-spaceship.git",
+        "homepage": "http://aitorllamas.com/astro-theme-spaceship/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F9zai6tabku4mjoul0pzh30luexh1mgo1jdpibl.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fidx9cc8sjllzn573zm4d6rtmbr9abyv777dq0v.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F5imr5935oc39vrmt42xhsoew4jcl1tzgzdu9gj.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ff7qol0zjjmxvpqm7qtjnn41gfjsd054w3jvmo6.webp&w=1600&h=900&f=webp"
+    ]
+}

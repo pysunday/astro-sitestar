@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/qwikdevastro-deno/",
+    "name": "qwikdevastro-deno",
+    "title": "@QwikDev/astro + Deno",
+    "desc": "Kickstart your @QwikDev/astro and Deno projects effortlessly with this comprehensive starter kit.",
+    "article": "<h3>ð Starter Kit for @QwikDev/astro and Deno</h3><p>Get started quickly with @QwikDev/astro and Deno using this comprehensive starter kit. It includes everything you need to kickstart your projects, from basic setup to advanced features. Streamline your development process and unleash the power of Qwik and Astro with ease.</p>",
+    "typeUrl": "https://github.com/siguici/qwik-astro-deno",
+    "liveUrl": "https://qwik-astro.deno.dev",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/siguici/qwik-astro-deno",
+        "name": "qwik-astro-deno",
+        "full_name": "siguici/qwik-astro-deno",
+        "description": "A template to get started with @QwikDev/astro and @denoland.",
+        "stargazers_count": 1,
+        "created_at": "2024-03-30T20:39:33Z",
+        "updated_at": "2025-04-11T04:02:18Z",
+        "pushed_at": "2025-06-11T13:29:36Z",
+        "git_url": "git://github.com/siguici/qwik-astro-deno.git",
+        "ssh_url": "git@github.com:siguici/qwik-astro-deno.git",
+        "clone_url": "https://github.com/siguici/qwik-astro-deno.git",
+        "homepage": "https://qwik-astro.deno.dev"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fphho01ny3valxzpavsco8fvrsvmqr9w025vzbr.webp&w=1600&h=900&f=webp"
+    ]
+}

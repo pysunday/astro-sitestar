@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/just-a-portfolio/",
+    "name": "just-a-portfolio",
+    "title": "Just a portfolio",
+    "desc": "A sleek, minimalistic portfolio template thatâs fully customizable and completely free!\r\nThis theme combines simplicity with flexibility, giving you complete control over your design without compromising on style.",
+    "article": "<p>This portfolio theme is designed with <strong>simplicity</strong> and <strong>customization</strong> in mind, offering a sleek and modern layout that is both visually appealing and easy to navigate.</p><p><br/></p><p>With a focus on minimalism, this portfolio allows for an <strong>intuitive browsing experience</strong>, where visitors can quickly grasp the essence of your work. Itâs completely free, making it <strong>accessible to anyone</strong> looking to build a professional presence online.</p><p><br/></p><p>Whether you're just starting your career or looking to refresh your online portfolio, this theme offers a <strong>flexible</strong> and <strong>no-cost solution</strong> that can evolve with your work. It's built to be <strong>fast</strong>, <strong>responsive</strong>, and <strong>user-friendly</strong>, making it a perfect choice for creatives who want to focus on what matters mostâshowcasing their <em>skills</em> and <em>talent</em>.</p>",
+    "typeUrl": "https://github.com/garaven/basic-portfolio-template",
+    "liveUrl": "https://basic-ptfolio-template.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/garaven/basic-portfolio-template",
+        "name": "basic-portfolio-template",
+        "full_name": "garaven/basic-portfolio-template",
+        "description": "Portfolio template built with Astro and Tailwind CSS",
+        "stargazers_count": 7,
+        "created_at": "2025-01-26T00:49:16Z",
+        "updated_at": "2025-05-28T11:10:33Z",
+        "pushed_at": "2025-05-02T02:59:02Z",
+        "git_url": "git://github.com/garaven/basic-portfolio-template.git",
+        "ssh_url": "git@github.com:garaven/basic-portfolio-template.git",
+        "clone_url": "https://github.com/garaven/basic-portfolio-template.git",
+        "homepage": "https://basic-ptfolio-template.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fkklfiz72jvkb0m0nme1dxazbo61ho8nsj6mhhn.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fkb2saiwhb2626fapdoq0jlu2ruqlg2spyy0o9z.webp&w=1600&h=900&f=webp"
+    ]
+}

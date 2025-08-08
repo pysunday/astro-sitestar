@@ -1,0 +1,13 @@
+{
+    "url": "https://astro.build/themes/details/visionex-astro/",
+    "name": "visionex-astro",
+    "title": "Visionex Astro ",
+    "desc": "A Modern SaaS Theme\r\n",
+    "article": "<p>Visionex Astro is a modern SaaS theme designed specifically for SaaS companies, built on the latest Astro version 4. It's developed using Astro and Tailwind CSS, making it perfect for creating an exceptionally fast website. With over 13 pre-built pages, Visionex provides a straightforward and efficient way to showcase your products and services to the world.</p><p><br/></p><h3>Key Features:</h3><ul><li>13 Unique Pages</li><li>Highly customizable (Color, Font, Menu, Social Links, SEO Meta Tags, etc.)</li><li>95+ Google PageSpeed Score (Desktop)</li><li>Built with Astro v5 and Tailwind CSS v4</li><li>Contact form support</li><li>Taxonomy support</li><li>Support OG image</li><li>Support Disqus Comments</li><li>Write and update content in Markdown / MDX</li><li>MDX components auto import</li><li>Fully responsive on desktops, tablets, and smartphones</li><li>SEO Friendly</li><li>Clean folder structure</li><li>Simple and easy development environment setup</li><li>Compatible with all modern browsers</li><li>Free Google fonts</li><li>Font Awesome icons</li><li>Lifetime free updates</li></ul><h3>Pages: </h3><ul><li>Home</li><li>About us</li><li>Use case</li><li>Use case details</li><li>Blog</li><li>Blog single</li><li>Pricing</li><li>Our team</li><li>Career</li><li>Career details</li><li>Contact us</li><li>Custom 404</li><li>Faq </li><li>Category</li><li>Category details</li></ul><p><br/></p><p><br/></p>",
+    "typeUrl": "https://themefisher.com/products/visionex-astro?aff=ab",
+    "liveUrl": "https://visionex-astro.vercel.app/?aff=ab",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F5v4p6058k4l1xshxb7m5jdnd3vjcvok9psfe98.webp&w=1600&h=900&f=webp"
+    ]
+}

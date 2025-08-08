@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/solo/",
+    "name": "solo",
+    "title": "Solo",
+    "desc": "A single-screen personal portfolio/CV template.",
+    "article": "",
+    "typeUrl": "https://github.com/0xShapeShifter/solo",
+    "liveUrl": "https://productized.vercel.app/solo",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/essens-cc/solo",
+        "name": "solo",
+        "full_name": "essens-cc/solo",
+        "description": "Solo — a single-screen personal portfolio/cv template",
+        "stargazers_count": 7,
+        "created_at": "2023-10-29T03:41:58Z",
+        "updated_at": "2025-01-08T08:31:12Z",
+        "pushed_at": "2023-10-30T05:03:07Z",
+        "git_url": "git://github.com/essens-cc/solo.git",
+        "ssh_url": "git@github.com:essens-cc/solo.git",
+        "clone_url": "https://github.com/essens-cc/solo.git",
+        "homepage": "https://0xshapeshifter.dev/productized/alpha-solo"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fsolo-hero.webp&w=1600&h=900&f=webp"
+    ]
+}

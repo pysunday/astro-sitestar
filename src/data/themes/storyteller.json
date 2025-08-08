@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/storyteller/",
+    "name": "storyteller",
+    "title": "Storyteller",
+    "desc": "A minimal and elegant theme for the developers, coders, programmers",
+    "article": "<h2>ð \"Storyteller\" - a beautiful, minimal Astro blog theme for the developers</h2><h3>â¨ What makes it special:</h3><p>ð¤ Clean minimalist design that never goes out of style</p><p>ð Smart dark/light mode with automatic switching</p><p>ð± Fully responsive on all devices</p><p>â¡ Lightning-fast with Astro's static generation</p><p>ð·ï¸ Smart content organization with categories &amp; tags</p><p>ð Built-in Google Analytics support</p><p>ð¨ 25+ customizable options in a single config file</p><p>â¡ Very well documented</p><p>â¡ Easy site configuration from a site.config.mjs file</p><p>â¡ Google Analytics Support</p><p>â¡ Multi Author Support</p><p><br/></p><p>Perfect for developers, writers, and anyone who wants a fast, elegant blog without the bloat. Zero JavaScript by default means your content loads instantly!</p><h3>The theme includes everything you need:</h3><p>â Easy customization from a configuration file</p><p>â Easy pagination</p><p>â Featured posts</p><p>â SEO optimization</p><p>â Content collections</p><p>â Easy deployment to Netlify/Vercel</p><p>â Google Analytics support</p><p><br/></p>",
+    "typeUrl": "https://github.com/hasinhayder/storyteller-astro",
+    "liveUrl": "https://storyteller-astro-theme.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/hasinhayder/storyteller-astro",
+        "name": "storyteller-astro",
+        "full_name": "hasinhayder/storyteller-astro",
+        "description": "An elegant and minimal blogging/coding/programming theme for Astro ",
+        "stargazers_count": 32,
+        "created_at": "2025-06-06T19:40:28Z",
+        "updated_at": "2025-07-30T17:08:16Z",
+        "pushed_at": "2025-06-09T10:26:46Z",
+        "git_url": "git://github.com/hasinhayder/storyteller-astro.git",
+        "ssh_url": "git@github.com:hasinhayder/storyteller-astro.git",
+        "clone_url": "https://github.com/hasinhayder/storyteller-astro.git",
+        "homepage": "https://storyteller-astro-theme.netlify.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3ff8t2p67l356zaorpz8agpecm9jlr2huxylcg.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F4bwr4yh6qpc234ioa1lj19wjxozaw5prij3we2.webp&w=1600&h=900&f=webp"
+    ]
+}

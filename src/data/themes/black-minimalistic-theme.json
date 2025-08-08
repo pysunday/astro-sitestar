@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/black-minimalistic-theme/",
+    "name": "black-minimalistic-theme",
+    "title": "Minimalistic Black Template",
+    "desc": "Perfect for developers and designers aiming to create a modern, visually stunning online presence.",
+    "article": "<p>\tâ¢\t<strong>Astro Framework</strong>: Fast and optimized performance.</p><p>\tâ¢\t<strong>Tailwind CSS</strong>: Responsive and customizable designs.</p><p>\tâ¢\t<strong>TypeScript</strong>: Enhanced developer experience.</p><p>\tâ¢\t<strong>Interactive Particles</strong>: Engaging animations with cursor and hover effects.</p><p>\tâ¢\t<strong>React Animations</strong>: Smooth and captivating transitions.</p><p>\tâ¢\t<strong>Background Animations</strong>: Dynamic and mesmerizing background animations.</p><p>\tâ¢\t<strong>JSON Data</strong>: All data is seamlessly managed and rendered from JSON files.</p><p><br/></p><p>Live demo URL â <a href=\"https://www.rusin.app?ref=astro.build\" rel=\"nofollow ugc\">https://www.rusin.app</a></p>",
+    "typeUrl": "https://github.com/thevrus/vrus.vercel.app",
+    "liveUrl": "https://www.rusin.app?ref=astro.build",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/thevrus/vrus.vercel.app",
+        "name": "vrus.vercel.app",
+        "full_name": "thevrus/vrus.vercel.app",
+        "description": "Free personal website template using Astro 4.0 and Tailwind CSS. Astro starter theme.",
+        "stargazers_count": 61,
+        "created_at": "2024-06-08T22:28:42Z",
+        "updated_at": "2025-08-07T16:10:19Z",
+        "pushed_at": "2025-01-20T04:50:24Z",
+        "git_url": "git://github.com/thevrus/vrus.vercel.app.git",
+        "ssh_url": "git@github.com:thevrus/vrus.vercel.app.git",
+        "clone_url": "https://github.com/thevrus/vrus.vercel.app.git",
+        "homepage": "https://www.rusin.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fv5wv4kkq9km71gxdojskwtt5zuz6l8q4jldb27.webp&w=1600&h=900&f=webp"
+    ]
+}

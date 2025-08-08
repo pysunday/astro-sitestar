@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/manual/",
+    "name": "manual",
+    "title": "Manual",
+    "desc": "A feature full documentation template for Astro.",
+    "article": "<p>\n</p><p>\r\n  Manual is a feature-rich Astro documentation template with support for a number of features,\r\n  including:\r\n</p><p>\n</p><p><br/></p><p>\n</p>",
+    "typeUrl": "https://github.com/TheOtterlord/manual",
+    "liveUrl": "https://manual.otterlord.dev",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/TheOtterlord/manual",
+        "name": "manual",
+        "full_name": "TheOtterlord/manual",
+        "description": "A feature full Astro documentation template",
+        "stargazers_count": 41,
+        "created_at": "2023-02-25T13:49:04Z",
+        "updated_at": "2025-06-20T12:15:55Z",
+        "pushed_at": "2023-10-02T15:40:59Z",
+        "git_url": "git://github.com/TheOtterlord/manual.git",
+        "ssh_url": "git@github.com:TheOtterlord/manual.git",
+        "clone_url": "https://github.com/TheOtterlord/manual.git",
+        "homepage": "https://manual.otterlord.dev"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fmanual-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fmanual-2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fmanual-3.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fmanual-4.webp&w=1600&h=900&f=webp"
+    ]
+}

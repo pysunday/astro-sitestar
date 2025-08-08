@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/personal-hub-a-customizable-personal-link/",
+    "name": "personal-hub-a-customizable-personal-link",
+    "title": "Personal Hub -  A Customizable Personal Link",
+    "desc": "Personal Hub is a modern and fully customizable template built with Astro and Tailwind CSS, designed to help users create a stylish and professional personal hub for their links, projects, and online presence.\r\n\r\nWhether youâre a developer, creator, or entrepreneur, this template provides a sleek, minimalistic, and responsive interface to showcase your work, social links, and more in a centralized place.",
+    "article": "<h3><strong>Key Features</strong></h3><p>â <strong>Dark &amp; Light Mode</strong> â Seamlessly switch between themes for a better user experience.</p><p>â <strong>Multi-Language Support</strong> â Easily add multiple languages for a global audience.</p><p>â <strong>Fully Responsive</strong> â Optimized for mobile and desktop devices.</p><p>â <strong>Fast &amp; Lightweight</strong> â Built with Astro for high performance and speed.</p><p>â <strong>Customizable &amp; Extendable</strong> â Modify styles, sections, and content with ease.</p><p>â <strong>Deployed on Vercel</strong> â Easy to host and deploy with a single command.</p><p><br/></p><h3><strong>Who Is This For?</strong></h3><ul><li>Developers looking for a simple yet powerful portfolio and link-in-bio page.</li><li>Content creators who want a centralized hub for all their links.</li><li>Freelancers and entrepreneurs showcasing their work in a professional way.</li></ul><p><br/></p><h3><strong>Installation &amp; Usage</strong></h3><p>Setting up Personal Hub is quick and easy:</p><pre>git clone https://github.com/tedevs0/hub-itsteddydev.git  \r\ncd hub-itsteddydev  \r\nnpm install  \r\nnpm run dev  \r\n</pre><p>Then open http://localhost:4321 in your browser to customize your hub!</p><h3><strong>Author</strong></h3><p>TeddyDev </p><h3><strong>License</strong></h3><p><br/></p><p>This project is licensed under the MIT License - see the <a href=\"https://github.com/itsteddydev/hub-itsteddydev?tab=MIT-1-ov-file\" rel=\"nofollow ugc\">LICENSE</a> file for details. Feel free to explore, modify, and make it your own!</p><p><br/></p><h3><strong>SUPPORT ME on ko-fi â</strong></h3><p>If you find this theme useful, you can support my work by buying me a coffe âð</p><p><a href=\"https://ko-fi.com/tedevs0\" rel=\"nofollow ugc\">https://ko-fi.com/tedevs0</a></p>",
+    "typeUrl": "https://github.com/tedevs0/hub-itsteddydev",
+    "liveUrl": "https://hub-itsteddydev.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/tedevs0/hub-itsteddydev",
+        "name": "hub-itsteddydev",
+        "full_name": "tedevs0/hub-itsteddydev",
+        "description": "Personal Hub is a template designed to centralize and organize personal or professional information in one place. This tool allows users to manage and access their data, projects, important links, and more, all from a unified interface.",
+        "stargazers_count": 25,
+        "created_at": "2025-01-16T17:26:11Z",
+        "updated_at": "2025-08-05T13:51:29Z",
+        "pushed_at": "2025-04-05T00:41:17Z",
+        "git_url": "git://github.com/tedevs0/hub-itsteddydev.git",
+        "ssh_url": "git@github.com:tedevs0/hub-itsteddydev.git",
+        "clone_url": "https://github.com/tedevs0/hub-itsteddydev.git",
+        "homepage": "https://hub-itsteddydev.vercel.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fx6iwb49bwkgnswhycixtj84wfw596jcdsibnfo.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fff3nfcuvwbavjtbc7fs8hj2f82xn3udssbrfk1.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fkm3w1knhzpiuorj9aq91xayvjtzsphvaswz74g.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fqqf8hk0f29ktv59kwzb8xjnid7c3kt9harvt5v.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ffj68irjn5pc19yw0lso9dcxq1n0cfpbpw2j7dl.webp&w=1600&h=900&f=webp"
+    ]
+}

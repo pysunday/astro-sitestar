@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/essentialist/",
+    "name": "essentialist",
+    "title": "Essentialist",
+    "desc": "A single page essentialist template with unlimited use cases.",
+    "article": "",
+    "typeUrl": "https://github.com/0xShapeShifter/essentialist",
+    "liveUrl": "https://productized.vercel.app/essentialist",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/essens-cc/essentialist",
+        "name": "essentialist",
+        "full_name": "essens-cc/essentialist",
+        "description": "— a single page essentialist template with unlimited use cases",
+        "stargazers_count": 22,
+        "created_at": "2023-11-19T05:40:02Z",
+        "updated_at": "2025-02-23T01:59:18Z",
+        "pushed_at": "2024-04-11T11:12:07Z",
+        "git_url": "git://github.com/essens-cc/essentialist.git",
+        "ssh_url": "git@github.com:essens-cc/essentialist.git",
+        "clone_url": "https://github.com/essens-cc/essentialist.git",
+        "homepage": "https://essentialist-nine.vercel.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fessentialist-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fessentialist-2.webp&w=1600&h=900&f=webp"
+    ]
+}

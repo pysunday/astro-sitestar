@@ -1,0 +1,17 @@
+{
+    "url": "https://astro.build/themes/details/kishore-portfolio/",
+    "name": "kishore-portfolio",
+    "title": "Kishore Portfolio",
+    "desc": "The Kishore portfolio template was designed with stunning animations in mind with clean aesthetic look This template have animations from GSAP & custom made Fade in animations!",
+    "article": "<h2>About Sections</h2><p><br/></p><p>All blocks was created with **React** and **Typescript** and all functionality is setup by **astro.build**</p><p>This means that even if you don't like **astro**, you can copy blocks from this project and easy use it with other languages like **next.js**!</p><p><br/></p><p>The Kishore portfolio template was designed with stunning animations in mind with clean aesthetic look This template have animations from GSAP &amp; custom made Fade in animations!</p><p><br/></p><p>Pages ready to use:</p><p><br/></p><p>-  Homepage - This is Landing page only website</p><h2>ð Smooth interactions</h2><p><br/></p><p>Static websites are boring. That's why we use smooth animations and interactions to give this template a much more natural feeling, that makes it pleasant to use and navigate. You can check out the Webflow interactions video course to learn more about this topic.</p><p><br/></p><h2>ð ï¸ Best possible page performance and clean code</h2><p><br/></p><p>All templates made by us have the best possible performance with **speed** &amp; **SEO**, ensuring fast load times and high visibility in search engine rankings. Our team optimizes the code in every aspect, making it clean and free of unnecessary elements. This meticulous attention to detail results in efficient, high-quality templates that match and exceed industry standards.</p><p><br/></p><h2>ð¤ Full support for you!</h2><p><br/></p><p>With every purchase of our themes, comprehensive support is included! We're here to assist you at every step, should you require our help.</p><p><br/></p>",
+    "typeUrl": "https://codexcode.store/themes/kishore-portfolio",
+    "liveUrl": "https://kishore-portfolio-astro.netlify.app/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fehz8itkm1vffrnmphylag2bwun1vwpbvdc231u.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F73ch3xvvud0pcxbh3ock3u475susxqimdmuax9.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F1xovikilf5de6q07q55g8kwg5gcy152i3g34lo.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fzylbx0y9rbk34te82qvf0004kx6ktpaydeov78.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F4y5zkjgcc72wlqup68abhy3xctsla2tomfdfql.webp&w=1600&h=900&f=webp"
+    ]
+}

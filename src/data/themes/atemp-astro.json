@@ -1,0 +1,16 @@
+{
+    "url": "https://astro.build/themes/details/atemp-astro/",
+    "name": "atemp-astro",
+    "title": "Atemp Astro",
+    "desc": "Atemp astro is a cutting-edge, fully customizable multipurpose theme for SaaS companies, startups, and agencies",
+    "article": "<p><br/></p><h2><strong>Key features:</strong></h2><ul><li>15+ Unique Pages</li><li>100/100 Google PageSpeed Score on Desktop</li><li>Highly customizable (Color, Font, Menu, Social Links, SEO Meta Tags, etc.)</li><li>Built with Astro v5 and Tailwind CSS v4</li><li>Netlify &amp; Vercel setting pre-configured</li><li>Video-Showcase</li><li>Contact Form</li><li>Taxonomy support</li><li>Support Disqus Comments</li><li>Write and update content in Markdown / MDX</li><li>MDX components auto-import</li><li>Fully responsive on desktops, tablets, and smartphones</li><li>Clean folder structure</li><li>Simple and easy development environment setup</li><li>Compatible with all modern browsers</li><li>SEO Friendly</li><li>Animation on scroll</li><li>Free Google fonts</li><li>Lifetime free updates</li></ul><h3><strong>Pages:</strong></h3><ol><li>Homepage</li><li>Contact</li><li>Pricing</li><li>Features</li><li>Blog</li><li>Blog single</li><li>Career</li><li>Career single</li><li>Category</li><li>Integration</li><li>Integration Single</li><li>Terms &amp; Condition</li><li>Custom 404 page</li><li>About</li></ol><p><br/></p>",
+    "typeUrl": "https://themefisher.com/products/atemp-astro/?aff=ab",
+    "liveUrl": "https://atemp-astro.vercel.app/?aff=ab",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F2k5gxgpv0ovmzcqr4yyfjhcj61np430est2i5k.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F4z7u7i2gvsxixqvfnymuveuctql2e2e6w4e9l9.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F9t7vgqzenr26e5e98l64m06ki4hd4hk1qon3v2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F978mcztzdnxwyr2cubnx6o3cfolap2z0je35r3.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/directory/",
+    "name": "directory",
+    "title": "Directory",
+    "desc": "Launch your directory site. Fast & easy.",
+    "article": "<p>An Astro directory template.</p><p><br/></p><ul><li>Light &amp; dark themes</li><li>JSON dataset</li><li>Production-ready</li><li>Simple to deploy</li></ul>",
+    "typeUrl": "https://github.com/NewDesignFile/template-directory",
+    "liveUrl": "https://riseofmachine.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/NewDesignFile/template-directory",
+        "name": "template-directory",
+        "full_name": "NewDesignFile/template-directory",
+        "description": "Discover AI tools curated for makers and SMBs. ",
+        "stargazers_count": 42,
+        "created_at": "2023-05-10T12:31:36Z",
+        "updated_at": "2025-08-06T22:49:16Z",
+        "pushed_at": "2025-08-06T22:49:12Z",
+        "git_url": "git://github.com/NewDesignFile/template-directory.git",
+        "ssh_url": "git@github.com:NewDesignFile/template-directory.git",
+        "clone_url": "https://github.com/NewDesignFile/template-directory.git",
+        "homepage": "https://riseofmachine.com/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fxcbw8nw50usg32t0ovpn6rwm919i95jsmlhgbz.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/token-template/",
+    "name": "token-template",
+    "title": "Token Template ",
+    "desc": "Modern and minimalistic Astro + Tailwind CSS starter designed for developers and creators. With a sleek black-and-white terminal-inspired design, it features support for Markdown (MD), MDX, RSS feeds, sitemaps, and fully static content, making it perfect for personal portfolios and blogs.",
+    "article": "<p><strong>Token</strong> is a modern and minimalistic Astro + Tailwind CSS starter designed for developers and creators. With a sleek black-and-white terminal-inspired design, it features support for Markdown (MD), MDX, RSS feeds, sitemaps, and fully static content, making it perfect for personal portfolios and blogs.</p><p><br/></p><h2>ð Features</h2><p><br/></p><ul><li><strong>Minimalist Design </strong> â Black-and-white terminal-inspired aesthetics with custom fonts.</li><li><strong>Astro + Tailwind CSS </strong>â Built using Astro and styled with Tailwind CSS for easy customization.</li><li><strong>Content Support </strong>â Write blog posts or documentation in Markdown (MD) and MDX.</li><li><strong>Static and Fast </strong>â Fully static content optimized for performance </li></ul><p><br/></p><p><br/></p>",
+    "typeUrl": "https://github.com/ArnavK-09/token-template",
+    "liveUrl": "https://token-template.deno.dev/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/ArnavK-09/token-template",
+        "name": "token-template",
+        "full_name": "ArnavK-09/token-template",
+        "description": "👀 Minimal Black & White Astro + Tailwind Portfolio Template....",
+        "stargazers_count": 56,
+        "created_at": "2025-01-06T18:58:03Z",
+        "updated_at": "2025-07-31T13:55:54Z",
+        "pushed_at": "2025-03-18T16:57:42Z",
+        "git_url": "git://github.com/ArnavK-09/token-template.git",
+        "ssh_url": "git@github.com:ArnavK-09/token-template.git",
+        "clone_url": "https://github.com/ArnavK-09/token-template.git",
+        "homepage": "https://token-template.deno.dev"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fv5qx97u3ey3jate7bbwba8y2lcutbm59xio9qu.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F0sbe2btx8hao0dvwqxp0virw8ruzhpqhx2wbio.webp&w=1600&h=900&f=webp"
+    ]
+}

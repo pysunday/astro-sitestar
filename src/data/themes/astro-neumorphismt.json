@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-neumorphismt/",
+    "name": "astro-neumorphismt",
+    "title": "Astro Neumorphismt",
+    "desc": "A simple and responsive template focused on the entire UI design style with neumorphism styles. Built with AstroJS, TypeScript, Preact, and styled with Tailwind CSS.",
+    "article": "",
+    "typeUrl": "https://github.com/paabloLC/astro-neumorphismt",
+    "liveUrl": "https://astro-neumorphism-roan.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/paabloLC/astro-neumorphism",
+        "name": "astro-neumorphism",
+        "full_name": "paabloLC/astro-neumorphism",
+        "description": "A simple and responsive template focused on the entire UI design style with neumorphism styles. Built with AstroJS, TypeScript, Preact, and styled with Tailwind CSS.",
+        "stargazers_count": 76,
+        "created_at": "2022-08-22T16:34:05Z",
+        "updated_at": "2025-07-26T13:35:38Z",
+        "pushed_at": "2025-07-04T17:09:22Z",
+        "git_url": "git://github.com/paabloLC/astro-neumorphism.git",
+        "ssh_url": "git@github.com:paabloLC/astro-neumorphism.git",
+        "clone_url": "https://github.com/paabloLC/astro-neumorphism.git",
+        "homepage": "https://astro-neumorphism-roan.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-neumorphismt.webp&w=1600&h=900&f=webp"
+    ]
+}

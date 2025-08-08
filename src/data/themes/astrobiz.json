@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astrobiz/",
+    "name": "astrobiz",
+    "title": "Astrobiz",
+    "desc": "Simple business theme built with TailwindCSS.",
+    "article": "\n<p>\n  Astrobiz is a sleek and modern website design that uses the Tailwind CSS framework to create a\n  clean and responsive layout. The site typically includes a hero section , two feature sections, a\n  pricing table , and a contact us form.\n</p>\n<p>\n  The hero section is the first thing visitors see when they land on the site. It often includes a\n  large, attention-grabbing image or video along with a headline and a call-to-action button that\n  encourages visitors to take action.\n</p>\n<p>\n  The two feature sections highlight the key benefits of the business or product being offered. Each\n  section typically includes an icon or image, a short description, and a call-to-action button that\n  directs visitors to learn more or sign up.\n</p>\n<p>\n  The pricing table displays the differen pricing tiers available for the product or service. Each\n  tier is laid out in a clear and easy-to-read format, with features and benefits listed alongside\n  the price.\n</p>\n<p>\n  Lastly, the contact us form allows visitors to get in touch with the business directly. This form\n  typically includes fields for name, email address , and message, and may also include a phone\n  number or other contact information.\n</p>\n<p>\n  Overall, Astrobiz is a great choice for businesses looking for a modern, professional website\n  that's easy to navigate and visually appealing.\n</p>\n<p>\n  I quickly put this theme together with the help of chatgpt, free to use and the images are also\n  generated with ai.\n</p>\n",
+    "typeUrl": "https://github.com/FriendlyUser/astrobiz",
+    "liveUrl": "https://friendlyuser.github.io/astrobiz/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/FriendlyUser/astrobiz",
+        "name": "astrobiz",
+        "full_name": "FriendlyUser/astrobiz",
+        "description": "astro business theme using tailwindcss and chatgpt to generate this theme.",
+        "stargazers_count": 2,
+        "created_at": "2023-04-11T15:52:46Z",
+        "updated_at": "2024-08-07T18:57:41Z",
+        "pushed_at": "2023-07-13T03:50:31Z",
+        "git_url": "git://github.com/FriendlyUser/astrobiz.git",
+        "ssh_url": "git@github.com:FriendlyUser/astrobiz.git",
+        "clone_url": "https://github.com/FriendlyUser/astrobiz.git",
+        "homepage": "https://friendlyuser.github.io/astrobiz/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastrobiz-hero.webp&w=1600&h=900&f=webp"
+    ]
+}

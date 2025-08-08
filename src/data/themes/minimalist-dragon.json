@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/minimalist-dragon/",
+    "name": "minimalist-dragon",
+    "title": "minimalist-dragon",
+    "desc": "Minimalist Portfolio theme made only with Astro",
+    "article": "",
+    "typeUrl": "https://github.com/slydragonn/minimalist-dragon",
+    "liveUrl": "https://minimalist-dragon.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/slydragonn/minimalist-dragon",
+        "name": "minimalist-dragon",
+        "full_name": "slydragonn/minimalist-dragon",
+        "description": "Minimalist Portfolio",
+        "stargazers_count": 3,
+        "created_at": "2024-09-03T00:51:11Z",
+        "updated_at": "2025-04-11T04:24:21Z",
+        "pushed_at": "2024-09-04T18:56:12Z",
+        "git_url": "git://github.com/slydragonn/minimalist-dragon.git",
+        "ssh_url": "git@github.com:slydragonn/minimalist-dragon.git",
+        "clone_url": "https://github.com/slydragonn/minimalist-dragon.git",
+        "homepage": "https://minimalist-dragon.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F1c8so9zpx5lnc9b82gm5k12ls0p5gnect8u1kz.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fpi3vaatlm63vw1mg5n6zgbaqll7ami6xxwo8wm.webp&w=1600&h=900&f=webp"
+    ]
+}

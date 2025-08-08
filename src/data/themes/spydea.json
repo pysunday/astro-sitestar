@@ -1,0 +1,16 @@
+{
+    "url": "https://astro.build/themes/details/spydea/",
+    "name": "spydea",
+    "title": "Spydea",
+    "desc": "A a beautiful Astro template that is perfect for a wide variety of businesses, including SaaS, startups, and agencies.",
+    "article": "<p><br/></p><h2>Key Features</h2><ul><li>17+ Unique Pages</li><li>Highly customizable (color, font, menu, social links, SEO meta tags, etc.)</li><li>Fast by default (95+ Google PageSpeed Score)</li><li>Built with Astro v5 and Tailwind CSS v4</li><li>Netlify setting pre-configured</li><li>Contact form support</li><li>Taxonomy support</li><li>Support OG image</li><li>Support Disqus Comments</li><li>Write and update content in Markdown / MDX</li><li>MDX components auto import</li><li>Fully responsive on desktops, tablets, and smartphones</li><li>SEO Friendly</li><li>No jQuery. Only Vanilla JavaScript</li><li>Clean folder structure</li><li>Simple and easy development environment setup</li><li>Compatible with all modern browsers</li><li>Clean code</li><li>Animation on scroll</li><li>Free Google fonts</li><li>Font Awesome icons</li><li>Lifetime free updates</li></ul><p><br/></p><h2>Pages</h2><ol><li>Home</li><li>About</li><li>Contact</li><li>Login</li><li>Career</li><li>Career single</li><li>Reset password</li><li>Sign-up</li><li>Pricing</li><li>Elements</li><li>Privacy Policy</li><li>Search page</li><li>Blog</li><li>Blog single</li><li>Author</li><li>Author single</li><li>Custom 404 page</li><li>Index</li></ol><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p>\n</p><p><br/></p><p>\n</p>",
+    "typeUrl": "https://themefisher.com/products/spydea-astro/?aff=ab",
+    "liveUrl": "https://spydea-astro.vercel.app/?aff=ab",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ftftzsfe1ou272x4d1x7bfc9w15dkgx6ll6ago5.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fa92hgqtlped9a0k074hyy5iesr5qd7x6phkqbl.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Felult4rqzl5pprqmazcrb6vd2nryocnymjp911.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fco1jefg0momcsstbr7pfe13tvxj130sy7kib4i.webp&w=1600&h=900&f=webp"
+    ]
+}

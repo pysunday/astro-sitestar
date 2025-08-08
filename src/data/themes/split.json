@@ -1,0 +1,16 @@
+{
+    "url": "https://astro.build/themes/details/split/",
+    "name": "split",
+    "title": "Split",
+    "desc": "A clean & simple mobile app landing page.",
+    "article": "<p>A clean &amp; simple mobile app landing page with smooth animations &amp; <a href=\"https://lighthouse-metrics.com/lighthouse/checks/2a64498d-80d2-4b09-8a11-de038b4e52d7\" rel=\"nofollow ugc\">perfect lighthouse scores</a> for improved SEO.\r\n</p><h3>What do I get when I purchase this?</h3><p>After purchase you will be provided a URL to download a zip archive that contains the source code for the Astro project with a guide on how to set it up &amp; use it.</p><p>\n</p><p>Made with ð by <a href=\"https://x.com/nurodev\" rel=\"nofollow ugc\">Ben</a> @ <a href=\"https://butterythemes.com/\" rel=\"nofollow ugc\">Buttery Themes</a>\n</p>",
+    "typeUrl": "https://butterythemes.com/buy/fdb577d1-6ab3-4dc7-b6cb-b747fdff7a7c",
+    "liveUrl": "https://split.butterythemes.com",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F2l9q86xxcvuqvef4bo1di6hg0pdt6xujdur70d.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fdqnrwuu804pne8jw59f0qw4hllz3t2xh6vxosd.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fnvm62d60qwk8kx5bscbx263tc2aqmwdnuoa0tm.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F7lu7f1n53duxu9b0h8uayptey3rskm2ezria8b.webp&w=1600&h=900&f=webp"
+    ]
+}

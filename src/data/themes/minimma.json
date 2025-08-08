@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/minimma/",
+    "name": "minimma",
+    "title": "Minimma",
+    "desc": "A simple, minimalistic, and elegant astro portfolio theme.",
+    "article": "\n<p>\n  With a focus on simplicity and user experience, Minimma offers a seamless and visually appealing\n  way to present your portfolio.\n</p>\n<h3>Features</h3>\n<ul>\n<li>Made with TailwindCSS</li>\n<li>StaticCMS</li>\n<li>Page transitions</li>\n</ul>\n",
+    "typeUrl": "https://github.com/iamnyasha/minimma",
+    "liveUrl": "https://minimma.vercel.app",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/iamnyasha/minimma",
+        "name": "minimma",
+        "full_name": "iamnyasha/minimma",
+        "description": null,
+        "stargazers_count": 15,
+        "created_at": "2023-10-05T13:06:27Z",
+        "updated_at": "2025-06-01T07:25:30Z",
+        "pushed_at": "2024-05-30T17:11:23Z",
+        "git_url": "git://github.com/iamnyasha/minimma.git",
+        "ssh_url": "git@github.com:iamnyasha/minimma.git",
+        "clone_url": "https://github.com/iamnyasha/minimma.git",
+        "homepage": "https://minimma.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fminimma-hero.webp&w=1600&h=900&f=webp"
+    ]
+}

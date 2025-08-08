@@ -1,0 +1,13 @@
+{
+    "url": "https://astro.build/themes/details/astro-indie-template/",
+    "name": "astro-indie-template",
+    "title": "Astro indie Template ",
+    "desc": "This is a simple clean, fun website template created with Astro.js primarily targeted at indie game developers.\r\n\r\nLive Demo - https://indieastrotemplate.netlify.app/",
+    "article": "<p>This is a simple clean, fun website template created with Astro.js primarily targeted at indie game developers.</p><p><br/></p><p>The template includes</p><p><br/></p><p>Astro JS</p><p><br/></p><p>Server-Side Rendering</p><p><br/></p><p>Tailwind CSS &amp; Flowbite Integration</p><p><br/></p><p>Home and Devlog (Blog) Page</p><p><br/></p><p>Search feature</p><p><br/></p><p>Search by Tags</p><p><br/></p><p>Search by Terms</p>",
+    "typeUrl": "https://petitpois.gumroad.com/l/indie-astro",
+    "liveUrl": "https://indieastrotemplate.netlify.app/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F1hyf7k3ko81sx3g47ooisu2701wm3hkl148g28.webp&w=1600&h=900&f=webp"
+    ]
+}

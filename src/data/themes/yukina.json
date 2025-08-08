@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/yukina/",
+    "name": "yukina",
+    "title": "Yukina",
+    "desc": "An astro blog template inspired by fuwari and hexo-theme-shokaX.",
+    "article": "<p>A simple but elegant theme for everyone.</p><p><br/></p><p>Special thanks to:</p><p><a href=\"https://github.com/saicaca/fuwari\" rel=\"nofollow ugc\">https://github.com/saicaca/fuwari</a></p><p><a href=\"https://github.com/amehime/hexo-theme-shoka\" rel=\"nofollow ugc\">https://github.com/amehime/hexo-theme-shoka</a></p><p>for providing design ideas and some key implmentations.</p>",
+    "typeUrl": "https://github.com/WhitePaper233/yukina",
+    "liveUrl": "https://yukina-blog.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/WhitePaper233/yukina",
+        "name": "yukina",
+        "full_name": "WhitePaper233/yukina",
+        "description": "Simple and Elegant Astro Blog Template.",
+        "stargazers_count": 173,
+        "created_at": "2024-11-23T08:57:26Z",
+        "updated_at": "2025-08-07T10:17:28Z",
+        "pushed_at": "2025-03-06T12:35:37Z",
+        "git_url": "git://github.com/WhitePaper233/yukina.git",
+        "ssh_url": "git@github.com:WhitePaper233/yukina.git",
+        "clone_url": "https://github.com/WhitePaper233/yukina.git",
+        "homepage": "https://yukina-blog.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fmfcpiugi19z9rx88bghffr8o2wpuoxgqm562p2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fud3kizdir40zyv2xfs9v22ijebzf5aw8yzmcu2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F4r1mpppyvt1ff8449ck9k1jzatewe4ag0xqlgk.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fq2z4n6pabxa748nxcbd4ipp08tlu1mjpbn9y42.webp&w=1600&h=900&f=webp"
+    ]
+}

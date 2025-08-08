@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/miniblog/",
+    "name": "miniblog",
+    "title": "Miniblog",
+    "desc": "An opinionated and extremely minimal blogging template.",
+    "article": "<p><strong>Miniblog</strong> is an opinionated and extremely minimal blogging template built with <a href=\"https://astro.build/\">Astro</a> and <a href=\"https://tailwindcss.com/\" rel=\"nofollow ugc\">Tailwind CSS</a>, heavily inspired by <a href=\"https://jrmyphlmn.com/\" rel=\"nofollow ugc\">jrmyphlmn.com</a>.</p><ul><li>Blog post authoring using <a href=\"https://www.markdownguide.org/\" rel=\"nofollow ugc\">Markdown</a> and <a href=\"https://mdxjs.com/\" rel=\"nofollow ugc\">MDX</a> for component-style content</li><li>Code block syntax highlighting with <a href=\"https://github.com/shikijs/shiki\" rel=\"nofollow ugc\">Shiki</a></li><li><a href=\"https://en.wikipedia.org/wiki/RSS\" rel=\"nofollow ugc\">RSS</a> feed and sitemap generation</li><li>SEO optimization, with customizable OpenGraph image support</li><li>Code formatting with <a href=\"https://prettier.io/\" rel=\"nofollow ugc\">Prettier</a></li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/nicholasdly/miniblog",
+    "liveUrl": "https://miniblog.nicholasly.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/nicholasdly/miniblog",
+        "name": "miniblog",
+        "full_name": "nicholasdly/miniblog",
+        "description": "An opinionated and extremely minimal blogging template. 📝",
+        "stargazers_count": 52,
+        "created_at": "2024-11-06T17:03:02Z",
+        "updated_at": "2025-08-04T09:53:22Z",
+        "pushed_at": "2024-12-19T17:27:10Z",
+        "git_url": "git://github.com/nicholasdly/miniblog.git",
+        "ssh_url": "git@github.com:nicholasdly/miniblog.git",
+        "clone_url": "https://github.com/nicholasdly/miniblog.git",
+        "homepage": "https://miniblog.nicholasly.com/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F49uxyskmnekrbroel5hue1e7nrcvc8bkvk8ffl.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F56f3p9irqa89l0wts1vyl4nk6lgqzi47akbsqg.webp&w=1600&h=900&f=webp"
+    ]
+}

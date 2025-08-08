@@ -1,0 +1,29 @@
+{
+    "url": "https://astro.build/themes/details/blog/",
+    "name": "blog",
+    "title": "Blog",
+    "desc": "An ultra-minimal personal site & blog. Includes a well-documented codebase and built-in best practices for any Astro project.",
+    "article": "",
+    "typeUrl": "https://github.com/withastro/astro/tree/main/examples/blog",
+    "liveUrl": "https://preview.astro.new/blog/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/withastro/astro",
+        "name": "astro",
+        "full_name": "withastro/astro",
+        "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
+        "stargazers_count": 52709,
+        "created_at": "2021-03-15T17:19:47Z",
+        "updated_at": "2025-08-08T02:34:32Z",
+        "pushed_at": "2025-08-07T16:10:52Z",
+        "git_url": "git://github.com/withastro/astro.git",
+        "ssh_url": "git@github.com:withastro/astro.git",
+        "clone_url": "https://github.com/withastro/astro.git",
+        "homepage": "https://astro.build"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fblog.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fblog-2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fblog-3.webp&w=1600&h=900&f=webp"
+    ]
+}

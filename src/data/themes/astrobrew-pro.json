@@ -1,0 +1,13 @@
+{
+    "url": "https://astro.build/themes/details/astrobrew-pro/",
+    "name": "astrobrew-pro",
+    "title": "Astrobrew Pro",
+    "desc": "Introducing the Pro version of the highly regarded Astrobrew starter template, specifically designed for micro SaaS startups. Built using Astro and Skeleton CSS.\r\n\r\n",
+    "article": "<p>The Pro version now includes an engaging features showcase and multiple reviews enhanced with GSAP animations. Enjoy a fully responsive design that adapts seamlessly to any device, ensuring an optimal user experience.</p><p><br/></p><p><br/></p>",
+    "typeUrl": "https://buy.stripe.com/cN26op5Yh6kT03CcMN",
+    "liveUrl": "https://astrobrewpro.netlify.app",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fyth825hmssmnp9qbjutvj5zlghe6qe83d1shgt.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "url": "https://astro.build/themes/details/zod-admin-dashboard-ui-kit/",
+    "name": "zod-admin-dashboard-ui-kit",
+    "title": "Zod - Admin & Dashboard UI Kit",
+    "desc": "Zod is a multipurpose HTML dashboard template that comes with customisable UI components and prebuilt pages, making it a solid choice for any dashboard or admin application.",
+    "article": "<p>Zod is a multipurpose HTML dashboard template that comes with customisable UI components and prebuilt pages, making it a solid choice for any dashboard or admin application.</p><p><br/></p><p>Zod is designed to fit as many purposes as possible and built following the best development practices. Zod is written using Bulma CSS and custom SCSS styling, allowing you to customize it to fit your branding rules and requirements.</p><p><br/></p><p><strong>For developers</strong> â this product has been built and coded with care, from inception and design to production, following the best available practices regarding code structure and maintainability.</p><p><br/></p><p><strong>Easy branding</strong> â the UI is built using Bulma CSS and custom SCSS styling. You can easily change the primary color to apply your branding and change the look and feel consistently through the entire template.</p><p><br/></p><p><strong>Built with Alpine.js</strong> â this template is written with Alpine.js, a rugged and minimal javascript framework that works pretty much like Vue, but allows you to write it in your markup.</p><p><br/></p><p><strong>Accessibility</strong> â we made a particular effort at making the UI accessible by enabling keyboard navigation and subsequent focus styling.</p><p><strong>Documentation</strong> â this template ships with a detailed documentation to help you get started with project structure, installation and development guidelines.</p><p><br/></p><p><strong>For projects</strong> â this product is a robust template made to fit in real life projects and use cases, providing a solid starting point for an internal or a public saas application, with many kinds of setups and architectures.</p>",
+    "typeUrl": "https://cssninja.io/product/zod",
+    "liveUrl": "https://zod.cssninja.io/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fbc3y2xuuhbhhflqqf1cgfszp75t4uay2sqjvzq.webp&w=1600&h=900&f=webp"
+    ]
+}

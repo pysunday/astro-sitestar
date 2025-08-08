@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/astro-theme-leo/",
+    "name": "astro-theme-leo",
+    "title": "Leo",
+    "desc": "Leo is an Astro theme built with Tailwind, React.js and Three.js that gives you a sense of exploration in the universe and is designed to make writing posts easy. Besides the features offered by other blog themes, the Leo theme comes with an i18n setting for multi-language writers.",
+    "article": "<p>For the starry sky background animation on the page, I implemented the continuous movement effect using Three.js. Initially, you will see the constantly moving animation. However, to prevent this animation from affecting the user's reading experience, the movement speed slows down almost to a stop whenever there is any mouse interaction. It will only return to the fast movement once the user stops interacting for a while.</p><p><br/></p><p>This background component is created using React and Canvas. Since animations are typically resource-intensive, I added the <a href=\"https://docs.astro.build/en/reference/directives-reference/#clientidle\">client:idle Client Directive</a> to this component to ensure it doesn't impact the page's loading speed.</p><p><br/></p><p>This theme is inspired by the Astro theme <a href=\"https://astro.build/themes/details/mia/\">Mia</a>. If you prefer a brighter style, you should check out this elegant theme.</p><p><br/></p><p>The live demo site on the theme page is my personal blog, however if you want to see more example you can visit the same demo site as shown in the screenshots above <a href=\"https://astro-theme-leo.muji.dev/\" rel=\"nofollow ugc\">here</a>!</p><p><br/></p><p><br/></p>",
+    "typeUrl": "https://github.com/moojing/astro-leo-theme",
+    "liveUrl": "https://powersandwich.com.tw/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/moojing/astro-leo-theme",
+        "name": "astro-leo-theme",
+        "full_name": "moojing/astro-leo-theme",
+        "description": "Leo is an Astro theme built with Tailwind that gives you a sense of exploration in the universe and is designed to make writing posts easy.",
+        "stargazers_count": 15,
+        "created_at": "2025-01-27T11:27:37Z",
+        "updated_at": "2025-06-20T16:26:09Z",
+        "pushed_at": "2025-02-15T12:12:44Z",
+        "git_url": "git://github.com/moojing/astro-leo-theme.git",
+        "ssh_url": "git@github.com:moojing/astro-leo-theme.git",
+        "clone_url": "https://github.com/moojing/astro-leo-theme.git",
+        "homepage": "https://astro-theme-leo.muji.dev/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F0kyk3y3svi6y9qyo36lwftoo94wafaiiad9pu4.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F1o7c3hqo8i7o4pex4ipnamn1dkkodr3w5ujam9.webp&w=1600&h=900&f=webp"
+    ]
+}

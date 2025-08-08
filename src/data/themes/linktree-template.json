@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/linktree-template/",
+    "name": "linktree-template",
+    "title": "Linktree template",
+    "desc": "A linktree template like my own",
+    "article": "",
+    "typeUrl": "https://github.com/nevthereal/linktree-template",
+    "liveUrl": "https://links.nevillebrem.com",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/nevthereal/linktree-template",
+        "name": "linktree-template",
+        "full_name": "nevthereal/linktree-template",
+        "description": null,
+        "stargazers_count": 11,
+        "created_at": "2024-03-07T11:15:21Z",
+        "updated_at": "2025-08-04T14:41:24Z",
+        "pushed_at": "2024-12-04T08:51:36Z",
+        "git_url": "git://github.com/nevthereal/linktree-template.git",
+        "ssh_url": "git@github.com:nevthereal/linktree-template.git",
+        "clone_url": "https://github.com/nevthereal/linktree-template.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fp646gbzh3o5t1dzr02rvk9pudv2yh08537zpsa.jpeg&w=1600&h=900&f=webp"
+    ]
+}

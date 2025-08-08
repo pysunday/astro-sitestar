@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/servland-landing-page/",
+    "name": "servland-landing-page",
+    "title": "Servland ",
+    "desc": "SERVLAND - a basic landing page for service providers",
+    "article": "<h2><br/></h2><p>Servland - A modern, responsive business landing page theme powered by Astro 4.0 and Tailwind CSS 3.3. Features include dark mode support, WhatsApp integration, GDPR-compliant cookie consent, parallax effects, and a built-in contact form. Built with TypeScript 6.0 for type safety and better developer experience. Perfect for businesses seeking a professional, fast-loading online presence with modern UI/UX features.</p><h2>- Features</h2><p><br/></p><ul><li>â¡ï¸ Lightning Fast: Built with Astro for optimal performance</li><li>ð¨ Beautiful Design: Modern UI with Tailwind CSS</li><li>ð Dark Mode: Automatic and manual dark mode support</li><li>ð± Fully Responsive: Looks great on all devices</li><li>ð§ Contact Form: Integrated with EmailJS or Nodemailer</li><li>ð¬ WhatsApp Integration: Direct messaging capability</li><li>ðª Cookie Consent: GDPR-compliant cookie banner</li><li>ð¼ï¸ Parallax Effects: Engaging background animations</li><li>ð SEO Ready: Optimized meta tags and structured data</li><li>ð ï¸ Easy to Customize: Well-organized code structure</li></ul><p><br/></p><p> </p><p><br/></p><p><br/></p><p><br/></p><p><br/></p>",
+    "typeUrl": "https://github.com/locobean/servland",
+    "liveUrl": "https://servland.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/locobean/servland",
+        "name": "servland",
+        "full_name": "locobean/servland",
+        "description": "themed Astro landing page for service providers",
+        "stargazers_count": 7,
+        "created_at": "2025-01-20T08:02:41Z",
+        "updated_at": "2025-07-20T20:29:52Z",
+        "pushed_at": "2025-01-22T02:48:08Z",
+        "git_url": "git://github.com/locobean/servland.git",
+        "ssh_url": "git@github.com:locobean/servland.git",
+        "clone_url": "https://github.com/locobean/servland.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fbx1uatnmbvqbkid79umtdw6728p1pzjtxq7mzj.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "url": "https://astro.build/themes/details/fortify-astro/",
+    "name": "fortify-astro",
+    "title": "Fortify Astro",
+    "desc": "Fortify Astro is a sleek, modern template ideal for security startups. With 13 pre-designed pages, it helps you create a stunning website that highlights your products and services. This responsive template ensures a great look on all devices.",
+    "article": "<h2>Key Features:</h2><ul><li>100/100 Google PageSpeed Score on Desktop</li><li>Highly customizable (Color, Font, Menu, Social Links, SEO Meta Tags, etc.)</li><li>Built with Astro v5 and Tailwind CSS v4</li><li>Netlify &amp; Vercel pre-configured</li><li>13 Complete SaaS Pages</li><li>Modern &amp; Trendy Design</li><li>Beautiful Element Animation</li><li>Page Speed Optimized</li><li>Fully SEO Optimized</li><li>Lifetime Free Support</li><li>Lifetime Free Updates</li><li>MDX components auto-import</li><li>Fully responsive on desktops, tablets, and smartphones</li><li>SEO Friendly</li><li>Clean folder structure</li><li>Simple and easy development environment setup</li><li>Compatible with all modern browsers</li><li>Free Google fonts</li><li>Font Awesome icons</li><li>Clean code</li></ul><h2>Pages:</h2><ol><li>Homepage</li><li>Pricing</li><li>Features</li><li>About</li><li>Reviews</li><li>Changelog (CMS)</li><li>Integration</li><li>Blog (CMS)</li><li>Blog Details (CMS)</li><li>Contact</li><li>Terms</li><li>Privacy</li><li>404</li></ol><p><br/></p><p><br/></p>",
+    "typeUrl": "https://themefisher.com/products/fortify-astro/?aff=ab",
+    "liveUrl": "https://fortify-astro.vercel.app/?aff=ab",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fvq7zc01vmsgeeec65x12sz6rys3vlsb6bfklhv.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fh6qllnlcd8373qbeliyd5azgbybmm0tigii022.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F0lku969d4lou62hepjv8v5xnve7dpzo39l6rrs.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fvk7e3uh5ei5llu4etbyuc4beuwqioziwqadqhy.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fatcym48do79dzj4p79ro2d3iztg9u3dzs5eqyb.webp&w=1600&h=900&f=webp"
+    ]
+}

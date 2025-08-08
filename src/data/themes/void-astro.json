@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/void-astro/",
+    "name": "void-astro",
+    "title": "Void Astro",
+    "desc": "Void-Astro is a minimalistic blog starter template designed for developers and writers who appreciate simplicity and elegance.",
+    "article": "<ul><li>Minimalistic Design.</li><li>Dark Mode</li><li>Build with TailwindCSS:</li><li>Responsive</li></ul>",
+    "typeUrl": "https://github.com/eAntillon/void-astro",
+    "liveUrl": "https://astro-void.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/eAntillon/void-astro",
+        "name": "void-astro",
+        "full_name": "eAntillon/void-astro",
+        "description": null,
+        "stargazers_count": 57,
+        "created_at": "2024-06-06T19:56:36Z",
+        "updated_at": "2025-08-06T05:08:13Z",
+        "pushed_at": "2025-08-06T05:08:09Z",
+        "git_url": "git://github.com/eAntillon/void-astro.git",
+        "ssh_url": "git@github.com:eAntillon/void-astro.git",
+        "clone_url": "https://github.com/eAntillon/void-astro.git",
+        "homepage": "https://astro-void.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fnxsk6b099o4v3i54kppjv6eb6jx4ilq6jgi8yc.webp&w=1600&h=900&f=webp"
+    ]
+}

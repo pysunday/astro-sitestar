@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/astro-login-template/",
+    "name": "astro-login-template",
+    "title": "Astro Login Template",
+    "desc": "A website with a simple design, with an example of how to make a login website with Astro.",
+    "article": "<h2>Astro Login</h2><p><br/></p><p>A simple web page, with an example without much code of how to make a login using Astro in a native way without using any framework.</p>",
+    "typeUrl": "https://github.com/Zastinian/Astro-Login",
+    "liveUrl": "https://astro-login.hedystia.com",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Zastinian/Astro-Login",
+        "name": "Astro-Login",
+        "full_name": "Zastinian/Astro-Login",
+        "description": "A website with a simple design, with an example of how to make a login website with Astro.",
+        "stargazers_count": 23,
+        "created_at": "2023-03-31T18:21:13Z",
+        "updated_at": "2025-08-05T18:07:25Z",
+        "pushed_at": "2025-08-05T18:07:22Z",
+        "git_url": "git://github.com/Zastinian/Astro-Login.git",
+        "ssh_url": "git@github.com:Zastinian/Astro-Login.git",
+        "clone_url": "https://github.com/Zastinian/Astro-Login.git",
+        "homepage": "https://astro-login.hedystia.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fgo7m8big5em4x3rvxxj1g981jnybwubain9wmm.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fm3neyf302a0v91nwkk9enhzhev9i99fruyf0pk.webp&w=1600&h=900&f=webp"
+    ]
+}

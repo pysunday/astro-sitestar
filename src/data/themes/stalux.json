@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/stalux/",
+    "name": "stalux",
+    "title": "Stalux",
+    "desc": "Stalux is a meticulously designed and developed static blog theme, built on modern web technology stack, focusing on performance and user experience.",
+    "article": "<h2>ð ï¸ Technology Stack</h2><ul><li>Integration of Waline comment system</li><li>Implementation of SEO optimization strategies</li><li>Dark mode only</li><li>Responsive design</li></ul><h2>ð¨âð» Theme Features</h2><p>The Stalux theme offers a variety of practical features to help content creators focus on writing:</p><ul><li>Simple and Efficient : Streamlined code and fast loading provide a smooth user experience.</li><li>Comprehensive Configuration : Rich configuration options available.</li><li>SEO Friendly : Improved visibility for search engines.</li><li>Content First : Focus on content display for a clear reading experience.</li></ul><p>\"Simple, but not simplistic; beautiful, but not flashy.\" â the design philosophy of the Stalux theme. We believe the best themes should highlight the user's content.</p><h2>ð Advantages of Stalux</h2><p>Designed for content creators and blog enthusiasts, the Stalux theme has the following core advantages:</p><ul><li>Easy Deployment : Can be easily deployed to platforms like Vercel, Netlify, etc.</li><li>Rich Functionality : Built - in comment system, site - wide search, tag cloud, archive features, etc.</li><li>Flexible Configuration : Rich configuration options available for customization without modifying the source code.</li><li>Mobile Friendly : Fully responsive design provides excellent experiences across various devices.</li></ul><p>If you like this theme or have any suggestions, feel free to submit Issues or Pull Requests via GitHub.</p><h2>ð¡ Configuration System</h2><p>The Stalux theme provides a powerful and flexible configuration system, allowing you to easily customize your blog:</p><ul><li>Unified Configuration : Centralized configuration management through the _config.ts file.</li><li>Type Safety : Ensures configuration accuracy and reduces errors.</li><li>Modular Design : Separate configurations for different functional modules for easier maintenance.</li><li>Strong Adaptability : Adapts to different content requirements and personal preferences.</li><li>Good Compatibility : Supports various content formats and display methods.</li></ul><p>The Stalux theme is open - sourced under the MIT license, allowing free use, modification, and distribution. All configuration items are well - documented.</p><h2>ð Conclusion</h2><p>Thank you for choosing the Stalux theme! We hope this theme provides a perfect platform for showcasing your content creation, helping you focus on content rather than technical details.</p><p>If you have any questions or suggestions during use, feel free to submit Issues or contribute code through the GitHub repository. We will continuously improve and optimize Stalux to provide better tools for content creators.</p><p>We hope Stalux becomes one of your favorite blog themes!</p><p><br/></p>",
+    "typeUrl": "https://github.com/xingwangzhe/stalux",
+    "liveUrl": "https://stalux.needhelp.icu/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/xingwangzhe/stalux",
+        "name": "stalux",
+        "full_name": "xingwangzhe/stalux",
+        "description": "Stalux - 高效、美观、灵活的 Astro 博客",
+        "stargazers_count": 12,
+        "created_at": "2025-03-21T11:31:07Z",
+        "updated_at": "2025-08-07T10:17:25Z",
+        "pushed_at": "2025-07-21T06:17:41Z",
+        "git_url": "git://github.com/xingwangzhe/stalux.git",
+        "ssh_url": "git@github.com:xingwangzhe/stalux.git",
+        "clone_url": "https://github.com/xingwangzhe/stalux.git",
+        "homepage": "https://stalux.needhelp.icu"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F5xtcqcgy3we3xv7dncrzjmjgabwfroeasspecv.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fvtyezv6yfa75c9nzh7lsxwvdmc4fub9gygbana.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fx6luykg3xitrkl4azmhmjuhk9tgf65d90dhqkj.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fnt7vogcfg8pe467z2ghicrgslkm88f9johksqm.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fb07ali70v9152th0qf5g2lb2xrvl4a7h8ooz3u.webp&w=1600&h=900&f=webp"
+    ]
+}

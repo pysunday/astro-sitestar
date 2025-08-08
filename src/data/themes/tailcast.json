@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/tailcast/",
+    "name": "tailcast",
+    "title": "Tailcast",
+    "desc": "Dark themed website template designed for saas/startup business.",
+    "article": "",
+    "typeUrl": "https://github.com/matt765/Tailcast",
+    "liveUrl": "https://tailcastsite.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/matt765/Tailcast",
+        "name": "Tailcast",
+        "full_name": "matt765/Tailcast",
+        "description": null,
+        "stargazers_count": 381,
+        "created_at": "2022-10-21T16:49:07Z",
+        "updated_at": "2025-08-01T15:30:39Z",
+        "pushed_at": "2024-06-06T09:56:27Z",
+        "git_url": "git://github.com/matt765/Tailcast.git",
+        "ssh_url": "git@github.com:matt765/Tailcast.git",
+        "clone_url": "https://github.com/matt765/Tailcast.git",
+        "homepage": "https://tailcast.vercel.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ftailcast.webp&w=1600&h=900&f=webp"
+    ]
+}

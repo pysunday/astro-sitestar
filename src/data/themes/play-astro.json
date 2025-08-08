@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/play-astro/",
+    "name": "play-astro",
+    "title": "Play Astro",
+    "desc": "A fantastic free and open-source Astro template, built for startups, SaaS companies, apps, businesses, and more.",
+    "article": "\n<p>\n  A fantastic free and open-source Astro template, built for startups, SaaS\n  companies, apps, businesses, and more. Comes with all essential pages,\n  sections, components and fully-functional blog.\n</p>\n",
+    "typeUrl": "https://github.com/TailGrids/play-astro",
+    "liveUrl": "https://play-astro.tailgrids.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/TailGrids/play-astro",
+        "name": "play-astro",
+        "full_name": "TailGrids/play-astro",
+        "description": "Play Astro is a free, open-source template perfect for startups, SaaS, apps, and businesses. With its high-end design, functional blog and essential components, it's your one-stop solution for launching a complete Astro website.",
+        "stargazers_count": 168,
+        "created_at": "2023-11-30T09:57:20Z",
+        "updated_at": "2025-07-29T08:16:38Z",
+        "pushed_at": "2023-12-03T12:29:57Z",
+        "git_url": "git://github.com/TailGrids/play-astro.git",
+        "ssh_url": "git@github.com:TailGrids/play-astro.git",
+        "clone_url": "https://github.com/TailGrids/play-astro.git",
+        "homepage": "https://play-astro.tailgrids.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fplay-astro-hero.webp&w=1600&h=900&f=webp"
+    ]
+}

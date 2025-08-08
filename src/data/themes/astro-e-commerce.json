@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-e-commerce/",
+    "name": "astro-e-commerce",
+    "title": "Astro E-commerce",
+    "desc": "Introducing Astro Ecommerce, the ultimate starter template for your e-commerce web project. Built on Astro's next-gen island architecture, Astro Ecommerce offers a sleek and modern design with a wide range of components and features to help you create a stunning online store. By Creative-Tim.com",
+    "article": "<p>Coming with a great number of fully coded elements and pages, Astro Ecommerce makes it easy to quickly and efficiently build your e-commerce website. And with its responsive design, your store will look great on any device, ensuring that your customers have a seamless shopping experience.</p><p><br/></p><p>Main Features</p><p>Build your e-commerce website quickly and efficiently with:</p><p>- 70+ fully coded elements</p><p>- 3 fully coded example pages</p><p>- 30+ blocks</p><p>- Responsive design</p><p><br/></p><p>Example Pages</p><p>We created a set of pre-built pages to help you get inspired or show something to your clients. See them below:</p><p>- <a href=\"https://demos.creative-tim.com/astro-ecommerce/landing/\" rel=\"nofollow ugc\">Landing Page</a>: Designed to introduce the website's purpose and encourage the user to take an action.</p><p>- <a href=\"https://demos.creative-tim.com/astro-ecommerce/product/\" rel=\"nofollow ugc\">Product Page</a>: It's designed to give the user all the information they need to make a purchase decision</p><p>- <a href=\"https://demos.creative-tim.com/astro-ecommerce/shopping-cart/\" rel=\"nofollow ugc\">Shopping Page</a>: Includes a summary of the items in the cart and a form for billing and shipping information.</p><p>- more+</p><p>Astro Ecommerce has everything you need to create the e-commerce website of your dreams.</p>",
+    "typeUrl": "https://github.com/creativetimofficial/astro-ecommerce",
+    "liveUrl": "https://www.creative-tim.com/astro/ecommerce/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/creativetimofficial/astro-ecommerce",
+        "name": "astro-ecommerce",
+        "full_name": "creativetimofficial/astro-ecommerce",
+        "description": "Astro Ecommerce - Ready to use components ",
+        "stargazers_count": 427,
+        "created_at": "2022-10-17T08:57:59Z",
+        "updated_at": "2025-08-07T15:20:15Z",
+        "pushed_at": "2025-07-30T10:54:16Z",
+        "git_url": "git://github.com/creativetimofficial/astro-ecommerce.git",
+        "ssh_url": "git@github.com:creativetimofficial/astro-ecommerce.git",
+        "clone_url": "https://github.com/creativetimofficial/astro-ecommerce.git",
+        "homepage": "https://www.creative-tim.com/astro"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fccl2m1iec0zwx1vsvqtgpeblc1f3lfcownlmev.webp&w=1600&h=900&f=webp"
+    ]
+}

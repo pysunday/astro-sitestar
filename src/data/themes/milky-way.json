@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/milky-way/",
+    "name": "milky-way",
+    "title": "Milky Way",
+    "desc": "A minimalist portfolio template with a whimsical charm, designed to showcase your creativity in an elegant digital space.",
+    "article": "<p>Milky Way brings forth a minimalist design ethos, allowing your work to shine like stars in the night sky. With clean lines and intuitive navigation, visitors are guided effortlessly through your portfolio, focusing solely on your creations.</p><p>Embrace the whimsical charm of Milky Way as it showcases your talents in a manner that's both elegant and endearing. Whether you're a designer, developer, artist, or creative professional of any kind, Milky Way provides the perfect canvas to showcase your endeavors.</p><p>With its responsive design, Milky Way ensures a seamless experience across devices, from desktops to smartphones, so your portfolio is accessible to all who wish to explore it. Let your work take center stage against the backdrop of this celestial template.</p><h2>Features</h2><ul><li>Simple and clean design, perfect for showcasing your work</li><li>Responsive layout for seamless viewing across different devices</li><li>Fast and efficient, thanks to the Astro static site generator</li><li>Easy to customize with CSS and straightforward HTML structure</li></ul>",
+    "typeUrl": "https://github.com/ttomczak3/Milky-Way",
+    "liveUrl": "https://astro-milky-way.netlify.app",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/ttomczak3/Milky-Way",
+        "name": "Milky-Way",
+        "full_name": "ttomczak3/Milky-Way",
+        "description": "A minimalist portfolio template with a whimsical charm, designed to showcase your creativity in an elegant digital space.",
+        "stargazers_count": 222,
+        "created_at": "2023-07-27T03:03:22Z",
+        "updated_at": "2025-08-06T02:35:15Z",
+        "pushed_at": "2025-04-02T23:02:24Z",
+        "git_url": "git://github.com/ttomczak3/Milky-Way.git",
+        "ssh_url": "git@github.com:ttomczak3/Milky-Way.git",
+        "clone_url": "https://github.com/ttomczak3/Milky-Way.git",
+        "homepage": "https://astro-milky-way.netlify.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fli8pypvydk9xnzzrtrgzfw9q11j836g6y9efm8.webp&w=1600&h=900&f=webp"
+    ]
+}

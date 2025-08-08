@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-design-system-docs/",
+    "name": "astro-design-system-docs",
+    "title": "Astro Design System & Docs",
+    "desc": "Astro Design System starter theme is a simple theme to help you document your styleguide, components, patterns and more.",
+    "article": "",
+    "typeUrl": "https://github.com/jordienr/astro-design-system",
+    "liveUrl": "https://astro-design-system.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/jordienr/astro-design-system",
+        "name": "astro-design-system",
+        "full_name": "jordienr/astro-design-system",
+        "description": "This is a theme/starter project for design systems built in Astro. You can install and import your own component library and document all your design decisions and components.",
+        "stargazers_count": 124,
+        "created_at": "2022-04-08T22:34:36Z",
+        "updated_at": "2025-08-04T08:06:26Z",
+        "pushed_at": "2023-05-18T17:42:16Z",
+        "git_url": "git://github.com/jordienr/astro-design-system.git",
+        "ssh_url": "git@github.com:jordienr/astro-design-system.git",
+        "clone_url": "https://github.com/jordienr/astro-design-system.git",
+        "homepage": "https://astro-design-system.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-design-system.webp&w=1600&h=900&f=webp"
+    ]
+}

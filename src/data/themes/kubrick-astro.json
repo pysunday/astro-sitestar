@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/kubrick-astro/",
+    "name": "kubrick-astro",
+    "title": "Kubrick Astro",
+    "desc": "Kubrick Astro is a theme designed for all the nostalgics who once used WordPress and had the opportunity to experience this theme that undoubtedly changed the life of this CMS.",
+    "article": "<p>Kubrick Astro is a theme designed for all the nostalgics who once used WordPress and had the opportunity to experience the original Kubrick theme that undoubtedly transformed the life of this CMS. Reminisce about the early days of blogging with a modern twist. Kubrick Astro blends the classic design with updated features, offering a perfect balance of nostalgia and functionality. Ideal for those who appreciate the roots of WordPress while enjoying the benefits of contemporary web technologies. Dive into a theme that honors the past while embracing the future.</p><h2>Features</h2><p>\tâ Minimal styling</p><p>\tâ SEO-friendly with canonical URLs and OpenGraph data</p><p>\tâ Sitemap support</p><p>\tâ RSS Feed support</p><p>\tâ Markdown &amp; MDX support</p><p>\tâ Syntax highlighting</p><p>\tâ Image optimization</p><p>\tâ Pagination</p><p>\tâ ViewTransition</p><p>\tâ Support for custom pages</p><p><br/></p>",
+    "typeUrl": "https://github.com/Angelfire/the-kubrick-astro",
+    "liveUrl": "https://the-kubrick-astro.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Angelfire/the-kubrick-astro",
+        "name": "the-kubrick-astro",
+        "full_name": "Angelfire/the-kubrick-astro",
+        "description": "The Kubrick theme for Astro inspired on The Kubrick theme for WordPress",
+        "stargazers_count": 6,
+        "created_at": "2024-06-26T19:42:07Z",
+        "updated_at": "2025-07-31T13:23:16Z",
+        "pushed_at": "2024-07-08T14:13:32Z",
+        "git_url": "git://github.com/Angelfire/the-kubrick-astro.git",
+        "ssh_url": "git@github.com:Angelfire/the-kubrick-astro.git",
+        "clone_url": "https://github.com/Angelfire/the-kubrick-astro.git",
+        "homepage": "https://the-kubrick-astro.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F7pmr8olqkta0y649q3j4b76p5bwfixohyzuuyp.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fokmefrl6krf6dbsxxki7wi49b4tkp9pad3jnl6.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fl7n5wwbgxe2nlfqvp2o5ekcvfu00nx3lbb0pru.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fky0ames7tzz8c63d2yv4o1cis01thxhayc5okw.webp&w=1600&h=900&f=webp"
+    ]
+}

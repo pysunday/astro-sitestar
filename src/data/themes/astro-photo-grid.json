@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/astro-photo-grid/",
+    "name": "astro-photo-grid",
+    "title": "Astro Photo Grid",
+    "desc": "A minimal, single-page photo gallery.",
+    "article": "<p><strong>Responsive, justified grid using modern CSS.</strong></p><p>All layout and reflow logic is handled with pure CSSâno JS required for positioning!</p><p><br/></p><p><strong>Automatic lightbox integration.</strong></p><p>Images open in a full-screen preview using <a href=\"https://fancyapps.com/fancybox/\" rel=\"nofollow ugc\">Fancybox</a>, which includes swipe, drag, pinch-to-zoom, and a customizable toolbar.</p><p><br/></p><p><strong>Optimized image loading and sizing.</strong></p><p>Images on the grid are optimized using Astro's &lt;Image /&gt; component. Images on the grid beyond the first screen are lazily loaded.</p><p><br/></p><p><strong>Automatic light/dark mode support.</strong></p><p>Lightbox and site background automatically change to match system preferences.</p>",
+    "typeUrl": "https://github.com/evadecker/astro-photo-grid",
+    "liveUrl": "https://astro-photo-grid.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/evadecker/astro-photo-grid",
+        "name": "astro-photo-grid",
+        "full_name": "evadecker/astro-photo-grid",
+        "description": "A minimal, single-page photo gallery for Astro.",
+        "stargazers_count": 33,
+        "created_at": "2025-07-27T21:20:33Z",
+        "updated_at": "2025-08-07T12:50:48Z",
+        "pushed_at": "2025-08-04T18:26:28Z",
+        "git_url": "git://github.com/evadecker/astro-photo-grid.git",
+        "ssh_url": "git@github.com:evadecker/astro-photo-grid.git",
+        "clone_url": "https://github.com/evadecker/astro-photo-grid.git",
+        "homepage": "https://astro-photo-grid.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Frhnnejlph4nv23jyzpjuk57mrrrm8xebsd6sjv.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fy6e6gzs7ogku2rmaxd57i4ln67zzft5lsv8phq.webp&w=1600&h=900&f=webp"
+    ]
+}

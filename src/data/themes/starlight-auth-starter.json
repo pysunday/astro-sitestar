@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/starlight-auth-starter/",
+    "name": "starlight-auth-starter",
+    "title": "Starlight Auth Starter",
+    "desc": "Control who can access your content by adding auth to your Starlight site.",
+    "article": "<p>The Starlight Auth starter provides you with a simple auth setup to control who can access restricted pages in your Starlight site. This template is perfect for building internal documentation, a paid course, a client portal, etc.</p><h3>Features</h3><ul><li>Deploys to Vercel, Netlify, and supports traditional Node.js deployments.</li><li>Uses <a href=\"https://authjs.dev/\" rel=\"nofollow ugc\">Auth.js</a> to quickly configure authentication providers.</li><li>Add custom logic to control who can access each page.</li><li>Use all your favourite Starlight features to build a powerful documentation site.</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/TheOtterlord/starlight-auth",
+    "liveUrl": "https://starlight-auth-development.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/TheOtterlord/starlight-auth",
+        "name": "starlight-auth",
+        "full_name": "TheOtterlord/starlight-auth",
+        "description": "Starlight + Auth.js template",
+        "stargazers_count": 56,
+        "created_at": "2024-04-10T19:00:33Z",
+        "updated_at": "2025-07-29T13:24:51Z",
+        "pushed_at": "2024-05-20T19:19:16Z",
+        "git_url": "git://github.com/TheOtterlord/starlight-auth.git",
+        "ssh_url": "git@github.com:TheOtterlord/starlight-auth.git",
+        "clone_url": "https://github.com/TheOtterlord/starlight-auth.git",
+        "homepage": "https://starlight-auth-development.vercel.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Faup06uditbwjxfwoboq1krn0gf4naynbjrpvv5.webp&w=1600&h=900&f=webp"
+    ]
+}

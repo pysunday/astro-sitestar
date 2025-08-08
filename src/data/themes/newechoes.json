@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/newechoes/",
+    "name": "newechoes",
+    "title": "newechoes",
+    "desc": "Concise blog",
+    "article": "",
+    "typeUrl": "https://github.com/lsy2246/newechoes",
+    "liveUrl": "https://blog.lsy22.com/articles/web/echoes%E5%8D%9A%E5%AE%A2%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/lsy2246/newechoes",
+        "name": "newechoes",
+        "full_name": "lsy2246/newechoes",
+        "description": null,
+        "stargazers_count": 17,
+        "created_at": "2025-03-03T13:10:13Z",
+        "updated_at": "2025-07-09T16:11:21Z",
+        "pushed_at": "2025-07-09T16:11:17Z",
+        "git_url": "git://github.com/lsy2246/newechoes.git",
+        "ssh_url": "git@github.com:lsy2246/newechoes.git",
+        "clone_url": "https://github.com/lsy2246/newechoes.git",
+        "homepage": "https://blog.lsy22.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fsoiaxd1x93ahwcyojwhcy833eumi6joe9mk435.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fvkfriul7e640bqaqq2nnkbp04sori5cq8kl06g.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fje9kjs40n2fzushunkoyufepgwvuqnxqw3sv83.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F1tdpxw516qi2m898n9c36jw73sdafsfbdyvdb3.webp&w=1600&h=900&f=webp"
+    ]
+}

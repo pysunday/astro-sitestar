@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/bobs-blog/",
+    "name": "bobs-blog",
+    "title": "Bob's Blog",
+    "desc": "Bob's blog is a simple blog template created with Astro & Tailwindcss",
+    "article": "",
+    "typeUrl": "https://github.com/MoofyWoofy/Bob-blog",
+    "liveUrl": "https://moofywoofy.github.io/Bob-blog/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/MoofyWoofy/Bob-blog",
+        "name": "Bob-blog",
+        "full_name": "MoofyWoofy/Bob-blog",
+        "description": "A simple blog using Astro & Tailwindcss",
+        "stargazers_count": 21,
+        "created_at": "2022-06-26T04:03:44Z",
+        "updated_at": "2025-06-16T13:55:33Z",
+        "pushed_at": "2023-09-24T02:54:57Z",
+        "git_url": "git://github.com/MoofyWoofy/Bob-blog.git",
+        "ssh_url": "git@github.com:MoofyWoofy/Bob-blog.git",
+        "clone_url": "https://github.com/MoofyWoofy/Bob-blog.git",
+        "homepage": "https://MoofyWoofy.github.io/Bob-blog/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fbobs-blog.webp&w=1600&h=900&f=webp"
+    ]
+}

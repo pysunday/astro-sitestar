@@ -1,0 +1,51 @@
+---
+import clsx from 'clsx';
+import getThemes from '@/lib/themes/getThemes';
+import ImgPanel from '@/components/common/ImgPanel.astro';
+import { Icon } from 'astro-icon/components'
+import { getRelativeLocaleUrl } from 'astro:i18n';
+import { getI18n } from "@/i18n/index"
+const sites = (await getThemes()).slice(0, 9);
+
+const { currentLocale } = Astro
+const i18n = await getI18n(currentLocale, 'sitestar.siter')
+---
+<section
+  id="sites"
+  class={clsx(
+    "min-h-screen px-4 w-full overflow-x-hidden flex flex-col justify-center items-center relative z-[1] mt-[-10rem]",
+    "bg-gradient-to-br from-[#e5e5e5] to-[#f2f2f2]",
+    "[clip-path:polygon(0_0,20%_1.5%,100%_0,100%_100%,80%_98.5%,0_100%)]",
+    "sm:[clip-path:polygon(0_0,20%_2.5%,100%_0,100%_100%,80%_97.5%,0_100%)]",
+    "lg:[clip-path:polygon(0_0,20%_3%,100%_0,100%_100%,80%_97%,0_100%)]",
+    "xl:[clip-path:polygon(0_0,20%_4%,100%_0,100%_100%,80%_96%,0_100%)]",
+    "2xl:[clip-path:polygon(0_0,20%_5%,100%_0,100%_100%,80%_95%,0_100%)]",
+    "py-20 px-4",
+    "sm:py-30 sm:px-8",
+    "md:py-40 md:px-16",
+    "xl:py-60 xl:px-40",
+  )}
+>
+  <div class="max-w-[1400px] mx-auto w-[90%] md:w-[80%] xl:w-[70%] pb-10">
+    <div>
+      <h3 class="text-center text-[2.4rem] leading-[2.4rem]">{i18n('title')}</h3>
+      <p class="bg-[#f300b4] w-[150px] h-[2px] my-8 mx-auto" />
+      <p class="text-[1.4rem] text-justify w-[90%] sm:w-[80%] mx-auto">
+        {i18n('desc')}
+      </p>
+    </div>
+    <div class="relative mt-20 grid sm:grid-cols-2 xl:grid-cols-3 gap-8">
+      {sites.map((it, idx) => <ImgPanel
+        class={clsx(
+          idx >= 3 && "max-sm:hidden",
+          idx >= 6 && "max-xl:hidden",
+        )}
+        {...it}
+      />)}
+      <a href={getRelativeLocaleUrl(currentLocale, "/all/1")} class="absolute right-0 bottom-[-3rem] flex text-xl items-center animate-bounce">
+        {i18n('more')}<Icon name="more" class="w-8 h-8" />
+      </a>
+    </div>
+  </div>
+</section>
+

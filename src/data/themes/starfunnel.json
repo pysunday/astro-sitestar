@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/starfunnel/",
+    "name": "starfunnel",
+    "title": "StarFunnel",
+    "desc": "Start creating your blazing fast Astro sales funnel for SAAS, product, service or app.",
+    "article": "\n<p>\n  Hoard leads with ease with Starfunnel, the fast static site template that fuels your landing pages\n  with lightspeed.\n</p>\n<h3>Contact Forms</h3>\n<p>\n  Our form supports topics, enabling submissions to go directly to Slack or services like\n  SendGrid/Postmark. You can assign different email addresses or Slack channels to specific topics.\n</p>\n<h3>Newsletters</h3>\n<p>\n  Our Mailchimp integration empowers you to effortlessly create multiple forms with robust tag and\n  list support. Customize your interactions, streamline data organization, and enhance your\n  marketing strategy seamlessly.\n</p>\n",
+    "typeUrl": "https://github.com/unfolding-io/StarFunnel",
+    "liveUrl": "https://starfunnel.unfolding.io/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/unfolding-io/StarFunnel",
+        "name": "StarFunnel",
+        "full_name": "unfolding-io/StarFunnel",
+        "description": "the Astro powered landing page builder",
+        "stargazers_count": 139,
+        "created_at": "2023-11-19T14:35:58Z",
+        "updated_at": "2025-08-05T05:32:36Z",
+        "pushed_at": "2024-07-08T10:42:58Z",
+        "git_url": "git://github.com/unfolding-io/StarFunnel.git",
+        "ssh_url": "git@github.com:unfolding-io/StarFunnel.git",
+        "clone_url": "https://github.com/unfolding-io/StarFunnel.git",
+        "homepage": "https://starfunnel.unfolding.io/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fstarfunnel-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fstarfunnel-2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fstarfunnel-3.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fstarfunnel-4.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fstarfunnel-5.webp&w=1600&h=900&f=webp"
+    ]
+}

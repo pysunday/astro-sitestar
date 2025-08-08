@@ -1,0 +1,16 @@
+{
+    "url": "https://astro.build/themes/details/oxymor-st/",
+    "name": "oxymor-st",
+    "title": "Oxymor ST",
+    "desc": "Customizable Tailwind CSS landing page template for showcasing products, apps, or services.",
+    "article": "<p>Oxymor ST is a professional SaaS landing page template designed to highlight your product, app, or service with a clean, modern layout. Available in both HTML and Astro versions, this template is equipped with eye-catching animations, such as smooth bento grid effects and a detailed navbar that elevates the user experience. The sky blue gradient backdrop creates an inviting and serene aesthetic, while subtle button shadows and polished UI elements ensure a high-quality look.</p>",
+    "typeUrl": "https://tailus.lemonsqueezy.com/buy/11c51a87-67aa-4aac-a641-5112ec511362",
+    "liveUrl": "https://tailus.io/preview/oxymor-st/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fyb1l05n58vmul55eckf4j8luu60xyxwvfxmymc.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ftxamwdjhjoia1xs4alqpqgeoed4z45lbhx8tac.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fc692hpkoha3nvhfj5r7oav4ew7nvd8blf629va.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fhnc08iecz4rsvnqgqb84h6arcd2pwmaa19cz28.webp&w=1600&h=900&f=webp"
+    ]
+}

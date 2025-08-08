@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-multiverse/",
+    "name": "astro-multiverse",
+    "title": "Astro Multiverse",
+    "desc": "Say hello to Multiverse, a slick, one-page gallery design with a fully functional lightbox. Designed by HTML5 UP.",
+    "article": "",
+    "typeUrl": "https://github.com/AREA44/astro-multiverse",
+    "liveUrl": "https://astro-multiverse.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/area44/astro-multiverse",
+        "name": "astro-multiverse",
+        "full_name": "area44/astro-multiverse",
+        "description": "One-page gallery design with a fully functional lightbox, designed by HTML5 UP",
+        "stargazers_count": 111,
+        "created_at": "2022-09-01T17:54:54Z",
+        "updated_at": "2025-08-03T07:09:30Z",
+        "pushed_at": "2025-08-03T07:09:27Z",
+        "git_url": "git://github.com/area44/astro-multiverse.git",
+        "ssh_url": "git@github.com:area44/astro-multiverse.git",
+        "clone_url": "https://github.com/area44/astro-multiverse.git",
+        "homepage": "https://astro-multiverse.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-multiverse.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/stone/",
+    "name": "stone",
+    "title": "Stone",
+    "desc": "Free Astro theme specially designed for Business, Marketing, SaaS and Startup websites.",
+    "article": "\n<h2>Key Features:</h2>\n<ul>\n<li><strong>Built with Tailwind CSS &amp; Alpine.js</strong></li>\n<li><strong>5+ Pages</strong></li>\n<li><strong>15+ Sections</strong></li>\n<li>Clean &amp; Modern Design</li>\n<li>Fully Responsive</li>\n<li>Dark &amp; Light Mode</li>\n<li>Fast &amp; Performant</li>\n<li>Super Lightweight</li>\n<li>View Transitions (experimental)</li>\n<li><strong>Prettier</strong> Code Formatter</li>\n<li><strong>Google Fonts</strong></li>\n<li><strong>Remix Icons</strong></li>\n<li>Free Updates</li>\n</ul>\n",
+    "typeUrl": "https://github.com/m6v3l9/astro-theme-stone",
+    "liveUrl": "https://astro-theme-stone.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/m6v3l9/astro-theme-stone",
+        "name": "astro-theme-stone",
+        "full_name": "m6v3l9/astro-theme-stone",
+        "description": "Stone is a free and open-source Astro theme specially designed for Business, Marketing, SaaS and Startup websites.",
+        "stargazers_count": 214,
+        "created_at": "2023-08-24T14:49:47Z",
+        "updated_at": "2025-08-05T19:26:16Z",
+        "pushed_at": "2024-01-31T13:37:07Z",
+        "git_url": "git://github.com/m6v3l9/astro-theme-stone.git",
+        "ssh_url": "git@github.com:m6v3l9/astro-theme-stone.git",
+        "clone_url": "https://github.com/m6v3l9/astro-theme-stone.git",
+        "homepage": "https://astro-theme-stone.vercel.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fstone-hero.webp&w=1600&h=900&f=webp"
+    ]
+}

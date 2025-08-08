@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/spectre/",
+    "name": "spectre",
+    "title": "Spectre",
+    "desc": "Spectre is a terminal-inspired theme for Astro, built using Astro and TypeScript.",
+    "article": "<p>Spectre is a terminal-inspired theme for Astro, built using Astro and TypeScript.</p><h2>Features</h2><ul><li>100 / 100 Lighthouse performance</li><li>Responsive for all screen sizes</li><li>Fully accessible</li><li>Type-Safe</li><li>Auto-generated sitemap</li><li>Markdown / MDX Support</li><li>Builds on content collections</li><li>Search powered by <a href=\"https://pagefind.app\" rel=\"nofollow ugc\">pagefind</a> </li><li>Comments powered by <a href=\"https://giscus.app\" rel=\"nofollow ugc\">giscus</a> (can be turned off) </li><li>And more!</li></ul>",
+    "typeUrl": "https://github.com/louisescher/spectre",
+    "liveUrl": "https://spectre.louisescher.dev",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/louisescher/spectre",
+        "name": "spectre",
+        "full_name": "louisescher/spectre",
+        "description": "Spectre is a terminal-inspired theme for Astro, built using Astro and TypeScript. ",
+        "stargazers_count": 98,
+        "created_at": "2024-12-29T17:12:32Z",
+        "updated_at": "2025-08-07T18:54:51Z",
+        "pushed_at": "2025-07-31T20:12:19Z",
+        "git_url": "git://github.com/louisescher/spectre.git",
+        "ssh_url": "git@github.com:louisescher/spectre.git",
+        "clone_url": "https://github.com/louisescher/spectre.git",
+        "homepage": "https://spectre.lou.gg"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fkace5i8pkyg7lnsptsjyk0d4xwjcf796xa0707.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Flgqg80w2op2o5sn372grmn2p4v7ifs9n915rwt.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fh1ef01r1dwdc69pi289mcly4yy0edyic8bgzal.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ftsnr93k6qwialjl6918wav1aul5iiy4ms9fuvq.webp&w=1600&h=900&f=webp"
+    ]
+}

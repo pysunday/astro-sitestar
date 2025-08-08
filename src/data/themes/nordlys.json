@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/nordlys/",
+    "name": "nordlys",
+    "title": "Nordlys",
+    "desc": "A minimal blog theme",
+    "article": "<p>Nordlys is a minimal blog theme, ideal for a personal blog and showcasing a projects portfolio. It is fully customizable and easily configurable, includes built-in color themes, code blocks with custom headers and a dark &amp; light mode. Simple, but elegant, it looks good both on mobile and desktop and it is quick to take into use and so you can immediately start writing content.</p><p><br/></p><p>Check out the repository on <a href=\"https://github.com/FjellOverflow/nordlys\" rel=\"nofollow ugc\">Github</a> and check out the <a href=\"https://nordlys.fjelloverflow.dev/\" rel=\"nofollow ugc\">live preview</a>.</p>",
+    "typeUrl": "https://github.com/FjellOverflow/nordlys",
+    "liveUrl": "https://nordlys.fjelloverflow.dev",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/FjellOverflow/nordlys",
+        "name": "nordlys",
+        "full_name": "FjellOverflow/nordlys",
+        "description": "A minimal Astro blog theme",
+        "stargazers_count": 49,
+        "created_at": "2024-09-25T13:16:26Z",
+        "updated_at": "2025-08-07T19:14:17Z",
+        "pushed_at": "2025-07-23T10:40:25Z",
+        "git_url": "git://github.com/FjellOverflow/nordlys.git",
+        "ssh_url": "git@github.com:FjellOverflow/nordlys.git",
+        "clone_url": "https://github.com/FjellOverflow/nordlys.git",
+        "homepage": "https://nordlys.fjelloverflow.dev/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fbau2c7y2i36f5jvg72645owl8qoodmkz984cnq.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F7goi7cg9mckyekdjbnppyo7748mxdmlems2taw.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F63q597nahvg3snnhsn5tdgylv15j5vew3h5wbr.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fyf2z9fkbwuir9sp1l19m0w1x8urgg2c35oe9f9.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fb7zl6c2nn1z0xhkqtmts3pems1pgjfojpx0fkw.webp&w=1600&h=900&f=webp"
+    ]
+}

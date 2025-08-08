@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/astrogon/",
+    "name": "astrogon",
+    "title": "Astrogon",
+    "desc": "A rapidly customizable multipurpose Astro template",
+    "article": "<h2>Features</h2><h3>Content Collections</h3><ul><li>Blog - Implements <strong>Categories</strong> and <strong>Tags</strong>, for easy filtering and searching</li><li>Documentation - <strong>Multi-level</strong> document structure, toggleable <strong>Doc Browser</strong> and <strong>Table of Contents</strong> sidebars</li><li>Recipes - Demonstrates a highly <strong>templated</strong> <strong>structure</strong></li><li>Authors - A collection that can<strong> link entries</strong> <strong>across collections</strong> by the Author field</li><li>Poetry - A <strong>trim interface</strong> for a lightweight collection, demonstrating <strong>pagination</strong> over the content pages</li><li>Index Cards - A variation on the \"Poetry\" layout, where all content is kept in a single file, and displayed in a single page</li><li>And more - Homepage, About/Bio, Portfolio, Terms and Conditions, 404 page</li></ul><h3>Content Components &amp; Features</h3><ul><li><span>Accordion/collapsible section</span></li><li><span>Tabs section</span></li><li><span>Code Block with syntax highlighting</span></li><li><span>Quote Block</span></li><li><span>Notice Blocks - note, tip, info, &amp; warning</span></li><li><span>Embedded YouTube Video</span></li><li><span>Integrated LaTeX support for inline and block mathematical expressions</span></li><li><span>All the standard MD/MDX features, including footnotes, tables, and more</span></li></ul><h3>Additional Features</h3><ul><li><span>Comprehensive </span><strong>Light Mode</strong><span> and </span><strong>Dark Mode</strong><span> support, with automatic detection of system preference</span></li><li><strong>Searchability</strong><span> over all content you choose to include</span></li><li><strong>Adaptive Layout</strong><span> for all screen sizes, from phone a to a desktop monitor</span></li><li><strong>Tool Tips</strong><span> that can be added seamlessly to any interactable element</span></li><li><strong>Breadcrumbs</strong><span> for rapid navigation</span></li><li><span>Auto-populating </span><strong>Related Content</strong><span> section available for any content collection</span></li><li><span>Auto-calculating </span><strong>Reading Time</strong><span> available for any content collection</span></li><li><span>Togglable </span><strong>Frosted Glass</strong><span> effect on all components</span></li><li><span>Easily customizable color scheme and typography</span></li><li><span>Animated component </span><strong>Transitions</strong><span> for an elegant flourish</span></li><li><strong>Pagination</strong><span> for any content collection</span></li><li><span>Component for </span><strong>Social Media </strong><span>sharing</span></li><li><span>Built-in patterns for </span><strong>Search Engine Optimization</strong></li></ul><p><br/></p><p>Every one of these features was designed with modularity and customizability in mind, for the smoothest development experience possible. For more details, see <a href=\"https://github.com/astrogon/astrogon/blob/main/docs/customization.md\" rel=\"nofollow ugc\">docs/customization.md</a>.</p>",
+    "typeUrl": "https://github.com/astrogon/astrogon",
+    "liveUrl": "https://astrogon.reednel.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/astrogon/astrogon",
+        "name": "astrogon",
+        "full_name": "astrogon/astrogon",
+        "description": "A rapidly-customizable Astro JS website template",
+        "stargazers_count": 63,
+        "created_at": "2024-12-19T15:15:56Z",
+        "updated_at": "2025-08-06T04:16:22Z",
+        "pushed_at": "2025-07-22T15:37:59Z",
+        "git_url": "git://github.com/astrogon/astrogon.git",
+        "ssh_url": "git@github.com:astrogon/astrogon.git",
+        "clone_url": "https://github.com/astrogon/astrogon.git",
+        "homepage": "https://astrogon.reednel.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fml8m4w80h4mo6bq8hb4luo6nkiwpivem0xgx6j.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F6behsysspk9tzj93az2fgyuy8ni6zz535yzwgm.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fe8gfz4soq0k7vjgswt4j4m52ydhekacnyd4vu4.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F5a3zvymgzzfwu89qbawoq74ihzxmrjgsqvaxgc.webp&w=1600&h=900&f=webp"
+    ]
+}

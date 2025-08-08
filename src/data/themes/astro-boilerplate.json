@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/astro-boilerplate/",
+    "name": "astro-boilerplate",
+    "title": "Astro Boilerplate",
+    "desc": "A fully responsive template built with Astro, TypeScript and React styled with Tailwind CSS. The perfect boilerplate to build a blog or portfolio.",
+    "article": "",
+    "typeUrl": "https://github.com/ixartz/Astro-boilerplate",
+    "liveUrl": "https://creativedesignsguru.com/demo/astro-boilerplate/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/ixartz/Astro-boilerplate",
+        "name": "Astro-boilerplate",
+        "full_name": "ixartz/Astro-boilerplate",
+        "description": "🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Lint-Staged + Commitlint + VSCode",
+        "stargazers_count": 875,
+        "created_at": "2022-05-03T15:17:26Z",
+        "updated_at": "2025-08-06T08:39:44Z",
+        "pushed_at": "2025-04-08T20:23:47Z",
+        "git_url": "git://github.com/ixartz/Astro-boilerplate.git",
+        "ssh_url": "git@github.com:ixartz/Astro-boilerplate.git",
+        "clone_url": "https://github.com/ixartz/Astro-boilerplate.git",
+        "homepage": "https://creativedesignsguru.com/demo/astro-boilerplate/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-boilerplate-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-boilerplate.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/simply-notes/",
+    "name": "simply-notes",
+    "title": "Simply Notes ð",
+    "desc": "Simple Blog Concept with Notes mode.",
+    "article": "<p>Simple Notes </p><p><br/></p><p>Simple starter for Vlog ð¬ ð¤ Podcast  ð blog</p><p><br/></p><p>Recipe :</p><ul><li>Astro</li><li>Typescript</li><li>MDX</li><li>SEO</li><li>Emoji</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/mesinkasir/astro-podcast-vlog",
+    "liveUrl": "https://softwareresto.web.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/mesinkasir/astro-podcast-vlog",
+        "name": "astro-podcast-vlog",
+        "full_name": "mesinkasir/astro-podcast-vlog",
+        "description": "Astro 🎤 Podcast Vlog 🎬 Website Simple Starter",
+        "stargazers_count": 5,
+        "created_at": "2022-09-05T18:44:22Z",
+        "updated_at": "2025-05-30T01:30:53Z",
+        "pushed_at": "2025-01-15T01:03:12Z",
+        "git_url": "git://github.com/mesinkasir/astro-podcast-vlog.git",
+        "ssh_url": "git@github.com:mesinkasir/astro-podcast-vlog.git",
+        "clone_url": "https://github.com/mesinkasir/astro-podcast-vlog.git",
+        "homepage": "https://softwareresto.web.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fzhjkl71sfqrvb09eqznowan8qzc7cg760fy8kv.webp&w=1600&h=900&f=webp"
+    ]
+}

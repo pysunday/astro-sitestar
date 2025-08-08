@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/alogocode/",
+    "name": "alogocode",
+    "title": "Alogocode",
+    "desc": "A sleek and responsive developer portfolio built with Astro, combining the power of TypeScript, React, and Tailwind CSS for a modern web experience. This template features elegant UI components from shadcn/ui, interactive icons with react-icons, and smooth scrolling effects powered by locomotive-scroll. The codebase is clean and well-structured, formatted with Prettier for consistency.",
+    "article": "<p><strong>Modern Developer Portfolio with Astro</strong></p><p>A sleek and responsive developer portfolio built with <strong>Astro</strong>, combining the power of <strong>TypeScript</strong>, <strong>React</strong>, and <strong>Tailwind CSS</strong> for a modern web experience. This template features elegant UI components from <strong>shadcn/ui</strong>, interactive icons with <strong>react-icons</strong>, and smooth scrolling effects powered by <strong>locomotive-scroll</strong>. The codebase is clean and well-structured, formatted with <strong>Prettier</strong> for consistency.</p><p>Perfect for showcasing projects, skills, and personal branding with a polished and professional design.</p><p><br/></p><p><strong>Features:</strong></p><ul><li>â¡ï¸ Blazing-fast performance with Astro</li><li>ð¨ Customizable UI with Tailwind CSS &amp; shadcn/ui</li><li>ð Dark mode support</li><li>ð¯ Smooth scroll animations with locomotive-scroll</li><li>ð¼ Ready-to-use sections for projects, skills, and contact</li><li>ð ï¸ Developer-friendly code with Prettier formatting</li></ul>",
+    "typeUrl": "https://github.com/slydragonn/alogocode.site",
+    "liveUrl": "https://alogocode-site.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/slydragonn/alogocode.site",
+        "name": "alogocode.site",
+        "full_name": "slydragonn/alogocode.site",
+        "description": "Personal website",
+        "stargazers_count": 4,
+        "created_at": "2025-01-16T23:32:55Z",
+        "updated_at": "2025-07-31T14:25:10Z",
+        "pushed_at": "2025-04-30T00:01:08Z",
+        "git_url": "git://github.com/slydragonn/alogocode.site.git",
+        "ssh_url": "git@github.com:slydragonn/alogocode.site.git",
+        "clone_url": "https://github.com/slydragonn/alogocode.site.git",
+        "homepage": "https://alogocode-site.vercel.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F599ph9uil8zsstssq6id65nt1z444y9qy8f4ht.webp&w=1600&h=900&f=webp"
+    ]
+}

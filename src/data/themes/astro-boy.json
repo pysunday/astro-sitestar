@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-boy/",
+    "name": "astro-boy",
+    "title": "Astro Boy",
+    "desc": "Astro boy starter blog template for build modern blog with astro build. Features: simple blog, auto SEO from astro, cover image blog, post article, markdown support.",
+    "article": "",
+    "typeUrl": "https://github.com/mesinkasir/astro-website-template-themes-source-code-download",
+    "liveUrl": "https://astroman.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/mesinkasir/astro-website-template-themes-source-code-download",
+        "name": "astro-website-template-themes-source-code-download",
+        "full_name": "mesinkasir/astro-website-template-themes-source-code-download",
+        "description": "Astro website template themes free download source code",
+        "stargazers_count": 9,
+        "created_at": "2022-03-11T19:14:50Z",
+        "updated_at": "2025-04-11T10:59:13Z",
+        "pushed_at": "2023-03-14T12:20:10Z",
+        "git_url": "git://github.com/mesinkasir/astro-website-template-themes-source-code-download.git",
+        "ssh_url": "git@github.com:mesinkasir/astro-website-template-themes-source-code-download.git",
+        "clone_url": "https://github.com/mesinkasir/astro-website-template-themes-source-code-download.git",
+        "homepage": "https://www.hockeycomputindo.com/2022/03/astro-website-template-free-download.html"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-boy.webp&w=1600&h=900&f=webp"
+    ]
+}

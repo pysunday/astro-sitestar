@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/datanova/",
+    "name": "datanova",
+    "title": "DataNova",
+    "desc": "Open-source Astro website template with TailwindCSS, Keystatic CMS, and Astro DB support.",
+    "article": "<p>DataNova is an open-source, multi-page website template designed for flexibility â perfect for marketing sites, documentation hubs, and dynamic applications. Built with Astro, Tailwind CSS, and Preline UI, it seamlessly integrates with Keystatic CMS and Astro DB for effortless content management and data handling.</p><h3>Why Choose DataNova?</h3><p><br/></p><ul><li>Versatile: Build a variety of websites, from blogs and landing pages to complex applications.</li><li>Easy content management: Keystatic CMS makes it simple to manage and update your content.</li><li>Modern technology: Built with Astro for fast, lightweight, and SEO-friendly websites.</li><li>Developer-friendly: Modular, customizable, and extendable architecture.</li></ul><p><br/></p><h3>Features</h3><p><br/></p><ul><li>Multi-page structure: Suitable for websites with various sections and content types.</li><li>Content collections: Organize and manage different types of content efficiently.</li><li>Keystatic CMS: Streamlined content management for easy editing and updates.</li><li>Astro DB integration: Facilitates data handling and feedback collection.</li><li>Feedback component: Allows users to provide feedback, stored in Astro DB with Turso.</li><li>Tailwind CSS: Utility-first styling for rapid UI development and customization.</li><li>Preline UI: Interactive components like navbars and modals for enhanced user experience.</li><li>Astro SEO: Manage SEO metadata and schema.org data for improved search engine visibility.</li><li>Astro Font: Optimized font loading and preloading for better performance.</li><li>Client-Side Router: Enables client-side routing with page transitions for smoother navigation.</li></ul>",
+    "typeUrl": "https://github.com/mearashadowfax/DataNova",
+    "liveUrl": "https://data-nova.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/mearashadowfax/DataNova",
+        "name": "DataNova",
+        "full_name": "mearashadowfax/DataNova",
+        "description": "Open-source Astro website template with TailwindCSS, Keystatic CMS, and Astro DB support.",
+        "stargazers_count": 87,
+        "created_at": "2025-02-12T17:16:15Z",
+        "updated_at": "2025-08-06T04:18:25Z",
+        "pushed_at": "2025-08-05T14:53:31Z",
+        "git_url": "git://github.com/mearashadowfax/DataNova.git",
+        "ssh_url": "git@github.com:mearashadowfax/DataNova.git",
+        "clone_url": "https://github.com/mearashadowfax/DataNova.git",
+        "homepage": "https://data-nova.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fymeeobonaxkgqi08j2zw157y17cc2u0g9evk5b.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F5cyy8b04ca1cl8w4abjn7f4isij6wqtxleka43.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F5v1yibju42iz9mlh5fb9kmu024kbd35fkq7xcq.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fneqiuskxngdojgrsc218s2buznzlakn2w56j0h.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fut8cqamipd7a7lzgcnea58i5375fwq7vkfruxf.webp&w=1600&h=900&f=webp"
+    ]
+}

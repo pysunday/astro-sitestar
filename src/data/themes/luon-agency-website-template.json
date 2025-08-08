@@ -1,0 +1,17 @@
+{
+    "url": "https://astro.build/themes/details/luon-agency-website-template/",
+    "name": "luon-agency-website-template",
+    "title": "LUON - Agency Website Template",
+    "desc": "LUON is a sleek and fluid Astro enterprise template specifically designed for modeling agencies, photographers, and studios.",
+    "article": "<p>ðLive Demo: <a href=\"https://luonmodels.vercel.app/\" rel=\"nofollow ugc\">https://luonmodels.vercel.app/</a></p><h2>Features</h2><p>â Responsive Design: Fully optimized for mobile and desktop viewing, ensuring a consistent experience across devices.</p><p>â Built with Astro.js: Leverages the powerful features of Astro.js for optimized performance and easy customize.</p><p>â Intuitive User Interface: Minimalist layout promotes ease of use, allowing users to find what they need without confusion.</p><p>â Speed Optimization: Engineered for exceptional loading times, ensuring that users donât have to wait on page loads.</p><p>â Customizable Components: Flexibility to customize elements easily, aligning with your brandâs identity and needs.</p><p>â SEO Friendly: Built with search engine optimization in mind, helping improve visibility and rankings.</p><h2>Page Include</h2><p>10+ Premium Pages built with Astro.js</p><ul><li>Home</li><li>Themeï¼Projectï¼</li><li>Models</li><li>Model Detail</li><li>Join Us</li><li>Blog</li><li>Article</li><li>Contact</li><li>Search</li><li>Terms Of Service</li><li>Privacy Policy</li><li>404</li></ul><h2>Highlights</h2><ul><li>Fully Responsive Design</li><li>Creative &amp; Smooth Animations</li><li>Easy Customization</li><li>SEO Optimized</li><li>Built using Astro.js</li></ul><p><br/></p>",
+    "typeUrl": "https://ricoui.gumroad.com/l/luon",
+    "liveUrl": "https://luonmodels.vercel.app/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fkzz17qbbsbksx7mq3951rk5w5s5zwtsp487h24.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fy7kpclvk3v7j2knu3btqeddi9xjfr6a51veo1s.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fi4f5hh4t2lm04mzmt3o3kkpgxvv8tvamvoprp1.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fd4cp5a5shw3e9y1is2rknd4ufgm6pjg29r8ftv.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fvnsz5l2c8f782ur9r3e7slbbvzqr3ygh7ts5nc.webp&w=1600&h=900&f=webp"
+    ]
+}

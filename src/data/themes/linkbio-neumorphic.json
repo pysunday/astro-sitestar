@@ -1,0 +1,29 @@
+{
+    "url": "https://astro.build/themes/details/linkbio-neumorphic/",
+    "name": "linkbio-neumorphic",
+    "title": "linkbio neumorphic",
+    "desc": "Developed with astro and scss I present to you a linkbio template with the neumorphism design style for users who feel limited by the free version of linktree.",
+    "article": "<p>Developed with astro and scss I present to you a linkbio template with the neumorphism design style for users who feel limited by the free version of Linktree.</p><p><br/></p><p>This template is perfect for those looking for a customizable, easy-to-use solution to share multiple links through a single link in their social media bio.</p><h2>Benefits</h2><p><strong>Customizable</strong>: You can easily customize this template to fit your brand and personal style.</p><p><strong>Easy to use</strong>: This template is easy to use, even if you have no coding experience.</p><p><strong>Free</strong>: This template is completely free to use.</p><p><strong>Support for multiple links</strong>: Like Linktree, you can share multiple links through a single link in your social media bio.</p><p><strong>No limitations</strong>: Unlike the free version of Linktree, this template has no limitations. You have access to all the features without having to pay.</p>",
+    "typeUrl": "https://github.com/devjhonluna/linkbio-neumorphic",
+    "liveUrl": "https://linkbio-neumorfico.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/devjhonluna/linkbio-neumorphic",
+        "name": "linkbio-neumorphic",
+        "full_name": "devjhonluna/linkbio-neumorphic",
+        "description": "una plantilla de un linktree para astro themes diseñada usando el estilo de neumorfismo",
+        "stargazers_count": 2,
+        "created_at": "2024-06-11T22:49:28Z",
+        "updated_at": "2024-11-04T08:55:49Z",
+        "pushed_at": "2024-06-14T16:24:58Z",
+        "git_url": "git://github.com/devjhonluna/linkbio-neumorphic.git",
+        "ssh_url": "git@github.com:devjhonluna/linkbio-neumorphic.git",
+        "clone_url": "https://github.com/devjhonluna/linkbio-neumorphic.git",
+        "homepage": "https://linkbio-neumorfico.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fphq1mfiiqksq15pemb0mb465bw19trvp2i2rbr.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fyjgghy1huwutll2wnbosyi8zrqsrqa4nx8e7u7.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fnym5dgh1dc4wfdefkqa62r2dak69c5iyhcy32s.webp&w=1600&h=900&f=webp"
+    ]
+}

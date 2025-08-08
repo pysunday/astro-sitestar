@@ -1,0 +1,131 @@
+@import "tailwindcss";
+
+@theme sitestar {
+  --animate-overlay-slide-in: overlay-slide-in 300ms forwards 300ms;
+  @keyframes overlay-slide-in {
+    0% {
+      width: 'calc(100dvw - 120px)';
+    }
+    100% {
+      width: 0;
+    }
+  }
+  --animate-overlay-slide-out: overlay-slide-out 300ms forwards;
+  @keyframes overlay-slide-out {
+    0% {
+      width: 0;
+      left: 0;
+    }
+    100% {
+      width: 'calc(100dvw - 120px)';
+      left: 0;
+    }
+  }
+
+  --animate-fade-out: fade-out 600ms forwards;
+  @keyframes fade-out {
+    0% {
+      opacity: 1;
+      z-index: 99;
+    }
+    50% {
+      opacity: 1;
+      z-index: 99;
+    }
+    100% {
+      opacity: 0;
+      z-index: -1;
+    }
+  }
+
+  --animate-fade-in: fade-in 300ms forwards;
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+      z-index: -1;
+    }
+    to {
+      opacity: 1;
+      z-index: 99;
+    }
+  }
+
+  --animate-slide-out: slide-out 200ms forwards;
+  @keyframes slide-out {
+    from {
+      opacity: 1;
+      margin-left: 0px;
+    }
+    to {
+      opacity: 0;
+      margin-left: -80px;
+    }
+  }
+
+  --animate-slide-in: slide-in 300ms forwards 600ms;
+  @keyframes slide-in {
+    from {
+      opacity: 0;
+      margin-left: -80px;
+    }
+    to {
+      opacity: 1;
+      margin-left: 0;
+    }
+  }
+
+  --animate-stars-move-in: stars-move-in 1000ms 300ms forwards;
+  @keyframes stars-move-in {
+    from {
+      background-position-y: -100px;
+    }
+    to {
+      opacity: 1;
+      background-position-y: 0;
+    }
+  }
+
+  --animate-forest-move-in : forest-move-in 1000ms 500ms forwards;
+  @keyframes forest-move-in {
+    from {
+      background-position-y: 150%;
+    }
+    to {
+      opacity: 1;
+      background-position-y: 100%;
+    }
+  }
+
+  --animate-silhouette-move-in: silhouette-move-in 1000ms 800ms forwards;
+  @keyframes silhouette-move-in {
+    from {
+      background-position-x: 0;
+    }
+    to {
+      opacity: 1;
+      background-position-x: 50%;
+    }
+  }
+
+  --animate-moon-move-in: moon-move-in 1.2s 1s forwards;
+  @keyframes moon-move-in {
+    from {
+      opacity: 0;
+      background-position: 90% 150%;
+    }
+    to {
+      opacity: 1;
+      background-position: 90% 3%;
+    }
+  }
+
+  --animate-text-fade-in: text-fade-in 1000ms 800ms forwards;
+  @keyframes text-fade-in {
+    from {
+      right: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+}

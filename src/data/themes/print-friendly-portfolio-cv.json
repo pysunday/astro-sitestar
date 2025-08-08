@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/print-friendly-portfolio-cv/",
+    "name": "print-friendly-portfolio-cv",
+    "title": "Print-friendly Portfolio CV",
+    "desc": "A minimalist portfolio configurable via one JSON",
+    "article": "<p>Simple and minimalistic portfolio, easily turned into a PDF resume that hides sections not relevant to the CV, such as profile picture and projects.</p><p>All personal information is configurable from a single JSON file, plus you can choose one of the colour themes, red, blue, green, cyber and default, with its variants in dark mode, or create your own by changing a couple of CSS variables.</p>",
+    "typeUrl": "https://github.com/Smilesharks/dev-portfolio",
+    "liveUrl": "https://portfoliocv-astro.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Smilesharks/dev-portfolio",
+        "name": "dev-portfolio",
+        "full_name": "Smilesharks/dev-portfolio",
+        "description": "A minimalist portfolio configurable via one JSON",
+        "stargazers_count": 127,
+        "created_at": "2024-06-11T13:28:23Z",
+        "updated_at": "2025-08-05T15:10:54Z",
+        "pushed_at": "2025-05-09T01:57:21Z",
+        "git_url": "git://github.com/Smilesharks/dev-portfolio.git",
+        "ssh_url": "git@github.com:Smilesharks/dev-portfolio.git",
+        "clone_url": "https://github.com/Smilesharks/dev-portfolio.git",
+        "homepage": "https://portfoliocv-astro.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fdvbya1oeec4dkumwa8nw5ywl0dvv02w8n29fr5.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fj0ydrt0dvb1mixgofi8louj4ivlc2o1646d4na.webp&w=1600&h=900&f=webp"
+    ]
+}

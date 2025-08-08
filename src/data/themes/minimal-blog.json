@@ -1,0 +1,29 @@
+{
+    "url": "https://astro.build/themes/details/minimal-blog/",
+    "name": "minimal-blog",
+    "title": "Minimal Blog",
+    "desc": "An ideal option to start sharing your ideas with everything youâd need for a blog.",
+    "article": "<p>An ideal option to start sharing your ideas. It's easy to set up and features everything you'd need for a blog.</p><h2>Features</h2><ul><li>Write blog posts with MDX</li><li>Styled with <a href=\"https://tailwindcss.com/\" rel=\"nofollow ugc\">Tailwind</a></li><li>Code blocks powered by <a href=\"https://expressive-code.com/\" rel=\"nofollow ugc\">Expressive Code</a></li><li>Custom asides component</li><li>Live coding powered by <a href=\"https://github.com/codesandbox/sandpack\" rel=\"nofollow ugc\">Sandpack</a></li><li>RSS, Sitemap</li><li>Light/Dark/System color mode toggle</li><li>Add tags to your blog posts</li><li><a href=\"https://pagefind.app/\" rel=\"nofollow ugc\">Pagefind</a> search</li></ul>",
+    "typeUrl": "https://github.com/LekoArts/astro-theme-minimal-blog",
+    "liveUrl": "https://astro-theme-minimal-blog.lekoarts.de/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/LekoArts/astro-theme-minimal-blog",
+        "name": "astro-theme-minimal-blog",
+        "full_name": "LekoArts/astro-theme-minimal-blog",
+        "description": "Everything you’d need for a blog.",
+        "stargazers_count": 7,
+        "created_at": "2025-06-16T12:55:46Z",
+        "updated_at": "2025-08-06T03:55:09Z",
+        "pushed_at": "2025-08-04T07:31:25Z",
+        "git_url": "git://github.com/LekoArts/astro-theme-minimal-blog.git",
+        "ssh_url": "git@github.com:LekoArts/astro-theme-minimal-blog.git",
+        "clone_url": "https://github.com/LekoArts/astro-theme-minimal-blog.git",
+        "homepage": "https://astro-theme-minimal-blog.lekoarts.de/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fie5iakpagbyrgpz9dangfdidw38er6ozkopauk.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fs35tb66ekeem81ves1v24x4vqtlol83n4hmcq0.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fhm0nlazz388ovwikwn78ah7xf8uaszh4tbpxnf.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/danblog/",
+    "name": "danblog",
+    "title": "DanStyle Blog",
+    "desc": "minimalist blog style",
+    "article": "<p><strong>If you like  </strong><a href=\"https://overreacted.io/\" rel=\"nofollow ugc\"><strong>dan's</strong></a><strong>  blogging style, congratulations, now you can use astro to build exactly the same blog</strong></p><p><br/></p><p>âºï¸ Build MDX Built with <a href=\"https://astro.build/\">Astro</a>   <a href=\"https://mdxjs.com/\" rel=\"nofollow ugc\">MDX</a>  and  <a href=\"https://tailwindcss.com/\" rel=\"nofollow ugc\">Tailwind CSS</a></p><p>âºï¸ Responsive design</p><p>âºï¸ RSS</p><p>âºï¸ Auto Theme Toggle</p><p><br/></p>",
+    "typeUrl": "https://github.com/sunshineLixun/astro-blog",
+    "liveUrl": "https://astro-blog-x2sw.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/sunshineLixun/astro-blog",
+        "name": "astro-blog",
+        "full_name": "sunshineLixun/astro-blog",
+        "description": null,
+        "stargazers_count": 14,
+        "created_at": "2024-03-22T07:58:36Z",
+        "updated_at": "2025-06-09T17:52:42Z",
+        "pushed_at": "2024-08-05T06:55:49Z",
+        "git_url": "git://github.com/sunshineLixun/astro-blog.git",
+        "ssh_url": "git@github.com:sunshineLixun/astro-blog.git",
+        "clone_url": "https://github.com/sunshineLixun/astro-blog.git",
+        "homepage": "https://astro-blog-x2sw.vercel.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ftg2kgrftlzmdqda0vzl8b4vl9g9xyhs6jgsnnx.png&w=1600&h=900&f=webp"
+    ]
+}

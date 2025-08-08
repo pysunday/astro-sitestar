@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/modern-developer-portfolio-template/",
+    "name": "modern-developer-portfolio-template",
+    "title": "Modern Developer Portfolio Template",
+    "desc": "A sleek, responsive portfolio website built with Astro, React, and Tailwind CSS, featuring modern animations and glassmorphism effects and light/dark mode support\r\n\r\n",
+    "article": "<p><br/></p>",
+    "typeUrl": "https://github.com/rishikesh2003/my-portfolio",
+    "liveUrl": "https://rishilol.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/rishikesh2003/my-portfolio",
+        "name": "my-portfolio",
+        "full_name": "rishikesh2003/my-portfolio",
+        "description": null,
+        "stargazers_count": 52,
+        "created_at": "2025-02-03T13:06:09Z",
+        "updated_at": "2025-08-05T13:10:43Z",
+        "pushed_at": "2025-08-02T15:37:34Z",
+        "git_url": "git://github.com/rishikesh2003/my-portfolio.git",
+        "ssh_url": "git@github.com:rishikesh2003/my-portfolio.git",
+        "clone_url": "https://github.com/rishikesh2003/my-portfolio.git",
+        "homepage": "https://rishilol.vercel.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fhcqv4md32ed5g0z8493g41cszft16c1fn82x9x.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fp2fsjbqc5ub36oi7wqlmn66tbyudlzfsq2v2yj.webp&w=1600&h=900&f=webp"
+    ]
+}

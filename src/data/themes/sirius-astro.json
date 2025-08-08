@@ -1,0 +1,15 @@
+{
+    "url": "https://astro.build/themes/details/sirius-astro/",
+    "name": "sirius-astro",
+    "title": "Sirius Astro",
+    "desc": " A multipurpose SaaS theme built with Astro and Tailwind CSS\r\n",
+    "article": "<p>Sirius Astro is a modern, customizable SaaS theme that incorporates Astro and Tailwind CSS. Itâs an ideal choice for SaaS businesses seeking a beautiful, user-friendly website to showcase their offerings. With over 17 pre-built pages, customization becomes effortless, allowing you to tailor the site to match your branding and specific needs.</p><p><br/></p><p><br/></p><h2>Key Features:</h2><ul><li>17+ Premium Pages</li><li>Google PageSpeed Score 98/100 (Desktop)</li><li>Built with Astro v5 and Tailwind CSS v4</li><li>Highly customizable (Color, Font, Menu, Social Links, SEO Meta Tags, etc.)</li><li>Netlify and Vercel configured</li><li>Reusable Shortcodes</li><li>Video-Showcase</li><li>Disqus Comments</li><li>Contact Form</li><li>Images, CSS, and JS files are optimized with Astro</li><li>Free Update and Lifetime Premium Support</li><li>Detail Documentation.</li></ul><p><br/></p><h2>Pages: </h2><ol><li>Home</li><li>Blog</li><li>Blog single</li><li>Category</li><li>Category single</li><li>Integration</li><li>Integration single</li><li>Project</li><li>Project single</li><li>Tags </li><li>Tags single</li><li>Custom 404</li><li>About</li><li>Contact</li><li>Features</li><li>How it works</li><li>Pricing</li><li>Team</li></ol><p><br/></p>",
+    "typeUrl": "https://themefisher.com/products/sirius-astro/?aff=ab",
+    "liveUrl": "https://sirius-astro.vercel.app/?aff=ab",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F7oyq8hzwr8h71tnu94qgbnrx5v1cweuo1dsq79.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F7v4bxj9w4njatu1li6qns1d5qle4do074knshm.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F0qmwddwe2ltxrehyjbbblad0ajmfjpna2pratb.webp&w=1600&h=900&f=webp"
+    ]
+}

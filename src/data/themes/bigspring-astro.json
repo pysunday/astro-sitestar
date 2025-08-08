@@ -1,0 +1,17 @@
+{
+    "url": "https://astro.build/themes/details/bigspring-astro/",
+    "name": "bigspring-astro",
+    "title": "Bigspring Astro",
+    "desc": " Minimal Astro Theme for SaaS & Marketing Websites",
+    "article": "<p><strong>Bigspring</strong> is a modern, responsive business template crafted using Astro version 4. It boasts a sleek, minimalistic design and comes complete with 20+ pre-designed pages. This template is particularly well-suited for SaaS and marketing websites. </p><p><br/></p><p><br/></p><h2>Key Features</h2><ul><li>Highly customizable (Color, Font, Menu, Social Links, SEO Meta Tags, etc.)</li><li>Fast by default (95+ Google PageSpeed Score)</li><li>Netlify setting pre-configured</li><li>Contact form support</li><li>Pricing table</li><li>Write and update content in Markdown / MDX</li><li>MDX components auto import</li><li>Includes draft pages and posts</li><li>Built with Astro v5 and Tailwind CSS v4</li><li>Fully responsive on desktops, tablets, and smartphones</li><li>SEO Friendly</li><li>Clean folder structure</li><li>Simple and easy development environment setup</li><li>Compatible with all modern browsers</li><li>Free Google fonts</li><li>Font Awesome icons</li><li>Clean code</li></ul><h2>Pages </h2><ol><li>Homepage</li><li>Company</li><li>Careers</li><li>Careers details</li><li>Contact</li><li>Pricing</li><li>Case Studies</li><li>Case study details</li><li>FAQs</li><li>Privacy Policy</li><li>Terms &amp; Condition</li><li>Custom 404</li><li>Blog </li><li>Blog single</li><li>Authors</li><li>Author single</li><li>Product</li><li>Product details</li><li>How it works</li><li>About</li><li>Team</li></ol><p><br/></p><p>This theme is also available in <a href=\"https://themefisher.com/products/bigspring-astro\" rel=\"nofollow ugc\">free version</a>. </p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p>",
+    "typeUrl": "https://themefisher.com/products/bigspring-astro/?aff=ab",
+    "liveUrl": "https://bigspring-astro.vercel.app/?aff=ab",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F1ll1a383x6y18j5huzoosskhepxzxxyhsrnoh7.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fme21a5h43cexe8utrzzkfp61za2bokl5tzkjn2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ffh5a1z3gclpewjuplxfqazf1ehfatycjg98157.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fxdnivaplw4epsd9wcl7s8v9e0jugihf051jbz5.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fjs05mp2v6ubspytoab9811k2xepd65gs5g712e.webp&w=1600&h=900&f=webp"
+    ]
+}

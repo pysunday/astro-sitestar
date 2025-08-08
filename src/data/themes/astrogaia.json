@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astrogaia/",
+    "name": "astrogaia",
+    "title": "AstroGaia",
+    "desc": "A single-author portfolio theme for Astro.js, mostly oriented to a software developer.",
+    "article": "<p>Inspired by the NextJs portfolio-starter-kit template.</p><p><br/></p><p>This theme supports a markdown/MDX-powered blog, tags, and tag pages, is SEO-friendly, etc.</p><h2>Theme Features</h2><ul><li>â Portfolio collection</li><li>â Post category support</li><li>â View transitions</li><li>â Tailwind CSS</li><li>â ReactJS</li><li>â shadcn/ui</li><li>â SEO-friendly with canonical URLs and OpenGraph data</li><li>â Sitemap support</li><li>â Markdown &amp; MDX support</li><li>â Biome code linting and code formatting</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/danielecammarata/astro-gaia",
+    "liveUrl": "https://astro-gaia.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/danielecammarata/astro-gaia",
+        "name": "astro-gaia",
+        "full_name": "danielecammarata/astro-gaia",
+        "description": "AstroGaia - Astro portfolio template",
+        "stargazers_count": 19,
+        "created_at": "2024-06-21T15:21:42Z",
+        "updated_at": "2025-05-08T09:02:32Z",
+        "pushed_at": "2024-06-21T15:42:19Z",
+        "git_url": "git://github.com/danielecammarata/astro-gaia.git",
+        "ssh_url": "git@github.com:danielecammarata/astro-gaia.git",
+        "clone_url": "https://github.com/danielecammarata/astro-gaia.git",
+        "homepage": "https://astro-gaia.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F4my3mwxniiptcs1rbwjposkemy35ujo02s8o23.webp&w=1600&h=900&f=webp"
+    ]
+}

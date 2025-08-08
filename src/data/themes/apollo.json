@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/apollo/",
+    "name": "apollo",
+    "title": "Apollo",
+    "desc": "Edit content directly on the page with ApostropheCMS, a powerful open-source headless CMS.",
+    "article": "<h3><strong>A Full-Featured Astro Theme with In-Context Editing</strong></h3><p><strong>Apollo</strong> is a flexible Astro theme that integrates directly with <strong>ApostropheCMS</strong>, enabling full in-context editing on an Astro-powered frontend. Designed for developers who want the best of <strong>Astroâs modern frontend architecture</strong> paired with a <strong>powerful, editor-friendly CMS</strong>, Apollo makes it easy to manage and edit content while maintaining performance and flexibility.</p><h3><strong>Features</strong></h3><ul><li><strong>CMS Integration</strong> â Powered by ApostropheCMS, with structured content management and a robust API.</li><li><strong>In-Context Editing</strong> â Edit content directly on the Astro frontend while browsing the site.</li><li><strong>Modular Widgets</strong> â Includes grids, accordions, slideshows, rich text, and more.</li><li><strong>Content Schemas</strong> â Built-in support for managing and displaying structured article content.</li><li><strong>Styled with Bulma</strong> â A lightweight CSS foundation that you can extend or replace with any framework of your choice.</li><li><strong>Fully Extensible</strong> â Adapt and expand functionality with ApostropheCMSâs open-source ecosystem.</li></ul><h3><strong>Why ApostropheCMS?</strong></h3><p>ApostropheCMS is an <strong>open-source CMS built on Node.js</strong>, designed for <strong>structured content modeling, developer extensibility, and intuitive visual editing</strong>. Unlike traditional CMS platforms, Apostrophe provides a <strong>flexible content architecture</strong> that gives developers full control while allowing editors to make updates <strong>directly on the live site, in contextâno separate admin panel required</strong>.</p><h3>Learn more</h3><ul><li><a href=\"https://apostrophecms.com/\" rel=\"nofollow ugc\">ApostropheCMS Overview</a></li><li><a href=\"https://docs.apostrophecms.org/\" rel=\"nofollow ugc\">ApostropheCMS Developer Documentation</a></li><li><a href=\"https://docs.astro.build/en/guides/cms/apostrophecms/\">ApostropheCMS Integration for Astro</a></li></ul><h2><br/></h2>",
+    "typeUrl": "https://github.com/apostrophecms/apollo",
+    "liveUrl": "https://apollo.apos.dev",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/apostrophecms/starter-kit-astro-apollo",
+        "name": "starter-kit-astro-apollo",
+        "full_name": "apostrophecms/starter-kit-astro-apollo",
+        "description": "A flexible Astro theme that integrates directly with ApostropheCMS, enabling full in-context editing on an Astro-powered frontend.",
+        "stargazers_count": 17,
+        "created_at": "2024-12-03T16:27:09Z",
+        "updated_at": "2025-08-02T09:39:06Z",
+        "pushed_at": "2025-08-02T09:39:07Z",
+        "git_url": "git://github.com/apostrophecms/starter-kit-astro-apollo.git",
+        "ssh_url": "git@github.com:apostrophecms/starter-kit-astro-apollo.git",
+        "clone_url": "https://github.com/apostrophecms/starter-kit-astro-apollo.git",
+        "homepage": "https://apollo.apos.dev/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F98er0kw8q8yyqvmqv6es8mmbzin3u6t02y4feg.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fsc2h80qkfls9nsvxsou5udvr7rlqvl8biwos0l.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F2akazmxgrcre7xrqdbx3dg55fmrr6xhj1uulii.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fihh23y1z07yutkhmqxalj7lae8nom1lhs0j5ci.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fiitanif4h61nxrpnv4jy9avz84bcvp84b9zyyg.webp&w=1600&h=900&f=webp"
+    ]
+}

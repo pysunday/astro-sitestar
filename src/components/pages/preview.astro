@@ -1,0 +1,16 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import DevicePreview from "@/components/common/DevicePreview";
+import { Button } from "@/components/ui/button";
+import { Icon } from 'astro-icon/components';
+import { getI18n } from "@/i18n/index"
+
+const { currentLocale } = Astro
+const i18n = await getI18n(currentLocale, 'sitestar')
+---
+<BaseLayout hasCursor={false}>
+  <DevicePreview
+    client:only="react"
+    config={i18n('preview', { returnObjects: true })}
+  />
+</BaseLayout>

@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/nipon-post/",
+    "name": "nipon-post",
+    "title": "Nipon Post",
+    "desc": "A website template dedicated to writers or story lovers who want to start writing their own. Cozy, inspiring and functional.",
+    "article": "\n<p>\n  Nipon Posts is a theme dedicated to writers who wish to publish short stories or extensive novels,\n  separated into episodes, easily consumable from mobile devices.\n</p>\n<ul>\n<li>minimalist</li>\n<li>efficient</li>\n<li>accessible</li>\n</ul>\n",
+    "typeUrl": "https://github.com/joackob/nipon-astro-theme",
+    "liveUrl": "https://joackob.github.io/demo-nipon-theme/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/joackob/nipon-astro-theme",
+        "name": "nipon-astro-theme",
+        "full_name": "joackob/nipon-astro-theme",
+        "description": null,
+        "stargazers_count": 8,
+        "created_at": "2023-09-09T19:03:24Z",
+        "updated_at": "2025-01-19T07:47:42Z",
+        "pushed_at": "2023-11-05T20:38:51Z",
+        "git_url": "git://github.com/joackob/nipon-astro-theme.git",
+        "ssh_url": "git@github.com:joackob/nipon-astro-theme.git",
+        "clone_url": "https://github.com/joackob/nipon-astro-theme.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fnipon-post-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fnipon-post-2.webp&w=1600&h=900&f=webp"
+    ]
+}

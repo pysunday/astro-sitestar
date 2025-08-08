@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/base-astro/",
+    "name": "base-astro",
+    "title": "Base Astro ð",
+    "desc": "Template base para comenzar cualquier landing page. Con MenÃº hamburguesa y backdround gradient.",
+    "article": "<p>**Astro Base:**</p><p>Astro Base is a clean template designed to kickstart any landing page project. It features a configurable gradient background and a responsive hamburger/dropdown menu ðð.</p><p><br/></p><p>You can use this template by running the following command:</p><pre>npm create astro@latest -- --template SofiDevO/base-astro\r\n</pre><p><br/></p><h2>Proposed Structure:</h2><p>The template follows an atomic design approach, organizing components by their function and complexity.</p><p><br/></p><pre>```\r\nð¦src\r\n â£ ðcomponents\r\n â â£ ðatoms\r\n â â â£ ðHamburgerButton\r\n â â â â£ ðHamburgerButton.jsx\r\n â â â â ðhamburger-button.css\r\n â â â ðNavLinks\r\n â â â â£ ðNavLinks.jsx\r\n â â â â ðnav-links.css\r\n â â£ ðorganisms\r\n â â â ðHeader.astro\r\n â â ðBaseHead.astro\r\n â£ ðcontrollers\r\n â â ðhamburger.js\r\n â£ ðdata\r\n â â ðnavMenu.js\r\n â£ ðlayouts\r\n â â ðLayout.astro\r\n â£ ðpages\r\n â â ðindex.astro\r\n â£ ðstyles\r\n â â ðglobal.css\r\n â£ ðconsts.ts\r\n â ðenv.d.ts\r\n```\r\n\r\n---\r\n</pre><p><br/></p><h2>SUPPORT ME on Ko-fi ð</h2><p>If this theme was useful for you, you can support my work by buying me a coffee ð</p><p><br/></p><p><a href=\"https://ko-fi.com/sofidev](https://ko-fi.com/sofidev\" rel=\"nofollow ugc\">https://ko-fi.com/sofidev](https://ko-fi.com/sofidev</a></p>",
+    "typeUrl": "https://github.com/SofiDevO/base-astro",
+    "liveUrl": "https://base-astro-psi.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/SofiDevO/base-astro",
+        "name": "base-astro",
+        "full_name": "SofiDevO/base-astro",
+        "description": "astro base template to start a new project. With header responsive  with dropdown menu and background gradient",
+        "stargazers_count": 7,
+        "created_at": "2024-07-10T15:57:20Z",
+        "updated_at": "2025-04-09T09:40:40Z",
+        "pushed_at": "2024-12-09T04:16:35Z",
+        "git_url": "git://github.com/SofiDevO/base-astro.git",
+        "ssh_url": "git@github.com:SofiDevO/base-astro.git",
+        "clone_url": "https://github.com/SofiDevO/base-astro.git",
+        "homepage": "https://base-astro-psi.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Flsay2nccargxpa4esv5l07mjumi96yiio4xd0o.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "url": "https://astro.build/themes/details/kindora-astro/",
+    "name": "kindora-astro",
+    "title": "Kindora Astro",
+    "desc": "Crafted for charity, non-profits, NGOs and fundraising campaigns",
+    "article": "<p><strong>Kindora Astro </strong>is a clean and modern website theme built specifically for non-profit organizations, charities, and fundraising campaigns. Powered by Astro and Tailwind CSS, it provides an intuitive, mission-focused layout that helps organizations showcase their causes, raise funds, and build trust with their community online.</p><p><br/></p><pre>Built with Astro v5 and Tailwind CSS v4\r\n</pre><p><br/></p><h2>Key Features:</h2><ul><li>15+ Complete Pages</li><li>97+/100 Google PageSpeed Score on Desktop</li><li>GTM, Mailchimp &amp; Disqus pre-configure</li><li>Highly customizable (Colors, Fonts, Menus, Social Links, SEO Meta Tags, etc.)</li><li>Built with Astro and Tailwind CSS</li><li>Netlify &amp; Vercel setting pre-configured</li><li>Write and update content in Markdown / MDX</li><li>MDX components auto-import</li><li>Fully responsive across desktops, tablets, and smartphones</li><li>Clean folder structure</li><li>SEO Friendly</li><li>Animation on scroll</li><li>Integrated Contact Form</li><li>Free Google Fonts</li><li>Font Awesome icons support</li><li>Free lifetime updates</li><li>Detailed Documentation</li></ul><h2>Unique Pages:</h2><ol><li>Home</li><li>About Us</li><li>Teams</li><li>Causes</li><li>Program Details</li><li>Donation</li><li>Blog</li><li>Blog Details</li><li>Reviews</li><li>Programs</li><li>Contact Us</li><li>Elements</li><li>404</li><li>Privacy Policy</li><li>Terms &amp; Conditions</li></ol>",
+    "typeUrl": "https://themefisher.com/products/kindora-astro/?aff=ab",
+    "liveUrl": "https://kindora-astro.vercel.app/?aff=ab",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fujimmj9b1mcfen4pmezxc71h1gck9mjv72cerx.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Feb1pxynhk8y28kh97klskl86sjhuhuh9t8tpic.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fligu87n631vtsif5a3rsz1b5rykajzk24mldgv.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Frpaljf6xiih1spo7r12do5h28jxmmr0lcz8u7g.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Foll74afhmsae8nr1fd70zeu3c2fyuhveqf6hki.webp&w=1600&h=900&f=webp"
+    ]
+}

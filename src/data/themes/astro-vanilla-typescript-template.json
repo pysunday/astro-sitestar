@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-vanilla-typescript-template/",
+    "name": "astro-vanilla-typescript-template",
+    "title": "Astro Vanilla TypeScript â Template",
+    "desc": "This Astro template lets you focus on coding, not configuring. TypeScript, TailwindCSS, PostCSS, ESLint and Prettier are all set up for you.",
+    "article": "",
+    "typeUrl": "https://github.com/doinel1a/astro-vanilla-ts",
+    "liveUrl": "https://astro-vanilla-ts.d1a.app",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/doinel1a/astro-vanilla-ts",
+        "name": "astro-vanilla-ts",
+        "full_name": "doinel1a/astro-vanilla-ts",
+        "description": "Boilerplate template designed to quickly bootstrap an Astro Web App, SPA, website or landing page with TypeScript, TailwindCSS, ESLint, Husky and much more in just 30 seconds. ",
+        "stargazers_count": 18,
+        "created_at": "2023-07-13T14:00:13Z",
+        "updated_at": "2025-06-16T13:55:33Z",
+        "pushed_at": "2025-03-25T10:22:53Z",
+        "git_url": "git://github.com/doinel1a/astro-vanilla-ts.git",
+        "ssh_url": "git@github.com:doinel1a/astro-vanilla-ts.git",
+        "clone_url": "https://github.com/doinel1a/astro-vanilla-ts.git",
+        "homepage": "https://astro-vanilla-ts.d1a.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-vanilla-ts-template-hero.webp&w=1600&h=900&f=webp"
+    ]
+}

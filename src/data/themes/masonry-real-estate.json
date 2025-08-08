@@ -1,0 +1,13 @@
+{
+    "url": "https://astro.build/themes/details/masonry-real-estate/",
+    "name": "masonry-real-estate",
+    "title": "Masonry - Real Estate",
+    "desc": "Masonry is an elegant and cleanly coded Real Estate HTML template built with Astro, Tailwind CSS and Alpine.js. It provides ready pages to start building a full fledged Real Estate application, as well as a set of additional elements that will help you create new pages for your specific needs.",
+    "article": "<p>Masonry is an elegant and cleanly coded Real Estate HTML template built with Astro, Tailwind CSS and Alpine.js. It provides ready pages to start building a full fledged Real Estate application, as well as a set of additional elements that will help you create new pages for your specific needs.</p><p><br/></p><p>Masonry features a solid set of reusable components that are designed to fit as many purposes as possible. Masonry ships with several subpages that you can customize to build your own application.</p><p><br/></p><p><strong>For developers</strong> â this product has been built and coded with care, from inception and design to production, following the best available practices regarding code structure and maintainability.</p><p><br/></p><p><strong>Easy branding</strong> â the UI is built using Tailwind CSS and utility styling. You can easily change the primary color to apply your branding and change the look and feel consistently through the entire template.</p><p><br/></p><p><strong>Built with Alpine.js</strong> â this template is written with Alpine.js, a rugged and minimal javascript framework that works pretty much like Vue, but allows you to write it in your markup.</p><p><br/></p><p><strong>Prebuilt layouts</strong> â this template features a great set of prebuilt pages that you can use to save some time on your development and design process.</p><p><br/></p><p><strong>Documentation</strong> â this template ships with a detailed documentation to help you get started with project structure, installation and development guidelines.</p><p><br/></p><p><strong>For projects</strong> â this product is a robust template made to fit in real life projects and use cases, providing a solid starting point for an internal or a public saas application, with many kinds of setups and architectures.</p>",
+    "typeUrl": "https://cssninja.io/product/masonry",
+    "liveUrl": "https://masonry.cssninja.io/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fievjugtwq9calp9wmpq68y0rd44ua0765b24ye.webp&w=1600&h=900&f=webp"
+    ]
+}

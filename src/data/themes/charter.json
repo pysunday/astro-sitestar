@@ -1,0 +1,17 @@
+{
+    "url": "https://astro.build/themes/details/charter/",
+    "name": "charter",
+    "title": "Charter",
+    "desc": "A modern fintech style marketing template built on shadcn/ui and Tailwind.",
+    "article": "<h3>Tech Stack</h3><ul><li>Astro 5</li><li>shadcn/ui (latest)</li><li>Tailwind 4</li><li>Figma</li><li>Markdown</li><li>Typescript</li></ul><h3>Features</h3><ul><li>100+ components</li><li>10+ pages</li><li>Figma File included</li><li>Astro React</li><li>All pages built using block sections, easily insert new blocks from our library!</li><li>Astro content collections</li><li>Markdown &amp; MDX</li><li>Responsive mobile-first design</li><li>Astro SEO</li><li>Astro Sitemap</li></ul><p><br/></p>",
+    "typeUrl": "https://www.shadcnblocks.com/template/charter?bundle=astro",
+    "liveUrl": "https://charter-astro-template.vercel.app/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ftl0d86rsfnku8uyr0uxq2tjvdr0cdcs83uzd67.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fm18uzo9bjsjbx35wrfju09vbam0tz9wi3an0dv.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fwjw2a8n5vy55jmgh28dpns5ircniz40mepb85v.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fvlyamepg30wxvmvh875jur54zdwavezqaezxs9.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fihrq6505q3u527avuk9qbeaqt31z1rt2isu0rn.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "url": "https://astro.build/themes/details/angie-portfolio-template/",
+    "name": "angie-portfolio-template",
+    "title": "Angie â Portfolio Template",
+    "desc": "Bold brutalist design, to help you stand out and showcase your work with style.",
+    "article": "<p><br/></p><p><strong>ANGIE </strong>is a sleek Astro portfolio template built for creatives and developers. Featuring responsive layouts, customizable sections, and a bold brutalist design, itâs made to help you stand out and showcase your work with style.</p><p><br/></p><h3>Pages included:</h3><ol><li>Home</li><li>Blog</li></ol><p><br/></p><h3>Dependencies used in this project:</h3><ul><li>TailwindCSS</li><li>GSAP</li><li>Remix Icon</li></ul><p><br/></p>",
+    "typeUrl": "https://buy.stripe.com/bIY5klbiBgZx2bKcMS",
+    "liveUrl": "https://angiee.netlify.app",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fiwo81hh2tf0n0dts32kylyi9s7ga6z9o7k3uhr.webp&w=1600&h=900&f=webp"
+    ]
+}

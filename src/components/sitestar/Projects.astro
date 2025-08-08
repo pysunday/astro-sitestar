@@ -1,0 +1,51 @@
+---
+import clsx from 'clsx';
+import { getI18n } from "@/i18n/index"
+
+const { currentLocale } = Astro
+const i18n = await getI18n(currentLocale, 'sitestar.pros')
+---
+<section
+  id="service"
+  class="min-h-screen text-[1.4rem] relative bg-gradient-to-br from-[#f0f0f0] to-[#fafafa] mt-[-10rem] z-1"
+>
+  <div class={clsx(
+    "max-w-[1400px] mx-auto w-full",
+    "pt-50 px-4 pb-48",
+    "sm:pt-60 sm:px-8 sm:pb-56",
+    "xl:pt-100 xl:px-40 xl:pb-88",
+  )}>
+    <div class="heading">
+      <h3 class="text-center text-[2.4rem] leading-[2.4rem]">{i18n('title')}</h3>
+      <p class="bg-[#f300b4] w-[150px] h-[2px] my-8 mx-auto" />
+      <p class="text-[1.4rem] text-justify w-[90%] sm:w-[80%] mx-auto">
+        {i18n('desc')}
+      </p>
+    </div>
+    <div class="projects-wrapper">
+      {
+        i18n('infos', { returnObjects: true }).map(it => <div class="my-4 mx-auto w-[90%] sm:w-[80%] grid grid-cols-3 grid-rows-1 gap-12">
+          <div
+            class={clsx(
+              "block my-auto text-center overflow-hidden rounded-full border border-[#fafafa] text-[#252934] shadow-[0_20px_10px_-10px_#25293450] transition duration-300",
+              "hover:shadow-[0_50px_15px_-30px_#25293450] group",
+              "max-md:col-span-3 max-md:w-60 mx-auto",
+            )}
+          >
+            <img
+              class="w-full aspect-square scale-120 saturate-0 transition-all duration-300 group-hover:saturate-100 group-hover:scale-105 object-cover"
+              src={it.img}
+            />
+          </div>
+          <div class="mx-auto max-md:col-span-3 col-span-2 flex flex-col justify-center">
+            <div class="text-[2rem] uppercase font-bold mb-0 text-[#f300b4]">
+              {it.title}{' '}
+            </div>
+            <small class="my-2">{it.small}</small>
+            <p>{it.p}</p>
+          </div>
+        </div>)
+      }
+    </div>
+  </div>
+</section>

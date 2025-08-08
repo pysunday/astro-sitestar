@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/koibumi-astro-blog/",
+    "name": "koibumi-astro-blog",
+    "title": "Koibumi Astro Blog",
+    "desc": "A simple blog template styling with Koibumi Design System.",
+    "article": "<p>A simple blog template. It started from the minimal official Astro blog template but use <a href=\"https://solid.koibumi.art/\" rel=\"nofollow ugc\">Koibumi Design System</a> for styling.</p>",
+    "typeUrl": "https://github.com/koibumi-design/astro-blog",
+    "liveUrl": "https://astro.koibumi.art/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/koibumi-design/astro-blog",
+        "name": "astro-blog",
+        "full_name": "koibumi-design/astro-blog",
+        "description": "A astro blog template with koibumi design system",
+        "stargazers_count": 28,
+        "created_at": "2024-03-13T08:23:42Z",
+        "updated_at": "2025-07-31T01:59:06Z",
+        "pushed_at": "2024-12-25T11:09:39Z",
+        "git_url": "git://github.com/koibumi-design/astro-blog.git",
+        "ssh_url": "git@github.com:koibumi-design/astro-blog.git",
+        "clone_url": "https://github.com/koibumi-design/astro-blog.git",
+        "homepage": "https://astro.koibumi.art/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F6yrn6b7upi3sc6k220bu6o1p9jegitx535vvgy.png&w=1600&h=900&f=webp"
+    ]
+}

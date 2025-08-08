@@ -1,0 +1,13 @@
+{
+    "url": "https://astro.build/themes/details/blog-lite/",
+    "name": "blog-lite",
+    "title": "Blog Lite",
+    "desc": "A simple, minimal blog theme for Astro.",
+    "article": "<p>A simple, minimal blog template.</p><ul><li>Light &amp; dark themes</li><li>Production-ready</li><li>Simple to deploy</li><li>Priority support</li></ul>",
+    "typeUrl": "https://new-ui.com/templates/blog-lite",
+    "liveUrl": "https://blog-lite.pages.dev/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F8rsc2zoah4klborpu4fbrxw78gchalr1n9wf3l.webp&w=1600&h=900&f=webp"
+    ]
+}

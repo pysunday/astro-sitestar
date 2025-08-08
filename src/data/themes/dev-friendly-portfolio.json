@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/dev-friendly-portfolio/",
+    "name": "dev-friendly-portfolio",
+    "title": "Dev-friendly Portfolio",
+    "desc": "A minimalist portfolio configurable via one JSON. Inspired by Smilesharks/dev-portfolio",
+    "article": "<p>Simple and minimalistic portfolio, easily turned into a PDF resume that hides sections not relevant to the CV, such as profile picture and projects.</p><p>All personal information is configurable from a single JSON file, plus you can choose one of the colour themes, red, blue, green, cyber and default, with its variants in dark mode, or create your own by changing a couple of CSS variables.</p><p><br/></p><p>This project is refactored from the original <a href=\"https://github.com/Smilesharks/dev-portfolio\" rel=\"nofollow ugc\">dev-portfolio</a> project, thanks to his work.</p><p>I use iconify instead of SVG icons for better dev experience.</p><p>Thanks for antfu's cool animations.</p>",
+    "typeUrl": "https://github.com/MiraHikari/portfolio",
+    "liveUrl": "https://www.gcxstudio.cn/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/MiraHikari/portfolio",
+        "name": "portfolio",
+        "full_name": "MiraHikari/portfolio",
+        "description": "A minimalist portfolio configurable via one JSON",
+        "stargazers_count": 59,
+        "created_at": "2024-10-05T17:12:46Z",
+        "updated_at": "2025-08-05T03:34:04Z",
+        "pushed_at": "2024-12-07T15:46:54Z",
+        "git_url": "git://github.com/MiraHikari/portfolio.git",
+        "ssh_url": "git@github.com:MiraHikari/portfolio.git",
+        "clone_url": "https://github.com/MiraHikari/portfolio.git",
+        "homepage": "https://www.gcxstudio.cn/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3ugbbm5exbcw0krxf6atg4fxur4swap09cfvkk.webp&w=1600&h=900&f=webp"
+    ]
+}

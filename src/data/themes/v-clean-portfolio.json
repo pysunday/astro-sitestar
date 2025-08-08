@@ -1,0 +1,17 @@
+{
+    "url": "https://astro.build/themes/details/v-clean-portfolio/",
+    "name": "v-clean-portfolio",
+    "title": "V Clean Portfolio",
+    "desc": "V. is a modern portfolio featuring a minimalist aesthetic, a full-page slider for showcasing projects, and sleek animations. It's perfect for professionals seeking a polished online presence.\r\n\r\n",
+    "article": "<h2><span>About V</span></h2><p><span>All blocks was created with </span><strong>React</strong><span> and </span><strong>Typescript</strong><span> and all functionality is setup by </span><strong>astro.build</strong><span> This means that even if you don't like </span><strong>astro</strong><span>, you can copy blocks from this project and easy use it with other languages like </span><strong>next.js</strong><span>!</span></p><p><br/></p><p>V. is a modern portfolio featuring a minimalist aesthetic, a full-page slider for showcasing projects, and sleek animations. It's perfect for professionals seeking a polished online presence.</p><p><br/></p><p>This template is perfect for freelancers or anyone looking to create a professional online presence. Its responsive design ensures it looks great on all devices, and it's easy to customize to fit your look. With V., you can impress potential clients and employers with a stunning and sleek online portfolio.</p><h2>Pages ready to use:</h2><ul><li>Homepage</li><li>Single project template</li></ul><h2>Can be used as:</h2><ul><li>Portfolio</li><li>Product Showcase</li><li>Other</li></ul><h2>ð Smooth interactions</h2><p>Static websites are boring. That's why we use smooth animations and interactions to give this template a much more natural feeling, that makes it pleasant to use and navigate. You can check out the Webflow interactions video course to learn more about this topic.</p><h2>ð ï¸ Best possible page performance</h2><p>All templates made by us have the best possible performance with <strong>speed</strong> &amp; <strong>SEO</strong>, ensuring fast load times and high visibility in search engine rankings. Our team optimizes the code in every aspect, making it clean and free of unnecessary elements. This meticulous attention to detail results in efficient, high-quality templates that match and exceed industry standards.</p><h2>ð¤ Full support for you!</h2><p>With every purchase of our themes, comprehensive support is included! We're here to assist you at every step, should you require our help.</p>",
+    "typeUrl": "https://codexcode.store/themes/v-clean-portfolio/",
+    "liveUrl": "https://v-portfolio-astro.netlify.app/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fx6a3gfay5nc9v1ogppv9m0x4q1df3rltxwvwbb.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fssc0g4ji8kyqgkgn1asgvlvxils82x1r394et3.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F2q56mqs0p1zxqqfbe3t0crmw4snhivypye5y9v.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fhxfwxge26f95oj7uz3rgnftgsy9zzgguehyydx.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fx7x3p8u5ldp3n9s23a9aidnilkicmzepqn30x4.webp&w=1600&h=900&f=webp"
+    ]
+}

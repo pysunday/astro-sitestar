@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/astrogency/",
+    "name": "astrogency",
+    "title": "Astrogency",
+    "desc": "The Astro Agency template with Storyblok CMS",
+    "article": "<p><strong>Astrogency</strong> is a versatile, modern template built for creative agencies and freelancers seeking a professional online presence. With performance and ease of use at its core, it delivers both speed and sustainabilityâachieving a mobile PageSpeed score of 98-100 and an impressive A+ energy label (~0.07g COâ per view).</p><p><br/></p><ul><li><strong>Easy Styling:</strong> Customize colors and fonts directly from your CMS.</li><li><strong>Quick Setup:</strong> Configure your Storyblok CMS space with just a few clicks using our importer.</li><li><strong>Multi-Language Ready: </strong>Expand your reach with multi-language support out of the box.</li><li><strong>Flexible Page Builder:</strong> Style-ready blocks let you design your pages, posts, services, and work collections effortlessly.</li></ul>",
+    "typeUrl": "https://github.com/unfolding-io/Astrogency",
+    "liveUrl": "https://astrogency.unfolding.io/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/unfolding-io/Astrogency",
+        "name": "Astrogency",
+        "full_name": "unfolding-io/Astrogency",
+        "description": "Astrogency",
+        "stargazers_count": 46,
+        "created_at": "2024-11-03T11:13:46Z",
+        "updated_at": "2025-07-20T04:25:48Z",
+        "pushed_at": "2025-05-20T18:20:49Z",
+        "git_url": "git://github.com/unfolding-io/Astrogency.git",
+        "ssh_url": "git@github.com:unfolding-io/Astrogency.git",
+        "clone_url": "https://github.com/unfolding-io/Astrogency.git",
+        "homepage": "https://astrogency.unfolding.io/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fpgsp7dewtirc8j6m3rbnyqpzhcu1evpfbwobcf.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fi1s7n9hzac150bsbehx79n7h9dmpk9luh7wm01.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F9vadf25mkb6h9b1762f03ldigimv3i0m7lcsho.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fmooa1h4k1bno8xylf2o9tgtujo47vt77bt7spy.webp&w=1600&h=900&f=webp"
+    ]
+}

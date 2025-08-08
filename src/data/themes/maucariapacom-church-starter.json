@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/maucariapacom-church-starter/",
+    "name": "maucariapacom-church-starter",
+    "title": "maucariapacom-church-starter",
+    "desc": "An open-source starter template for building high-performance, content-driven church websites with Astro. Pure SSG, SEO-ready, built with Tailwind CSS, Markdown content, ready to integrate with any CMS.",
+    "article": "<p><br/></p><p>An open-source starter template for building high-performance, content-driven church websites with Astro. Pure SSG, SEO-ready, built with Tailwind CSS, Markdown content, ready to integrate with any CMS.</p><h2>Features</h2><p><br/></p><ul><li>Pure Static Site Generation (SSG): Fast, SEO-friendly pages generated at build time</li><li>Content-Driven Architecture: Content managed via Markdown files using Astro Content Collections</li><li>Mobile-First Responsive Design: Tailwind CSS for beautiful, responsive layouts</li><li>SEO Optimized: Complete meta tags, JSON-LD Schema, and sitemap.xml</li><li>CMS-Ready Structure: Easily integrate with headless CMS solutions</li><li>Comprehensive Church Website Sections: All essential pages for a complete church website</li><li>Accessibility Focus: WCAG compliant design and markup</li><li>Modern UI Components: Reusable components with hover states and micro-interactions</li><li>Integrated Church Icon: Custom SVG church icon used throughout the site</li><li>Image Optimization: Proper image organization and fallback handling</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/MauCariApa-com/maucariapacom-church-starter",
+    "liveUrl": "https://maucariapacom-church-starter.pages.dev",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/MauCariApa-com/maucariapacom-church-starter",
+        "name": "maucariapacom-church-starter",
+        "full_name": "MauCariApa-com/maucariapacom-church-starter",
+        "description": "An open-source starter template for building high-performance, content-driven church websites with Astro. Pure SSG, SEO-ready, built with Tailwind CSS, Markdown content, ready to integrate with any CMS",
+        "stargazers_count": 13,
+        "created_at": "2025-06-07T06:43:51Z",
+        "updated_at": "2025-08-07T06:55:16Z",
+        "pushed_at": "2025-06-22T12:12:00Z",
+        "git_url": "git://github.com/MauCariApa-com/maucariapacom-church-starter.git",
+        "ssh_url": "git@github.com:MauCariApa-com/maucariapacom-church-starter.git",
+        "clone_url": "https://github.com/MauCariApa-com/maucariapacom-church-starter.git",
+        "homepage": "https://maucariapacom-church-starter.pages.dev/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F6iv4lp0q0exc6vuigleobi8cdrfn5msa95lvs0.webp&w=1600&h=900&f=webp"
+    ]
+}

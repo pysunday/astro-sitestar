@@ -1,0 +1,13 @@
+{
+    "url": "https://astro.build/themes/details/astrodol-pro/",
+    "name": "astrodol-pro",
+    "title": "Astrodol Pro",
+    "desc": "The premium version of the popular Astro idol starter template, crafted for micro SaaS startups. Built with Astro and styled with Skeleton CSS.\r\n\r\n",
+    "article": "<p>The Premium version now features vibrant colors, an upgraded pricing table, and a showcase of featured brands enhanced with GSAP animations. Enjoy a fully responsive design that seamlessly adapts to any device, delivering an exceptional user experience.</p><p><br/></p><p><br/></p><p><br/></p>",
+    "typeUrl": "https://buy.stripe.com/aEU5kl5YhaB92bKbIK",
+    "liveUrl": "https://idolpro.indiebold.com",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ffravb1gznslb54r5eszu4yn78uvnft5y4cm8yk.webp&w=1600&h=900&f=webp"
+    ]
+}

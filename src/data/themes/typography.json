@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/typography/",
+    "name": "typography",
+    "title": "Typography",
+    "desc": "Rediscover the beauty of typography.",
+    "article": "<h2>Features</h2><ul><li>Build with TypeScript and UnoCSS</li><li>Fast. 100% <a href=\"https://pagespeed.web.dev/analysis/https-astro-theme-typography-vercel-app/j34nq9tx0s?form_factor=desktop\" rel=\"nofollow ugc\">Pagespeed Score</a>.</li><li>Typography Derived from prevalent Chinese typographic norms and aims to provide an enhanced reading experience for website visitors.</li><li>Responsive. Responsive and works well on all screen sizes.</li><li>Accessible. A well thought out semantic and accessible content.</li><li>SEO friendly.Open Graph and Twitter Cards support for a better social sharing experience.</li><li>Sitemap and RSS feed for search engines.</li><li>i18n support.</li><li>Dark mode support.</li></ul>",
+    "typeUrl": "https://github.com/moeyua/astro-theme-typography",
+    "liveUrl": "https://astro-theme-typography.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/moeyua/astro-theme-typography",
+        "name": "astro-theme-typography",
+        "full_name": "moeyua/astro-theme-typography",
+        "description": "Rediscover the beauty of typography.",
+        "stargazers_count": 488,
+        "created_at": "2023-11-28T08:43:13Z",
+        "updated_at": "2025-08-07T18:58:56Z",
+        "pushed_at": "2025-08-01T07:23:37Z",
+        "git_url": "git://github.com/moeyua/astro-theme-typography.git",
+        "ssh_url": "git@github.com:moeyua/astro-theme-typography.git",
+        "clone_url": "https://github.com/moeyua/astro-theme-typography.git",
+        "homepage": "https://astro-theme-typography.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F05l89yn1yghzq51tqoy9kmp2ggn1cv25jsogog.jpg&w=1600&h=900&f=webp"
+    ]
+}

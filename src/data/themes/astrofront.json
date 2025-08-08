@@ -1,0 +1,17 @@
+{
+    "url": "https://astro.build/themes/details/astrofront/",
+    "name": "astrofront",
+    "title": "Shopplate Astro",
+    "desc": "Astro Powered Shopify Storefront Boilerplate with TailwindCSS and Nanostores.",
+    "article": "<p>A free, production-ready Astro.js template powered by Tailwind CSS and TypeScript, specifically designed for Shopify. Utilizes the Shopify Storefront API through GraphQL and providing everything you need to jumpstart your Astro project and save valuable time.</p><h2>Key features:</h2><ul><li>10+ Pre-designed Pages</li><li>Dynamic Products from Shopify Storefront API</li><li>Checkout and Payments with Shopify</li><li>Automatic Light/Dark Mode</li><li>Fetching and Caching Paradigms</li><li>Server Actions for Mutations</li><li>User Authentication</li><li>Similar Products Suggestions</li><li>Search, Sort, Different Views Functionality</li><li>Tags &amp; Categories &amp; Vendors &amp; Price Range &amp; Product Variants Functionality</li><li>Single Product Image Zoom, Hover Effect, Slider</li><li>Cart &amp; Easy editing options for cart items</li><li>Product Description on Multiple Tabs</li><li>Netlify Setting Pre-configured</li><li>Support Contact Form</li><li>Fully Responsive</li><li>Dynamic Home Banner Slider</li><li>Write and Update Content in Markdown / MDX</li><li>Infinite Product Load on Scrolling</li></ul><h2>Pages:</h2><ul><li>Homepage</li><li>About</li><li>Contact</li><li>Products</li><li>Product Single</li><li>Privacy Policy</li><li>Login</li><li>Register</li><li>Custom 404</li><li>Terms of service</li></ul><p><br/></p><p><br/></p>",
+    "typeUrl": "https://themefisher.com/products/shopplate-astro?aff=ab",
+    "liveUrl": "https://themefisher.com/demo?theme=shopplate-astro",
+    "type": "free",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Forl4ls6kq8ix9d2t99q5gtskm6vjcq0muqyn0z.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fbdbcgbngkp69h4omn9zt58ubleazy8naoz0bv6.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F61s8ylgv5douexlgw5twr8x2jbg30b38t6av34.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fb20xxny7fvp539qeqtv13sm3sua5i2ujkuglel.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Feb2m2bds9rh9tf7opa4yhcf2krlxoaw9lwlq2k.webp&w=1600&h=900&f=webp"
+    ]
+}

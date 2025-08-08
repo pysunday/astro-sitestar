@@ -1,0 +1,29 @@
+{
+    "url": "https://astro.build/themes/details/astro-sassify/",
+    "name": "astro-sassify",
+    "title": "Astro Sassify ",
+    "desc": "Focus on your business, simplify your start. All the pages your need are ready here!",
+    "article": "<ul><li>Modern design</li><li>Responsive design system with custom color palette</li><li>Dark mode support</li><li>Smooth page transitions</li><li>Performance optimized</li><li>SEO-friendly</li></ul>",
+    "typeUrl": "https://github.com/larry-xue/astro-sassify-template",
+    "liveUrl": "https://astro-sassify.larryxue.dev/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/larry-xue/astro-sassify-template",
+        "name": "astro-sassify-template",
+        "full_name": "larry-xue/astro-sassify-template",
+        "description": "Focus on your business, simplify your start.",
+        "stargazers_count": 62,
+        "created_at": "2025-03-01T04:21:13Z",
+        "updated_at": "2025-08-04T10:20:53Z",
+        "pushed_at": "2025-06-30T11:30:34Z",
+        "git_url": "git://github.com/larry-xue/astro-sassify-template.git",
+        "ssh_url": "git@github.com:larry-xue/astro-sassify-template.git",
+        "clone_url": "https://github.com/larry-xue/astro-sassify-template.git",
+        "homepage": "https://astro-sassify.larryxue.dev/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F2888kf4tayb13fj1ys327m8q1lf0ys7rhzcm67.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F9o7q66o6m5005c5eb54a8m5yh8z4dh98yr7je7.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F56vnz6ug5las2ieeaanj7m44u0ks4fwpk7j90y.webp&w=1600&h=900&f=webp"
+    ]
+}

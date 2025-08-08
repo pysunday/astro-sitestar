@@ -1,0 +1,16 @@
+{
+    "url": "https://astro.build/themes/details/astro-starter-kit/",
+    "name": "astro-starter-kit",
+    "title": "Astro Starter Kit by LaunchFast",
+    "desc": "A high quality dynamic starter kit built with Astro for your next SaaS.",
+    "article": "<p>Static Pages</p><ul><li>Home</li><li>Careers</li><li>Privacy</li><li>Terms</li><li>Free Tools</li></ul><p><br/></p><p>Dynamic Pages</p><ul><li>Protected</li><li>Protected and Paid</li><li>Partially Protected and Paid</li></ul><p><br/></p><p>Blog Pages</p><ul><li>1x Blog Home</li><li>3x Blog Posts</li></ul><p><br/></p><p>Documentation Pages</p><ul><li>Powered by Starlight</li><li>4x Documentation Guides</li></ul><p><br/></p><p>When you purchase the starter kit you get access to the kit on GitHub.</p><p><br/></p><p>If you have any questions do not hesitate to reach out on:</p><ul><li>Twitter: <a href=\"https://x.com/rishi_raj_jain_\" rel=\"nofollow ugc\">@rishi_raj_jain_</a></li><li>Email: <a href=\"mailto:contact@launchfa.st\" rel=\"nofollow ugc\">contact@launchfa.st</a></li></ul><p><br/></p><p>Thank you so much for reading and showing interest on the kit, if you need more kits, a bundle that includes all the kits, free updates is also offered on LaunchFast.</p><ul><li><a href=\"https://www.launchfa.st/#pricing\" rel=\"nofollow ugc\">Learn more about the bundle</a></li></ul>",
+    "typeUrl": "https://buy.polar.sh/polar_cl_LgLy_rZ2HXAqXCJLHTYheCYz9wtmQ7Xa_miDLnT392g",
+    "liveUrl": "https://launchfast-astro.launchfast.workers.dev/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F5bufwgsg0kg0ntd2md4iad90mrji38avg99659.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F2h8ysghxyj5hd31cizzvqowa8bd8hznnyroxhi.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Farscqm172t3vwla6cyxjrvmip5t7uvslow9s35.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fvn4z9svnkpiygofaqwi5upgyiy66zzbqiinqlj.webp&w=1600&h=900&f=webp"
+    ]
+}

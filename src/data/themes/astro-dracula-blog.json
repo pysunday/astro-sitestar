@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/astro-dracula-blog/",
+    "name": "astro-dracula-blog",
+    "title": "Astro Dracula Blog",
+    "desc": "A fast and simple blog system with dracula theme built with Astro",
+    "article": "<h2>Features </h2><ul><li>ð Fast &amp; High Performance</li><li> â­ Simple &amp; Clean Design</li><li> ð± Responsive Design</li><li> ð§ââï¸ Dracula Theme</li><li> â¡ Animations created with <a href=\"https://www.framer.com/motion/\" rel=\"nofollow ugc\">Framer Motion</a></li><li> ð Fuzzy Search built with <a href=\"https://www.fusejs.io/\" rel=\"nofollow ugc\">fuse.js</a></li><li> ðºï¸ Sitemap &amp; RSS Feed</li><li> ð¸ï¸ SEO-Friendly</li><li> ð I18n-Supported (zh &amp; en)</li><li> ð Mathjax Supported</li><li> ð TOC</li></ul><p><br/></p><h2>Lighthouse Score</h2><p>100, 100, 100 and 100!</p><p><br/></p><p><a href=\"https://pagespeed.web.dev/analysis/https-blocklune-cc/72o0c25cxa?form_factor=desktop\" rel=\"nofollow ugc\">PageSpeed Insights Link</a></p><h2>Preview</h2><p>See <a href=\"\" rel=\"nofollow ugc\">blocklune.cc</a></p>",
+    "typeUrl": "https://github.com/BlockLune/astro-dracula-blog",
+    "liveUrl": "https://blocklune.cc/en/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/BlockLune/astro-dracula-blog",
+        "name": "astro-dracula-blog",
+        "full_name": "BlockLune/astro-dracula-blog",
+        "description": "A fast and simple blog system with dracula theme built with Astro",
+        "stargazers_count": 37,
+        "created_at": "2024-10-19T17:28:56Z",
+        "updated_at": "2025-07-08T15:30:24Z",
+        "pushed_at": "2025-07-10T11:13:38Z",
+        "git_url": "git://github.com/BlockLune/astro-dracula-blog.git",
+        "ssh_url": "git@github.com:BlockLune/astro-dracula-blog.git",
+        "clone_url": "https://github.com/BlockLune/astro-dracula-blog.git",
+        "homepage": "https://blocklune.cc"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fer0vh0bneq3b2huj2uy2vhjfo95t2e9m8sdgk5.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fhhqucafglpn8qxz8wso2x8nk7d8ax6vjwwtser.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fxuhdiwuqlfa4uvls8s8id6xm8bn3w8wm8n1ds7.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fpwfsloeo44moqrqfukcxqo0xojs13nxsj1pg9j.webp&w=1600&h=900&f=webp"
+    ]
+}

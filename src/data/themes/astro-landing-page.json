@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/astro-landing-page/",
+    "name": "astro-landing-page",
+    "title": "Astro Landing Page",
+    "desc": "An Astro + Tailwind CSS starter kit for landing pages.",
+    "article": "\n<p>\n  Astro Landing Page is a template project for building a responsive landing page with Astro and\n  Tailwind CSS.\n</p>\n<h3>User Experience</h3>\n<p>\n  Astro Landing Page achieves top scores (100) on\n  <a href=\"https://pagespeed.web.dev/\" rel=\"noopener noreferrer\" target=\"_blank\">PageSpeed Insights</a>\n  in the categories Accessibility, Best Practices &amp; SEO and a near-perfect score for\n  Performance.\n</p>\n<p>It also provides motion-reduce and JavaScript-disabled variants.</p>\n<h2>Theming</h2>\n<p>\n  Astro Landing Page uses Tailwind CSS to provide a solid foundation for rapid and versatile\n  styling. On top of that, it also ships a set of CSS variables for defining semantic color names\n  and adding dark mode support.\n</p>\n<h2>Responsiveness</h2>\n<p>\n  Besides adapting its layout to the available viewport, Astro Landing Page also ships with\n  responsive images (via\n  <a href=\"https://docs.astro.build/en/guides/integrations-guide/image/\" rel=\"noopener noreferrer\" target=\"_blank\">@astrojs/image</a>) and fluid typography.\n</p>\n<h2>...And More</h2>\n<p>\n  Astro Landing Page includes several additional features, such as Open Graph tags for social media\n  sharing, an Astro Prettier setup and easy access to thousands of icons via\n  <a href=\"https://github.com/natemoo-re/astro-icon/\" rel=\"noopener noreferrer\" target=\"_blank\">astro-icon</a>\n  / <a href=\"https://iconify.design/\" rel=\"noopener noreferrer\" target=\"_blank\">Iconify</a>.\n</p>\n",
+    "typeUrl": "https://github.com/mhyfritz/astro-landing-page",
+    "liveUrl": "https://astro-moon-landing.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/mhyfritz/astro-landing-page",
+        "name": "astro-landing-page",
+        "full_name": "mhyfritz/astro-landing-page",
+        "description": "An Astro + Tailwind CSS Example/Template for Landing Pages",
+        "stargazers_count": 629,
+        "created_at": "2022-05-03T04:02:56Z",
+        "updated_at": "2025-08-07T03:39:22Z",
+        "pushed_at": "2024-11-24T03:23:48Z",
+        "git_url": "git://github.com/mhyfritz/astro-landing-page.git",
+        "ssh_url": "git@github.com:mhyfritz/astro-landing-page.git",
+        "clone_url": "https://github.com/mhyfritz/astro-landing-page.git",
+        "homepage": "https://astro-moon-landing.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-landing-page-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-landing-page.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-landing-page-2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-landing-page-3.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-landing-page-4.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "url": "https://astro.build/themes/details/affilicatalog/",
+    "name": "affilicatalog",
+    "title": "AffiliCatalog",
+    "desc": "Sleek, high-speed e-commerce catalog built with Astro and Airtable. Perfect for product showcases and affiliate linksâno cart, just seamless browsing.",
+    "article": "<h2><strong>Tennis Supply: A High-Speed E-Commerce Catalog</strong></h2><p>Built with Astro and Airtable, Tennis Supply offers a sleek, high-speed browsing experience perfect for product showcases and affiliate links.</p><p>Key Features:</p><ul><li><span>Seamless browsing:</span> No cart, just effortless exploration.</li><li><span>High-speed performance:</span> Built with Astro for optimal speed.</li><li><span>Airtable integration:</span> Easily manage your catalog with Airtable.</li></ul><p>See it in action: <a href=\"https://tennis-supply.vercel.app/\" rel=\"nofollow ugc\">tennis-supply.vercel.app</a></p><p>Manage your own catalog: <a href=\"https://airtable.com/invite/l?inviteId=invlVjf3uGHeo3y9B&amp;inviteToken=cc41af527d53f89f478783ccc9458a44455948058966ada7ae0c30118b70f661&amp;utm_medium=email&amp;utm_source=product_team&amp;utm_content=transactional-alerts\" rel=\"nofollow ugc\">Airtable</a></p>",
+    "typeUrl": "https://buy.polar.sh/polar_cl_UgztSPkpEdVTPfQIxvSmWuv0Zaa4loH73XH8v2gBr9N",
+    "liveUrl": "https://tennis-supply.vercel.app?ref=astro.build",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fnmgeqc1aaqar2nbq62vsbktl9jtgj80vy8mga1.webp&w=1600&h=900&f=webp"
+    ]
+}

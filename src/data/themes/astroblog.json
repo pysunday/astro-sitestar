@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/astroblog/",
+    "name": "astroblog",
+    "title": "Astro Blog",
+    "desc": "Crisp, minimalistic personal blog theme built with Astro.js and TailwindCSS.",
+    "article": "<h3>Explore the Astro.js Personal Tech Blog Template â a sleek and feature-rich platform for your personal blog:</h3><p><strong>â Astro.js Powered</strong>: Dynamic and efficient JavaScript-driven experience.</p><p><strong>â Performance: </strong>Scores 100 in all performance tests ð</p><p><strong>â Tailwind CSS Integration</strong>: Ensures a stylish and responsive design.</p><p><strong>â RSS Feed Support</strong>: Keeps your audience updated effortlessly.</p><p><strong>â Markdown Compatibility</strong>: Streamlines content creation with easy formatting.</p><p><strong>â Syntax Highlighting</strong>: Enhances code snippet readability for tech enthusiasts.</p><p><strong>â SEO-Optimized</strong>: Includes a sitemap for optimal search engine visibility.</p><p><strong>â Vercel Deployment:</strong> preconfigured Vercel deployment &amp; web analytics.</p><p><strong>â Framework of your choice</strong>: 100% Astro.js only template - choose your JS Framework (react preinstalled)</p><h3>Unlock a seamless blend of aesthetics and functionality to share your unique voice with the world.</h3>",
+    "typeUrl": "https://github.com/nicdun/astro-tech-blog",
+    "liveUrl": "https://astro-tech-blog-ten.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/nicdun/astro-tech-blog",
+        "name": "astro-tech-blog",
+        "full_name": "nicdun/astro-tech-blog",
+        "description": "Crisp, minimalistic personal blog theme built with Astro.js and TailwindCSS.",
+        "stargazers_count": 164,
+        "created_at": "2024-03-02T08:54:31Z",
+        "updated_at": "2025-08-07T14:08:05Z",
+        "pushed_at": "2025-08-07T17:52:30Z",
+        "git_url": "git://github.com/nicdun/astro-tech-blog.git",
+        "ssh_url": "git@github.com:nicdun/astro-tech-blog.git",
+        "clone_url": "https://github.com/nicdun/astro-tech-blog.git",
+        "homepage": "https://astro-tech-blog-ten.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fwfck3b1n9bhg9j8ceqdtschpuc6d8egdqydcoe.jpg&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fpijhmsgegnz922s6zebcfbd7tt4bu2qetti0qe.png&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F5s11fha25mtyxn3qy68ysmhhqoemj0e6269c8a.png&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F5wdxi9sf3huox0h2ms3b1sqk20olmhb9turq23.png&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fwcd06yqa6w5dtbqms0qu3p00vyeddcjd3kctjl.png&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/minimal-directory-website/",
+    "name": "minimal-directory-website",
+    "title": "Minimal Directory Website",
+    "desc": "A minimal theme for directory website, built with Astro + React + Tailwind + shadcn",
+    "article": "<ul><li>Listing screens with search by keyword and tag filters</li><li>Dialog to request a new listing.</li><li>Floating navigation bar.</li><li>Responsive ready.</li><li>Dark mode support.</li></ul>",
+    "typeUrl": "https://github.com/lukenguyen-me/astro-template-directory-website.git",
+    "liveUrl": "https://onlineslidemaker.com",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/lukenguyen-me/astro-template-directory-website",
+        "name": "astro-template-directory-website",
+        "full_name": "lukenguyen-me/astro-template-directory-website",
+        "description": "Astro template for a directory website in minimal theme, with  reactjs + tailwind + shadcn",
+        "stargazers_count": 29,
+        "created_at": "2024-12-23T13:47:39Z",
+        "updated_at": "2025-08-04T10:25:11Z",
+        "pushed_at": "2025-02-18T08:40:05Z",
+        "git_url": "git://github.com/lukenguyen-me/astro-template-directory-website.git",
+        "ssh_url": "git@github.com:lukenguyen-me/astro-template-directory-website.git",
+        "clone_url": "https://github.com/lukenguyen-me/astro-template-directory-website.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3xyvvvmcqxdp4j4bizp8nqqa8zgqg1ozs4r1wb.webp&w=1600&h=900&f=webp"
+    ]
+}

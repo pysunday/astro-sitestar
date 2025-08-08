@@ -1,0 +1,16 @@
+{
+    "url": "https://astro.build/themes/details/cleaner-astro/",
+    "name": "cleaner-astro",
+    "title": "Cleaner Astro",
+    "desc": "Specially designed for local service-based businesses. Perfect for cleaning, plumbing, pest control, or any service-based business.",
+    "article": "<p><strong>Cleaner Astro</strong> is a modern Astro theme designed for local service businesses. From cleaning and plumbing to pest control and beyond, this theme is a perfect fit for your service-based needs.</p><h2>Key Features:</h2><ul><li>9+ Complete Pages</li><li>97/100 Google PageSpeed Score on Desktop</li><li>Highly customizable (Color, Font, Menu, Social Links, SEO Meta Tags, etc.)</li><li>Built with Astro v5 Tailwind CSS v4</li><li>Netlify &amp; Vercel setting pre-configured</li><li>Write and update content in Markdown / MDX</li><li>MDX components auto-import</li><li>Fully responsive on desktops, tablets, and smartphones</li><li>Clean folder structure</li><li>Simple and easy development environment setup</li><li>SEO Friendly</li><li>Animation on scroll</li><li>Free Google fonts</li><li>Free future updates</li><li>Detail Documentation</li></ul><h2>Unique Pages:</h2><ol><li>Home</li><li>About Us</li><li>Services</li><li>Service Details</li><li>Gallery</li><li>Blog</li><li>Blog Single</li><li>Contact</li><li>Elements</li></ol><p><br/></p><p><br/></p>",
+    "typeUrl": "https://themefisher.com/products/cleaner-astro?aff=abfeatured",
+    "liveUrl": "https://cleaner-astro.vercel.app/?aff=abfeatured",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fdeg6adeimc0j4os04nvmrgpl09wj8b327ner17.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F9anw4zyi85lltqhn2lhal8dgt1tyi64h7wag7c.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fob28i2vp59mjx04w2yx5n814yk1rallox1tzbq.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fclabhvumrznavs91slfay2p5cdyy5bb5fhf8od.webp&w=1600&h=900&f=webp"
+    ]
+}

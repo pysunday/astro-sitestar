@@ -1,0 +1,16 @@
+{
+    "url": "https://astro.build/themes/details/oryle/",
+    "name": "oryle",
+    "title": "Oryle",
+    "desc": "A modern agency & portfolio theme for creatives of all kinds to showcase their work with style and leave a lasting impression.",
+    "article": "<p>Perfect for creatives of all kinds â designers, freelancers, agencies, and studios to showcase their work with elegance. Oryle features a seamless user experience across its pages, each uniquely styled to captivate visitors and highlight your creativity. From striking visuals to intuitive navigation, every aspect of this template is meticulously crafted to ensure your portfolio stands out from the crowd.</p><h2><strong>Features:</strong></h2><ul><li>Built with Astro.js v5, React, Tailwind CSS v4</li><li>30+ Components</li><li>Pages: Home, About, Work, Work Details, Contact, 404</li><li>Animations with Motion</li><li>Sitemap, RSS feed and robots.txt</li><li>Easy to Customize</li><li>Clean, Elegant and Modern Design</li><li>Fully Responsive and Mobile Friendly</li><li>SEO Optimized</li><li>Fast performance</li><li>Clean folder structure</li><li>Sticky menu</li></ul><p><br/></p>",
+    "typeUrl": "https://uipetal.lemonsqueezy.com/buy/8114b1b8-9b7c-47e5-ac94-ee731a9da1a2",
+    "liveUrl": "https://oryle-astro.vercel.app",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fkagjrqukofwpaif34828tvds7vwe40zu6f76db.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fujt7pch0loq8am31jx50jxkhu260ziiu5kt703.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fg5tua9n8gawh5jih05vq6265yb48o1mq1v1ct1.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fenp4dwhz0bcislgx9c7hsvmpu1gt8zqsk3js5h.webp&w=1600&h=900&f=webp"
+    ]
+}

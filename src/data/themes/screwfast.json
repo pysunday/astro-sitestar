@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/screwfast/",
+    "name": "screwfast",
+    "title": "ScrewFast",
+    "desc": "Open-source Astro website template with sleek, customizable TailwindCSS components.",
+    "article": "<p>Introduce your next web project with ScrewFast, a sleek and versatile website template free for use, that harmonizes performance with striking aesthetics â a template designed for seamless development journeys. ScrewFast empowers developers to quickly launch web projects infused with style and speed.</p><p><br/></p><p>Whether you're constructing a personal blog, showcasing a landing page, or deploying a business site for clients, ScrewFast provides the tools for a robust start. This template gives developers a well-crafted starting point that exemplifies the simplicity and efficiency needed to thrive in today's web environment.</p><p><br/></p><p>Key Benefits:</p><p>- Performance-Driven: Enjoy fast load times and improved SEO thanks to Astro's optimized rendering â ensuring your users won't be left waiting.</p><p>- Customization Ease: Style your project your way with TailwindCSS's scalable styling utilities, offering endless creative potential with minimal hassle.</p><p>- Fully Responsive: A mobile-first design ensures that your site looks and functions perfectly on any device, adapting fluidly to different screen sizes.</p><p>- SEO-Ready: Built-in best practices for SEO to enhance your site's discoverability and help you climb the ranks in search results.</p><p><br/></p><p>ScrewFast is more than just a template; it's a developer's ally for creating an impactful web presence with less effort and more innovation.</p>",
+    "typeUrl": "https://github.com/mearashadowfax/ScrewFast",
+    "liveUrl": "https://screwfast.uk",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/mearashadowfax/ScrewFast",
+        "name": "ScrewFast",
+        "full_name": "mearashadowfax/ScrewFast",
+        "description": "Open-source Astro website template with sleek, customizable TailwindCSS components.",
+        "stargazers_count": 1059,
+        "created_at": "2024-02-09T23:52:17Z",
+        "updated_at": "2025-08-07T22:55:12Z",
+        "pushed_at": "2025-08-05T14:58:11Z",
+        "git_url": "git://github.com/mearashadowfax/ScrewFast.git",
+        "ssh_url": "git@github.com:mearashadowfax/ScrewFast.git",
+        "clone_url": "https://github.com/mearashadowfax/ScrewFast.git",
+        "homepage": "https://screwfast.uk"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fjjtlys9ia3c24sabd42z74dv3eq68peknzillg.png&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F6aqde2nvouqhlqx3prln1gz7lurbsp5rnnn66f.png&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fjt6q0ruga3dkev0z9kk1nosfu016lqv7v0iu5f.png&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F5t0slmdxzvg28n3ju5drnau7otxyu7jo9g60zr.png&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fctzl6q2fihb07mmb4hpy2ua238tq44u35ssfp4.png&w=1600&h=900&f=webp"
+    ]
+}

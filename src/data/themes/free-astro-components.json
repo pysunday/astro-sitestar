@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/free-astro-components/",
+    "name": "free-astro-components",
+    "title": "Free Astro Components",
+    "desc": "A collection of Free Astro Components",
+    "article": "<p><span>Iâve designed this collection of Astro components to help you build your web projects faster and more efficiently. Whether youâre a beginner or a seasoned developer, youâll find components that suit your needs.</span></p>",
+    "typeUrl": "https://github.com/denv17/free-astro-components-web",
+    "liveUrl": "https://free-astro-components.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/denv17/free-astro-components-web",
+        "name": "free-astro-components-web",
+        "full_name": "denv17/free-astro-components-web",
+        "description": null,
+        "stargazers_count": 44,
+        "created_at": "2024-07-22T04:29:18Z",
+        "updated_at": "2025-07-23T00:52:41Z",
+        "pushed_at": "2025-01-26T19:18:18Z",
+        "git_url": "git://github.com/denv17/free-astro-components-web.git",
+        "ssh_url": "git@github.com:denv17/free-astro-components-web.git",
+        "clone_url": "https://github.com/denv17/free-astro-components-web.git",
+        "homepage": "https://free-astro-components.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fge1coexc6dosfu7h32rb0lp5ax7l0durkx6byd.webp&w=1600&h=900&f=webp"
+    ]
+}

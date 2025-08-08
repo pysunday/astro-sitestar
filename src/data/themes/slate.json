@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/slate/",
+    "name": "slate",
+    "title": "Slate",
+    "desc": "A minimal blog template built with TailwindCSS and TypeScript.",
+    "article": "\n<h3>Features</h3>\n<ul>\n<li>TailwindCSS</li>\n<li>Sitemap</li>\n<li>Robots.txt</li>\n<li>RSS Feed</li>\n<li>Uses Page</li>\n</ul>\n",
+    "typeUrl": "https://github.com/jaytyrrell13/astro-template-slate",
+    "liveUrl": "https://slate-astro-theme.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/jaytyrrell13/astro-template-slate",
+        "name": "astro-template-slate",
+        "full_name": "jaytyrrell13/astro-template-slate",
+        "description": "A starter template for Astro.",
+        "stargazers_count": 2,
+        "created_at": "2023-12-22T16:05:25Z",
+        "updated_at": "2025-03-10T11:26:16Z",
+        "pushed_at": "2024-12-06T14:57:39Z",
+        "git_url": "git://github.com/jaytyrrell13/astro-template-slate.git",
+        "ssh_url": "git@github.com:jaytyrrell13/astro-template-slate.git",
+        "clone_url": "https://github.com/jaytyrrell13/astro-template-slate.git",
+        "homepage": "https://slate-astro-theme.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fslate-hero.webp&w=1600&h=900&f=webp"
+    ]
+}

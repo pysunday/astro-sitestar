@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-business-template/",
+    "name": "astro-business-template",
+    "title": "Astro Business Template",
+    "desc": "Business template in Turkish, built with TailwindCSS. Includes Open Graph, Facebook, and Twitter SEO metadata.",
+    "article": "",
+    "typeUrl": "https://github.com/netlesh/astro-business-template",
+    "liveUrl": "https://is-site-sablonu.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/netlesh/astro-business-template",
+        "name": "astro-business-template",
+        "full_name": "netlesh/astro-business-template",
+        "description": "Astro + Tailwind CSS",
+        "stargazers_count": 8,
+        "created_at": "2022-07-27T08:57:56Z",
+        "updated_at": "2024-08-07T18:57:11Z",
+        "pushed_at": "2024-04-22T07:59:07Z",
+        "git_url": "git://github.com/netlesh/astro-business-template.git",
+        "ssh_url": "git@github.com:netlesh/astro-business-template.git",
+        "clone_url": "https://github.com/netlesh/astro-business-template.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-business-template.webp&w=1600&h=900&f=webp"
+    ]
+}

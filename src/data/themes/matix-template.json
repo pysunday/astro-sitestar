@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/matix-template/",
+    "name": "matix-template",
+    "title": "matix template",
+    "desc": "A simple blog template, built with astro v5.0, tailwind(v4) and shadcn/ui",
+    "article": "<h3>Features</h3><p>- shadcn/ui components</p><p>- SEO optimization with fine-grained control over metadata and Open Graph tags for each post.</p><p>- RSS feeds and sitemap generation!</p><p><br/></p>",
+    "typeUrl": "https://github.com/MatixLab/matix-blog/tree/v5",
+    "liveUrl": "https://antzhu.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/MatixLab/matix-blog",
+        "name": "matix-blog",
+        "full_name": "MatixLab/matix-blog",
+        "description": "Peronal blog site template",
+        "stargazers_count": 9,
+        "created_at": "2024-10-31T13:32:24Z",
+        "updated_at": "2025-08-06T03:59:47Z",
+        "pushed_at": "2025-06-27T02:40:16Z",
+        "git_url": "git://github.com/MatixLab/matix-blog.git",
+        "ssh_url": "git@github.com:MatixLab/matix-blog.git",
+        "clone_url": "https://github.com/MatixLab/matix-blog.git",
+        "homepage": "https://antzhu.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F0gafgld6h0hhk6c6dyw9td3jc1yfdr1ounlldq.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F9va04qzkd1hbvi430a3yvd4sba2ro4s5dtztsu.webp&w=1600&h=900&f=webp"
+    ]
+}

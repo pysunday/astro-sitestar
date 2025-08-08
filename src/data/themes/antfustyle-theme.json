@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/antfustyle-theme/",
+    "name": "antfustyle-theme",
+    "title": "AntfuStyle",
+    "desc": "A customizable, feature-rich Astro theme for blog and portfolio creation.",
+    "article": "<p>AntfuStyle is a customizable, feature-rich Astro theme for blog and portfolio creation, inspired by the minimalist style of <a href=\"https://antfu.me/\" rel=\"nofollow ugc\">antfu.me</a>. The <a href=\"https://astro-antfustyle-theme.vercel.app/\" rel=\"nofollow ugc\">live demo</a> serves as self-documentation, detailing how to configure and use the theme, along with other relevant knowledge expansion. Enjoy exploring all the features this theme offers! â¨</p><h3>Optimized Infrastructure</h3><ul><li>Zero UI Framework</li><li>SEO-friendly</li><li>Auto-generated RSS Feed</li><li>Support for Subpath Deployment</li><li>Optimized Local Image Handling</li><li>VS Code Snippets for Quick Coding</li><li>Well-organized Project Structure</li></ul><h3>Content Management</h3><ul><li>Type Safety</li><li>Markdown &amp; MDX Support</li><li>Table of Contents Generation</li><li>Dynamic OG Image Generation</li><li>KaTeX Math Integration</li><li>Callouts (Alerts/Admonitions)</li><li>Directive Sugar for Both Markdown/MDX</li><li>Code Syntax Highlighting &amp; Annotations</li><li>Customizable Animated Backgrounds</li></ul><h3>User Experience</h3><ul><li>Search Functionality</li><li>Accessibility Enhancements</li><li>Smooth View Transitions</li><li>Responsive Layout</li><li>Light &amp; Dark Modes Toggle</li><li>Loading Progress Indicator</li><li>Social Media Sharing Features</li><li>Image Zoom Preview</li></ul><p><strong>More features are continuously being added! ð</strong></p>",
+    "typeUrl": "https://github.com/lin-stephanie/astro-antfustyle-theme",
+    "liveUrl": "https://astro-antfustyle-theme.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/lin-stephanie/astro-antfustyle-theme",
+        "name": "astro-antfustyle-theme",
+        "full_name": "lin-stephanie/astro-antfustyle-theme",
+        "description": "A flexible and feature-rich Astro theme for developers and creators.",
+        "stargazers_count": 167,
+        "created_at": "2024-04-24T10:46:27Z",
+        "updated_at": "2025-08-05T14:36:50Z",
+        "pushed_at": "2025-07-21T15:18:25Z",
+        "git_url": "git://github.com/lin-stephanie/astro-antfustyle-theme.git",
+        "ssh_url": "git@github.com:lin-stephanie/astro-antfustyle-theme.git",
+        "clone_url": "https://github.com/lin-stephanie/astro-antfustyle-theme.git",
+        "homepage": "https://astro-antfustyle-theme.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F8291dycsjoymsb94acklol1l2x37mijimkldmj.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fo0vsi0efu3kl1kic8hazednm1bc5v6hwkib0xh.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fgv1rqc00tegj6s9f5y4pycvz4q59hzumb4xou3.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fn8zvnozf36x7mtsis8nc0fswu7jrugtva89oa2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fbxiglduwjd4ty1uh0nmxpcc86a7zlpfv42man4.webp&w=1600&h=900&f=webp"
+    ]
+}

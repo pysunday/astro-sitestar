@@ -1,0 +1,13 @@
+{
+    "url": "https://astro.build/themes/details/waita/",
+    "name": "waita",
+    "title": "Waita",
+    "desc": "A waitlist landing page theme built with Astro and Tailwind CSS.",
+    "article": "<p>A beautiful and customisable waitlist landing page template built with Astro and Tailwind CSS. Perfect for collecting early sign-ups for your next project.</p><h3><strong>Features:</strong></h3><ul><li>â¡ï¸ Lightning Fast: Built with Astro 5.0 for optimal performance</li><li>ð¨ Customizable: Easy to customise colors, fonts, and content</li><li>ð± Responsive: Looks great on all devices</li><li>ð SEO Optimized: Built-in SEO component and meta tags</li><li>ð Animations: Smooth animations and transitions</li><li>ð Sign Up Form: Support embeds from any email platforms as well as bespoke backend options</li><li>ð Analytics Ready: Easy to add your preferred analytics</li><li>ð Type Safe: Built with TypeScript for better development experience</li></ul><p><br/></p>",
+    "typeUrl": "https://buy.polar.sh/polar_cl_wS9D1gcZFzgJVL5czkbplvBcP1M7wHdPygJAl2NlCYY",
+    "liveUrl": "https://waita.netlify.app/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fdmxs1lmakuhcdk5a59zg3en7wageurnxaeyzx0.webp&w=1600&h=900&f=webp"
+    ]
+}

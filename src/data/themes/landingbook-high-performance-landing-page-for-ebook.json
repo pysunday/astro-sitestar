@@ -1,0 +1,14 @@
+{
+    "url": "https://astro.build/themes/details/landingbook-high-performance-landing-page-for-ebook/",
+    "name": "landingbook-high-performance-landing-page-for-ebook",
+    "title": "LandingBook - High performance Landing Page for Ebook",
+    "desc": "LandingBook is a minimalist and responsive landing page template built with Astro. Perfect for startups, digital products, or personal branding that need a fast, lightweight, and SEO-friendly landing page.",
+    "article": "<p><strong>LandingBook â Landing Page Template with Astro</strong></p><p>LandingBook is a minimalist and responsive landing page template built with Astro. Perfect for startups, digital products, or personal branding that need a fast, lightweight, and SEO-friendly landing page.</p><p><br/></p><p>â¨ <strong>Key Features:</strong></p><p> â <strong>Astro Technology</strong> â Lightning-fast performance with optimized rendering.</p><p> â <strong>Modern &amp; Minimalist Design</strong> â Focused on conversions.</p><p> â <strong>SEO &amp; Performance Optimized</strong> â High Lighthouse scores.</p><p> â <strong>Responsive</strong> â Looks perfect on all devices.</p><p> â <strong>Easy Customization</strong> â Clean &amp; modular code structure.</p><p><br/></p><p>ð <strong>Typical Astro Project Directory Structure:</strong></p><pre>/src\r\n  âââ components/   # Reusable UI components\r\n  âââ layouts/      # Page layouts\r\n  âââ pages/        # Website pages\r\n  âââ styles/       # Global styles\r\n  âââ assets/       # Images, fonts, and static assets\r\n/public             # Publicly accessible files\r\n</pre><p><br/></p><p>ð Build a professional landing page quickly with LandingBook!</p>",
+    "typeUrl": "https://buy.polar.sh/polar_cl_9YsQMyQxlG2A2gxOmyN721H0sxIUqzaCsZHfc2zkBVJ",
+    "liveUrl": "https://landingbook-by-aji.netlify.app/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ff54bs306zmg064qn2jyc5nqyouxkbkke0k723h.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fdnab5wpt63nm4jasr7bztqte37iyh2ts1tfr18.webp&w=1600&h=900&f=webp"
+    ]
+}

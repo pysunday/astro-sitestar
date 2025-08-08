@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/gate/",
+    "name": "gate",
+    "title": "Gate",
+    "desc": "Static API documentation with Astro and OpenAPI/Swagger.",
+    "article": "<p>\n</p><p>\r\n  Gate is a static API documentation generator inspired by Stripe API documentation. It currently\r\n  uses OpenAPI/Swagger JSON as source.\r\n</p><p>\n</p>",
+    "typeUrl": "https://github.com/sarasate/gate",
+    "liveUrl": "https://gate-demo.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/sarasate/gate",
+        "name": "gate",
+        "full_name": "sarasate/gate",
+        "description": "Astro OpenAPI Documentation",
+        "stargazers_count": 38,
+        "created_at": "2022-10-08T12:22:41Z",
+        "updated_at": "2025-07-23T01:11:39Z",
+        "pushed_at": "2025-06-12T08:20:35Z",
+        "git_url": "git://github.com/sarasate/gate.git",
+        "ssh_url": "git@github.com:sarasate/gate.git",
+        "clone_url": "https://github.com/sarasate/gate.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fgate-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fgate-2.webp&w=1600&h=900&f=webp"
+    ]
+}

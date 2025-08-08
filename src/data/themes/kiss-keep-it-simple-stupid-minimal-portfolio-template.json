@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/kiss-keep-it-simple-stupid-minimal-portfolio-template/",
+    "name": "kiss-keep-it-simple-stupid-minimal-portfolio-template",
+    "title": "KISS (Keep it Simple, Stupid!) â Minimal portfolio template",
+    "desc": "Sanju.sh this is my personal corner on the web where I share my thoughts, ideas, and projects. feel free to explore and contact me if you have any questions or just want to chat.",
+    "article": "<h2><strong>sanju's â internet space</strong></h2><p>hey! this is my personal corner on the web where I share my thoughts, ideas, and projects. feel free to explore and contact me if you have any questions or just want to chat. </p><h3><strong>about project</strong></h3><p>this is a simple personal website i built using [astro](https://astro.build/), a static site generator. i chose Astro for its speed, flexibility, and ease of use. i hope you like the site!</p><h3><strong>features</strong></h3><p>- <strong>writings</strong>: a collection of my blog posts and articles</p><p>- <strong>thoughts</strong>: a place for me to share my random thoughts and ideas (more like tweets or quotes)</p><p>- <strong>ships</strong>: a list of projects that i've worked on or contributed to (github style commit graph will be generated based on the things i've worked on)</p><h3><strong>tech stack</strong></h3><p>- <strong>astro:</strong> static site generator</p><p>- <strong>tailwindcss</strong>: utility-first css framework for rapid prototyping</p><p>- <strong>markdown</strong>: for writing content in a simple and easy-to-read format</p><p>- <strong>typescript</strong>: for type-checking and better code quality </p><p>- <strong>biome</strong>: Format, lint, and more in a fraction of a second.</p><p>- <strong>cloudflare pages</strong>: for hosting the site and continuous deployment</p><h3><strong>design</strong></h3><p>- i wanted to keep the design simple and clean. i used a monochrome color scheme with a pop of color for the accent. </p><p>- i also used a lot of whitespace to make the content easy to read and navigate. </p><p>- i'm a big fan of minimalism and KISS (keep it simple, stupid) and i think it works well for a personal website like this. </p><p>- i hope you like the design as much as i do!</p><p><br/></p><p><br/></p>",
+    "typeUrl": "https://github.com/Spikeysanju/sanju.sh",
+    "liveUrl": "https://www.sanju.sh",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Spikeysanju/sanju.sh",
+        "name": "sanju.sh",
+        "full_name": "Spikeysanju/sanju.sh",
+        "description": "Sanju's Internet Space is a personal website built with Astro.  Licensed under Apache License 2.0",
+        "stargazers_count": 57,
+        "created_at": "2024-03-12T10:16:58Z",
+        "updated_at": "2025-08-06T20:07:31Z",
+        "pushed_at": "2025-04-02T21:12:41Z",
+        "git_url": "git://github.com/Spikeysanju/sanju.sh.git",
+        "ssh_url": "git@github.com:Spikeysanju/sanju.sh.git",
+        "clone_url": "https://github.com/Spikeysanju/sanju.sh.git",
+        "homepage": "https://www.sanju.sh"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fqm94y2knxffq7ymgygbnf2mzqfnp3t4dedhc9g.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F8kulu021ef2b44frxu9m9flymlzm7ri7l97dsy.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ffobazst6r0tcpcskjqv3qdcz3pi2vc5ponicl2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fg1bn3p2j7ratap1cx633bypsmtkjc5m1ndeyi7.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fg57ox7nfmd8q72jg9xmifye0fz3eefc21f04xe.webp&w=1600&h=900&f=webp"
+    ]
+}

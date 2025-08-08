@@ -1,0 +1,17 @@
+{
+    "url": "https://astro.build/themes/details/sapick-astro/",
+    "name": "sapick-astro",
+    "title": "Sapick Astro",
+    "desc": "A SaaS template designed specifically for IT and startup companies, built with Tailwind CSS.",
+    "article": "<pre>Built with Astro v5 and Tailwind CSS v4\r\n</pre><h2>Key Features :</h2><ul><li>12+ Unique Pages</li><li>100/100 Google PageSpeed Score on Desktop</li><li>Highly customizable (Color, Font, Menu, Social Links, SEO Meta Tags, etc.)</li><li>Built with Tailwind CSS</li><li>Netlify &amp; Vercel setting pre-configured</li><li>Contact Form</li><li>Taxonomy support</li><li>Support Disqus Comments</li><li>Write and update content in Markdown / MDX</li><li>MDX components auto-import</li><li>Fully responsive on desktops, tablets, and smartphones</li><li>Clean folder structure</li><li>Simple and easy development environment setup</li><li>Compatible with all modern browsers</li><li>SEO Friendly</li><li>Animation on scroll</li><li>Free Google fonts</li><li>Lifetime free updates</li><li>Detail Documentation</li></ul><h2>Unique Pages :</h2><ol><li><strong>Homepage</strong></li><li><strong>About Us</strong></li><li><strong>Services</strong></li><li><strong>Pricing</strong></li><li><strong>Features</strong></li><li><strong>Team</strong></li><li><strong>Testimonials</strong></li><li><strong>Blog</strong></li><li><strong>Blog Single Post</strong></li><li><strong>Contact Us</strong></li><li><strong>Career</strong></li><li><strong>Login</strong></li><li><strong>Signup</strong></li><li><strong>404 Error Page</strong></li></ol><p><br/></p>",
+    "typeUrl": "https://themefisher.com/products/sapick-astro?aff=ab",
+    "liveUrl": "https://sapick-astro.vercel.app/?aff=ab",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fhkj947oxytct0wegc02mc86eo7dqp9uitk38xb.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ffi89hehk9wvtu2y1mhvi8fyxgk3v8ok0i81py0.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F8bpw92cz99yu183d5k2mj48702couat62h9ls6.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fd5vkv2aojk6kki4nlf84knk2cnr5ri0lpdxysp.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F4xoohuek37kbaj5mklmsofz86ivpd7znu7o2xx.webp&w=1600&h=900&f=webp"
+    ]
+}

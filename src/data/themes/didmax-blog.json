@@ -1,0 +1,29 @@
+{
+    "url": "https://astro.build/themes/details/didmax-blog/",
+    "name": "didmax-blog",
+    "title": "didmax-blog",
+    "desc": "a blog website with only astro.",
+    "article": "<ul><li>Light &amp; Dark support with Tailwind CSS</li><li>PWA support with Vite PWA</li><li>Search support with Pagefind</li><li>Toc support with rehype plugins</li><li>Responsive layout</li><li>Sitemap and SEO-friendly</li><li>Components properly divided</li></ul>",
+    "typeUrl": "https://github.com/babybluue/astro-blog",
+    "liveUrl": "https://astro-blog-ecru-phi.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/babybluue/astro-blog",
+        "name": "astro-blog",
+        "full_name": "babybluue/astro-blog",
+        "description": null,
+        "stargazers_count": 20,
+        "created_at": "2023-08-31T07:45:07Z",
+        "updated_at": "2025-07-30T07:16:18Z",
+        "pushed_at": "2025-07-11T01:31:07Z",
+        "git_url": "git://github.com/babybluue/astro-blog.git",
+        "ssh_url": "git@github.com:babybluue/astro-blog.git",
+        "clone_url": "https://github.com/babybluue/astro-blog.git",
+        "homepage": "https://astro-blog-ecru-phi.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fu2yefwnehcajg2et5how81360wjs596rkyh17j.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Frjcnmz76jg9ih0usmnzjsnsw4udylj1qg2plk6.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F7a4dmn0xdjruvtfnstq0vdfnwxbcs2k27na4v9.webp&w=1600&h=900&f=webp"
+    ]
+}

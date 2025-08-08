@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astrorante/",
+    "name": "astrorante",
+    "title": "Astrorante",
+    "desc": "Combining the power of Astro, Storyblok CMS, Vue, and Tailwind, AstroRante delivers an unparalleled online presence for your restaurant.",
+    "article": "<h3><strong>Astrorante</strong> is a cutting-edge, versatile fast and static theme for restaurants. I seamlessly integrates static pages with the Storyblok CMS visual editor.</h3><p><br/></p><h3>Key Features</h3><ul><li>Hybrid deploy for static pages and Storyblok CMS visual editor in SSR</li><li>Flexible restaurant menu</li><li>Multi-language support</li><li>Theme colors and fonts can be adjusted in the CMS</li><li>Utilizes modern font stacks</li><li>Google PageSpeed mobile score of 98-100</li><li>Tested in Vercel &amp; Netlify</li><li>Easy Storyblok setup for Datasources, Bloks and Stories.</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/unfolding-io/Astrorante",
+    "liveUrl": "https://astrorante.unfolding.io/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/unfolding-io/Astrorante",
+        "name": "Astrorante",
+        "full_name": "unfolding-io/Astrorante",
+        "description": "AstroRante is a state-of-the-art website theme crafted for fine dining establishments. Combining the power of Astro, Storyblok CMS, Vue, and Tailwind, AstroRante delivers an unparalleled online presence for your restaurant.",
+        "stargazers_count": 73,
+        "created_at": "2024-07-10T12:42:01Z",
+        "updated_at": "2025-07-26T08:11:23Z",
+        "pushed_at": "2024-12-28T15:15:37Z",
+        "git_url": "git://github.com/unfolding-io/Astrorante.git",
+        "ssh_url": "git@github.com:unfolding-io/Astrorante.git",
+        "clone_url": "https://github.com/unfolding-io/Astrorante.git",
+        "homepage": "https://astrorante.unfolding.io/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fahzkaf51q5brv0ndkyhjayz54i1gt5qpdxdeft.webp&w=1600&h=900&f=webp"
+    ]
+}

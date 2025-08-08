@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/landing-page-book/",
+    "name": "landing-page-book",
+    "title": "Landing Page Book",
+    "desc": "Simple landing page to sell your book - Astro + Svelte + Tailwind",
+    "article": "\n<ul>\n<li>\n    â <a href=\"https://tailwindcss.com/\" rel=\"noopener noreferrer\" style=\"color: var(--color-accent-fg); background-color: transparent;\" target=\"_blank\">Tailwind</a>;\n  </li>\n<li>\n    â <a href=\"https://astro.build/\" rel=\"noopener noreferrer\" style=\"color: var(--color-accent-fg); background-color: transparent;\" target=\"_blank\">Astro</a>;\n  </li>\n<li>\n    â <a href=\"https://docs.astro.build/en/guides/integrations-guide/sitemap/\" rel=\"noopener noreferrer\" style=\"color: var(--color-accent-fg); background-color: transparent;\" target=\"_blank\">Astro/Sitemap</a>;\n  </li>\n<li>\n    â <a href=\"https://docs.astro.build/en/guides/integrations-guide/image/\" rel=\"noopener noreferrer\" style=\"color: var(--color-accent-fg); background-color: transparent;\" target=\"_blank\">Astro/Image</a> with AVIF format\n  </li>\n<li>\n    â <a href=\"https://svelte.dev/\" rel=\"noopener noreferrer\" style=\"color: var(--color-accent-fg); background-color: transparent;\" target=\"_blank\">Svelte</a>;\n  </li>\n<li>\n    â <a href=\"https://docs.astro.build/en/guides/integrations-guide/vercel/\" rel=\"noopener noreferrer\" style=\"color: var(--color-accent-fg); background-color: transparent;\" target=\"_blank\">Deploy at Vercel with Serverless</a>;\n  </li>\n<li>\n    â <a href=\"https://partytown.builder.io/google-tag-manager\" rel=\"noopener noreferrer\" style=\"color: var(--color-accent-fg); background-color: transparent;\" target=\"_blank\">Partytown + Google Analytics</a>\n</li>\n</ul>\n",
+    "typeUrl": "https://github.com/candidosales/landing-page-book-astro-svelte-tailwind",
+    "liveUrl": "https://landing-page-book-astro-svelte-tailwind.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/candidosales/landing-page-book-astro-tailwind",
+        "name": "landing-page-book-astro-tailwind",
+        "full_name": "candidosales/landing-page-book-astro-tailwind",
+        "description": "Simple landing page to sell your book - Astro + Tailwind",
+        "stargazers_count": 33,
+        "created_at": "2022-09-06T20:01:36Z",
+        "updated_at": "2025-07-19T13:11:50Z",
+        "pushed_at": "2025-07-03T16:12:56Z",
+        "git_url": "git://github.com/candidosales/landing-page-book-astro-tailwind.git",
+        "ssh_url": "git@github.com:candidosales/landing-page-book-astro-tailwind.git",
+        "clone_url": "https://github.com/candidosales/landing-page-book-astro-tailwind.git",
+        "homepage": "https://landing-page-book-astro-tailwind.vercel.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Flanding-page-book.webp&w=1600&h=900&f=webp"
+    ]
+}

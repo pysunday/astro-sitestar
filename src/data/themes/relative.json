@@ -1,0 +1,17 @@
+{
+    "url": "https://astro.build/themes/details/relative/",
+    "name": "relative",
+    "title": "Relative",
+    "desc": "A modern landing page template crafted with shadcn/ui, and Tailwind.",
+    "article": "<h3>Tech Stack</h3><ul><li>Astro 5</li><li>shadcn/ui (latest)</li><li>Tailwind 4</li><li>Figma</li><li>Markdown</li><li>Typescript</li></ul><h3>Features</h3><ul><li>100+ components</li><li>10+ pages</li><li>Figma File included</li><li>Astro React</li><li>All pages built using block sections, easily insert new blocks from our library!</li><li>Astro content collections</li><li>Markdown &amp; MDX</li><li>Responsive mobile-first design</li><li>Astro SEO</li><li>Astro Sitemap</li></ul><p><br/></p>",
+    "typeUrl": "https://www.shadcnblocks.com/template/relative?bundle=astro",
+    "liveUrl": "https://relative-astro-template.vercel.app/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fu0lm8ae0n0t06ljcgvha2a8g47wb7dlwb41m8h.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ff51udvvmmkw0cb276yit80f4i5z7lmeunl2180.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3hppswsew00qj5fisexnpswh3mysr8oeu2ovc1.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F50qtxq4l969323py43q1p6pwtccdfwdt0ot8fw.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F0t0ok2l7w658uq13ojlpymbaxco1xl52pwxqmu.webp&w=1600&h=900&f=webp"
+    ]
+}

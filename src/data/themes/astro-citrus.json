@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/astro-citrus/",
+    "name": "astro-citrus",
+    "title": "Astro Citrus",
+    "desc": "Hi, Iâm an Astro theme for building websites or blogs. To customize, add posts, or make it yours, click the GitHub icon below to visit my repo. ",
+    "article": "<p>Hi, Iâm an Astro theme for building websites or blogs. To customize, add posts, or make it yours, click the GitHub link below to visit my repo. </p><p>Here are my some of my awesome built in features:</p><ul><li>I'm ultra fast as I'm a static site</li><li>I'm fully responsive</li><li>I come with a light and dark mode</li><li>I'm easy to customise and add additional content</li><li>I have Tailwind CSS styling</li><li>Shiki code syntax highlighting</li><li>Satori for auto generating OG images for blog posts</li></ul><p>Clone or fork my <a href=\"https://github.com/artemkutsan/astro-citrus\" rel=\"nofollow ugc\">repo</a> if you like me!</p>",
+    "typeUrl": "https://github.com/ArtemKutsan/astro-citrus",
+    "liveUrl": "https://astrocitrus.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/ArtemKutsan/astro-citrus",
+        "name": "astro-citrus",
+        "full_name": "ArtemKutsan/astro-citrus",
+        "description": "Astro Citrus",
+        "stargazers_count": 112,
+        "created_at": "2025-03-03T18:52:37Z",
+        "updated_at": "2025-07-30T17:10:35Z",
+        "pushed_at": "2025-03-10T17:05:19Z",
+        "git_url": "git://github.com/ArtemKutsan/astro-citrus.git",
+        "ssh_url": "git@github.com:ArtemKutsan/astro-citrus.git",
+        "clone_url": "https://github.com/ArtemKutsan/astro-citrus.git",
+        "homepage": "https://astrocitrus.netlify.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fiufxheqqwlgqhk2dmcnivmw0htpap40874pzzu.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fv7cffepjpnx4crjxf2foybkixguedrl897al8t.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/simple-portfolio/",
+    "name": "simple-portfolio",
+    "title": "Simple Portfolio",
+    "desc": "Simple-Portfoliio Is a free and open-source portfolio template site built with Astro v5-Beta. It's a great starting point for creating your portfolio site using the last Astro features.",
+    "article": "<h2><strong>Astro Simple Portfolio</strong></h2><p>Is a free and open-source portfolio template site built with Astro. It's a great starting point for building your own portfolio site.</p><p>This project leverages <strong>Astro v5-beta</strong>, incorporating the latest features that Astro has to offer.</p><h2><strong>ð¥ DEMO</strong></h2><ul><li><a href=\"https://simple-portfolio.vicbox.dev/\" rel=\"nofollow ugc\">VIEW DEMO</a></li></ul><h3><strong>Features</strong></h3><ul><li><strong>Astro v5</strong>: Utilizes the latest features of Astro for a fast and optimized static site.</li><li><strong>Tailwind CSS</strong>: Includes Tailwind CSS for easy and efficient styling.</li><li><strong>ShadCN</strong>: Implements ShadCN components for a modern and cohesive design system.</li><li><strong>TypeScript</strong>: Written in TypeScript for type safety and better developer tooling.</li><li><strong>React Components</strong>: Supports React components to provide a familiar component-based development workflow.</li><li><strong>MDX Support</strong>: Includes MDX support for writing content with Markdown and JSX.</li></ul><h3><strong>Figma Design</strong></h3><p>This project is based on the following Figma design: <a href=\"https://www.figma.com/community/file/1213010685692032886/simple-resume-portfolio\" rel=\"nofollow ugc\">Simple Resume Portfolio</a>.</p><h2><strong>Deployment</strong></h2><ul><li><a href=\"https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/vito8916/simple-portfolio.git#NODE_VERSION=20\" rel=\"nofollow ugc\">Netlify</a></li></ul><p><br/></p><h2><strong>Changelog</strong></h2><h3><strong>v1.0.0</strong></h3><ul><li>Upgraded from Astro v5 beta to v5 stable.</li><li>Initial release with Astro v5.</li></ul><h3><strong>v1.1.0</strong></h3><ul><li>Added Blog feature. Now you can add your blog posts in the &lt;code style=\"background-color: rgba(212, 222, 231, 0.098);\"&gt;src/content/posts&lt;/code&gt; directory.</li><li>Added a changelog section to the README file.</li><li>Refactored Layout component and other pages.</li><li>Added two example blog post that help you how to change some things in this template.</li></ul><p><br/></p><h2><strong><span>ï»¿</span>Contributing</strong></h2><p><a href=\"https://github.com/vito8916/simple-portfolio.git\" rel=\"nofollow ugc\">GitHub Repository</a></p><p>Contributions are welcome! Please submit a pull request or open an issue to discuss changes.</p><h2><strong>License</strong></h2><p>This project is licensed under the <a href=\"\" rel=\"nofollow ugc\">MIT License</a>.</p>",
+    "typeUrl": "https://github.com/vito8916/simple-portfolio.git",
+    "liveUrl": "https://simple-portfolio.vicbox.dev/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/vito8916/simple-portfolio",
+        "name": "simple-portfolio",
+        "full_name": "vito8916/simple-portfolio",
+        "description": "A simple but beautiful portfolio created with Astro",
+        "stargazers_count": 34,
+        "created_at": "2024-11-23T19:58:44Z",
+        "updated_at": "2025-07-26T00:17:08Z",
+        "pushed_at": "2025-01-09T06:16:08Z",
+        "git_url": "git://github.com/vito8916/simple-portfolio.git",
+        "ssh_url": "git@github.com:vito8916/simple-portfolio.git",
+        "clone_url": "https://github.com/vito8916/simple-portfolio.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fji777o6xewdlb1dv0cktrt8u77aletbzh4kvg4.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F2caaaview29ruknu3yrsje9eyxsq215p53cbx1.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fzm555yu1nppftpbfx54cynrmag2vetp5qboucp.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3oxlgerwvn0qllxeaw48vm2uu4kosabvz0ycm0.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fkszrgtbyo708f70isax8zf8xesh941qgb985bx.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/stablo-blog-template/",
+    "name": "stablo-blog-template",
+    "title": "Stablo Blog Template",
+    "desc": "Stablo is a free and open-source blog template that is designed to be minimal and easy to use. It is built using Astro, Tailwind CSS, and MDX.",
+    "article": "\n<p>\n  Stablo is a free and open-source blog template that is designed to be minimal and easy to use. It\n  is built using Astro, Tailwind CSS, and MDX. With Stablo, you can launch a fully functional blog\n  for your personal website or startup in just a few minutes.\n</p>\n<p>Some of the key features of Stablo include:</p>\n<p><strong>Built with Astro, MDX and Tailwind CSS</strong></p>\n<p>\n  Stablo is built using Astro, MDX and Tailwind CSS. Together, these tools provide a solid\n  foundation for building a sleek and functional blog template.\n</p>\n<p><strong>Fully mobile responsive template</strong></p>\n<p>\n  Stablo is designed to be fully mobile responsive, meaning that it will automatically adjust its\n  layout and design to look great on any device, whether it's a desktop computer, a laptop, a\n  tablet, or a smartphone. This is important because it ensures that your blog will be accessible\n  and easy to use for all of your visitors.\n</p>\n<p><strong>Clean, modern, and minimal design</strong></p>\n<p>\n  Stablo has a clean, modern, and minimal design that is perfect for a blog. It has a simple and\n  uncluttered layout that is easy to navigate and focused on the content. The template is also\n  designed to be easy on the eyes, with a color palette that is pleasing to look at and easy to\n  read.\n</p>\n<p><strong>Configurable dark and light themes</strong></p>\n<p>\n  Stablo comes with both a dark &amp; light theme along with System \"Auto\" which allows the template\n  to automatically adapt its theme based on the system theme of the device it is being viewed on.\n</p>\n<p><strong>About and Archive pages</strong></p>\n<p>\n  Stablo includes about and archive pages that you can use to provide more information about\n  yourself or your blog, and to organize and categorize your content.\n</p>\n<p><strong>Working Contact page</strong></p>\n<p>\n  Stablo comes with a working contact page that is powered by <a href=\"https://web3forms.com/\" rel=\"noopener noreferrer\" style=\"color: rgb(9, 78, 192);\" target=\"_blank\">Web3Forms</a>. This allows you to easily set up a contact form on your blog so that your readers can get in\n  touch with you. The form is easy to use and can be customized to suit your needs.\n</p>\n<p>\n  This template is sponsored by <a href=\"https://web3templates.com/\" rel=\"noopener noreferrer\" style=\"color: rgb(9, 78, 192);\" target=\"_blank\">Web3Templates</a>, so it is available to use for free.\n</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>\n<a href=\"https://web3templates.com/templates/stablo-minimal-blog-website-template\" rel=\"noopener noreferrer\" target=\"_blank\">Learn More</a>\n</li>\n<li>\n<a href=\"https://docs.web3templates.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Documentation</a>\n</li>\n<li>\n<a href=\"https://twitter.com/surjithctly\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>\n</li>\n</ul>\n",
+    "typeUrl": "https://github.com/web3templates/stablo-astro",
+    "liveUrl": "https://stablo-astro.web3templates.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/web3templates/stablo-astro",
+        "name": "stablo-astro",
+        "full_name": "web3templates/stablo-astro",
+        "description": "Astro version of the Popular Stablo Blog Template",
+        "stargazers_count": 167,
+        "created_at": "2022-12-28T16:09:43Z",
+        "updated_at": "2025-08-04T13:05:29Z",
+        "pushed_at": "2024-08-04T12:46:15Z",
+        "git_url": "git://github.com/web3templates/stablo-astro.git",
+        "ssh_url": "git@github.com:web3templates/stablo-astro.git",
+        "clone_url": "https://github.com/web3templates/stablo-astro.git",
+        "homepage": "https://stablo-astro.web3templates.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fstablo-blog-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fstablo-blog-2.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/aether-astro-theme/",
+    "name": "aether-astro-theme",
+    "title": "Aether Astro Theme",
+    "desc": "Aether is a sleek, minimalist portfolio theme designed for Astro.js, perfect for those who value simplicity and speed. With a focus on clean design and efficient performance.",
+    "article": "",
+    "typeUrl": "https://github.com/thatsmanmeet/Aether-astro-theme",
+    "liveUrl": "https://aether-astro-theme.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/thatsmanmeet/Aether-astro-theme",
+        "name": "Aether-astro-theme",
+        "full_name": "thatsmanmeet/Aether-astro-theme",
+        "description": "Aether is a sleek, minimalist portfolio theme designed for Astro.js, perfect for those who value simplicity and speed. With a focus on clean design and efficient performance.",
+        "stargazers_count": 10,
+        "created_at": "2024-10-17T10:44:12Z",
+        "updated_at": "2025-08-05T22:04:18Z",
+        "pushed_at": "2024-10-29T06:29:11Z",
+        "git_url": "git://github.com/thatsmanmeet/Aether-astro-theme.git",
+        "ssh_url": "git@github.com:thatsmanmeet/Aether-astro-theme.git",
+        "clone_url": "https://github.com/thatsmanmeet/Aether-astro-theme.git",
+        "homepage": "https://aether-astro-theme.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F4grivqymwv2p00x59jrgzgxx1izqopqy51y8u8.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F6817cp8ji2zgljs0rwp4vsn4j27cnh4wih6bfh.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F16jwlhgizcp38xok0tdpsfjrgymlospb2s09e3.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fm7oxh71dugl7d7gciqqrul8e4q3jasbmbo8ie7.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fo8mou2fccoc3mpvbv88nfd039r7ljvcq8oz9el.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://astro.build/themes/details/finprism/",
+    "name": "finprism",
+    "title": "FinPrism",
+    "desc": "A clean and modern SaaS and Startup theme built with Astro.js, Tailwind CSS, and React!",
+    "article": "<p>ð Launch your next SaaS or Startup with <strong>FinPrism</strong>! Built with Astro.js, Tailwind CSS, and React! and also available as a Figma Template. ð¥</p><h3><strong>Main Features:</strong></h3><ul><li>Built with Latest Astro.js, React, Tailwind CSS and Typescript</li><li>80+ Components</li><li>3 Landing pages</li><li>3 Solutions pages</li><li>Pricing page</li><li>2 Blog pages</li><li>Tags/Tag page</li><li>Blog Post page</li><li>3 About pages</li><li>FAQ page</li><li>Contact page</li><li>Sign in page</li><li>Sign up page</li><li>Password recovery page</li><li>Terms of Service page</li><li>Privacy policy page</li><li>404 page</li><li>Markdown and MDX powered blog with pagination</li><li>Sitemap, RSS feed and robots.txt</li><li>Easy to Customize</li><li>Clean, Elegant and Modern Design</li><li>Fully Responsive &amp; Mobile Friendly</li><li>SEO Optimized</li><li>Fast performance</li><li>Clean folder structure</li><li>Google fonts</li><li>Sticky menu</li><li>Lucide icons</li><li>Well Documented</li></ul>",
+    "typeUrl": "https://uipetal.lemonsqueezy.com/buy/484597f0-a5ea-4956-a491-60ef6d96cad5",
+    "liveUrl": "https://finprism.vercel.app",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fhpfiz7dwsn6ravk30nqby3hlrw3upbuh5p8y3z.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F8209dpefuugmlw6ezispgfvv772i3afkvfu2vx.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fkoo8wmgdpnzrqr2evuwur90gx9eu05dve662l8.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fg29l428rdci7n2yhpc1mzoeirem4dfh8xcd8qo.webp&w=1600&h=900&f=webp"
+    ]
+}

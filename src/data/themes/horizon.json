@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/horizon/",
+    "name": "horizon",
+    "title": "Horizon",
+    "desc": "A free photography theme for Astro V5 with pricing, portfolios, testimonials, and more. Built with Astro v5 and Tailwind CSS v4.",
+    "article": "<p><em>Save weeks of time and get a photography portfolio website up and running in a snap.</em></p><p>Horizon is the perfect way to showcase those photography skills. Itâs built on Astro with Tailwind CSS for styling.</p><h2>Features</h2><ul><li>Astro V5 compatible</li><li>Incredibly easy navbar configuration, with dropdown support</li><li>Admonition / Callout component</li><li>Portfolio, testimonials, and other pages content collections</li><li>Sitemap and relevant SEO metadata</li><li>View Transitions enabled</li><li>Built-in image optimization with astro:assets</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/Boston343/horizon",
+    "liveUrl": "https://horizon.cosmicthemes.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Boston343/horizon",
+        "name": "horizon",
+        "full_name": "Boston343/horizon",
+        "description": "A free and open source photography websites template by Cosmic Themes. Built with Astro and Tailwind CSS.",
+        "stargazers_count": 32,
+        "created_at": "2024-12-10T13:32:16Z",
+        "updated_at": "2025-07-29T14:23:36Z",
+        "pushed_at": "2025-05-09T10:08:55Z",
+        "git_url": "git://github.com/Boston343/horizon.git",
+        "ssh_url": "git@github.com:Boston343/horizon.git",
+        "clone_url": "https://github.com/Boston343/horizon.git",
+        "homepage": "https://horizon.cosmicthemes.com/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fdiw61azubtukn2cb2pmdz6wlmezy8q5u2ypsth.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ff02tuxc5wqoidrprfoqmarybbmah474eoly62s.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fu730ozvv65tfez21pc7s83i5nkigsjh9j8cseu.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Flwtozhvqkydpp6sj9dk67875uizp05ndc71csb.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fn1mx8w7j5o6q4ac1rh9ad265f85gl0n62zv0dk.webp&w=1600&h=900&f=webp"
+    ]
+}

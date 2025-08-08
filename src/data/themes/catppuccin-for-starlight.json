@@ -1,0 +1,29 @@
+{
+    "url": "https://astro.build/themes/details/catppuccin-for-starlight/",
+    "name": "catppuccin-for-starlight",
+    "title": "Catppuccin for Starlight",
+    "desc": "ð Soothing pastel theme for Starlight",
+    "article": "<p>A <a href=\"https://catppuccin.com\" rel=\"nofollow ugc\">Catppuccin</a> theme plugin for <a href=\"https://starlight.astro.build/\">Starlight</a>. Features all 4 flavors, and over a dozen configurable accent colors.</p>",
+    "typeUrl": "https://github.com/catppuccin/starlight",
+    "liveUrl": "https://starlight.catppuccin.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/catppuccin/starlight",
+        "name": "starlight",
+        "full_name": "catppuccin/starlight",
+        "description": " 📝 Soothing pastel theme for Starlight",
+        "stargazers_count": 65,
+        "created_at": "2024-10-19T14:14:47Z",
+        "updated_at": "2025-08-07T00:56:03Z",
+        "pushed_at": "2025-08-07T11:15:32Z",
+        "git_url": "git://github.com/catppuccin/starlight.git",
+        "ssh_url": "git@github.com:catppuccin/starlight.git",
+        "clone_url": "https://github.com/catppuccin/starlight.git",
+        "homepage": "http://starlight.catppuccin.com/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fl69rcp6j5c9i6215gsc4clhzgf1ctvp8fw5p9k.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fg83y9xh5lc160nct5o6wxf0uj3pq8cx0n4muq0.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ff4e7xzjzvexmtcnb1f40n3kf0xvkaahwa80c1l.webp&w=1600&h=900&f=webp"
+    ]
+}

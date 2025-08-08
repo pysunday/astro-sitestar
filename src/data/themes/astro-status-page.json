@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-status-page/",
+    "name": "astro-status-page",
+    "title": "Astro - Status Page",
+    "desc": "A free open-source status page built by OpenStatus.",
+    "article": "\n<p>A simple status page built with Astro, fully optimized for SEO.</p>\n<p>Built by the <a href=\"https://www.openstatus.dev/\" rel=\"nofollow ugc\">OpenStatus</a> team.</p>\n",
+    "typeUrl": "https://github.com/openstatusHQ/astro-status-page",
+    "liveUrl": "https://astro.openstat.us/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/openstatusHQ/astro-status-page",
+        "name": "astro-status-page",
+        "full_name": "openstatusHQ/astro-status-page",
+        "description": "An open source astro status page ",
+        "stargazers_count": 68,
+        "created_at": "2023-12-20T20:01:13Z",
+        "updated_at": "2025-07-31T14:31:03Z",
+        "pushed_at": "2025-01-01T21:23:51Z",
+        "git_url": "git://github.com/openstatusHQ/astro-status-page.git",
+        "ssh_url": "git@github.com:openstatusHQ/astro-status-page.git",
+        "clone_url": "https://github.com/openstatusHQ/astro-status-page.git",
+        "homepage": "https://astro.openstat.us"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fopen-status-hero.webp&w=1600&h=900&f=webp"
+    ]
+}

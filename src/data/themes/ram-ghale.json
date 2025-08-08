@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/ram-ghale/",
+    "name": "ram-ghale",
+    "title": "Ram Ghale",
+    "desc": "A minimalist web developer portfolio built in Astro.js. Easily customizable with YAML.",
+    "article": "<p>A minimalist web developer portfolio built in Astro.js. Easily customizable with YAML.</p><p><br/></p><p>â¨ Features:</p><p>- Dark theme for a modern look</p><p>- SEO optimized to boost your visibility</p><p>- Blog functionality to showcase your thoughts and projects</p><p>- Easy customization with YAML</p><p><br/></p><p><br/></p>",
+    "typeUrl": "https://github.com/skillaroo/build-your-web-dev-portfolio",
+    "liveUrl": "https://ram-ghale.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/skillaroo/build-your-web-dev-portfolio",
+        "name": "build-your-web-dev-portfolio",
+        "full_name": "skillaroo/build-your-web-dev-portfolio",
+        "description": "A web developer portfolio built in Astro.js. Easily customizable with YAML",
+        "stargazers_count": 10,
+        "created_at": "2024-08-10T01:59:10Z",
+        "updated_at": "2025-07-05T01:35:04Z",
+        "pushed_at": "2024-09-12T04:22:50Z",
+        "git_url": "git://github.com/skillaroo/build-your-web-dev-portfolio.git",
+        "ssh_url": "git@github.com:skillaroo/build-your-web-dev-portfolio.git",
+        "clone_url": "https://github.com/skillaroo/build-your-web-dev-portfolio.git",
+        "homepage": "https://ram-ghale.netlify.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fvwybncdfg30f3ohug4lt8k7mfwhz4py24clt7f.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fq3diwygdipdz908o6i45l26a8b6fm1r48c3hho.webp&w=1600&h=900&f=webp"
+    ]
+}

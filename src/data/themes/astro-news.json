@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/astro-news/",
+    "name": "astro-news",
+    "title": "astro news",
+    "desc": "A news website built with Astro, designed to provide a modern and responsive news reading experience.\r\n",
+    "article": "<h2>Astro News</h2><p>Astro News is a free and open-source project designed to simulate a news website. Itâs perfect for developers looking to explore the latest features of <strong>Astro Framework v5</strong>, offering inspiration and guidance to implement their own projects.</p><p><br/></p><h2>â¨ Features</h2><h3>ðImplemented Features</h3><ul><li>Content Layer</li><li>Navigation</li><li>Responsive Design</li><li>Pagination</li><li>Search Functionality</li><li>RSS Feed</li><li>Sitemap</li><li>Dark Mode</li><li>SEO Optimization (in progress)</li></ul><h3>ðUpcoming Features</h3><ul><li>Sharing Options</li><li>Open Graph (OG) Image Generation</li></ul><h2>ð» Technologies</h2><p>This project leverages cutting-edge web technologies:</p><p><br/></p><ul><li>Astro V5.0</li><li>Tailwind CSS</li><li>DaisyUI</li><li>TypeScript</li><li>MDX</li><li>Bun</li><li>Vercel</li><li>HugeIcons</li></ul>",
+    "typeUrl": "https://github.com/Mrahmani71/astro-news",
+    "liveUrl": "https://astro-news-six.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Mrahmani71/astro-news",
+        "name": "astro-news",
+        "full_name": "Mrahmani71/astro-news",
+        "description": "A news website built with Astro",
+        "stargazers_count": 101,
+        "created_at": "2024-10-11T16:33:05Z",
+        "updated_at": "2025-08-07T14:35:03Z",
+        "pushed_at": "2025-04-27T17:58:00Z",
+        "git_url": "git://github.com/Mrahmani71/astro-news.git",
+        "ssh_url": "git@github.com:Mrahmani71/astro-news.git",
+        "clone_url": "https://github.com/Mrahmani71/astro-news.git",
+        "homepage": "https://astro-news-six.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fa9i6praxmpt4fac0z8lpem5bbd7ci75o5bfw9u.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fcg3btrvejzgpb3fw7dlox6pnqc30gh3954yqur.webp&w=1600&h=900&f=webp"
+    ]
+}

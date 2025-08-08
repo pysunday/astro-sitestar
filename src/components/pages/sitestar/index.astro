@@ -1,0 +1,25 @@
+---
+import '@/styles/sitestar.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from "@/components/sitestar/Navbar";
+import Header from "@/components/sitestar/Header.astro";
+import About from "@/components/sitestar/About.astro";
+import Projects from "@/components/sitestar/Projects.astro";
+import Contact from "@/components/sitestar/Contact.astro";
+import Footer from "@/components/sitestar/Footer.astro";
+import Siter from "@/components/sitestar/Siter.astro";
+import { getI18n } from "@/i18n/index"
+
+const { currentLocale } = Astro
+const i18n = await getI18n(currentLocale, 'sitestar')
+const menus = i18n('menus', { returnObjects: true });
+---
+<BaseLayout hasCursor={false}>
+  <Navbar menus={menus} locale={currentLocale} client:load />
+  <Header />
+  <About />
+  <Projects />
+  <Siter />
+  <Contact />
+  <Footer class="bg-[#181d23]" links={menus}/>
+</BaseLayout>

@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/jane-for-astrojs/",
+    "name": "jane-for-astrojs",
+    "title": "Jane for AstroJS",
+    "desc": "A forked version Jane for AstroJS",
+    "article": "<p><strong>Theme Jane for Astro</strong></p><p><br/></p><p>Jane is a simple, clean, and responsive theme for Astro. It's perfect for personal blogs, portfolios, and other content-focused websites. This theme is based on the <a href=\"https://github.com/xianmin/hugo-theme-jane\" rel=\"nofollow ugc\">Jane theme for Hugo</a>.</p><p><a href=\"https://jane-theme.lecederom.com/\" rel=\"nofollow ugc\">Demo</a> | <a href=\"https://github.com/CedricLphn/astrojs-theme-jane\" rel=\"nofollow ugc\">GitHub</a> | <a href=\"https://astro.build/\">Astro</a></p><h2><strong>ð Features</strong></h2><ul><li>MD and MDX support</li><li>Tags (categories) support</li><li>Pagination</li><li>Table of contents</li></ul><h2><strong>ð Project Structure</strong></h2><p>Inside of your Astro project, you'll see the following folders and files:</p><pre>/\r\nâââ astro.config.mjs\r\nâââ backup\r\nâ   âââ posts\r\nâ       âââ first-post.md\r\nâ       âââ markdown-style-guide.md\r\nâ       âââ second-post.md\r\nâ       âââ third-post.md\r\nâ       âââ using-mdx.mdx\r\nâ       âââ welcome-to-jane.md\r\nâââ markdown.config.js\r\nâââ package-lock.json\r\nâââ package.json\r\nâââ public\r\nâ   âââ favicon.svg\r\nâââ src\r\nâ   âââ components\r\nâ   â   âââ Block.astro\r\nâ   â   âââ Card.astro\r\nâ   â   âââ Navigation.astro\r\nâ   â   âââ Pagination.astro\r\nâ   â   âââ Post.astro\r\nâ   â   âââ TableOfContents.astro\r\nâ   âââ content\r\nâ   â   âââ posts\r\nâ   â       âââ first-post.md\r\nâ   â       âââ markdown-style-guide.md\r\nâ   â       âââ second-post.md\r\nâ   â       âââ third-post.md\r\nâ   â       âââ using-mdx.mdx\r\nâ   â       âââ welcome-to-jane.md\r\nâ   âââ env.d.ts\r\nâ   âââ layouts\r\nâ   â   âââ Layout.astro\r\nâ   âââ pages\r\nâ   â   âââ archive\r\nâ   â   â   âââ index.astro\r\nâ   â   âââ blog\r\nâ   â   â   âââ [...slug].astro\r\nâ   â   â   âââ [page].astro\r\nâ   â   âââ index.astro\r\nâ   â   âââ tags\r\nâ   â       âââ [...tag].astro\r\nâ   â       âââ index.astro\r\nâ   âââ utils\r\nâ       âââ format-date.ts\r\nâââ tailwind.config.mjs\r\nâââ tsconfig.json\r\n</pre><p><br/></p><h2><strong>ð Resources</strong></h2><ul><li><a href=\"https://docs.astro.build/\">Astro documentation</a></li><li><a href=\"https://github.com/xianmin/hugo-theme-jane\" rel=\"nofollow ugc\">Jane theme for Hugo</a></li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/CedricLphn/astrojs-theme-jane",
+    "liveUrl": "https://theme-jane.lecederom.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/CedricLphn/astrojs-theme-jane",
+        "name": "astrojs-theme-jane",
+        "full_name": "CedricLphn/astrojs-theme-jane",
+        "description": "Theme Jane for Astrojs",
+        "stargazers_count": 7,
+        "created_at": "2024-08-03T17:02:45Z",
+        "updated_at": "2025-04-24T04:38:58Z",
+        "pushed_at": "2024-08-07T21:31:01Z",
+        "git_url": "git://github.com/CedricLphn/astrojs-theme-jane.git",
+        "ssh_url": "git@github.com:CedricLphn/astrojs-theme-jane.git",
+        "clone_url": "https://github.com/CedricLphn/astrojs-theme-jane.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F4fvogl0sdl8l8em4ba5s47y2q8h8z9gvrv7luj.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F7v6xah7cmpv7xov4o4yczewflm5hzv9e319imk.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/developer-blog/",
+    "name": "developer-blog",
+    "title": "Developer blog",
+    "desc": "Developer blog website with a comprehensive feature set and well structured code.",
+    "article": "<p>Run your coding blog in minutes. Benefit from robust, understandable, well separated code. Optionally customize design by modifying files in the components folder. Multiple deployment options, Nginx, Github Pages and Docker.</p><p><br/></p><p>It reuses good solutions from other projects, see the <a href=\"https://github.com/nemanjam/nemanjam.github.io#credits\" rel=\"nofollow ugc\">Credits list</a>.</p><h2>Features</h2><p><br/></p><ul><li>Latest Astro, static, high performance website</li><li>Post and Project content collections</li><li>Tailwind responsive design</li><li>Color themes with light/dark modes</li><li>Tags and Categories, pagination</li><li>Optimized images, view transitions</li><li>Extracted constants, types, utils, configs, queries, assets</li><li>Full TypeScript, Zod schemas, validated config</li><li>ESLint, Prettier, path aliases, sorted imports</li><li>React for interactive components</li><li>Design system pages, latest commit info in footer</li><li>Remote markdown content option</li><li>Hierarchical layouts</li><li>SEO friendly - sitemap, metadata</li><li>Open Graph image, Satori generated</li><li>Code syntax highlighting, Twitter/YouTube/OG-links embeds</li><li>Giscus comments, Share post</li><li>Draft posts, RSS and JSON feeds</li><li>GitHub Pages, Nginx, x86 and arm Docker deployments</li><li>GitHub Actions workflows and local scripts</li></ul><p><br/></p><p>Free and open source, check out code, demos and docs on the <a href=\"https://github.com/nemanjam/nemanjam.github.io\" rel=\"nofollow ugc\">Github repository</a>.</p>",
+    "typeUrl": "https://github.com/nemanjam/nemanjam.github.io",
+    "liveUrl": "https://nemanjamitic.com",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/nemanjam/nemanjam.github.io",
+        "name": "nemanjam.github.io",
+        "full_name": "nemanjam/nemanjam.github.io",
+        "description": "Developer blog website built with Astro and Tailwind.",
+        "stargazers_count": 53,
+        "created_at": "2023-10-06T17:40:58Z",
+        "updated_at": "2025-08-05T20:29:17Z",
+        "pushed_at": "2025-08-05T20:29:13Z",
+        "git_url": "git://github.com/nemanjam/nemanjam.github.io.git",
+        "ssh_url": "git@github.com:nemanjam/nemanjam.github.io.git",
+        "clone_url": "https://github.com/nemanjam/nemanjam.github.io.git",
+        "homepage": "https://nemanjamitic.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F6xurezectp8pq3kdhh0ws7wcb4xcgrzwnbwrro.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fvwpk6i4ew44xtmidftejutioi7td5jpphwkryz.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fpa9n8wy1g9eqlugor07m6cx22bfupqlwdzsljf.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fn9ga8usz05izd7geiqycvmu9ntowlkrnvtyg6v.webp&w=1600&h=900&f=webp"
+    ]
+}

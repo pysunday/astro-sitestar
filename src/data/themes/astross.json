@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/astross/",
+    "name": "astross",
+    "title": "Astros",
+    "desc": "A clean starter template made with Tailwind css and AlpineJS.",
+    "article": "<ul><li>Localization (with astro-i18next)</li><li>Light/Dark mode (provided by tailwind)</li><li>Discussion on articles (thanks to giscus)</li><li>CMS for editing blog post (thanks to decap CMS)</li><li>PWA (thanks to vite-pwa)</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/majesticooss/astros",
+    "liveUrl": "https://astros.majestico.co",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/majesticooss/astros",
+        "name": "astros",
+        "full_name": "majesticooss/astros",
+        "description": "Template with astro, tailwind and alpinejs",
+        "stargazers_count": 253,
+        "created_at": "2021-11-22T21:16:03Z",
+        "updated_at": "2025-08-01T07:57:38Z",
+        "pushed_at": "2024-06-12T17:51:01Z",
+        "git_url": "git://github.com/majesticooss/astros.git",
+        "ssh_url": "git@github.com:majesticooss/astros.git",
+        "clone_url": "https://github.com/majesticooss/astros.git",
+        "homepage": "https://astros.majestico.co"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fk8hj0pkl8001wfmptxxdh26ald80kuy9s69czg.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Frcn4aftk6ytsdcleabgpoi1tfh483nwenj60l6.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fw2yi82katvb26zc69v11rrrckt594d9unmy6x4.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F506i0skbwizbzx5oleq9z8rmr7tzqqjrbpglou.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fn1is70tsh566f7et9jynv347f8x0wof947rz97.webp&w=1600&h=900&f=webp"
+    ]
+}

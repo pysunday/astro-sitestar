@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/astroway/",
+    "name": "astroway",
+    "title": "Astroway",
+    "desc": "Modern portfolio template featuring React, Tailwind CSS, and Astro for a smooth and responsive showcase of your projects and ideas.",
+    "article": "<h3><strong>Astroway</strong></h3><ul><li><a href=\"https://stackblitz.com/github/gio-del/Astro-Theme-Astroway\" rel=\"nofollow ugc\">Open with StackBlitz</a></li><li><a href=\"https://codesandbox.io/p/sandbox/github/gio-del/Astro-Theme-Astroway\" rel=\"nofollow ugc\">Open with CodeSandbox</a></li></ul><h2><strong>Features</strong></h2><p>- Dark mode toggle</p><p>- Responsive design</p><p>- Easy to customize and extend personal data</p><p>- Fuzzy search for blog posts</p><p>- SEO friendly (robots.txt, sitemap.xml)</p><p>- RSS feed</p><h2><strong>What's next?</strong></h2><p>- [ ] Internationalization (i18n)</p><p>- [ ] Projects collection</p><p>- Feel free to open an issue or submit a pull request with your ideas for improving this template</p><h2><strong>How to use this template</strong></h2><p>Note: this mini-guide assumes you have `npm` installed on your machine, if you don't, you can download it following the instructions [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)</p><ol><li>Click on the \"Use this template\" button at the top of the repository.</li><li>Create a new repository based on this template.</li><li>Clone the repository to your local machine.</li><li>Install the dependencies by running `npm install`</li><li>You can now start the development server by running `npm run dev`</li><li>Now you can start customizing the portfolio template by updating the `/data/info.ts` file with your personal information.</li></ol><h3><strong>Notes about the contact section </strong></h3><p>If you add/remove something from the contact section in the `info.ts` file, you will need to update the `Contact.tsx` file located in the `src/components/contact_section` directory by simply reflecting the changes you made in the `info.ts` file. Although, this choice may seem redundant, it allows to separate the data from the view.</p><h2><strong>Notes about RSS feed</strong></h2><p>The RSS feed is generated using the `astro-plugin-feed` plugin.</p><p>To customize it:</p><ol><li>Update the `site` entry in the `astro.config.mjs` file with your site url.</li><li>Modify the `rss.xml.js` file located in the `pages` directory to reflect your site's information.</li></ol><h3><strong>Notes about SEO</strong></h3><p>Modify the head section of the `BaseLayout.astro` file located in the `src/layouts` directory to reflect your site's information.</p><h3><strong>Notes about styles</strong></h3><p>This portfolio template uses Tailwind CSS for styling. You can modify the colors used in the portfolio by updating the `tailwind.config.js` file located in the root of the project.</p><h2><strong>Tools Used</strong></h2><p>This portfolio template uses the following tools/libraries/resources:</p><ul><li><a href=\"https://astro.build/\">Astro</a></li><li><a href=\"https://tailwindcss.com/\" rel=\"nofollow ugc\">Tailwind CSS</a></li><li><a href=\"https://fontawesome.com/\" rel=\"nofollow ugc\">Font Awesome</a></li><li><a href=\"https://reactjs.org/\" rel=\"nofollow ugc\">React</a></li><li><a href=\"https://www.typescriptlang.org/\" rel=\"nofollow ugc\">TypeScript</a></li><li><a href=\"https://fusejs.io/\" rel=\"nofollow ugc\">Fuse.js</a></li></ul>",
+    "typeUrl": "https://github.com/gio-del/Astro-Theme-Astroway",
+    "liveUrl": "https://astroway.pages.dev",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/gio-del/Astro-Theme-Astroway",
+        "name": "Astro-Theme-Astroway",
+        "full_name": "gio-del/Astro-Theme-Astroway",
+        "description": "A portfolio template for Astro",
+        "stargazers_count": 10,
+        "created_at": "2024-02-29T08:18:08Z",
+        "updated_at": "2025-06-13T21:30:13Z",
+        "pushed_at": "2025-01-24T07:48:04Z",
+        "git_url": "git://github.com/gio-del/Astro-Theme-Astroway.git",
+        "ssh_url": "git@github.com:gio-del/Astro-Theme-Astroway.git",
+        "clone_url": "https://github.com/gio-del/Astro-Theme-Astroway.git",
+        "homepage": "https://astroway.pages.dev"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fwbpun6gm8jri5347u80b1wca1j9ulwuwuupgm5.png&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ftzeetp7d0vndhnl1k4d3rrmv7s26fw8zp6163v.png&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fevbnfz56q3o7fmdzeydqs8dzoooy1syt43mr75.png&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fqym2mt3ae42zlenevt3qgce3xdkdoenwqpxnih.png&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F8ryp252mux03uuykmtn0m0c5qk30s26qkmk65q.png&w=1600&h=900&f=webp"
+    ]
+}

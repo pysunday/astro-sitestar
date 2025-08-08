@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/openblog/",
+    "name": "openblog",
+    "title": "OpenBlog",
+    "desc": "Openblog is an elegant, simple, and user-friendly blog. Focused on accessibility, SEO and performance.",
+    "article": "<p>\r\n## Features:\r\n\r\n- Minimal styling\r\n- Mobile responsive\r\n- 100/100 Lighthouse performance\r\n- SEO-friendly with canonical URLs and OpenGraph data\r\n- Sitemap support\r\n- RSS Feed support\r\n- Markdown &amp; MDX support\r\n- Syntax highlighting\r\n- Image optimization\r\n- Table of contents\r\n- Dark mode\r\n- Reading Time\r\n- [Pagefind](https://pagefind.app/) static search library integration\r\n- Related posts\r\n- Share posts (Linkedin, twitter)\r\n- Draft mode\r\n- Copy code block\r\n</p>",
+    "typeUrl": "https://github.com/danielcgilibert/blog-template",
+    "liveUrl": "https://blog-template-gray.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/danielcgilibert/blog-template",
+        "name": "blog-template",
+        "full_name": "danielcgilibert/blog-template",
+        "description": "📚 Openblog is an elegant, simple, and user-friendly blog. Focused on accessibility, SEO and performance.",
+        "stargazers_count": 920,
+        "created_at": "2023-07-05T18:32:43Z",
+        "updated_at": "2025-08-05T14:35:20Z",
+        "pushed_at": "2025-01-14T23:18:12Z",
+        "git_url": "git://github.com/danielcgilibert/blog-template.git",
+        "ssh_url": "git@github.com:danielcgilibert/blog-template.git",
+        "clone_url": "https://github.com/danielcgilibert/blog-template.git",
+        "homepage": "https://blog-template-gray.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fopenblog-hero.webp&w=1600&h=900&f=webp"
+    ]
+}

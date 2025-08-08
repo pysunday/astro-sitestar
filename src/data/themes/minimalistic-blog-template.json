@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/minimalistic-blog-template/",
+    "name": "minimalistic-blog-template",
+    "title": "minimalistic blog template",
+    "desc": "easy-to-use, minimalistic astro blog template",
+    "article": "<p>minimalistic but opinionated blog template. Aims to be super easy to deploy and use, with a focus on performance and SEO, ease-of-use and design.</p><p><br/></p><p>Setup tutorials are <a href=\"https://flo-bit.dev/blog-template/\" rel=\"nofollow ugc\">part of the demo blog</a>.</p><p><br/></p><p>Features:</p><ul><li>â 100/100 Lighthouse performance</li><li>â SEO-friendly with canonical URLs and OpenGraph data (automatically generated)</li><li>â Sitemap support</li><li>â RSS Feed support</li><li>â Markdown &amp; MDX support</li><li>â Pagination</li><li>â Syntax highlighting (+ copy button)</li><li>â Dark and light mode with toggle button or auto-detect</li><li>â Search included</li><li>â Tags for posts</li><li>â Super easy to deploy as a static site</li><li>â Includes some prebuilt components for you to use</li><li>â comments and likes with bluesky</li></ul>",
+    "typeUrl": "https://github.com/flo-bit/blog-template",
+    "liveUrl": "https://flo-bit.dev/blog-template/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/flo-bit/blog-template",
+        "name": "blog-template",
+        "full_name": "flo-bit/blog-template",
+        "description": "minimalistic astro blog template",
+        "stargazers_count": 57,
+        "created_at": "2024-10-25T23:01:37Z",
+        "updated_at": "2025-07-09T20:57:41Z",
+        "pushed_at": "2025-06-30T22:12:44Z",
+        "git_url": "git://github.com/flo-bit/blog-template.git",
+        "ssh_url": "git@github.com:flo-bit/blog-template.git",
+        "clone_url": "https://github.com/flo-bit/blog-template.git",
+        "homepage": "http://flo-bit.dev/blog-template/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fw9lbaht6o0t88vq64jun5aumnh568okn0wyfnn.webp&w=1600&h=900&f=webp"
+    ]
+}

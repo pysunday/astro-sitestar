@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/plainpage/",
+    "name": "plainpage",
+    "title": "PlainPage",
+    "desc": "A fast, text-focused, minimalist blog.",
+    "article": "<p><a href=\"https://github.com/ChurchTao/PlainPage/blob/master/README.md\" rel=\"nofollow ugc\">English</a> | <a href=\"https://github.com/ChurchTao/PlainPage/blob/master/README.zh-CN.md\" rel=\"nofollow ugc\">ä¸­æ</a></p><h3>Features</h3><ul><li>ð Fast: 100% static, no server-side rendering</li><li>ð Simple: Just markdown files</li><li>ð Customizable: Customize the theme and layout</li><li>ð SEO-friendly: Support for SEO</li><li>ð± Responsive: Support for mobile devices</li><li>ð¦ Based on <a href=\"https://astro.build/\">astro</a> version latest</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/ChurchTao/PlainPage",
+    "liveUrl": "https://churchtao.github.io/PlainPage/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/ChurchTao/PlainPage",
+        "name": "PlainPage",
+        "full_name": "ChurchTao/PlainPage",
+        "description": "A fast, text-focused, minimalist blog",
+        "stargazers_count": 37,
+        "created_at": "2024-12-20T08:05:12Z",
+        "updated_at": "2025-07-24T02:16:05Z",
+        "pushed_at": "2025-07-24T02:16:01Z",
+        "git_url": "git://github.com/ChurchTao/PlainPage.git",
+        "ssh_url": "git@github.com:ChurchTao/PlainPage.git",
+        "clone_url": "https://github.com/ChurchTao/PlainPage.git",
+        "homepage": "https://churchtao.github.io/PlainPage/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fogweka5vog4v436jixo1wl8x6950g5vvxbgcrg.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Feakbzpjxjcq9g67rqlj2eon1lgxr9pcehhus9u.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fon6icfxd8gg6zdplb84bclw93hueekob2iumei.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fgygbmrbuyar02swyv023dgscxvs2j45v71bf3j.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ftlpzj4u543883fl8p1gtx7k2zyldvxn7zm3zq5.webp&w=1600&h=900&f=webp"
+    ]
+}

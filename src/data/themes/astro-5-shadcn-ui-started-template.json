@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/astro-5-shadcn-ui-started-template/",
+    "name": "astro-5-shadcn-ui-started-template",
+    "title": "ONE - Astro 5 Shadcn UI Starter Template",
+    "desc": "A lightning-fast starter template combining Astro's performance with Shadcn's beautiful components. Perfect for building modern, accessible web applications with zero-config Tailwind styling.\r\n",
+    "article": "<p>A production-ready starter template that combines Astro's exceptional performance with Shadcn's professionally crafted UI components. Features include:</p><p><br/></p><p><span>-</span> â¡ <strong>**Blazing Fast**</strong>: Built on Astro 5 for optimal performance</p><p><span>-</span> ð¨ <strong>**Pre-styled Components**</strong>: Full Shadcn/UI component library integration</p><p><span>-</span> ð <strong>**Dark Mode Ready**</strong>: Built-in theme support</p><p><span>-</span> ð± <strong>**Fully Responsive**</strong>: Mobile-first design approach</p><p><span>-</span> â¿ <strong>**Accessible**</strong>: ARIA-compliant components</p><p><span>-</span> ð ï¸ <strong>**Zero Config**</strong>: Pre-configured Tailwind CSS and React integration</p><p><span>-</span> ð§ <strong>**Type Safe**</strong>: Full TypeScript support</p><p><span>-</span> ð¦ <strong>**Production Ready**</strong>: Optimized build setup with perfect Lighthouse scores</p>",
+    "typeUrl": "https://github.com/one-ie/one",
+    "liveUrl": "https://one.ie/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/one-ie/one",
+        "name": "one",
+        "full_name": "one-ie/one",
+        "description": "Build AI powered websites with Astro, Shadcn and Vercel AI SDK",
+        "stargazers_count": 78,
+        "created_at": "2024-11-12T12:59:19Z",
+        "updated_at": "2025-07-27T09:04:16Z",
+        "pushed_at": "2025-08-07T16:49:53Z",
+        "git_url": "git://github.com/one-ie/one.git",
+        "ssh_url": "git@github.com:one-ie/one.git",
+        "clone_url": "https://github.com/one-ie/one.git",
+        "homepage": "https://one.ie"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fbe8lcj4oyz3kra33myz2v8usbqdrq9e9w3ynmi.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3sw3bfy7dea6mt7n50ruwq0a76wl0qzuu7daf9.webp&w=1600&h=900&f=webp"
+    ]
+}

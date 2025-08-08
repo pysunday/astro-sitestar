@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-full-starter/",
+    "name": "astro-full-starter",
+    "title": "Astro Full Starter",
+    "desc": "Clean boilerplate to start building your website ASAP",
+    "article": "<ul><li><strong>Multilanguage support:</strong> Astro native internationalization to help you translate your Astro project.</li><li><strong>Search Engine Optimization:</strong> Preconfigured plugins which makes it easy to add SEO relevant tags to your pages. Automatically generates sitemap.xml and robots.txt for your Astro project during build.</li><li><strong>React Components:</strong> Preconfigured to use React components in your Astro project. Just import and use them.</li><li><strong>Tailwind v4:</strong> Use the power of Tailwind to greatly improve your productivity and enhance your developer workflow.</li><li><strong>Prettier:</strong> For code consistency and mantainability.</li></ul>",
+    "typeUrl": "https://github.com/cokeposada/astro-full-starter",
+    "liveUrl": "https://astro-full-starter.pages.dev/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/cokeposada/astro-full-starter",
+        "name": "astro-full-starter",
+        "full_name": "cokeposada/astro-full-starter",
+        "description": "A base Astro project to start building your website quickly and efficiently. ",
+        "stargazers_count": 12,
+        "created_at": "2024-04-10T00:13:02Z",
+        "updated_at": "2025-07-31T18:50:38Z",
+        "pushed_at": "2025-07-30T14:50:42Z",
+        "git_url": "git://github.com/cokeposada/astro-full-starter.git",
+        "ssh_url": "git@github.com:cokeposada/astro-full-starter.git",
+        "clone_url": "https://github.com/cokeposada/astro-full-starter.git",
+        "homepage": "https://astro-full-starter.pages.dev/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fx9gmv1413r13ibeqjpz0d7fhtwau34vh7sgnrb.webp&w=1600&h=900&f=webp"
+    ]
+}

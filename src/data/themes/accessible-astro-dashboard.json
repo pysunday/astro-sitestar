@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/accessible-astro-dashboard/",
+    "name": "accessible-astro-dashboard",
+    "title": "Accessible Astro Dashboard",
+    "desc": "An Accessible Admin Dashboard Theme for Astro with a login page and a dashboard overview. Includes accessibility features such as landmarks, better focus-outline and skip-links navigation.",
+    "article": "<p>A modern, accessibility-focused dashboard template built with <a href=\"https://astro.build/\">Astro</a>. Designed with WCAG guidelines in mind, this theme provides a comprehensive admin interface with built-in accessibility features. It includes a responsive, keyboard-accessible navigation system, authentication flows, and integrates seamlessly with <a href=\"https://github.com/incluud/accessible-astro-components\" rel=\"nofollow ugc\">Accessible Astro Components</a>. Complete with example pages, authentication flows, and a custom 404 page, this template offers everything you need to kickstart your accessible admin dashboard.</p><h2>(Accessibility) Features</h2><ul><li>Contains a login.astro page with an example login using the localStorage and a separate LoginLayout.astro layout</li><li>login.astro contains example login data and a warning notification for when the credentials are incorrect</li><li>Contains a dashboard example in the index.astro page using the DefaultLayout.astro layout</li><li>Several examples of admin pages such as media.astro, messages.astro, products.astro, settings.astro and users.astro</li><li>Media.astro component for images, used on the media.astro page</li><li>Pagination.astro component for paginating results, used on the media.astro page</li><li>DashboardWidget.astro component serves as an example for the dashboard on index.astro</li><li>EmpyState.astro component which can be displayed on pages that don't have any data yet</li><li>LoginForm.astro component with a basic accessible login form and some form controls</li><li>SkipLinks.astro component to skip to either the main menu or the main content</li><li>Navigation.astro component with keyboard accessible navigation (arrow keys, escape key)</li><li>This component is a comprehensive sidebar navigation on desktop with the option to expand or collapse</li><li>The users menu width preference is stored in a localStorage value so that it is preserved during page reloads</li><li>The navigation automatically switches to an accessible mobile navigation for viewport widths below the medium breakpoint</li><li>ResponsiveToggle.astro component with an accessible responsive toggle button for the mobile navigation</li><li>DarkMode.astro component toggle with accessible button which saves the users preference in the localStorage</li><li>404.astro provides a custom 404 error page which you can adjust to your needs</li><li>.sr-only utility class for screen reader only text content</li><li>prefers-reduced-motion disables animations for users that have this preference turned on</li><li>Outline focus indicator which works on dark and light backgrounds</li><li><a href=\"https://github.com/incluud/accessible-astro-components\" rel=\"nofollow ugc\">Accessible Astro Components</a> package comes preinstalled with extra components such as Accordions, Modals and Notifications</li><li>Nate Moore's awesome <a href=\"https://github.com/natemoo-re/astro-icon\" rel=\"nofollow ugc\">Astro Icon</a> package is also preinstalled which can be applied to different use cases</li></ul><h2>Getting started</h2><ol><li>Clone the repository or use as a template</li><li>npm install Installs dependencies</li><li>npm run dev Starts local dev server at localhost:4321</li><li>npm run build Build your production site to ./dist/</li><li>npm run preview Preview your build locally, before deploying</li></ol><p><br/></p><p>Read the <a href=\"https://accessible-astro.incluud.dev/themes/accessible-astro-dashboard/\" rel=\"nofollow ugc\">documentation </a>to learn more ð</p>",
+    "typeUrl": "https://github.com/incluud/accessible-astro-dashboard",
+    "liveUrl": "https://accessible-astro-dashboard.incluud.dev/login/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/incluud/accessible-astro-dashboard",
+        "name": "accessible-astro-dashboard",
+        "full_name": "incluud/accessible-astro-dashboard",
+        "description": "An Accessible Admin Dashboard Theme for Astro with a login page and a dashboard overview. Includes accessibility features such as landmarks, better focus-outline and skip-links navigation. ",
+        "stargazers_count": 195,
+        "created_at": "2022-05-05T07:29:37Z",
+        "updated_at": "2025-08-04T04:14:07Z",
+        "pushed_at": "2025-07-05T09:49:45Z",
+        "git_url": "git://github.com/incluud/accessible-astro-dashboard.git",
+        "ssh_url": "git@github.com:incluud/accessible-astro-dashboard.git",
+        "clone_url": "https://github.com/incluud/accessible-astro-dashboard.git",
+        "homepage": "https://accessible-astro-dashboard.incluud.dev/login/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Faccessible-astro-dashboard%402x.webp&w=1600&h=900&f=webp"
+    ]
+}

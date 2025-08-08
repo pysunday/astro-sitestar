@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-fox/",
+    "name": "astro-fox",
+    "title": "astro-fox",
+    "desc": "Astro Fox is a fast and lightweight Astro template generator for blogs and portfolios. Easily start your project with CLI tools and quickly build a personal site with blog, log, and project sections.",
+    "article": "<ul><li>ð CLI Generator: Create new projects with simple commands</li><li>ð¯ Perfect Performance: Lighthouse 100/100 score</li><li>ð SEO Optimized: Built-in SEO best practices (meta tags, Open Graph, sitemaps)</li><li>ð Dark/Light Mode: Automatic detection of system theme with manual toggle</li><li>ð± Responsive Design: Optimized experience on all devices</li><li>ð Integrated Search: Fast content search with <a href=\"https://pagefind.app/\" rel=\"nofollow ugc\">pagefind</a></li><li>ð Markdown &amp; MDX: Convenient content writing</li><li>ð§© Modular Components: Built with SolidJS components</li><li>ð¨ Smooth Animations: Appropriate transition effects</li><li>ð RSS Feed: Automatically generated RSS feed</li></ul>",
+    "typeUrl": "https://github.com/LimChaeJune/astro-fox",
+    "liveUrl": "https://jtfox.dev",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/LimChaeJune/astro-fox",
+        "name": "astro-fox",
+        "full_name": "LimChaeJune/astro-fox",
+        "description": null,
+        "stargazers_count": 4,
+        "created_at": "2025-04-15T23:33:41Z",
+        "updated_at": "2025-05-20T04:22:18Z",
+        "pushed_at": "2025-05-01T09:14:12Z",
+        "git_url": "git://github.com/LimChaeJune/astro-fox.git",
+        "ssh_url": "git@github.com:LimChaeJune/astro-fox.git",
+        "clone_url": "https://github.com/LimChaeJune/astro-fox.git",
+        "homepage": "https://jtfox.dev"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fy26w0joc3basnto9tqug44cufr0l0vrdha6yo3.webp&w=1600&h=900&f=webp"
+    ]
+}

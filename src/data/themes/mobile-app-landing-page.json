@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/mobile-app-landing-page/",
+    "name": "mobile-app-landing-page",
+    "title": "Mobile App Landing page",
+    "desc": "Minimalistic mobile app landing page ",
+    "article": "<p>A sleek and modern mobile<strong> landing page</strong> for the app, designed for a seamless user experience. Built with responsive design and optimized for performance.</p>",
+    "typeUrl": "https://github.com/bohd4nx/mobile-landing-page",
+    "liveUrl": "https://landing.bohd4n.dev/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/bohd4nx/mobile-landing",
+        "name": "mobile-landing",
+        "full_name": "bohd4nx/mobile-landing",
+        "description": "A sleek and modern mobile landing page for the app, designed for a seamless user experience. Built with responsive design and optimized for performance.",
+        "stargazers_count": 25,
+        "created_at": "2025-02-19T02:47:18Z",
+        "updated_at": "2025-08-04T00:28:39Z",
+        "pushed_at": "2025-08-04T00:28:43Z",
+        "git_url": "git://github.com/bohd4nx/mobile-landing.git",
+        "ssh_url": "git@github.com:bohd4nx/mobile-landing.git",
+        "clone_url": "https://github.com/bohd4nx/mobile-landing.git",
+        "homepage": "https://landing.bohd4n.dev/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fyps1fbtt9jvxctdffgzehs6d3ujvsegx8bdx0u.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/starlight-pwa/",
+    "name": "starlight-pwa",
+    "title": "Starlight Pwa",
+    "desc": "Everything you need to build a stellar documentation website. Fast, accessible, and easy-to-use, and offline support",
+    "article": "<h1>Starlight</h1><h2>Documentation that delights</h2><p>Starlight is a full-featured, eco-friendly, accessible-by-default documentation theme built on Astro.</p><h3>Features include</h3><ul><li>site navigation</li><li>search</li><li>internationalization</li><li>SEO</li><li>easy-to-read typography</li><li>code highlighting</li><li>dark &amp; light mode</li><li>â¦ and more!</li></ul><h3>Powered by Astro</h3><p>Leverage the full power and performance of Astro. Extend Starlight with your favorite Astro integrations and libraries.</p><h3>Markdown, Markdoc, and MDX</h3><p>Bring your favorite markup language. Starlight gives you built-in frontmatter validation with TypeScript type-safety.</p><h3>Bring your own UI components</h3><p>Starlight ships as a framework-agnostic, complete docs solution. Extend with React, Vue, Svelte, Solid, and more.</p>",
+    "typeUrl": "https://github.com/sanabel-al-firdaws/Starlight-Pwa",
+    "liveUrl": "/themes/author/1522",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/sanabel-al-firdaws/Starlight-Pwa",
+        "name": "Starlight-Pwa",
+        "full_name": "sanabel-al-firdaws/Starlight-Pwa",
+        "description": "Turn your docs into an offline app !",
+        "stargazers_count": 15,
+        "created_at": "2024-07-25T13:37:45Z",
+        "updated_at": "2025-07-23T01:13:02Z",
+        "pushed_at": "2024-08-18T03:31:01Z",
+        "git_url": "git://github.com/sanabel-al-firdaws/Starlight-Pwa.git",
+        "ssh_url": "git@github.com:sanabel-al-firdaws/Starlight-Pwa.git",
+        "clone_url": "https://github.com/sanabel-al-firdaws/Starlight-Pwa.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F71t1e3x3w3l3nqadl60zcqfw29wyew7dmgz1ib.webp&w=1600&h=900&f=webp"
+    ]
+}

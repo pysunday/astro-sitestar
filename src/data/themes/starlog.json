@@ -1,0 +1,29 @@
+{
+    "url": "https://astro.build/themes/details/starlog/",
+    "name": "starlog",
+    "title": "Starlog",
+    "desc": "A light-weight theme for your release notes",
+    "article": "\n<h2>Out of this world release notes</h2>\n<p>\n  Starlog is a minimal and easy to customize release notes theme built on Astro.\n</p>\n<h3>Features include</h3>\n<ul>\n<li>View transitions</li>\n<li>SCSS variables for easy customization</li>\n<li>Mobile-first responsive layout</li>\n<li>Light + dark modes</li>\n<li>&amp;mldr; and more!</li>\n</ul>\n",
+    "typeUrl": "https://github.com/withastro/astro/tree/main/examples/starlog",
+    "liveUrl": "https://preview.astro.new/starlog/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/withastro/astro",
+        "name": "astro",
+        "full_name": "withastro/astro",
+        "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
+        "stargazers_count": 52709,
+        "created_at": "2021-03-15T17:19:47Z",
+        "updated_at": "2025-08-08T02:34:32Z",
+        "pushed_at": "2025-08-07T16:10:52Z",
+        "git_url": "git://github.com/withastro/astro.git",
+        "ssh_url": "git@github.com:withastro/astro.git",
+        "clone_url": "https://github.com/withastro/astro.git",
+        "homepage": "https://astro.build"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fstarlog-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fstarlog-1.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fstarlog-2.webp&w=1600&h=900&f=webp"
+    ]
+}

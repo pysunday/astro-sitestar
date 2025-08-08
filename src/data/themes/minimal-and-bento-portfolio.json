@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/minimal-and-bento-portfolio/",
+    "name": "minimal-and-bento-portfolio",
+    "title": "Minimal and bento Portfolio ",
+    "desc": "This is a easy bento style portfolio",
+    "article": "",
+    "typeUrl": "https://github.com/bue221/astro-portfolio",
+    "liveUrl": "https://bue221.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/bue221/astro-portfolio",
+        "name": "astro-portfolio",
+        "full_name": "bue221/astro-portfolio",
+        "description": null,
+        "stargazers_count": 47,
+        "created_at": "2024-03-30T09:43:44Z",
+        "updated_at": "2025-07-26T11:22:31Z",
+        "pushed_at": "2024-10-17T02:59:56Z",
+        "git_url": "git://github.com/bue221/astro-portfolio.git",
+        "ssh_url": "git@github.com:bue221/astro-portfolio.git",
+        "clone_url": "https://github.com/bue221/astro-portfolio.git",
+        "homepage": "https://bue221.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Flznzlyuuhjxan0p19sm27czu1xopp6dkyzmkrj.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ffoobogdgfiuylqsnqny3c56at4oa1h11cbzmfr.webp&w=1600&h=900&f=webp"
+    ]
+}

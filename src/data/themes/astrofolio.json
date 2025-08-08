@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astrofolio/",
+    "name": "astrofolio",
+    "title": "Astrofolio",
+    "desc": "A clean, fast, and lightweight portfolio template built with Astro, Vercel, and Tailwind CSS for optimal performance.",
+    "article": "<h2>Astrofilio</h2><p><br/></p><p>A clean, fast, and lightweight portfolio template built with <a href=\"https://astro.build/\">Astro</a>, <a href=\"https://vercel.com/\" rel=\"nofollow ugc\">Vercel</a>, and <a href=\"https://tailwindcss.com/\" rel=\"nofollow ugc\">Tailwind CSS</a> for optimal performance.</p><p>Deploy your Astrofilio site with Vercel in minutes.</p><h2>Technologies Used</h2><ul><li>Framework: <a href=\"https://astro.build/\">Astro</a></li><li>Typography: <a href=\"https://vercel.com/font\" rel=\"nofollow ugc\">Vercel Geist Font</a></li><li>Styling: <a href=\"https://tailwindcss.com/\" rel=\"nofollow ugc\">Tailwind CSS</a></li><li>Analytics: <a href=\"https://vercel.com/docs/speed-insights\" rel=\"nofollow ugc\">Vercel Web Analytics</a></li><li>Astro View Transitions [<a href=\"https://docs.astro.build/en/guides/view-transitions/\">https://docs.astro.build/en/guides/view-transitions/</a>]</li><li>Deployment: <a href=\"https://vercel.com/\" rel=\"nofollow ugc\">Vercel</a></li></ul><h2>Features</h2><ul><li><a href=\"https://mdxjs.com/\" rel=\"nofollow ugc\">MDX</a> Support: Use Markdown with JSX components for blog posts.</li><li>Light and Dark Mode Toggle: Switch between themes for better readability.</li><li>Dynamic <a href=\"https://vercel.com/docs/functions/og-image-generation\" rel=\"nofollow ugc\">OG Images</a>: Auto-generate Open Graph images for sharing.</li><li>SEO Optimization: Enhance search visibility with sitemap, robots.txt.</li><li>Dynamic Feed Generation: Automatic dynamic <a href=\"https://astrofolio-astro.vercel.app/rss.xml\" rel=\"nofollow ugc\">RSS</a>.</li><li><a href=\"https://katex.org/\" rel=\"nofollow ugc\">KaTeX</a> Integration: Render mathematical expressions smoothly.</li><li>Performance Tracking: Monitor web performance with <a href=\"https://vercel.com/docs/speed-insights\" rel=\"nofollow ugc\">Vercel Web Analytics</a>.</li><li>Interactive Embeds: Easily embed interactive tweets and YouTube videos.</li><li>Captions: Add descriptive captions to photos, tweets, and videos.</li><li>Image Grid: Easily showcase image galleries or photos.</li><li>View Transitions: Add transitions between pages for a smoother user experience.</li></ul><p><br/></p><h2>About</h2><p>Astrofilio is a port of the <a href=\"https://github.com/1msirius/Nextfolio\" rel=\"nofollow ugc\">Nextfolio</a> template by <a href=\"https://www.imsirius.xyz/\" rel=\"nofollow ugc\">Sirius</a>.</p><p>Ported by <a href=\"https://kapadiya.net/\" rel=\"nofollow ugc\">Vikas</a> in 2024, released under the MIT license.</p><h2>Licence</h2><p>Astrofilio is open-source and released under the MIT License.</p>",
+    "typeUrl": "https://github.com/vikas5914/Astrofolio",
+    "liveUrl": "https://astrofolio.pages.dev/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/vikas5914/Astrofolio",
+        "name": "Astrofolio",
+        "full_name": "vikas5914/Astrofolio",
+        "description": "A clean, fast, and lightweight portfolio template built with Astro, Cloudflare, and Tailwind CSS for optimal performance.",
+        "stargazers_count": 17,
+        "created_at": "2024-10-28T12:17:18Z",
+        "updated_at": "2025-07-23T15:51:02Z",
+        "pushed_at": "2025-05-01T07:02:51Z",
+        "git_url": "git://github.com/vikas5914/Astrofolio.git",
+        "ssh_url": "git@github.com:vikas5914/Astrofolio.git",
+        "clone_url": "https://github.com/vikas5914/Astrofolio.git",
+        "homepage": "https://astrofolio.pages.dev/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3z9msoqv3ve53218wbbgodv5aycjs7amyryy8i.webp&w=1600&h=900&f=webp"
+    ]
+}

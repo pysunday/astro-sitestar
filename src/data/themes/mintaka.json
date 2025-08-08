@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/mintaka/",
+    "name": "mintaka",
+    "title": "Mintaka",
+    "desc": "Creative agency template made with astro, tailwind and gsap",
+    "article": "<h2><strong>Features</strong></h2><ul><li><strong>â</strong> Localization</li><li><strong>â</strong> Blog</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/majesticooss/mintaka",
+    "liveUrl": "https://mintaka.majestico.co",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/majesticooss/mintaka",
+        "name": "mintaka",
+        "full_name": "majesticooss/mintaka",
+        "description": null,
+        "stargazers_count": 78,
+        "created_at": "2024-02-17T14:39:23Z",
+        "updated_at": "2025-08-07T19:46:13Z",
+        "pushed_at": "2025-03-14T05:19:02Z",
+        "git_url": "git://github.com/majesticooss/mintaka.git",
+        "ssh_url": "git@github.com:majesticooss/mintaka.git",
+        "clone_url": "https://github.com/majesticooss/mintaka.git",
+        "homepage": "https://mintaka.majestico.co"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fdbcrc0uzzjatrdaekzx3u60ig8s1wc6j4n36wp.webp&w=1600&h=900&f=webp"
+    ]
+}

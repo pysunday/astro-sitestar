@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/retypeset/",
+    "name": "retypeset",
+    "title": "Retypeset",
+    "desc": "Revive the beauty of typography.",
+    "article": "<p>Retypeset is a static blog theme based on the Astro framework. Inspired by <a href=\"https://astro-theme-typography.vercel.app/\" rel=\"nofollow ugc\">Typography</a>, Retypeset establishes a new visual standard and reimagines the layout of all pages, creating a reading experience reminiscent of paper books, reviving the beauty of typography. Details in every sight, elegance in every space.</p><h3>Demo</h3><ul><li><a href=\"https://retypeset.radishzz.cc/en/\" rel=\"nofollow ugc\">Retypeset</a></li><li><a href=\"https://retypeset.radishzz.cc/es/\" rel=\"nofollow ugc\">RetipografÃ­a</a></li><li><a href=\"https://retypeset.radishzz.cc/ru/\" rel=\"nofollow ugc\">ÐÐµÑÐµÐ²ÐµÑÑÑÐºÐ°</a></li><li><a href=\"https://retypeset.radishzz.cc/\" rel=\"nofollow ugc\">éæ°ç¼æ</a></li><li><a href=\"https://retypeset.radishzz.cc/zh-tw/\" rel=\"nofollow ugc\">éæ°ç·¨æ</a></li><li><a href=\"https://retypeset.radishzz.cc/ja/\" rel=\"nofollow ugc\">åçµç</a></li></ul><h3>Features</h3><ul><li>Built with Astro and UnoCSS</li><li>Support for SEO, Sitemap, OpenGraph, TOC, RSS, MDX and LaTeX</li><li>i18n support</li><li>Light/Dark mode</li><li>Elegant view transitions</li><li>Rich theme customization</li><li>Optimized typography</li><li>100% performance</li><li>Responsive design</li><li>Comment system</li></ul><h3>Documentation</h3><p>Please go to the Github repository or Demo site for the latest full documentation.</p>",
+    "typeUrl": "https://github.com/radishzzz/astro-theme-retypeset",
+    "liveUrl": "https://retypeset.radishzz.cc/en/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/radishzzz/astro-theme-retypeset",
+        "name": "astro-theme-retypeset",
+        "full_name": "radishzzz/astro-theme-retypeset",
+        "description": "Revive the beauty of typography.",
+        "stargazers_count": 436,
+        "created_at": "2025-01-13T02:46:50Z",
+        "updated_at": "2025-08-07T18:39:35Z",
+        "pushed_at": "2025-08-07T19:27:04Z",
+        "git_url": "git://github.com/radishzzz/astro-theme-retypeset.git",
+        "ssh_url": "git@github.com:radishzzz/astro-theme-retypeset.git",
+        "clone_url": "https://github.com/radishzzz/astro-theme-retypeset.git",
+        "homepage": "https://retypeset.radishzz.cc/en/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Firn7bybtdz1dlgialuf5kqwmuktu0v8fcethn4.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fs7wav6sg6nsmoka5ln8s1ei86vdpmsolyrqdx2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F2wvvomsmycibo1mk7ja9dpksn29rajjwrfjxfw.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F2j4jhgudzwmi8pgcf4znwfbgol5tvybwrl23av.webp&w=1600&h=900&f=webp"
+    ]
+}

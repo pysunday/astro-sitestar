@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/nice-tat/",
+    "name": "nice-tat",
+    "title": "Nice Tat",
+    "desc": "Pure Astro Site Template inspired by Casey Neistatâs ultra-minimal personal site.",
+    "article": "\n<p>Astro Site Template inspired by Casey Neistatâs ultra minimal personal site.</p>\n<p>\n  Great for a LinkInBio type site or just a placeholder while you work on getting your personal site\n  right for the next 35 years.\n</p>\n<p>\n<a href=\"https://user-images.githubusercontent.com/2830379/278822365-5cb4215c-976c-4d58-bb33-7ef36f24ffe3.gif\" rel=\"nofollow ugc\">&lt;img\n      src=\"https://user-images.githubusercontent.com/2830379/278822365-5cb4215c-976c-4d58-bb33-7ef36f24ffe3.gif\"\n      alt=\"Screen Recording 2023-10-28 at 10 23 32â¯AM\"\n  /&gt;</a>\n</p>\n<p>\n<a href=\"https://www.youtube.com/watch?v=sEyHnHjhlr4\" rel=\"nofollow ugc\">Watch Setup Video</a>\n</p><h3>Features</h3>\n<ul>\n<li>One-Click Deploy to Netlify or Vercel</li>\n<li>Markdown for Easy Edits</li>\n<li>TailwindCSS for Easy Styling</li>\n<li>Dark Mode for Night Owls</li>\n<li>Page Transitions for Smooth Navigation</li>\n<li>SEO-friendly Out of the Box</li>\n<li>Detailed README for Quick Setup</li>\n</ul>\n<h3>The Stack</h3>\n<ul>\n<li>Astro</li>\n<li>Tailwind</li>\n<li>HTML</li>\n<li>Markdown</li>\n</ul>\n",
+    "typeUrl": "https://github.com/ThatGuySam/nice-tat",
+    "liveUrl": "https://nice-tat.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/ThatGuySam/nice-tat",
+        "name": "nice-tat",
+        "full_name": "ThatGuySam/nice-tat",
+        "description": "One-click deployable ultra-minimal site inspired by Casey Neistat's personal website. ",
+        "stargazers_count": 22,
+        "created_at": "2023-10-28T04:30:21Z",
+        "updated_at": "2025-07-18T12:02:25Z",
+        "pushed_at": "2024-11-06T18:40:37Z",
+        "git_url": "git://github.com/ThatGuySam/nice-tat.git",
+        "ssh_url": "git@github.com:ThatGuySam/nice-tat.git",
+        "clone_url": "https://github.com/ThatGuySam/nice-tat.git",
+        "homepage": "https://nicetat.samcarlton.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fnice-tat-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fnice-tat-2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fnice-tat-3.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fnice-tat-4.webp&w=1600&h=900&f=webp"
+    ]
+}

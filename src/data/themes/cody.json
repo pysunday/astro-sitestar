@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/cody/",
+    "name": "cody",
+    "title": "Cody",
+    "desc": "A minimalist blog theme built with Astro. A quick and easy starter build for anyone who wants to start their own blog.",
+    "article": "",
+    "typeUrl": "https://github.com/kirontoo/astro-theme-cody",
+    "liveUrl": "https://astro-theme-cody.netlify.app",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/kirontoo/astro-theme-cody",
+        "name": "astro-theme-cody",
+        "full_name": "kirontoo/astro-theme-cody",
+        "description": "A minimal astro theme for quickly creating your own blog",
+        "stargazers_count": 92,
+        "created_at": "2023-12-13T23:47:47Z",
+        "updated_at": "2025-07-30T02:09:13Z",
+        "pushed_at": "2025-08-03T21:51:57Z",
+        "git_url": "git://github.com/kirontoo/astro-theme-cody.git",
+        "ssh_url": "git@github.com:kirontoo/astro-theme-cody.git",
+        "clone_url": "https://github.com/kirontoo/astro-theme-cody.git",
+        "homepage": "https://astro-theme-cody.netlify.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fqqcr3ibt8oo9lip0f31jre6yi8y2zd2eecsequ.webp&w=1600&h=900&f=webp"
+    ]
+}

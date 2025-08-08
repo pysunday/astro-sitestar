@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/resume/",
+    "name": "resume",
+    "title": "Resume",
+    "desc": "An open-sourced personal resume site template with a blog, built with Astro and Tailwind.",
+    "article": "<h2>Features</h2><ul><li>Astro v4</li><li>TailwindCSS utility classes</li><li>ESLint / Prettier pre-installed and pre-configured</li><li>Accessible, semantic HTML markup</li><li>Responsive &amp; SEO-friendly</li><li>Dark / Light mode, using Tailwind and CSS variables (referenced from shadcn)</li><li><a href=\"https://docs.astro.build/en/guides/assets/\">Astro Assets Integration</a> for optimised images</li><li>MD &amp; <a href=\"https://docs.astro.build/en/guides/markdown-content/#mdx-only-features\">MDX</a> posts</li><li>Pagination</li><li><a href=\"https://docs.astro.build/en/guides/rss\">Automatic RSS feed</a></li><li>Auto-generated <a href=\"https://docs.astro.build/en/guides/integrations-guide/sitemap/\">sitemap</a></li><li><a href=\"https://expressive-code.com/\" rel=\"nofollow ugc\">Expressive Code</a> source code and syntax highlighter</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/srleom/astro-theme-resume.git",
+    "liveUrl": "https://astro-theme-resume.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/srleom/astro-theme-resume",
+        "name": "astro-theme-resume",
+        "full_name": "srleom/astro-theme-resume",
+        "description": "An open-sourced personal resume site template with a blog, built with Astro and Tailwind.",
+        "stargazers_count": 229,
+        "created_at": "2024-03-19T08:10:09Z",
+        "updated_at": "2025-08-03T11:46:42Z",
+        "pushed_at": "2024-04-13T12:59:16Z",
+        "git_url": "git://github.com/srleom/astro-theme-resume.git",
+        "ssh_url": "git@github.com:srleom/astro-theme-resume.git",
+        "clone_url": "https://github.com/srleom/astro-theme-resume.git",
+        "homepage": "https://astro-theme-resume.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fzdmcnzxa7k3ilf4tojw7lj81898o3bf3ix9m46.jpg&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F7zvx8idp6zyefi3a3yhf98peg3qdujnzmqhygw.jpg&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F5j8sr2msugnymqboc1ajdos45ddrrddjj7kjdf.jpg&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Frvayjl52uhar7fupp808to3ng5ym94rbtw487c.jpg&w=1600&h=900&f=webp"
+    ]
+}

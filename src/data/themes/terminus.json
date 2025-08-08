@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/terminus/",
+    "name": "terminus",
+    "title": "Terminus",
+    "desc": "A minimalist Astro template for developers\r\n",
+    "article": "<p>This is a free Astro template aimed at developers who want a nice, clean personal website, includes blog support!</p><p><br/></p><p>Is responsive, looks nice.</p>",
+    "typeUrl": "https://github.com/ojoanalogo/terminus-astro-template",
+    "liveUrl": "https://ojoanalogo.github.io/terminus-astro-template/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/ojoanalogo/terminus-astro-template",
+        "name": "terminus-astro-template",
+        "full_name": "ojoanalogo/terminus-astro-template",
+        "description": "A minimalist astro template for developers",
+        "stargazers_count": 1,
+        "created_at": "2025-07-23T20:27:40Z",
+        "updated_at": "2025-08-07T14:35:27Z",
+        "pushed_at": "2025-07-24T02:26:24Z",
+        "git_url": "git://github.com/ojoanalogo/terminus-astro-template.git",
+        "ssh_url": "git@github.com:ojoanalogo/terminus-astro-template.git",
+        "clone_url": "https://github.com/ojoanalogo/terminus-astro-template.git",
+        "homepage": ""
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fe2r7txqffjsbr2k7u5absm88vl373a8woe2o4z.webp&w=1600&h=900&f=webp"
+    ]
+}

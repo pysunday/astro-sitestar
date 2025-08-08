@@ -1,0 +1,29 @@
+{
+    "url": "https://astro.build/themes/details/unicorn-sparkle/",
+    "name": "unicorn-sparkle",
+    "title": "Unicorn Sparkle",
+    "desc": "Unicorn Sparkle es la plantilla de portafolio definitiva para desarrolladores que quieren brillar.",
+    "article": "<h3><strong>Unicorn Sparkle</strong> es la plantilla de portafolio definitiva para desarrolladores que quieren brillar. Combina diseÃ±o moderno y funcionalidad mÃ¡gica para mostrar tus proyectos y habilidades. Â¡Destaca con estilo y haz que tu portafolio sea inolvidable!</h3>",
+    "typeUrl": "https://github.com/UXCorpRangel/portfolios-dev/",
+    "liveUrl": "https://unicorn-sparkle.web.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/UXCorpRangel/portfolios-dev",
+        "name": "portfolios-dev",
+        "full_name": "UXCorpRangel/portfolios-dev",
+        "description": "🚀 Una colección única de plantillas de portafolios para desarrolladores. ❤️‍🔥",
+        "stargazers_count": 110,
+        "created_at": "2024-08-21T03:24:42Z",
+        "updated_at": "2025-07-27T22:50:30Z",
+        "pushed_at": "2025-05-17T13:47:45Z",
+        "git_url": "git://github.com/UXCorpRangel/portfolios-dev.git",
+        "ssh_url": "git@github.com:UXCorpRangel/portfolios-dev.git",
+        "clone_url": "https://github.com/UXCorpRangel/portfolios-dev.git",
+        "homepage": "https://uxcorprangel.github.io/portfolios-dev/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ffrcwsxqcwndrrfzclc03ub4yhj7xi6aoma3zm2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fltda3trgwadcq3bmmghjtkhqsrbry74b22lm19.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F2hcwr51elateotv1wf2icnj5hr3nus6veruzmn.webp&w=1600&h=900&f=webp"
+    ]
+}

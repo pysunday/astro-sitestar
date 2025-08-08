@@ -1,0 +1,101 @@
+---
+import '@/styles/global.css'
+import ProgressBar from 'astro-vtbot/components/ProgressBar.astro';
+import BrakePad from 'astro-vtbot/components/BrakePad.astro';
+import { ClientRouter } from 'astro:transitions';
+import { SEO } from 'astro-seo';
+import { siteConfig } from "@/site.config";
+const { currentLocale } = Astro
+import clsx from 'clsx';
+
+const {
+	title = siteConfig.title,
+	description = siteConfig.description,
+	ogType = 'website',
+	ogArticle = {},
+	ogImage = "/og-image/site_image.png",
+	hasTheme = false,
+	isDefaultDark = false
+} = Astro.props;
+---
+<!doctype html>
+<html class={isDefaultDark ? 'dark' : ''} lang={currentLocale || siteConfig.lang} transition:name="root" transition:animate="none">
+	<head>
+		<SEO
+      title={title}
+      titleTemplate={'%s-HDUD'}
+      titleDefault="HDUD"
+      description={description}
+      charset="UTF-8"
+      openGraph={{
+        basic: {
+          title,
+          type: ogType,
+          image: ogImage,
+        },
+        article: ogArticle,
+      }}
+      extend={{
+        link: [
+          { rel: "icon", type: "image/png", sizes: "16x16", href: "/favicon/favicon-16x16.png" },
+          { rel: "icon", type: "image/png", sizes: "32x32", href: "/favicon/favicon-32x32.png" },
+          { rel: "icon", type: "image/png", sizes: "192x192", href: "/favicon/favicon-192x192.png" },
+          { rel: "icon", type: "image/png", sizes: "512x512", href: "/favicon/favicon-512x512.png" },
+          { rel: "icon", type: "image/svg+xml", href: "/favicon/favicon.svg" },
+          { rel: "apple-touch-icon", type: "image/png", sizes: "180x180", href: "/favicon/favicon-180x180.png" },
+          { rel: "sitemap", href: "/sitemap-index.xml" },
+        ],
+        meta: [
+          { name: "viewport", content: "width=device-width, initial-scale=1" },
+          { name: "msapplication-TileColor", content: "#333333" },
+          { name: "theme-color", content: "#fdfaf6" },
+          { name: "author", content: siteConfig.author },
+          { name: "email", content: siteConfig.email },
+        ],
+      }}
+    />
+		{hasTheme && <script is:inline data-astro-rerun>
+		  (() => {
+			  const getThemePreference = () => {
+				  if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
+					  return localStorage.getItem('theme');
+				  }
+				  return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+			  };
+			  const isDark = getThemePreference() === 'dark';
+			  document.documentElement.classList[isDark ? 'add' : 'remove']('dark');
+ 		  
+			  if (typeof localStorage !== 'undefined') {
+				  const observer = new MutationObserver(() => {
+					  const isDark = document.documentElement.classList.contains('dark');
+					  localStorage.setItem('theme', isDark ? 'dark' : 'light');
+				  });
+				  observer.observe(document.documentElement, { attributes: true, attributeFilter: ['class'] });
+				  document.addEventListener("astro:before-swap", (event) => {
+            observer.disconnect();
+          });
+			  }
+		  })();
+		</script>}
+		<ClientRouter />
+		<!-- {import.meta.env.MODE !== 'development' && <script async data-astro-rerun src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>} -->
+	</head>
+	<body class="break-all">
+		<slot />
+		<ProgressBar />
+		<BrakePad duration={2000} />
+    <div class={import.meta.env.MODE === 'development' ? 'fixed top-0 left-0 text-[red] z-999' : 'sr-only'}>
+      <div id="bp-default" class="block sm:hidden">default</div>
+      <div id="bp-sm" class="hidden sm:block md:hidden">sm</div>
+      <div id="bp-md" class="hidden md:block lg:hidden">md</div>
+      <div id="bp-lg" class="hidden lg:block xl:hidden">lg</div>
+      <div id="bp-xl" class="hidden xl:block 2xl:hidden">xl</div>
+      <div id="bp-2xl" class="hidden 2xl:block">2xl</div>
+    </div>
+	</body>
+</html>
+<style is:global>
+.swup-progress-bar {
+  background-color: rgb(64, 128, 192);
+}
+</style>

@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/hyperdrive/",
+    "name": "hyperdrive",
+    "title": "HyperDrive",
+    "desc": "HyperDrive is a free theme for the Astro framework, designed to provide a beautiful and functional starting point for your next car dealer website. Whether you're selling Cars, Bikes or Boats, or any other similar product, HyperDrive has you covered with its clean design and easy-to-use components.",
+    "article": "<h2><strong>HyperDrive</strong></h2><p><br/></p><p>HyperDrive is a free theme for the Astro framework, designed to provide a beautiful and functional starting point for your next car dealer website. Whether you're selling Cars, Bikes or Boats, or any other similar product, HyperDrive has you covered with its clean design and easy-to-use components.</p><p><br/></p><h2><strong>ð About HyperDrive</strong></h2><p><br/></p><p>HyperDrive is perfect for car dealers looking to create a modern, responsive website. It features a range of premade pages and components that can be easily customized to fit your brand. The theme is built with Astro, ensuring fast load times and excellent performance.</p><p><br/></p><h2><strong>ð ï¸ Technologies Used</strong></h2><p><br/></p><p>-   <strong>Astro</strong>: The core framework for building fast, content-focused websites.</p><p>-   <strong>TailwindCSS</strong>: A utility-first CSS framework for rapid UI development.</p><p>-   <strong>Embla Carousel</strong>: A modern slider library for creating responsive sliders.</p><p><br/></p><h2><strong>ð Installation and Deployment</strong></h2><p><br/></p><p>To get started with HyperDrive, follow these steps:</p><p><br/></p><p>1. <strong>Clone HyperDrive</strong>:</p><p><br/></p><pre>git clone https://github.com/wpinfusion/astro-hyperdrive.git\r\n</pre><p><br/></p><p>2. <strong>Install Dependencies</strong>:</p><p><br/></p><pre>npm install\r\n</pre><p><br/></p><p>3. <strong>Run Development Server</strong>:</p><p><br/></p><pre>npm run dev\r\n</pre><p><br/></p><p>4. <strong>Build for Production</strong>:</p><p><br/></p><pre>npm run build\r\n</pre><p><br/></p><h2><strong>ð Project Structure</strong></h2><p><br/></p><p>Inside of your HyperDrive project, you'll see the following folders and files:</p><p><br/></p><pre>/\r\nâââ public/\r\nâ   âââ favicon.svg\r\nâââ src/\r\nâ   âââ assets/\r\nâ   âââ components/\r\nâ   âââ layouts/\r\nâ   â   âââ Layout.astro\r\nâ   âââ pages/\r\nâ   â   âââ index.astro\r\nâ   âââ styles/\r\nâââ package.json\r\n</pre><p><br/></p><h2><strong>ð Premade Pages</strong></h2><p><br/></p><p>-   Home</p><p>-   Cars</p><p>-   Blog</p><p>-   Contact</p><p>-   About Us</p><p>-   Services</p><p>-   404</p><p><br/></p><h2><strong>ð ï¸ Quick start</strong></h2><p><br/></p><p>To start adding your cars, go to /content/cars and add your car data in a markdown (.mdx) file. Each car should have a unique slug, title, and other relevant details like price, description, and images. Refer to the example.mdx file or any of the existing car examples for the required structure.</p><p><br/></p><h2><strong>ð Stuck?</strong></h2><p><br/></p><p>If you have any questions or need help with HyperDrive, feel free to reach out to me at info@wpinfusion.com, or open an issue on the <a href=\"https://github.com/wpinfusion/astro-hyperdrive\" rel=\"nofollow ugc\">HyperDrive GitHub repository</a></p><p><br/></p>",
+    "typeUrl": "https://github.com/wpinfusion/astro-hyperdrive",
+    "liveUrl": "https://astro-hyperdrive.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/wpinfusion/astro-hyperdrive",
+        "name": "astro-hyperdrive",
+        "full_name": "wpinfusion/astro-hyperdrive",
+        "description": "An Astro template designed for Automotive dealerships",
+        "stargazers_count": 6,
+        "created_at": "2024-12-31T21:35:04Z",
+        "updated_at": "2025-08-04T14:05:20Z",
+        "pushed_at": "2025-07-26T14:46:14Z",
+        "git_url": "git://github.com/wpinfusion/astro-hyperdrive.git",
+        "ssh_url": "git@github.com:wpinfusion/astro-hyperdrive.git",
+        "clone_url": "https://github.com/wpinfusion/astro-hyperdrive.git",
+        "homepage": "https://astro-hyperdrive.netlify.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fbgg1j80674cl4qu14hdn9j5izc4d47cadm82bv.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fwvvq8wxwjq2r7pcx3jtg46lap61o5jldatlnox.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fwopjk1kzbm0ux11vsyvuqswd3yxqjlf2uf6chf.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fh0ypsljl9x29dm983gz93uk1raeotezq2feg3g.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fhr2p2bloy0fwgmbnmiuhc34b9g604nkyglck68.webp&w=1600&h=900&f=webp"
+    ]
+}

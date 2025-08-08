@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/astro-resume-theme/",
+    "name": "astro-resume-theme",
+    "title": "Astro Resume Theme",
+    "desc": "Astro Resume Theme is a customizable and responsive template designed to help you create a beautiful online resume or portfolio quickly. Built with Astro and styled using Tailwind CSS.",
+    "article": "<h2>Astro Resume Theme </h2><p>Astro Resume Theme is a customizable and responsive template designed to help you create a beautiful online resume or portfolio quickly. Built with Astro and styled using Tailwind CSS.</p><h2>Features</h2><p><strong>Tailwind CSS for Styling</strong>: Easily customizable styles and utility classes.</p><p><strong>Themeable</strong>: Modify the look and feel by adjusting values in `src/styles/theme.css`</p><p><strong>Dark Mode</strong>: Toggle between light and dark themes for a personalized user experience.</p><p><strong>Responsive Design</strong>: Optimized for all screen sizes, from mobile to desktop.</p><p><strong>MDX Blog Support</strong>: Integrate blog posts seamlessly into your resume or portfolio.</p><p>Excellent Lighthouse/PageSpeed scores</p><p>SEO-friendly</p><p><br/></p>",
+    "typeUrl": "https://github.com/wasutz/astro-resume-theme",
+    "liveUrl": "https://astro-resume-theme.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/wasutz/astro-resume-theme",
+        "name": "astro-resume-theme",
+        "full_name": "wasutz/astro-resume-theme",
+        "description": "Astro Resume Theme is a customizable and responsive template designed to help you create a beautiful online resume or portfolio quickly. Built with Astro and styled using Tailwind CSS.",
+        "stargazers_count": 8,
+        "created_at": "2024-09-03T12:09:10Z",
+        "updated_at": "2025-05-18T15:40:54Z",
+        "pushed_at": "2025-03-23T10:58:34Z",
+        "git_url": "git://github.com/wasutz/astro-resume-theme.git",
+        "ssh_url": "git@github.com:wasutz/astro-resume-theme.git",
+        "clone_url": "https://github.com/wasutz/astro-resume-theme.git",
+        "homepage": "https://astro-resume-theme.netlify.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fv4atxh5idp8jece5col4t0jf0hfih3pqc8l2ai.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fdchmbycarxo3j20su7s56gws7v9a2l5wjuxf0q.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fvhet90i6g6wucthtrcyuvvktbkfoy8va7gwtgt.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fqdet794y9j8gk2kkq9jc60vcaza8daeyh50rfd.webp&w=1600&h=900&f=webp"
+    ]
+}

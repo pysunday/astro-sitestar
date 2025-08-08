@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/panda/",
+    "name": "panda",
+    "title": "Panda",
+    "desc": "A tiny blog theme for astro, Inspired by bearblog.",
+    "article": "<p>Astro Panda Blog theme offers a lightweight, simplistic, and highly customizable framework perfect for blogging purposes. </p><p><br/></p><p>Clone the Astro Panda Blog theme with</p><p><br/></p><pre>git clone https://github.com/yuhangch/astro-theme-panda.git\r\n</pre><p><br/></p><p><strong>Key Features</strong></p><p><br/></p><p>â¢ Stellar performance and lightweight build, boasting an impressive ~30kb size</p><p>â¢ Highly optimized and streamlined for an awesome user experience</p><p><br/></p><p><strong>Customization</strong></p><p><br/></p><p>You can further personalize the theme by adding new posts and pages. Layout can also be customized and it offers a simple language support.</p><p><br/></p><p><br/></p><p>Now start blogging with the speed and precision of a ð¼!</p>",
+    "typeUrl": "https://github.com/yuhangch/astro-theme-panda",
+    "liveUrl": "https://astro-theme-panda.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/yuhangch/astro-theme-panda",
+        "name": "astro-theme-panda",
+        "full_name": "yuhangch/astro-theme-panda",
+        "description": "A tiny blog theme for astro.",
+        "stargazers_count": 41,
+        "created_at": "2024-04-01T09:12:24Z",
+        "updated_at": "2025-07-31T04:27:58Z",
+        "pushed_at": "2024-04-26T09:47:42Z",
+        "git_url": "git://github.com/yuhangch/astro-theme-panda.git",
+        "ssh_url": "git@github.com:yuhangch/astro-theme-panda.git",
+        "clone_url": "https://github.com/yuhangch/astro-theme-panda.git",
+        "homepage": "https://astro-theme-panda.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F159wwjd6p3hd1km5b7c06gp8bsjgdkzvn02vbc.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/shareyourlinks/",
+    "name": "shareyourlinks",
+    "title": "ShareYourLinks",
+    "desc": "Welcome to Share Your Links! This project is powered by Astro and CSS magic. If you're looking to create a sleek and customizable page to showcase all your important links, you're in the right place!",
+    "article": "<h2><span>Installation</span></h2><ol><li>Clone this repository.</li><li>Navigate to the project directory.</li><li>Install dependencies using  `<strong>npm install</strong>`.</li></ol><p><br/></p><h2>Usage</h2><p><strong>Get started in no time:</strong></p><ul><li>Development: Run  <strong>npm run dev </strong>or <strong>npm start </strong>to start the development server.</li><li><strong>npm run build </strong>to generate a production build.</li><li>Preview: Run  <strong>npm run preview </strong>to preview the production build.</li><li>Astro CLI: Explore additional Astro CLI commands using  <strong>npm run astro</strong></li></ul><p><br/></p><h3><strong>Updating User Links</strong></h3><p><strong>To customize the links displayed in your application, follow these steps:</strong></p><ol><li>Open the <strong>src/data.js </strong>file in your project.</li><li>Locate the section containing the information of the user links  <strong><em>userLinks</em></strong>.</li><li>Modify each object within the  <strong><em>userLinks </em></strong>array with the information you want to display. You can change the link title, the link itself, and the associated icon.</li><li>Save the changes in the  <strong><em>data.js </em></strong>file.</li><li>Once you have updated the information of the links in the  <strong><em>userData.js </em></strong>file, the changes will be automatically reflected in your application when you rebuild or run it.</li></ol><h3><strong>Including Icons</strong></h3><p><br/></p><p>To import icons into your project, we use the Iconify CDN and utilize the <strong> <em>icon </em></strong>attribute of each Iconify icon in the  <strong><em>userLinks. </em></strong>For example, to use an icon of React:</p><pre>&lt;iconify-icon icon=\"logos:react\" width=\"27\" height=\"27\"&gt;&lt;/iconify-icon&gt;\r\n</pre><p><br/></p><p><strong>In our  <em>data.js</em></strong>, we only need to specify the icon identifier, like this:</p><pre>{\r\n    title: \"React\",\r\n    link: \"https://reactjs.org/\",\r\n    icon: \"logos:react\"\r\n}\r\n</pre><p><br/></p><p>Here's how you can add the Iconify script to the <strong>&lt;head&gt; </strong>section of your project:</p><pre>&lt;head&gt;\r\n    &lt;script src=\"https://code.iconify.design/iconify-icon/2.1.0/iconify-icon.min.js\"&gt;&lt;/script&gt;\r\n&lt;/head&gt;\r\n</pre><p><br/></p><p><strong>Once you include this script, you can use any Iconify icon by specifying its identifier in the  icon </strong>attribute. Make sure to replace  \" <strong>\"logos:react</strong>\" with the appropriate icon identifier for the icons you want to use. You can find a variety of icons available on the <a href=\"https://icon-sets.iconify.design/logos/\" rel=\"nofollow ugc\">Iconify logos page</a>.</p><p><br/></p><h3><strong>Customization</strong></h3><p><strong>Feel free to modify this project to suit your needs! Whether it's changing the layout, adding new features, or tweaking the styles, let your creativity flow.</strong></p><p><br/></p><p><br/></p><h2><strong>Author</strong></h2><p><br/></p><ul><li>SofiDev</li></ul><p><br/></p><p><strong>License</strong></p><p><br/></p><p><strong>This project is licensed under the MIT License - see the </strong><a href=\"https://github.com/SofiDevO/sofidev-links/blob/main/LICENSE\" rel=\"nofollow ugc\">LICENSE</a> file for details. Feel free to explore, modify, and make it your own!</p><p><br/></p><h2><strong>SUPPORT ME on ko-fi ð</strong></h2><p>If this theme was useful for you,  you can support my work by buying me a coffe ð</p><p><a href=\"https://ko-fi.com/sofidev\" rel=\"nofollow ugc\">https://ko-fi.com/sofidev</a></p>",
+    "typeUrl": "https://github.com/SofiDevO/allmylinks",
+    "liveUrl": "https://allmylinks-ten.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/SofiDevO/allmylinks",
+        "name": "allmylinks",
+        "full_name": "SofiDevO/allmylinks",
+        "description": "Display your social media Links💜",
+        "stargazers_count": 31,
+        "created_at": "2024-05-03T07:26:35Z",
+        "updated_at": "2025-07-26T17:47:06Z",
+        "pushed_at": "2025-03-01T04:52:43Z",
+        "git_url": "git://github.com/SofiDevO/allmylinks.git",
+        "ssh_url": "git@github.com:SofiDevO/allmylinks.git",
+        "clone_url": "https://github.com/SofiDevO/allmylinks.git",
+        "homepage": "https://allmylinks-ten.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fauu155b0x6hbm6a8i0vfs8524hfbhtugiy04j4.webp&w=1600&h=900&f=webp"
+    ]
+}

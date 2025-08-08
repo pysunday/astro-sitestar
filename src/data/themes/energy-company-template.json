@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/energy-company-template/",
+    "name": "energy-company-template",
+    "title": "Green Energy Company Template",
+    "desc": "A simple yet elegant landing page for a green energy sector company.",
+    "article": "<h3><strong>ð Live Demo</strong></h3><p>Check out the live demo: <a href=\"https://vbartalis.github.io/energy-template/\" rel=\"nofollow ugc\">Green Energy Company Astro Template</a></p><p><br/></p><h3><strong>ð¨ Description</strong></h3><p>This is a modern, responsive Astro theme designed for social media marketing agencies. It features a sleek design with sections for solutions, services, features, brands, and more, making it perfect for agencies looking to showcase their expertise and attract potential clients.</p><p><br/></p><h3><strong>ð§ Technologies &amp; Features</strong></h3><p>- Built with Astro for fast, efficient static site generation</p><p>- Styled using Tailwind CSS for rapid, customizable styling</p><p>- Responsive design that looks great on desktop and mobile devices</p><p>- Includes sections for:</p><p>  - Hero banner</p><p>  - Solutions overview</p><p>  - Services overview</p><p>  - Customer Testimonials</p><p>  - Benefits</p><p>  - Featured Products</p><p>  - Call-to-Action</p><p><br/></p><h3><strong>ð License</strong></h3><p>This project is MIT licensed.</p>",
+    "typeUrl": "https://github.com/vbartalis/energy-template",
+    "liveUrl": "https://vbartalis.github.io/energy-template/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/vbartalis/energy-template",
+        "name": "energy-template",
+        "full_name": "vbartalis/energy-template",
+        "description": null,
+        "stargazers_count": 18,
+        "created_at": "2024-02-12T19:59:39Z",
+        "updated_at": "2025-06-14T11:00:31Z",
+        "pushed_at": "2025-05-08T18:26:57Z",
+        "git_url": "git://github.com/vbartalis/energy-template.git",
+        "ssh_url": "git@github.com:vbartalis/energy-template.git",
+        "clone_url": "https://github.com/vbartalis/energy-template.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fip4sjd0x1tls431q0sjetbmcbv6ptqszulzgvd.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F9w3l6t7a6eye7uhdfg8wkwnicepdgcrgrdvsyu.webp&w=1600&h=900&f=webp"
+    ]
+}

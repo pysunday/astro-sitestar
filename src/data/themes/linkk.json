@@ -1,0 +1,13 @@
+{
+    "url": "https://astro.build/themes/details/linkk/",
+    "name": "linkk",
+    "title": "Linkk",
+    "desc": "A minimal, customizable link-in-bio template. Perfect for creators and developers looking for a self-hosted Linktree alternative.",
+    "article": "<h2>Features</h2><ul><li>ð Astro content collections for link management</li><li>ð¯ Perfect Lighthouse scores</li><li>ð¦ Light &amp; Dark mode support</li><li>ð¨ Configurable theme colors</li><li>ð¦ Social media icon library</li><li>ðï¸ Newsletter form styles</li></ul><h2>Configuration</h2><p>The theme has several configurable options which can be found inside the <em>src/consts.ts</em> file.</p><h2>Support</h2><p>Support is provided as described in the <em>LICENSE.md</em> file included in your theme.</p><p><br/></p>",
+    "typeUrl": "https://astrothem.es/themes/linkk/",
+    "liveUrl": "https://astrothem.es/preview/linkk/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Frglu7ff4euap9bp2w50vfijv2crbz18jhtzrfs.webp&w=1600&h=900&f=webp"
+    ]
+}

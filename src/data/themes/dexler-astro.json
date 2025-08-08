@@ -1,0 +1,16 @@
+{
+    "url": "https://astro.build/themes/details/dexler-astro/",
+    "name": "dexler-astro",
+    "title": "Dexler Astro",
+    "desc": "  A modern full featured SaaS theme for your business",
+    "article": "<p><strong>Dexler</strong> is an up-to-date SaaS theme crafted using Astro 4 and TailwindCSS. It includes more than 12 pre-designed pages, making it ideal for creating an impressive and polished website for your SaaS business. Additionally, it offers extensive customization options, allowing you to effortlessly adjust colors, fonts, and layout to align with your brand vision.</p><p><br/></p><h2>Key Features</h2><p><br/></p><ol><li>12+ Unique Pages</li><li>Highly customizable (Color, Font, Menu, Social Links, SEO Meta Tags, etc.)</li><li>Built with Astro v5 and Tailwind CSS v4</li><li>Netlify setting pre-configured</li><li>Contact form support</li><li>Taxonomy support</li><li>Support Disqus comments</li><li>Write and update content in Markdown / MDX</li><li>MDX components auto import</li><li>Fully responsive on desktops, tablets, and smartphones</li><li>SEO Friendly</li><li>Simple and easy development environment setup</li><li>Free Google fonts</li><li>Font Awesome icons</li><li>Lifetime free updates</li></ol><p><br/></p><h2>Pages</h2><p><br/></p><ol><li>About Us</li><li>Service</li><li>Service details</li><li>Pricing</li><li>Blog</li><li>Blog single</li><li>Careers</li><li>Careers details</li><li>How It Works</li><li>Our team</li><li>Contact</li><li>Elements</li><li>Terms &amp; conditions</li><li>Custom 404</li></ol><p><br/></p>",
+    "typeUrl": "https://themefisher.com/products/dexler-astro/?aff=ab",
+    "liveUrl": "https://dexler-astro.vercel.app/?aff=ab",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ftygd4lpu1neagthw1qwxf769vbkhqs21j91x8u.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fu54w2vqh15wgbczjxeyql0yv40987my8rhj410.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fkp1e89d386gsyorc3fr7pfwpisnni54kvj94at.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F62nlr7zutgvgv53zyo1o6okbmmjnt85wwxylzh.webp&w=1600&h=900&f=webp"
+    ]
+}

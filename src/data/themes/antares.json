@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/antares/",
+    "name": "antares",
+    "title": "Antares",
+    "desc": "A blog template based on Astro",
+    "article": "",
+    "typeUrl": "https://github.com/coderxi1/astro-antares",
+    "liveUrl": "https://antares.coderxi.com",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/coderxi1/astro-antares",
+        "name": "astro-antares",
+        "full_name": "coderxi1/astro-antares",
+        "description": "A blog template based on Astro, clean and simple.",
+        "stargazers_count": 23,
+        "created_at": "2024-12-15T15:42:07Z",
+        "updated_at": "2025-07-21T19:02:59Z",
+        "pushed_at": "2025-03-19T16:02:18Z",
+        "git_url": "git://github.com/coderxi1/astro-antares.git",
+        "ssh_url": "git@github.com:coderxi1/astro-antares.git",
+        "clone_url": "https://github.com/coderxi1/astro-antares.git",
+        "homepage": "https://antares.coderxi.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fm788hz0pp4k96syl9vw7jygek7mfll21idbhpl.webp&w=1600&h=900&f=webp"
+    ]
+}

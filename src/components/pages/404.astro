@@ -1,0 +1,38 @@
+---
+import Layout from '@/layouts/BaseLayout.astro';
+import { Icon } from 'astro-icon/components';
+import * as emoji from 'node-emoji';
+import Footer from "@/components/sitestar/Footer.astro";
+import { getI18n } from "@/i18n/index"
+import { Button } from "@/components/ui/button";
+import { getRelativeLocaleUrl } from 'astro:i18n';
+
+const { currentLocale } = Astro
+const i18n = await getI18n(currentLocale, 'sitestar.page_404')
+---
+
+<Layout>
+	<main class="container mx-auto max-w-6xl p-10">
+		<div class="flex flex-col gap-8 w-full h-full mt-10">
+			<div class="md:text-6xl text-5xl text-center">
+				{emoji.emojify(':grimacing:')} {i18n('oops')}
+			</div>
+			<div class="text-center md:text-2xl text-xl">
+				{i18n('tip')} {
+					emoji.emojify(':cloud:')
+				}
+			</div>
+			<div class="flex mx-auto w-full justify-center aspect-video object-cover max-w-[800px] my-4 md:my-8 xl:my-16">
+        <Icon name="404" width="full" height="auto" />
+			</div>
+			<div class="flex justify-center">
+        <Button variant="link" className="text-xl font-blod text-left w-max">
+          <a href={getRelativeLocaleUrl(currentLocale, "/")} >{i18n('home')}</a>
+        </Button>
+			</div>
+		</div>
+	</main>
+  <Footer/>
+</Layout>
+
+

@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/astro-3d-portfolio/",
+    "name": "astro-3d-portfolio",
+    "title": "Astro 3D portfolio",
+    "desc": "An Astro-based portfolio template for web developers who want to showcase their skills with a 3D design twist. This template focuses on creating visually stunning 3D experiences while maintaining a performant and responsive web interface.",
+    "article": "<h3>About the Astro 3D Portfolio Template</h3><p>The <strong>Astro 3D Portfolio Template</strong> is designed for web developers who want to showcase their skills in an interactive and visually striking way. Built with <strong>Astro</strong>, <strong>React</strong>, and <strong>Three.js</strong>, this template integrates modern web technologies with 3D graphics, creating a unique user experience.</p><p>This template allows developers to feature their portfolios in a clean, modern design while also incorporating custom 3D elements, animations, and interactions. Whether you're highlighting your projects, skills, or experiences, the 3D components enhance the way you present yourself as a developer.</p><p><br/></p><h4>Key Features:</h4><ul><li><strong>3D Graphics with Three.js</strong>: The portfolio integrates Three.js, allowing for the display of 3D models, animations, and interactive elements that respond to user input.</li><li><strong>Built with Astro</strong>: This template leverages Astro's fast and lightweight architecture for building static sites, ensuring great performance without sacrificing visual appeal.</li><li><strong>React Components</strong>: Modular React components make it easy to customize and extend the functionality of the portfolio without touching core parts of the code.</li><li><strong>Responsive Design</strong>: Optimized for both desktop and mobile devices, ensuring a consistent and immersive experience regardless of screen size.</li><li><strong>Customization</strong>: Easily swap out the 3D models, color schemes, and layouts to fit your personal brand and style.</li><li><strong>Performance Optimization</strong>: Optimized for fast load times, even when working with 3D models and high-quality assets, ensuring the site is as performant as it is visually impressive.</li></ul><h4>Who is this for?</h4><p>This template is ideal for web developers, creative coders, or designers who want to create an engaging portfolio with <strong>a strong focus on 3D visualizations</strong>. Itâs perfect for those looking to stand out in the tech industry by merging clean, modern design with powerful 3D experiences.</p><p><br/></p><h4>How to Use</h4><p>Simply clone the repository, install the dependencies, and customize the content to make it your own. Itâs as simple as modifying the content in the React components or adding your own 3D models into the scene.</p><p>Whether you're a front-end developer or someone passionate about 3D web development, this template will provide a stunning platform to present your work.</p>",
+    "typeUrl": "https://github.com/JorgeGdev/Astro-3D-Template.git",
+    "liveUrl": "https://astro-3-d-template.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/JorgeGdev/Astro-3D-Template",
+        "name": "Astro-3D-Template",
+        "full_name": "JorgeGdev/Astro-3D-Template",
+        "description": "Astro 3D Template",
+        "stargazers_count": 5,
+        "created_at": "2024-09-29T02:23:34Z",
+        "updated_at": "2025-06-05T17:41:18Z",
+        "pushed_at": "2024-09-29T22:15:15Z",
+        "git_url": "git://github.com/JorgeGdev/Astro-3D-Template.git",
+        "ssh_url": "git@github.com:JorgeGdev/Astro-3D-Template.git",
+        "clone_url": "https://github.com/JorgeGdev/Astro-3D-Template.git",
+        "homepage": "https://astro-3-d-template.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Flt9bc8qyp5cytjsagwto2wtvvdcre3ube4bcbr.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fumvvdasb6dwbny3t5ogefjjpqxzvhchdl0rq0n.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F1d3bof5sz6btj7vz9lwd11o0jh627j8yqznth5.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ffrutjstak97la2xts3i8rm3ozj1d1jvpgdcpuw.webp&w=1600&h=900&f=webp"
+    ]
+}

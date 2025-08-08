@@ -1,0 +1,29 @@
+{
+    "url": "https://astro.build/themes/details/apple-inspired-portfolio/",
+    "name": "apple-inspired-portfolio",
+    "title": "Apple Inspired Portfolio",
+    "desc": "This is a template with a highly minimalist style, greatly inspired by Apple's design concept. It is built with Astro, TailwindCSS, GSAP, and Three.js.",
+    "article": "<p>ð Apple-style design aesthetic</p><p>â¡ï¸ Built with Astro for optimal performance</p><p>ð¨ Tailwind CSS for styling</p><p>ð GSAP animations</p><p>ð± Fully responsive design</p><p>ð¬ Three.js integration for 3D elements</p><p>âï¸ React components integration</p><p><br/></p>",
+    "typeUrl": "https://github.com/larry-xue/apple-style-portfolio",
+    "liveUrl": "https://apple-style-portfolio.larryxue.dev/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/larry-xue/apple-style-portfolio",
+        "name": "apple-style-portfolio",
+        "full_name": "larry-xue/apple-style-portfolio",
+        "description": "This is a template with a highly minimalist style, greatly inspired by Apple's design concept. It is built with Astro, TailwindCSS, GSAP, and Three.js.",
+        "stargazers_count": 18,
+        "created_at": "2025-02-15T07:55:58Z",
+        "updated_at": "2025-07-01T19:22:05Z",
+        "pushed_at": "2025-03-25T13:35:07Z",
+        "git_url": "git://github.com/larry-xue/apple-style-portfolio.git",
+        "ssh_url": "git@github.com:larry-xue/apple-style-portfolio.git",
+        "clone_url": "https://github.com/larry-xue/apple-style-portfolio.git",
+        "homepage": "https://apple-style-portfolio.larryxue.dev"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F6d49imwyd2dgi9dl1rxkbl1qeloj10fp0f7gij.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F06xrwf6izs0og1u3guxksuhcof4a7m31j42gfb.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fnfmdk62yal0v1gyn6ll6s3d7oezwpzx41ita1u.webp&w=1600&h=900&f=webp"
+    ]
+}

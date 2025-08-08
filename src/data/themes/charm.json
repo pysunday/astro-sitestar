@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/charm/",
+    "name": "charm",
+    "title": "Charm",
+    "desc": "A beautiful, simple and easy-to-use blog theme",
+    "article": "<h2>A beautiful, simple and easy-to-use blog theme</h2><p><a href=\"https://github.com/Yuhanawa/astro-charm\" rel=\"nofollow ugc\">Github</a> | <a href=\"https://astro-charm.vercel.app/\" rel=\"nofollow ugc\">Live Demo</a> | <a href=\"https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fastro-charm.vercel.app%2F\" rel=\"nofollow ugc\">PageSpeed</a></p><h3>Features</h3><ul><li>Built with Astro v5</li><li>Desktop and Mobile support</li><li>High PageSpeed score</li><li>Category and Tag page</li><li>Dark mode</li><li>Code Block</li><li>Search</li><li>Comments support (giscus)</li><li>Google Analytics support</li><li>Sitemap</li><li> RSS</li><li>Custom</li></ul><p><br/></p><p>Learn more: <a href=\"https://github.com/Yuhanawa/astro-charm\" rel=\"nofollow ugc\">https://github.com/Yuhanawa/astro-charm</a></p>",
+    "typeUrl": "https://github.com/Yuhanawa/astro-charm",
+    "liveUrl": "https://astro-charm.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Yuhanawa/astro-charm",
+        "name": "astro-charm",
+        "full_name": "Yuhanawa/astro-charm",
+        "description": "Beautiful and easy-to-use blog theme",
+        "stargazers_count": 37,
+        "created_at": "2024-08-18T09:37:54Z",
+        "updated_at": "2025-07-14T23:16:51Z",
+        "pushed_at": "2025-04-10T07:08:06Z",
+        "git_url": "git://github.com/Yuhanawa/astro-charm.git",
+        "ssh_url": "git@github.com:Yuhanawa/astro-charm.git",
+        "clone_url": "https://github.com/Yuhanawa/astro-charm.git",
+        "homepage": "https://astro-charm.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Frzou4ytfqrbb8gv08ym9bts39icdqb6vn8b5l9.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fedjuek1hznw0ll09r0fzirycwlxivnzws2pagf.webp&w=1600&h=900&f=webp"
+    ]
+}

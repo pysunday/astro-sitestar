@@ -1,0 +1,17 @@
+{
+    "url": "https://astro.build/themes/details/clean-starter-boilerplate-for-astro-react-tailwind-typescript/",
+    "name": "clean-starter-boilerplate-for-astro-react-tailwind-typescript",
+    "title": "Clean starter boilerplate for ASTRO + REACT + TAILWIND + TYPESCRIPT",
+    "desc": "A modern, performance-driven starter template integrating Astro with React, designed for static site generation with dynamic UI components. This template ensures a seamless developer experience while optimizing for speed and SEO.",
+    "article": "<h2>ð CODEXCODE ASTRO STARTER</h2><h2>ð Overview</h2><p><br/></p><p>A modern, performance-driven starter template integrating Astro with React, designed for static site generation with dynamic UI components. This template ensures a seamless developer experience while optimizing for speed and SEO.</p><h2>ð¨ Tech Stack</h2><p><br/></p><ul><li><a href=\"https://astro.build/\">Astro</a> - Static Site Generator</li><li><a href=\"https://reactjs.org/\" rel=\"nofollow ugc\">React</a> - Component-Based UI</li><li><a href=\"https://tailwindcss.com/\" rel=\"nofollow ugc\">Tailwind CSS</a> - Utility-First Styling</li><li><a href=\"https://lucide.dev/\" rel=\"nofollow ugc\">Lucide React</a> - SVG Icons</li><li><a href=\"https://www.typescriptlang.org/\" rel=\"nofollow ugc\">TypeScript</a> - Type Safety &amp; Enhanced DX</li></ul><h3>â¡ï¸ Why like this?</h3><p><br/></p><p>Astro.build is a modern front-end framework that allows you to build faster, optimized websites. It's compatible with React, which is a popular library for building user interfaces.</p><p>Tailwind -A utility-first approach ensures rapid UI development without writing excessive custom CSS.</p><p><br/></p><p><br/></p>",
+    "typeUrl": "https://codexcode.store/themes/clean-starter-boilerplate-astro",
+    "liveUrl": "https://astro-clean-starter.netlify.app",
+    "type": "free",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fzspkqxahpgw38enxxq39ywutej6jfjl08y2xa0.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F02fox537c1314pkwbz48hz89zushz7mh2aryik.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fpb5x5a5peyrxo23xzw42y9f5b897mlryrno67h.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fyujvb5ii5u75l8gjxp2ui4vbx7k7n8zjgu7lyq.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fpjj3fwtl9sj6kmgfveuldn9cwtnpbkhx8ng3yc.webp&w=1600&h=900&f=webp"
+    ]
+}

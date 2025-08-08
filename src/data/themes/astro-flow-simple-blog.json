@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/astro-flow-simple-blog/",
+    "name": "astro-flow-simple-blog",
+    "title": "Astro Flow - Simple Blog Theme",
+    "desc": "Simple blog theme created with Flowbite/Tailwind",
+    "article": "<pre>Simple blog theme for minimalist blog.\r\n\r\nPros:\r\n\r\n- â Flowbite / Tailwind styling - easy to customize\r\n- â 100/100 Lighthouse performance\r\n- â SEO-friendly with canonical URLs and OpenGraph data\r\n- â Sitemap support\r\n- â Simple config file\r\n- â RSS Feed support\r\n- â Markdown &amp; MDX support\r\n- â Google Analytics\r\n- â Dark / light mode\r\n- â Responsive\r\n- â Pagination\r\n- â Social media\r\n- â Github Pages configured\r\n- â Support subfolder deploy\r\n- â Just fast\r\n\r\nCons:\r\n\r\n- â No image support for posts\r\n- â No search implemented\r\n\r\n Before use read \"Important configuration\" in README\r\n</pre><p><br/></p>",
+    "typeUrl": "https://github.com/DawidRyczko/astro-flow-blog-theme",
+    "liveUrl": "https://dawidryczko.github.io/astro-flow-blog-theme/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/DawidRyczko/astro-flow-blog-theme",
+        "name": "astro-flow-blog-theme",
+        "full_name": "DawidRyczko/astro-flow-blog-theme",
+        "description": null,
+        "stargazers_count": 3,
+        "created_at": "2025-05-04T09:10:12Z",
+        "updated_at": "2025-07-20T02:51:07Z",
+        "pushed_at": "2025-05-07T16:34:13Z",
+        "git_url": "git://github.com/DawidRyczko/astro-flow-blog-theme.git",
+        "ssh_url": "git@github.com:DawidRyczko/astro-flow-blog-theme.git",
+        "clone_url": "https://github.com/DawidRyczko/astro-flow-blog-theme.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fgi1oby6m5xp8s75p7fyo2khtr62ywk6j2huqoi.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fsf25gj7z9ce3ys5lo91ce0vu385681p2gwkxab.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ftxnpxjjrsqwced7xuyugymbcsdkcjv96mwcg49.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fd1ed58g0qed9wsqpozqhz5rn11g0clz9s2owv6.webp&w=1600&h=900&f=webp"
+    ]
+}

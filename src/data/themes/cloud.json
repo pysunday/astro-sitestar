@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/cloud/",
+    "name": "cloud",
+    "title": "Cloud",
+    "desc": "A simple and soft-feeling blog theme.",
+    "article": "",
+    "typeUrl": "https://github.com/DuranceX/Astro-Cloud",
+    "liveUrl": "https://astro-demo.starnight.top/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/DuranceX/Astro-Cloud",
+        "name": "Astro-Cloud",
+        "full_name": "DuranceX/Astro-Cloud",
+        "description": "Astro博客主题",
+        "stargazers_count": 1,
+        "created_at": "2024-08-06T12:31:02Z",
+        "updated_at": "2025-07-21T12:26:23Z",
+        "pushed_at": "2025-07-08T08:20:54Z",
+        "git_url": "git://github.com/DuranceX/Astro-Cloud.git",
+        "ssh_url": "git@github.com:DuranceX/Astro-Cloud.git",
+        "clone_url": "https://github.com/DuranceX/Astro-Cloud.git",
+        "homepage": "http://astro-demo.starnight.top/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F71fqthwyj6yl236bdctam11u5e9a0f7zqbijij.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fhmenkfeadio9ancclhnww2i4capn6qmt9lrbch.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fejzu41sp10mgi8skzoml7loth2jd1oon91s934.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fdx4j70svtn3u255yyba03pk6qass0w4n2tq91j.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/astro-flexoki/",
+    "name": "astro-flexoki",
+    "title": "Astro-Flexoki",
+    "desc": "A minimalist, fast, and elegant blog theme built with Astro, Tailwind, and the warm, beautiful Flexoki colour palette.",
+    "article": "<p>â¨ Ideal for <strong>developers, writers, and creators</strong> who value simplicity, performance, and timeless design.</p><h2>ð Features</h2><ul><li>â¡ <strong>Blazing fast</strong> with Astroâs static site generation</li><li>ð¨ <strong>Custom theming</strong> using Flexokiâs harmonious colour tokens</li><li>ð <strong>Light/Dark mode</strong> toggle with <em><u>data-theme</u></em> element</li><li>ð§  <strong>SEO optimised</strong> with dynamic <em><u>meta</u></em> tags and OG support</li><li>âï¸ <strong>Markdown-powered</strong> posts and pages</li><li>ð± Fully <strong>responsive</strong> and mobile-first</li><li>ð Configurable <strong>navigation, social, and footer links</strong></li><li>ð¦ No heavy dependencies - just Astro and Tailwind CSS</li></ul><h2>ð ï¸ Tech Stack:</h2><ul><li>â¡ <a href=\"https://astro.build/\">Astro</a> â Base framework</li><li>ð <a href=\"https://tailwindcss.com/\" rel=\"nofollow ugc\">Tailwind CSS</a> â utility-first CSS</li></ul><h2>ð Credits</h2><ul><li><a href=\"https://stephango.com/flexoki\" rel=\"nofollow ugc\">Steph Ango</a> â the colour palette</li><li><a href=\"https://github.com/cworld1/astro-theme-pure\" rel=\"nofollow ugc\">Astro Pure</a> â References</li></ul>",
+    "typeUrl": "https://github.com/ak0r/astro-flexoki/",
+    "liveUrl": "https://astro-flexoki.pages.dev/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/ak0r/astro-flexoki",
+        "name": "astro-flexoki",
+        "full_name": "ak0r/astro-flexoki",
+        "description": "A personal blog template build with Astrojs using Flexoki colour theme",
+        "stargazers_count": 1,
+        "created_at": "2025-05-15T16:02:59Z",
+        "updated_at": "2025-06-19T12:29:27Z",
+        "pushed_at": "2025-06-19T12:30:38Z",
+        "git_url": "git://github.com/ak0r/astro-flexoki.git",
+        "ssh_url": "git@github.com:ak0r/astro-flexoki.git",
+        "clone_url": "https://github.com/ak0r/astro-flexoki.git",
+        "homepage": "https://astro-flexoki.pages.dev/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fsjzq78cn2vbzgtuebkoi3f5gdhn165iz2prukr.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fhr9grgz5uu4wwbnr7ewza4mto55wpokz92yx80.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fncv1ypqhe3zaezf97xy6d72pnu46q2rckppmz1.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F9c78agx5dw3cni0iw4dy1qitgal17vbq9ohp81.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fgeq21bjg4y6wicco08lpp1o8kaapfot5ehd0d8.webp&w=1600&h=900&f=webp"
+    ]
+}

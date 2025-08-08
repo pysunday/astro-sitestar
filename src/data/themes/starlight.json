@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/starlight/",
+    "name": "starlight",
+    "title": "Starlight",
+    "desc": "Everything you need to build a stellar documentation website. Fast, accessible, and easy-to-use.",
+    "article": "\n<h2>Documentation that delights</h2>\n<p>\n  Starlight is a full-featured, eco-friendly, accessible-by-default documentation theme built on Astro.\n</p>\n<h3>Features include</h3>\n<ul>\n<li>site navigation</li>\n<li>search</li>\n<li>internationalization</li>\n<li>SEO</li>\n<li>easy-to-read typography</li>\n<li>code highlighting</li>\n<li>dark &amp; light mode</li>\n<li>&amp;mldr; and more!</li>\n</ul>\n<h3>Powered by Astro</h3>\n<p>\n  Leverage the full power and performance of Astro. Extend Starlight with your favorite Astro\n  integrations and libraries.\n</p>\n<h3>Markdown, Markdoc, and MDX</h3>\n<p>\n  Bring your favorite markup language. Starlight gives you built-in frontmatter validation with\n  TypeScript type-safety.\n</p>\n<h3>Bring your own UI components</h3>\n<p>\n  Starlight ships as a framework-agnostic, complete docs solution. Extend with React, Vue, Svelte,\n  Solid, and more.\n</p>\n",
+    "typeUrl": "https://github.com/withastro/starlight/tree/main/examples/basics",
+    "liveUrl": "https://starlight.astro.build",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/withastro/starlight",
+        "name": "starlight",
+        "full_name": "withastro/starlight",
+        "description": "🌟 Build beautiful, accessible, high-performance documentation websites with Astro",
+        "stargazers_count": 6966,
+        "created_at": "2023-03-16T15:55:33Z",
+        "updated_at": "2025-08-08T00:18:48Z",
+        "pushed_at": "2025-08-07T13:44:43Z",
+        "git_url": "git://github.com/withastro/starlight.git",
+        "ssh_url": "git@github.com:withastro/starlight.git",
+        "clone_url": "https://github.com/withastro/starlight.git",
+        "homepage": "https://starlight.astro.build"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fstarlight-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fstarlight-2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fstarlight-3.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fstarlight-4.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/personal-porfolio-website-template/",
+    "name": "personal-porfolio-website-template",
+    "title": "Personal Porfolio Website Template",
+    "desc": "A template for your personal portfolio website created with Astro and CSS. Create your portfolio in minutes",
+    "article": "<h3><br/></h3><p><br/></p><p><br/></p><p><br/></p><p><br/></p><h3><br/></h3><p><br/></p><p><br/></p><ul><li><br/></li><li><br/></li></ul><h3><br/></h3><p><br/></p><p><br/></p><h3><br/></h3><ul><li><br/></li></ul>",
+    "typeUrl": "https://github.com/Osnaider19/Portafolio",
+    "liveUrl": "https://osnaidermartinez.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Osnaider19/Portafolio",
+        "name": "Portafolio",
+        "full_name": "Osnaider19/Portafolio",
+        "description": "Mi Portafolio",
+        "stargazers_count": 16,
+        "created_at": "2023-06-09T00:21:35Z",
+        "updated_at": "2025-07-28T01:22:03Z",
+        "pushed_at": "2025-01-24T12:48:49Z",
+        "git_url": "git://github.com/Osnaider19/Portafolio.git",
+        "ssh_url": "git@github.com:Osnaider19/Portafolio.git",
+        "clone_url": "https://github.com/Osnaider19/Portafolio.git",
+        "homepage": "https://osnaidermartinez.vercel.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fvgcf1jy7a56pxmh5rbu40943rkc0tq6imlyfmk.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F02qgdmrus9jtyvync8iwtxv9tiuf6e9gi56szw.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fhyfso83gfz8ktm8cqk59582phtxcjxqlm4olml.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fuolfjqpg8g9a05clmkr9hbck3cq783x9yq3dbr.webp&w=1600&h=900&f=webp"
+    ]
+}

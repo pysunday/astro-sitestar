@@ -1,0 +1,13 @@
+{
+    "url": "https://astro.build/themes/details/astrorise-scale/",
+    "name": "astrorise-scale",
+    "title": "AstroRise - Scale",
+    "desc": "Modern, fast, and fully static. Focus on your product while this theme handles i18n, search-ready blogs, and smooth customization.",
+    "article": "<p><strong>Astro Rise â Scale</strong> is a modern, feature-focused Astro theme designed to help you launch and grow your website with confidence and speed. Its clean and minimal layout provides a highly customizable foundation, making it easy to tailor your site exactly to your needsâwhether youâre starting from scratch or scaling up.</p><p><br/></p><p>With built-in support for i18n, blog tagging, and full-text client-side search powered by Pagefind, you can deliver a fast, localized, and content-rich experienceâall fully static. That means lightning-fast performance and ultra-low hosting costs on platforms like Cloudflare Pages or GitHub Pages.</p><p><br/></p><p>Perfect for early-stage startups and growing businesses alike, this theme gives you all the essentials to establish your presence onlineâwithout the overhead. Spend less time setting up and more time building your product.</p><p><br/></p><p><br/></p><h3><strong>ð Key Features</strong></h3><p><br/></p><ul><li><strong>Searchable Blog</strong>: Tag filtering and full-text search using Pagefind (client-side).</li><li><strong>Easy i18n</strong>: Internationalization is enabled by default but can be disabled in minutes via README instructions.</li><li><strong>Customizable UI Components</strong>: Inspired by Shadcn, with support for theme customization via tools like tweakcn.</li><li><strong>Full SSG Architecture</strong>: Everything is statically generated, resulting in fast load times and cheap, hassle-free hosting.</li><li><strong>Modular Component Design</strong>: Built for easy extension and maintenance.</li></ul><p><br/></p><p>Whether you need a personal blog, a product landing page, or a scalable content hub, Astro Rise â Scale provides a rock-solid foundation to grow with your vision.</p>",
+    "typeUrl": "https://astro-rise.lemonsqueezy.com/buy/1d08d7b6-a504-4a80-a10e-d4135a83207d",
+    "liveUrl": "https://astro-rise-scale.pages.dev/en/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fjn8q41n70y7ianu90xuyz0xwiek6nuz7kqzanz.webp&w=1600&h=900&f=webp"
+    ]
+}

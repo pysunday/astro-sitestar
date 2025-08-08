@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/dokto-doctor-appointments-landing-page/",
+    "name": "dokto-doctor-appointments-landing-page",
+    "title": "Dokto - Doctor Appointments Landing Page",
+    "desc": "Dokto is a clean and modern HTML landing page starter built with Tailwind CSS and Alpine JS",
+    "article": "\n<p>\n  Welcome to the Dokto starter, featuring Astro/Alpine.js and Tailwind CSS! This product is designed\n  with best practices in mind, ensuring a smooth and efficient user experience for your healthcare\n  or medical business.\n</p>\n<h2>Features</h2>\n<ul>\n<li>\n<strong>High design quality</strong>: Our team of designers has created vector assets with a\n    focus on clean, modern aesthetics, perfect for any healthcare or medical business.\n  </li>\n<li>\n<strong>Best practices</strong>: We've included helpful guidelines and tips to ensure that\n    you're using the theme effectively and efficiently.\n  </li>\n<li>\n<strong>Vector assets</strong>: All graphics are provided in vector format, allowing for easy\n    scaling and customization to fit your specific needs.\n  </li>\n<li>\n<strong>Astro/Alpine.js and Tailwind CSS</strong>: These powerful frameworks enable fast and\n    flexible development, ensuring a high-quality end result.\n  </li>\n</ul>\n<p>\n  With Dokto, you can be confident that your healthcare or medical business will have a professional\n  and polished online presence.\n</p>\n",
+    "typeUrl": "https://github.com/cssninjaStudio/dokto",
+    "liveUrl": "https://dokto.cssninja.io/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/cssninjaStudio/dokto",
+        "name": "dokto",
+        "full_name": "cssninjaStudio/dokto",
+        "description": "Astro + Alpine + Tailwind Starter",
+        "stargazers_count": 110,
+        "created_at": "2022-12-28T12:50:17Z",
+        "updated_at": "2025-08-01T03:05:40Z",
+        "pushed_at": "2024-04-27T12:32:37Z",
+        "git_url": "git://github.com/cssninjaStudio/dokto.git",
+        "ssh_url": "git@github.com:cssninjaStudio/dokto.git",
+        "clone_url": "https://github.com/cssninjaStudio/dokto.git",
+        "homepage": "https://dokto.cssninja.io/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fdokto-doctor-appointments.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fdokto-doctor-appointments-2.webp&w=1600&h=900&f=webp"
+    ]
+}

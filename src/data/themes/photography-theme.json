@@ -1,0 +1,29 @@
+{
+    "url": "https://astro.build/themes/details/photography-theme/",
+    "name": "photography-theme",
+    "title": "Revista - Photography Theme",
+    "desc": "Photography/portfolio theme with a blog post section",
+    "article": "<p><br/></p>",
+    "typeUrl": "https://github.com/erfianugrah/revista-3",
+    "liveUrl": "https://www.erfianugrah.com",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/erfianugrah/revista-3",
+        "name": "revista-3",
+        "full_name": "erfianugrah/revista-3",
+        "description": "Just a photography theme built on Astro",
+        "stargazers_count": 77,
+        "created_at": "2023-11-13T08:22:32Z",
+        "updated_at": "2025-08-07T14:07:23Z",
+        "pushed_at": "2025-08-07T14:07:19Z",
+        "git_url": "git://github.com/erfianugrah/revista-3.git",
+        "ssh_url": "git@github.com:erfianugrah/revista-3.git",
+        "clone_url": "https://github.com/erfianugrah/revista-3.git",
+        "homepage": "https://www.erfianugrah.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F5lc1ky3edj9zltswohkgd94u6bfiy7tcookzlp.png&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ffc22xyczayom4rhkk4ocu2kzt150juferw6wgs.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F62oahleafmvc22emvmpjqaq2x7iqvd0jcdac5w.webp&w=1600&h=900&f=webp"
+    ]
+}

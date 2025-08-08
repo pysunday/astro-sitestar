@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/minimal-style-modern-blog-system-nano-blog/",
+    "name": "minimal-style-modern-blog-system-nano-blog",
+    "title": "Minimal style modern Blog System - Nano Blog",
+    "desc": "A performant, lightweight and SEO-friendly modern blog system made by Astro ecosystem, all of the components are written in Astro",
+    "article": "<h3>Build with</h3><ul><li>Astro</li><li>TailwindCSS</li><li>Typescript with ES6+</li></ul><p><br/></p><h3>Features</h3><ul><li><span>[</span><span>â</span><span>]</span> Minimal styling</li><li><span>[</span><span>â</span><span>]</span> Responsive Layout</li><li><span>[</span><span>â</span><span>]</span> Super Performance</li><li><span>[</span><span>â</span><span>]</span> SEO Friendly</li><li><span>[</span><span>â</span><span>]</span> Markdown &amp; MDX support</li><li><span>[</span><span>â</span><span>]</span> Code Highlighting</li><li><span>[</span><span>â</span><span>]</span> Dark Mode</li><li><span>[</span><span>â</span><span>]</span> Automatic Computing Reading Time</li><li><span>[</span><span>â</span><span>]</span> [Pagefind](https://pagefind.app/) Integration for Content Searching</li><li><span>[</span><span>â</span><span>]</span> Related Posts (updated on v2.1)</li><li><span>[</span><span>â</span><span>]</span> `English` and `Japanese` Localization (i18n)</li><li><span>[</span><span>â</span><span>]</span> Giscus Comment Integration powered  by Github Discussion (developing)</li></ul><p><br/></p><h3>Roadmap</h3><p><br/></p><p><span>-</span> <span>[</span><span>x</span><span>]</span> update to Astro5 (testing)</p><p><br/></p><h3>Thanks</h3><p>This template is built based on <a href=\"https://github.com/danielcgilibert/blog-template\" rel=\"nofollow ugc\">OpenBlog Template</a>, but removed and added several functionalities and a couple of improvements on code readability and type-safety, and also updating more quickly on compatible with the latest dependencies.</p><p>You can self-compare each distinction by view each online demo</p>",
+    "typeUrl": "https://github.com/gaomingzhao666/nano-blog",
+    "liveUrl": "https://nano-blog-nine.vercel.app",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/gaomingzhao666/nano-blog",
+        "name": "nano-blog",
+        "full_name": "gaomingzhao666/nano-blog",
+        "description": " A performant, lightweight and SEO friendly modern blog system made by Astro, TypeScript, Tailwind and Pagefind, without any database and backend",
+        "stargazers_count": 27,
+        "created_at": "2024-10-16T10:30:19Z",
+        "updated_at": "2025-07-31T07:24:03Z",
+        "pushed_at": "2025-08-04T07:08:17Z",
+        "git_url": "git://github.com/gaomingzhao666/nano-blog.git",
+        "ssh_url": "git@github.com:gaomingzhao666/nano-blog.git",
+        "clone_url": "https://github.com/gaomingzhao666/nano-blog.git",
+        "homepage": "https://nano-blog-bice.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fandsy2d2dzfqu1gj50m557kq7x81anjbnwdsc1.webp&w=1600&h=900&f=webp"
+    ]
+}

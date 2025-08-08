@@ -1,0 +1,29 @@
+{
+    "url": "https://astro.build/themes/details/smallworld/",
+    "name": "smallworld",
+    "title": "Smallworld",
+    "desc": "A simple site and blog theme for those who don't like customization",
+    "article": "<p><strong>Smallworld</strong> is an Astro theme based on a few key principles:</p><p><br/></p><ul><li>The website should incorporate accessible and usable elements.</li><li>Complex systems should be avoided in favor of simpler ones.</li><li>You should be able to easily understand what you see.</li></ul><p><br/></p><p>This theme avoids CSS classes where possible, and maximizes the use of semantic HTML over<strong> </strong>divs. </p><h2>Features</h2><ul><li>Uses <a href=\"https://picocss.com/\" rel=\"nofollow ugc\">Pico CSS</a> with unwanted CSS features turned off</li><li>Responsive fonts and layouts</li><li>(Almost) no custom CSS</li><li>No custom CSS classes</li><li>No client-side JavaScript</li><li>No client-side cookies</li><li>Typescript type safety</li><li>Blog collection with only basic Markdown support</li><li>Automatic RSS feed</li><li>And a few more surprises!</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/anaxite/astro-smallworld/",
+    "liveUrl": "https://astro-smallworld.pages.dev/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/anaxite/astro-smallworld",
+        "name": "astro-smallworld",
+        "full_name": "anaxite/astro-smallworld",
+        "description": "A minimal, low-class template for the static site generator Astro ",
+        "stargazers_count": 5,
+        "created_at": "2025-01-19T13:40:43Z",
+        "updated_at": "2025-06-06T07:42:57Z",
+        "pushed_at": "2025-04-01T18:16:36Z",
+        "git_url": "git://github.com/anaxite/astro-smallworld.git",
+        "ssh_url": "git@github.com:anaxite/astro-smallworld.git",
+        "clone_url": "https://github.com/anaxite/astro-smallworld.git",
+        "homepage": "https://astro-smallworld.pages.dev/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fjjols6d9hkcactduohk9ercyogwzih6f7o6dvb.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fyzr2c3d7asou2llxp9fqcjmrslaj7bq64g8q2z.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Folg5e24pxohl1rrr7y3r8epswb5t6fxsh60nwb.webp&w=1600&h=900&f=webp"
+    ]
+}

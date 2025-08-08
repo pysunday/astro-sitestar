@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/odyssey/",
+    "name": "odyssey",
+    "title": "Odyssey",
+    "desc": "A modern, full-featured theme for a business or startup marketing site.",
+    "article": "<h2>Foundation for a Remarkable Website\r\n</h2><p>Odyssey is a modern theme/starter for a business or startup's marketing website. It provides landing page examples, a full-featured blog, contact forms, and more. It is also fully theme-able to match your business' branding and style. It even includes a theme switcher component to show how easily the entire style of the site can be changed with only a few lines of CSS.\r\n</p><p>\n</p><p><br/></p><p>\n</p>",
+    "typeUrl": "https://github.com/littlesticks/odyssey-theme",
+    "liveUrl": "https://odyssey-theme.sapling.supply/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/treefarmstudio/odyssey-theme",
+        "name": "odyssey-theme",
+        "full_name": "treefarmstudio/odyssey-theme",
+        "description": "A modern business marketing website theme/starter built with Astro 🚀",
+        "stargazers_count": 684,
+        "created_at": "2022-05-15T03:10:17Z",
+        "updated_at": "2025-08-06T13:11:01Z",
+        "pushed_at": "2024-10-16T16:41:49Z",
+        "git_url": "git://github.com/treefarmstudio/odyssey-theme.git",
+        "ssh_url": "git@github.com:treefarmstudio/odyssey-theme.git",
+        "clone_url": "https://github.com/treefarmstudio/odyssey-theme.git",
+        "homepage": "https://odyssey-theme.sapling.supply"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fodyssey-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fodyssey.webp&w=1600&h=900&f=webp"
+    ]
+}

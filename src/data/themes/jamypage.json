@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/jamypage/",
+    "name": "jamypage",
+    "title": "JamyPage",
+    "desc": "JamyPage stands out with its stunning design and swift performance, comprising three distinct sections: Home, Products, and About Us.",
+    "article": "\n<p>\n  Jamy Page is a meticulously designed website that embodies modern web development excellence.\n  Crafted using Astro and Tailwind, it adheres to best practices, delivering a visually appealing,\n  high-performance experience.\n</p>\n<p>Comprising three key sections:</p>\n<ol>\n<li>\n    &lt;span style=\"color: var(--tw-prose-bold);\"&gt;Home&lt;/span&gt;: A welcoming, user-friendly\n    interface sets the stage for an engaging visit.\n  </li>\n<li>\n    &lt;span style=\"color: var(--tw-prose-bold);\"&gt;Products&lt;/span&gt;: Showcasing a diverse\n    range of products with responsive, mobile-friendly design.\n  </li>\n<li>\n    &lt;span style=\"color: var(--tw-prose-bold);\"&gt;About Us&lt;/span&gt;: Providing insights into\n    the creators and their mission.\n  </li>\n</ol>\n<p>\n  In summary, Jamy Page excels in design, performance, and user experience, thanks to its use of\n  Astro and Tailwind along with industry best practices.\n</p>\n",
+    "typeUrl": "https://github.com/MINOTAURO18/JamyPage",
+    "liveUrl": "https://jamy-page.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/MINOTAURO18/JamyPage",
+        "name": "JamyPage",
+        "full_name": "MINOTAURO18/JamyPage",
+        "description": null,
+        "stargazers_count": 18,
+        "created_at": "2023-09-20T19:31:13Z",
+        "updated_at": "2025-03-21T20:56:39Z",
+        "pushed_at": "2023-09-26T15:36:19Z",
+        "git_url": "git://github.com/MINOTAURO18/JamyPage.git",
+        "ssh_url": "git@github.com:MINOTAURO18/JamyPage.git",
+        "clone_url": "https://github.com/MINOTAURO18/JamyPage.git",
+        "homepage": "https://jamy-page.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fjamypage-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fjamypage-2.webp&w=1600&h=900&f=webp"
+    ]
+}

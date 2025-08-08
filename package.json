@@ -1,0 +1,60 @@
+{
+  "name": "sitestar",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "shadcn": "npx shadcn@latest add",
+    "heroui": "npx heroui-cli@latest add",
+    "auto-deploy-website": "npm run build && python scripts/auto-deploy-website.py"
+  },
+  "keywords": [
+    "astro",
+    "theme",
+  ],
+  "author": {
+    "name": "草木一秋",
+    "email": "it17621000@163.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@astrojs/react": "^4.3.0",
+    "@astrojs/sitemap": "^3.4.1",
+    "@heroui/pagination": "^2.2.20",
+    "@heroui/system": "^2.4.18",
+    "@heroui/theme": "^2.4.17",
+    "@radix-ui/react-dropdown-menu": "^2.1.15",
+    "@radix-ui/react-hover-card": "^1.1.14",
+    "@radix-ui/react-slot": "^1.2.3",
+    "@tailwindcss/typography": "^0.5.16",
+    "@tailwindcss/vite": "^4.1.3",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "astro": "^5.9.4",
+    "astro-icon": "^1.1.5",
+    "astro-seo": "^0.8.4",
+    "astro-vtbot": "^2.1.6",
+    "astro-webmanifest": "^1.0.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "dayjs": "^1.11.13",
+    "i18next": "^25.3.2",
+    "keen-slider": "^6.8.6",
+    "lucide-react": "^0.536.0",
+    "node-emoji": "^2.2.0",
+    "qrcode": "^1.5.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-use": "^17.6.0",
+    "tailwind-merge": "^3.3.1",
+    "tailwindcss": "^4.1.3",
+    "tw-animate-css": "^1.3.6"
+  },
+  "devDependencies": {
+    "rollup-plugin-visualizer": "^6.0.3",
+    "text-to-svg": "^3.1.5",
+    "vite-plugin-svgr": "^4.3.0"
+  }
+}

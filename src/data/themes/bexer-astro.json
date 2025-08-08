@@ -1,0 +1,17 @@
+{
+    "url": "https://astro.build/themes/details/bexer-astro/",
+    "name": "bexer-astro",
+    "title": "Bexer Astro",
+    "desc": "Bexer Astro - A sleek, responsive theme with diverse pages, ideal for SaaS, startups, and agencies seeking to enhance their digital footprint.",
+    "article": "<p><br/></p><h2><strong>Key feature :</strong></h2><ul><li>Google PageSpeed Score 98/100 (Desktop)</li><li>Highly customizable (Color, Font, Menu, Social Links, SEO Meta Tags, etc.)</li><li>20+ Unique Pages</li><li>Built with Astro v5 and Tailwind CSS v4</li><li>Netlify &amp; Vercel Configured</li><li>Google Map integrated</li><li>Multilingual Feature</li><li>Search Feature</li><li>Taxonomy support</li><li>Contact form support</li><li>Disqus Comments available</li><li>Support OG image</li><li>Fully responsive on desktops, tablets, and smartphones</li><li>SEO Friendly</li><li>Clean folder structure</li><li>Simple and easy development environment setup</li><li>Free Update and Lifetime Premium Support</li><li>Detail Documentation.</li></ul><h2><strong>Special Features :</strong></h2><ol><li>Multilingual Feature</li><li>Search Feature</li><li>Embedded Google Map</li></ol><p><br/></p><p><br/></p><h2><strong>Pages :</strong></h2><ol><li>Homepage</li><li>About</li><li>Services List</li><li>Services Single</li><li>Blog List</li><li>Blog Single</li><li>Authors List</li><li>Authors Single</li><li>Category List</li><li>Category Single</li><li>Tags List</li><li>Tags Single</li><li>Team List</li><li>Team Single</li><li>Contact Us</li><li>Projects List</li><li>Projects Single</li><li>Terms &amp; Conditions</li><li>Privacy Policy</li><li>Elements</li><li>404 Page</li></ol><h2><br/></h2><p><br/></p>",
+    "typeUrl": "https://themefisher.com/products/bexer-astro?aff=ab",
+    "liveUrl": "https://bexer-astro.vercel.app/?aff=ab",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fewt48a3xme21g4lwjk3yv1xgbv5nx57q25o5je.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ffn5lyd5mh0483x4diyxcdp9c29rtc9wtur89g3.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F750i38z1p5mv2dn9k9xa101dqfkivt1a1jpcos.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ffzbgb2bb2rcyhddgu95r0xulrrod0dt9fpsugf.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fsth3pap2up97fvxn8kgjvitwqg77xs3yvjmyu1.webp&w=1600&h=900&f=webp"
+    ]
+}

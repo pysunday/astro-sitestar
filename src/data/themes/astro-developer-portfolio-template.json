@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/astro-developer-portfolio-template/",
+    "name": "astro-developer-portfolio-template",
+    "title": "Astro Developer Portfolio Template",
+    "desc": "A minimal, easy-to-customize developer portfolio template built with Astro and TailwindCSS. No JavaScript in final build. 100/100 Google PageSpeed Score â for both mobile and desktop. SEO & Social Media Ready, includes OpenGraph, Twitter, and DublinCore metadata.\r\n",
+    "article": "",
+    "typeUrl": "https://github.com/devidevio/astro-developer-portfolio-template",
+    "liveUrl": "https://devidev.io/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/devidevio/astro-developer-portfolio-template",
+        "name": "astro-developer-portfolio-template",
+        "full_name": "devidevio/astro-developer-portfolio-template",
+        "description": "Astro Developer Portfolio Template",
+        "stargazers_count": 51,
+        "created_at": "2025-03-07T19:43:05Z",
+        "updated_at": "2025-08-04T14:35:02Z",
+        "pushed_at": "2025-03-07T19:59:19Z",
+        "git_url": "git://github.com/devidevio/astro-developer-portfolio-template.git",
+        "ssh_url": "git@github.com:devidevio/astro-developer-portfolio-template.git",
+        "clone_url": "https://github.com/devidevio/astro-developer-portfolio-template.git",
+        "homepage": "https://devidev.io/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3t2m9e8q4pcqpi5leh3glzu2fr29wbff1ah7bo.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F9fl9ipkavvbx9vlqf9dhklyfe8e1m1auszqjgq.webp&w=1600&h=900&f=webp"
+    ]
+}

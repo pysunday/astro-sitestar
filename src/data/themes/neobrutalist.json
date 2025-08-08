@@ -1,0 +1,16 @@
+{
+    "url": "https://astro.build/themes/details/neobrutalist/",
+    "name": "neobrutalist",
+    "title": "Neobrutalist",
+    "desc": "A fresh and playful Neobrutalist template with a bold modern design. Includes a fully styled blog, a configurable cookie consent component, and seamless light/dark mode support. Built with Tailwind CSS for easy customization and fast performance.",
+    "article": "<h3>Solid and Well-Constructed Design</h3><p>Experience a flawless navigation system that offers an intuitive and enjoyable browsing experience. Our meticulously crafted design ensures both aesthetics and functionality are seamlessly integrated.</p><h3>Accessibility</h3><p>Ensure your site is accessible to everyone. Our theme is designed with accessibility in mind, providing an inclusive experience for users with diverse needs and abilities.</p><p><br/></p><h3>Functional and Configurable Cookie Dialog</h3><p>Comply with privacy regulations effortlessly. Our theme includes a functional and configurable cookie dialog, ensuring your site meets legal requirements while maintaining a seamless user experience.</p><h3>Perfect Page Speed</h3><p>Achieve a stellar score of 100 in page speed. Our theme is optimized for lightning-fast performance, ensuring your site loads instantly for every visitor.</p><h3>Blog Support in Markdown</h3><p>Effortlessly create and manage your blog with Markdown support. Enjoy features like an author page, tags, and pagination, making content organization and discovery a breeze.</p><h3>Custom Open Graph Image Generation</h3><p>Stand out on social media with custom Open Graph images for posts and general pages. Our theme automatically generates these images, enhancing your contentâs visibility and appeal across platforms.</p><h3>SEO Optimization</h3><p>Maximize your siteâs visibility with built-in SEO optimization. Our theme is designed to help your content rank higher in search engine results, driving more organic traffic to your site.</p><h3>Versatile Styles with Light/Dark Mode Support</h3><p>Choose from a variety of styles and enjoy full support for both light and dark themes. Customize your siteâs appearance to match your brandâs identity and your audienceâs preferences.</p><h3>High Readability</h3><p>Prioritize your readers with high legibility. Our theme uses carefully selected fonts and layouts to ensure your content is easy to read, keeping visitors engaged longer.</p>",
+    "typeUrl": "https://buy.polar.sh/polar_cl_IAkBVvaPjPT5EA0QAyiyXTkjZmZu9ftvrp7LN3BHgjM",
+    "liveUrl": "https://neobrutalist.noicethemes.com/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F62hq7f22k791t1ns3jclt6jkpue1e1tdmztqfe.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F63tdmewk0s7kykgwto7e0omnlo2456jkr0pfhf.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fuazeyxbwaunynavpun2uw3gmi1rafo3k6ea25p.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fp9aotflzn15rmyj4hy3aqsxiueol5c83ar23xj.webp&w=1600&h=900&f=webp"
+    ]
+}

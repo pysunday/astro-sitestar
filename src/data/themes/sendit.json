@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/sendit/",
+    "name": "sendit",
+    "title": "Sendit",
+    "desc": "Sendit is a polished and versatile marketing website template for Astro, optimized for visual editing on CloudCannon.",
+    "article": "\n<h2>Features</h2>\n<ul>\n<li>Pre-built pages</li>\n<li>20 pre-styled components</li>\n<li>Blog with pagination and category pages</li>\n<li>Configurable navigation and footer</li>\n<li>Multiple hero options</li>\n<li>Configurable theme colors</li>\n<li>Optimized for visual editing in <a href=\"https://cloudcannon.com/\" rel=\"nofollow ugc\">CloudCannon</a></li>\n</ul>\n",
+    "typeUrl": "https://github.com/CloudCannon/sendit-astro-template",
+    "liveUrl": "https://top-quail.cloudvent.net/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/CloudCannon/sendit-astro-template",
+        "name": "sendit-astro-template",
+        "full_name": "CloudCannon/sendit-astro-template",
+        "description": "Sendit is a polished, marketing website template for Astro.",
+        "stargazers_count": 117,
+        "created_at": "2022-11-29T03:58:06Z",
+        "updated_at": "2025-08-07T04:42:39Z",
+        "pushed_at": "2025-08-07T04:42:33Z",
+        "git_url": "git://github.com/CloudCannon/sendit-astro-template.git",
+        "ssh_url": "git@github.com:CloudCannon/sendit-astro-template.git",
+        "clone_url": "https://github.com/CloudCannon/sendit-astro-template.git",
+        "homepage": "https://top-quail.cloudvent.net/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fsendit-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fsendit-2.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/rciviportfolio/",
+    "name": "rciviportfolio",
+    "title": "RÃ©civi/Portfolio",
+    "desc": "A personal portfolio powered by RÃ©civi, a new kind of rÃ©sumÃ© for computers and humans, in that order.",
+    "article": "",
+    "typeUrl": "https://github.com/recivi/portfolio",
+    "liveUrl": "https://dhruvkb.dev",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/recivi/portfolio",
+        "name": "portfolio",
+        "full_name": "recivi/portfolio",
+        "description": "a personal portfolio and résumé, powered by Récivi",
+        "stargazers_count": 4,
+        "created_at": "2025-01-12T11:25:31Z",
+        "updated_at": "2025-03-14T00:10:50Z",
+        "pushed_at": "2025-01-19T07:14:29Z",
+        "git_url": "git://github.com/recivi/portfolio.git",
+        "ssh_url": "git@github.com:recivi/portfolio.git",
+        "clone_url": "https://github.com/recivi/portfolio.git",
+        "homepage": "https://recivi.pages.dev"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fznmy47kpjm7jeblv0kxp5beyczimfj86bsq683.webp&w=1600&h=900&f=webp"
+    ]
+}

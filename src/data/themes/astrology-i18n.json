@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astrology-i18n/",
+    "name": "astrology-i18n",
+    "title": "Astrology-i18n",
+    "desc": "An Astro theme designed for impactful image-text blogging, enhanced with multilingual support. Perfect for global content creators aiming to reach a diverse audience.",
+    "article": "<p>â Powered by astro</p><p>â Multilingual Support</p><p>â Development with first CSS and Preline UI</p><p>â Fully Responsive Design</p><p>â Perfect 100/100 Lighthouse Performance Score</p><p>â SEO Optimized</p><p>â Inbuilt Site Search</p><p>â Sitemap and RSS Feed Support</p><p>â &amp; MDX Ready</p><p>â Tag Statistics and Last Modified Time Display</p><p>â Optimized Image Handling</p><p>â Automatic Dark Mode Switching</p><p>â Pagination for Easy Navigation</p><p>â Code formatted with Prettier in one click</p>",
+    "typeUrl": "https://github.com/idimilab/Astrology-i18n",
+    "liveUrl": "https://idimi.com/en/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/iNoteLabs/Astrology-i18n",
+        "name": "Astrology-i18n",
+        "full_name": "iNoteLabs/Astrology-i18n",
+        "description": "An Astro theme designed for impactful image-text blogging, now enhanced with multilingual support. Perfect for global content creators aiming to reach a diverse audience.",
+        "stargazers_count": 10,
+        "created_at": "2025-04-04T05:57:29Z",
+        "updated_at": "2025-08-03T20:25:33Z",
+        "pushed_at": "2025-08-03T20:25:31Z",
+        "git_url": "git://github.com/iNoteLabs/Astrology-i18n.git",
+        "ssh_url": "git@github.com:iNoteLabs/Astrology-i18n.git",
+        "clone_url": "https://github.com/iNoteLabs/Astrology-i18n.git",
+        "homepage": "https://idimi.com/en/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Frczkn550tl3r5t51ycq5x9sikj9ye1kuups3vd.webp&w=1600&h=900&f=webp"
+    ]
+}

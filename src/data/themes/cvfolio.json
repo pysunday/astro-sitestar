@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/cvfolio/",
+    "name": "cvfolio",
+    "title": "CVfolio",
+    "desc": "A minimalistic template crafted to showcase your talent and work experience. Itâs powered by TailwindCSS v4, MDX, and Astro.",
+    "article": "<p>A minimal Astro template for developers, designers, bloggers and more. Focused on show your work experience in a timeline, with support for write articles for blogging. Inspired <strong>by Read.CV</strong>.</p><p><br/></p><p>What's include:</p><p>â Support for blog content.</p><p>â Theme light/dark.</p><p>â 100% customizable.</p><p>â SEO friendly.</p><p>â Best colors for readability.</p><p><br/></p><p>Ideal for:</p><p>âï¸ Professionals.</p><p>âï¸ Developers.</p><p>âï¸ Designers.</p><p>âï¸ Bloggers.</p><p><br/></p><p>Easy to customize and powered by the best practices, ideal for performant sites.</p>",
+    "typeUrl": "https://github.com/coderdiaz/cvfolio/",
+    "liveUrl": "https://cv.coderdiaz.com",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/coderdiaz/cvfolio",
+        "name": "cvfolio",
+        "full_name": "coderdiaz/cvfolio",
+        "description": "Minimalist personal site inspired by ReadCV, clean and aesthetic. Built with Astro and TailwindCSS perfect for developers and designers.",
+        "stargazers_count": 37,
+        "created_at": "2025-04-17T20:43:49Z",
+        "updated_at": "2025-08-06T20:53:59Z",
+        "pushed_at": "2025-07-06T02:41:31Z",
+        "git_url": "git://github.com/coderdiaz/cvfolio.git",
+        "ssh_url": "git@github.com:coderdiaz/cvfolio.git",
+        "clone_url": "https://github.com/coderdiaz/cvfolio.git",
+        "homepage": "https://cv.coderdiaz.com/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fyanb1qtf2oek85tyut2onwqn7zorhtwecspm62.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F7u8tmlgs6jqn1tg4ug36hsk5xswxxxe2j6tbvg.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Frohagumkeaf29uf2shgbjanjf8s73f1xa3k149.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fbb88l9d07gw51u9bno6h9me21daqznd5i9htcg.webp&w=1600&h=900&f=webp"
+    ]
+}

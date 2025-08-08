@@ -1,0 +1,17 @@
+{
+    "url": "https://astro.build/themes/details/agency-aestro-template-page/",
+    "name": "agency-aestro-template-page",
+    "title": "Agency Aestro Template Page",
+    "desc": "This Aestro template offers a sleek layout and polished animations that enhance the user's browsing experience.",
+    "article": "<p>This Aestro template offers a sleek layout and polished animations that enhance the user's browsing experience. It also comes with a variety of pre-designed components for easy use.</p><p><br/></p><h2>Short description of features:</h2><ul><li>RWD</li><li>SEO friendly</li><li>Animations</li><li>Form validation &amp; api connected </li><li>Best possible performance</li><li>Typescript</li><li>React components</li><li>mobile friendly</li></ul><p><br/></p><h2>Easy to customize</h2><p><br/></p><p>All <strong>blocks </strong>was created with <strong>React </strong>and <strong>Typescript </strong>and all <strong>functionality </strong>is setup by <strong>astro.build</strong></p><p>This means that even if you dont like <strong>astro</strong>, you can <strong>copy blocks </strong>from this project and easly use it with other <strong>languages </strong>like <strong>next.js!</strong></p><h2>Pages Ready to use</h2><p>Template have few pages ready to use:</p><ul><li><strong>Homepage</strong></li><li><strong>Our offers</strong></li><li><strong>About</strong></li><li><strong>contact page</strong></li></ul><p><br/></p><p>more informations you can find in <a href=\"https://www.codexcode.store/\" rel=\"nofollow ugc\">our store</a></p><p><br/></p>",
+    "typeUrl": "https://codexcode.store/themes/agency-aestro-template-page/",
+    "liveUrl": "https://agency-aestro-astro.netlify.app",
+    "type": "free",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3nsfq800u4u5163m52v0ptoh1u1bbhylph0aqr.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fz6fkh34jfw5x4wbjfvg4pk1my06djebs5d3d9h.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fb8ewp8v0eqww90mgrssthl4yx5r8lvhzx2k72g.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fd1wm2i7ix0ap71iwq62n04z4wdnmyubahxtt0e.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fqp0oyn537kitdwmq2hw59td9z9p5kktm7s2819.webp&w=1600&h=900&f=webp"
+    ]
+}

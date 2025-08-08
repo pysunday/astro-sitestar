@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/blogster-sleek/",
+    "name": "blogster-sleek",
+    "title": "Blogster Sleek",
+    "desc": "A beautiful, performant and accessible theme built with Tailwind.",
+    "article": "\n<p>\n  A beautiful, performant and accessible theme built with\n  <a href=\"https://tailwindcss.com\" rel=\"noopener noreferrer\" target=\"_blank\">Tailwind</a>.\n</p>\n<ul>\n<li>\n<strong>Sleek.</strong> A beautiful\n    <a href=\"https://astro.build\">Astro</a> theme built\n    with <a href=\"https://tailwindcss.com\" rel=\"noopener noreferrer\" target=\"_blank\">Tailwind</a>.\n  </li>\n<li>\n<strong>Fast.</strong> Fast by default. Blogster templates are engineered to be performant and\n    load before you could blink, even when not cached.\n  </li>\n<li>\n<strong>Dark mode.</strong> Auto dark mode with a manual toggle. Hit that toggle button at the\n    top of the page and see the mode change.\n  </li>\n<li><strong>Mobile first.</strong> Responsive and loads fast in all devices.</li>\n<li><strong>Accessible.</strong> A well thought out semantic and accessible content.</li>\n<li><strong>Perfect lighthouse score.</strong> 100 across the board.</li>\n<li>\n<strong>Content authoring for everyone.</strong> Author content using markdown\n    (&lt;code&gt;.md&lt;/code&gt;) from your code editor or directly in GitHub.\n  </li>\n<li>\n<strong>Extended markdown</strong> with\n    <a href=\"https://markdoc.dev\" rel=\"noopener noreferrer\" target=\"_blank\">Markdoc</a>. Type-safe\n    custom components like YouTube embed, Twitter embed (or anything you want really) in your\n    markdown (&lt;code&gt;.md&lt;/code&gt;) files.\n  </li>\n<li>Built-in <strong>RSS feed</strong> for you blog, excellent<strong> SEO</strong> and more.</li>\n</ul>\n",
+    "typeUrl": "https://github.com/flexdinesh/blogster",
+    "liveUrl": "https://blogster-sleek.netlify.app",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/flexdinesh/blogster",
+        "name": "blogster",
+        "full_name": "flexdinesh/blogster",
+        "description": "A collection of beautiful, accessible and performant Astro blog templates.",
+        "stargazers_count": 649,
+        "created_at": "2022-11-09T11:25:41Z",
+        "updated_at": "2025-08-07T00:55:23Z",
+        "pushed_at": "2023-11-22T03:17:35Z",
+        "git_url": "git://github.com/flexdinesh/blogster.git",
+        "ssh_url": "git@github.com:flexdinesh/blogster.git",
+        "clone_url": "https://github.com/flexdinesh/blogster.git",
+        "homepage": "https://blogster-sleek.netlify.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fblogster-sleek-hero.webp&w=1600&h=900&f=webp"
+    ]
+}

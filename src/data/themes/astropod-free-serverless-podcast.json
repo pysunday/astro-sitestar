@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/astropod-free-serverless-podcast/",
+    "name": "astropod-free-serverless-podcast",
+    "title": "Astropod | Free Serverless Podcast",
+    "desc": "Astropod is a free and open-source self-hosting serverless podcast solution.",
+    "article": "",
+    "typeUrl": "https://github.com/manuelernestog/astropod",
+    "liveUrl": "https://getastropod.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/manuelernestog/astropod",
+        "name": "astropod",
+        "full_name": "manuelernestog/astropod",
+        "description": "Free and open source self-hosting serverless podcast solution",
+        "stargazers_count": 172,
+        "created_at": "2023-08-09T15:31:53Z",
+        "updated_at": "2025-08-04T10:32:21Z",
+        "pushed_at": "2024-04-06T14:20:55Z",
+        "git_url": "git://github.com/manuelernestog/astropod.git",
+        "ssh_url": "git@github.com:manuelernestog/astropod.git",
+        "clone_url": "https://github.com/manuelernestog/astropod.git",
+        "homepage": "https://getastropod.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastropod-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastropod-2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastropod-3.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastropod-4.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastropod-5.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/cassidys-blog-template/",
+    "name": "cassidys-blog-template",
+    "title": "Cassidy's blog template",
+    "desc": "A minimalist, customizable, and open source blog template built with just Astro and TinaCMS.",
+    "article": "<p>This is a simple blog template that I built for myself and open sourced for you to use!</p><p><br/></p><p>It's built with plain ol' Astro (HTML/CSS/JS under the hood). Write markdown files and put them in the `posts` folder to publish. The README in the repository shows the exact steps you need to get this up and running for yourself. You can optionally use TinaCMS to write and publish your posts, as well!</p>",
+    "typeUrl": "https://github.com/cassidoo/blahg",
+    "liveUrl": "https://blahg.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/cassidoo/blahg",
+        "name": "blahg",
+        "full_name": "cassidoo/blahg",
+        "description": "Cassidy's blog template built with Astro and TinaCMS!",
+        "stargazers_count": 454,
+        "created_at": "2022-08-24T05:27:50Z",
+        "updated_at": "2025-08-07T10:17:34Z",
+        "pushed_at": "2025-01-23T20:12:04Z",
+        "git_url": "git://github.com/cassidoo/blahg.git",
+        "ssh_url": "git@github.com:cassidoo/blahg.git",
+        "clone_url": "https://github.com/cassidoo/blahg.git",
+        "homepage": "https://blahg.netlify.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fnsnhhcipvku143mqn4dqjcffehn4twyt7q24ox.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fqefphzx76wjli6o0gw0guefshzy741i77qn1as.webp&w=1600&h=900&f=webp"
+    ]
+}

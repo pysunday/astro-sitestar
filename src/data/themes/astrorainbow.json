@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/astrorainbow/",
+    "name": "astrorainbow",
+    "title": "AstroRainbow",
+    "desc": "AstroRainbow is a clean and simple Astro theme designed for blogs.",
+    "article": "<ul><li><strong>Simple &amp; Elegant: </strong>Clean design with a modern, minimalist style.</li><li><strong>Light &amp; Dark Modes:</strong> Switch easily between light and dark themes.</li><li><strong>Responsive Design:</strong> Works well on all devices, from phones to desktops.</li><li><strong>Draft Support: </strong>Save and manage drafts before publishing.</li><li><strong>Blog Post Creation:</strong> Write and organize your blog posts effortlessly.</li><li><strong>Astro &amp; Tailwind CSS Only: </strong>Uses just Astro and Tailwind CSSâno extra packages needed.</li></ul>",
+    "typeUrl": "https://github.com/w4n9hu1/astro-rainbow",
+    "liveUrl": "https://astro-rainbow.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/w4n9hu1/astro-rainbow",
+        "name": "astro-rainbow",
+        "full_name": "w4n9hu1/astro-rainbow",
+        "description": "🌈 AstroRainbow is a clean and simple Astro theme designed for blogs.",
+        "stargazers_count": 4,
+        "created_at": "2024-09-03T14:37:55Z",
+        "updated_at": "2025-05-26T06:15:29Z",
+        "pushed_at": "2024-09-28T13:14:51Z",
+        "git_url": "git://github.com/w4n9hu1/astro-rainbow.git",
+        "ssh_url": "git@github.com:w4n9hu1/astro-rainbow.git",
+        "clone_url": "https://github.com/w4n9hu1/astro-rainbow.git",
+        "homepage": "https://astro-rainbow.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F65qx7ig6z1wj4w45vnkiwxbjy8m4ivyjhh0gtw.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fz7bphliq5c9vxtdwcmehecv63hnpsrsxm8j8hn.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fpeiumk8qwg5m9i9jwi818d4q6sfpki5ylglucg.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fjg6qs9ppletb5790qg1je80yie0ybh6j2lkaxk.webp&w=1600&h=900&f=webp"
+    ]
+}

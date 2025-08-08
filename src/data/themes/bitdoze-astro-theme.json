@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/bitdoze-astro-theme/",
+    "name": "bitdoze-astro-theme",
+    "title": "BitDoze Astro Theme",
+    "desc": "A modern, responsive blog theme for Astro with support for tags, categories, and series. This theme is designed to be fast, SEO-friendly, and easy to customize.\r\n\r\n",
+    "article": "<h2>Features</h2><p><br/></p><ul><li>ð Built with Astro - Benefit from Astro's speed and flexibility</li><li>ð± Fully Responsive - Looks great on all devices</li><li>ð¨ Customizable - Easy to adapt to your brand</li><li>ð SEO Optimized - Meta tags, Open Graph, and JSON-LD</li><li>ð Blog Ready - Support for posts, categories, tags, and series</li><li>ð Search Functionality - Client-side search with Fuse.js</li><li>ð Pagination - For blog posts, categories, tags, and authors</li><li>ð° RSS Feed - Automatically generated RSS feed</li><li>ðºï¸ Sitemap - Automatically generated sitemap</li><li>ðï¸ MDX Support - Use components in your markdown</li><li>ð¤ Typography - Beautiful typography with Tailwind CSS</li><li>ð Icons - Easy icon usage with Astro Icon</li></ul><h2>Project Structure</h2><p><br/></p><pre>âââ public/             # Static assets\r\nâââ src/\r\nâ   âââ assets/         # Images and other assets\r\nâ   âââ config/         # Site configuration\r\nâ   âââ content/        # Content collections (blog posts, authors, etc.)\r\nâ   âââ layouts/        # Layout components\r\nâ   âââ pages/          # Page components and routes\r\nâ   âââ styles/         # Global styles\r\nâ   âââ utils/          # Utility functions\r\nâââ astro.config.mjs    # Astro configuration\r\nâââ package.json        # Dependencies and scripts\r\n</pre><p><br/></p><h3>Key Directories and Files</h3><p><br/></p><ul><li>src/config/: Contains configuration files for the site, menus, and social links</li><li>src/content/: Contains all content collections (blog posts, authors, pages)</li><li>src/layouts/: Contains layout components used throughout the site</li><li>src/pages/: Contains all page components and defines the routing structure</li></ul><h2>Components</h2><p><br/></p><p>The theme includes several reusable components:</p><ul><li>Layout.astro: Main layout component with header and footer</li><li>PostLayout.astro: Layout for blog posts with metadata and content</li><li>Header/Footer: Navigation and site information</li><li>Pagination: For navigating through multiple pages of content</li><li>Search: Client-side search functionality</li><li>Author Card: Display author information</li><li>Post Card: Display post previews in lists</li><li>Tag/Category Cloud: Display and filter by tags or categories</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/bitdoze/bitdoze-astro-theme",
+    "liveUrl": "https://bitdoze-astro-theme.pages.dev",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/bitdoze/bitdoze-astro-theme",
+        "name": "bitdoze-astro-theme",
+        "full_name": "bitdoze/bitdoze-astro-theme",
+        "description": "Astro blog theme by bitdoze.com",
+        "stargazers_count": 12,
+        "created_at": "2025-03-11T05:43:23Z",
+        "updated_at": "2025-08-07T08:04:04Z",
+        "pushed_at": "2025-05-22T07:38:33Z",
+        "git_url": "git://github.com/bitdoze/bitdoze-astro-theme.git",
+        "ssh_url": "git@github.com:bitdoze/bitdoze-astro-theme.git",
+        "clone_url": "https://github.com/bitdoze/bitdoze-astro-theme.git",
+        "homepage": "https://bitdoze-astro-theme.pages.dev/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F80ym3dleff2lkpawkbhrt1a3bmj4de6bj7u8ed.webp&w=1600&h=900&f=webp"
+    ]
+}

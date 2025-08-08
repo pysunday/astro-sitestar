@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/macos-terminal-portfolio/",
+    "name": "macos-terminal-portfolio",
+    "title": "MacOS Terminal Portfolio",
+    "desc": "Interactive macOS-inspired portfolio with AI-powered chat, dynamic backgrounds, and SEO optimization",
+    "article": "<p>A modern, responsive portfolio theme that replicates the macOS interface, featuring:</p><ul><li>OpenAI-powered terminal chat (requires your API key)</li><li>Dynamic rotating wallpapers with smooth transitions</li><li>Responsive dock with customizable shortcuts</li><li>Mobile-optimized interface</li><li>Built-in SEO optimization with @astrolib/seo</li><li>Automated sitemap generation</li><li>Customizable system prompts for AI responses</li><li>TypeScript support</li><li>Tailwind CSS styling</li></ul><p>Getting Started:</p><ol><li>Clone the repository</li><li>Add your OpenAI API key to .env</li><li>Customize your information in the terminal prompts</li><li>Add your own background images</li><li>Update SEO metadata and social links</li></ol><p>Integrations:</p><ul><li>@astrojs/react</li><li>@astrojs/vercel</li><li>@astrolib/seo</li><li>@astrojs/sitemap</li><li>Tailwind CSS</li></ul><p>Tools used:</p><ul><li>Astro</li><li>React</li><li>TypeScript</li><li>Tailwind CSS</li><li>OpenAI API</li></ul><p>Categories:</p><ul><li>Portfolio</li><li>Personal</li><li>Interactive</li><li>Full-site</li></ul>",
+    "typeUrl": "https://github.com/JohnnyCulbreth/macos-terminal-portfolio",
+    "liveUrl": "https://macos-terminal-portfolio-v-staff.vercel.app",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/JohnnyCulbreth/macos-terminal-portfolio",
+        "name": "macos-terminal-portfolio",
+        "full_name": "JohnnyCulbreth/macos-terminal-portfolio",
+        "description": "Interactive macOS-inspired portfolio with AI-powered chat, dynamic backgrounds, and SEO optimization",
+        "stargazers_count": 43,
+        "created_at": "2025-02-06T17:54:55Z",
+        "updated_at": "2025-08-01T10:20:07Z",
+        "pushed_at": "2025-02-06T18:18:18Z",
+        "git_url": "git://github.com/JohnnyCulbreth/macos-terminal-portfolio.git",
+        "ssh_url": "git@github.com:JohnnyCulbreth/macos-terminal-portfolio.git",
+        "clone_url": "https://github.com/JohnnyCulbreth/macos-terminal-portfolio.git",
+        "homepage": "https://macos-terminal-portfolio-v-staff.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fvo4yl1vtgoir2b7aw7hjk0xsgrb8vm0q8y15g3.webp&w=1600&h=900&f=webp"
+    ]
+}

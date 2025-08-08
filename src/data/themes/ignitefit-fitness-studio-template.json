@@ -1,0 +1,13 @@
+{
+    "url": "https://astro.build/themes/details/ignitefit-fitness-studio-template/",
+    "name": "ignitefit-fitness-studio-template",
+    "title": "IgniteFit - Fitness Studio Template",
+    "desc": "A modern website template designed to help you build a website for your fitness business. Best fits for gyms, studios, personal trainers, and fitness coaches.",
+    "article": "<h3>Specification</h3><ul><li>Astro v5</li><li>Tailwind v3 (easily upgradable to v4)</li><li>Tailwind-Merge for managing conflicting classes</li><li>CVA - Class Variance Authority for component styles</li><li>Unplugin icons - Use any icon from <a href=\"https://icon-sets.iconify.design/\" rel=\"nofollow ugc\">icon-sets.iconify.design</a></li><li>AOS - On Scroll Animations</li><li>Swiper v11 - For carousels and sliders</li><li>PhotoSwipe integration for image galleries</li></ul><h3>Features</h3><ul><li>25+ Reusable Components - Modular building blocks for custom pages</li><li>Versatile Button Component - Multiple variants, sizes, and icon positions</li><li>Content Collections - Type-safe Markdown content management</li><li>Blog Grid with Pagination - Clean layout for article listings</li><li>Individual Post Pages - Optimized layout for reading experience</li><li>Category System - Organize content with customizable tags</li><li>Table of Contents - Automatically generated for long-form content</li><li>Rich Typography - Beautiful reading experience with Tailwind Typography</li><li>SEO Optimization - Structured data, meta tags, and optimized markup</li></ul><h3>SEO Optimization</h3><ul><li>Structured Data - JSON-LD for Local Business and FAQs</li><li>Meta Tags - Comprehensive meta tags for better search visibility</li><li>Semantic HTML - Proper heading hierarchy and landmark regions</li></ul>",
+    "typeUrl": "https://buy.polar.sh/polar_cl_l9o0tD2q1Nhw1BqA6ud7JEjc7eGRxRu67ewkh2HQkCo",
+    "liveUrl": "https://markethem.com/templates/ignite-fit/preview/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fypdl3qzl9nvlegkhf7vev02qquhxzcw0bo4fzt.webp&w=1600&h=900&f=webp"
+    ]
+}

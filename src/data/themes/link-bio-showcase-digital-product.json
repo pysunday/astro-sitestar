@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/link-bio-showcase-digital-product/",
+    "name": "link-bio-showcase-digital-product",
+    "title": "Link Bio & Showcase Digital Product",
+    "desc": "This project showcases various templates and products, including the \"Template Bio - High Performance\" designed for optimal personal branding. The site is structured to provide a seamless user experience with fast loading times and responsive design.",
+    "article": "<p>This is a <strong>Link Bio Website</strong> project built with <strong>Astro</strong>, designed for high-performance personal branding. It allows users to showcase various templates and products with a fast and responsive user experience.</p><h3><strong>â¨ Features</strong></h3><ul><li>ð <strong>Powered by Astro</strong> â High-performance static site generation.</li><li>ð¨ <strong>Responsive Design</strong> â Optimized for all devices.</li><li>â¡ <strong>Fast Loading</strong> â Speed-optimized for the best user experience.</li><li>ð§ <strong>Easy Customization</strong> â Flexible templates without complex coding.</li><li>ð <strong>SEO-Optimized</strong> â Structured metadata for better search visibility.</li></ul><h3>ð Project Structure</h3><p>The project is organized as follows:</p><p><br/></p><pre>/src/pages/     # Main pages and subpages (index, products, etc.)\r\n/src/layouts/    # Layout components for consistent design\r\n/src/components/   # Reusable UI components\r\n/public/      # Static assets such as favicons and product images\r\n</pre>",
+    "typeUrl": "https://github.com/aji-pratama/ajipratama.com/",
+    "liveUrl": "https://www.ajipratama.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/aji-pratama/ajipratama.com",
+        "name": "ajipratama.com",
+        "full_name": "aji-pratama/ajipratama.com",
+        "description": "Website AjiPratama.com",
+        "stargazers_count": 5,
+        "created_at": "2025-03-17T15:32:59Z",
+        "updated_at": "2025-07-29T17:22:25Z",
+        "pushed_at": "2025-07-29T17:22:21Z",
+        "git_url": "git://github.com/aji-pratama/ajipratama.com.git",
+        "ssh_url": "git@github.com:aji-pratama/ajipratama.com.git",
+        "clone_url": "https://github.com/aji-pratama/ajipratama.com.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ff11603r6pwyx1qxv4zdzg6psu7mbhgcbn5q06b.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fzsqgrqaf7hryai8fyrs1c490xttmvhh6k9tqtb.webp&w=1600&h=900&f=webp"
+    ]
+}

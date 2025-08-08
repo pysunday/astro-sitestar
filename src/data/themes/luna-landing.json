@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/luna-landing/",
+    "name": "luna-landing",
+    "title": "Luna Landing",
+    "desc": "Luna Landing is an innovative and highly customizable landing page that allows you to create and modify your website easily and quickly through a JSON file. Harnessing the power of Astro, a modern and efficient web development tool, Luna Landing provides you with an unparalleled development experience, enabling you to focus on your site's design and content without worrying about the complexity of code.",
+    "article": "<p>Luna Landing is an innovative and highly customizable landing page that allows you to create and modify your website easily and quickly through a JSON file. Harnessing the power of Astro, a modern and efficient web development tool, Luna Landing provides you with an unparalleled development experience, enabling you to focus on your site's design and content without worrying about the complexity of code.</p><ul><li>Extreme Customization: With Luna Landing, you can customize every aspect of your website, from design to content, using a simple JSON file. Easily change colors, fonts, images, and text without the need for manual code editing.</li><li>Efficiency and Speed: Thanks to Astro, Luna Landing delivers fast load times and exceptional performance, ensuring a smooth and uninterrupted user experience.</li><li>Total Adaptability: With support for mobile devices and various screen resolutions, Luna Landing ensures your website looks and functions flawlessly on any device, from smartphones to desktop computers.</li><li>Scalability and Simplified Maintenance: As your project grows, Luna Landing enables you to scale your website efficiently and seamlessly. Content management via a JSON file makes updating and ongoing maintenance of your website easy.</li></ul>",
+    "typeUrl": "https://github.com/JimmyCamus/luna-landing",
+    "liveUrl": "https://luna-landing-rust.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/JimmyCamus/luna-landing",
+        "name": "luna-landing",
+        "full_name": "JimmyCamus/luna-landing",
+        "description": "Template of a business landing page to be configured by json file",
+        "stargazers_count": 45,
+        "created_at": "2024-02-23T22:40:12Z",
+        "updated_at": "2025-08-07T23:33:09Z",
+        "pushed_at": "2024-03-15T00:31:54Z",
+        "git_url": "git://github.com/JimmyCamus/luna-landing.git",
+        "ssh_url": "git@github.com:JimmyCamus/luna-landing.git",
+        "clone_url": "https://github.com/JimmyCamus/luna-landing.git",
+        "homepage": "https://luna-landing-rust.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F6pqc7dmomn7c8wfrhnav6zqwb13zsi6y3db4t7.png&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fx1gcdhp3alydhp7gzlrlus4c27do8txo4fg813.png&w=1600&h=900&f=webp"
+    ]
+}

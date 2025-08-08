@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/landing-pad/",
+    "name": "landing-pad",
+    "title": "Landing Pad",
+    "desc": "A free theme to house your links and socials, plus Keystatic CMS integration for easy configuration. Built with Astro v5 and Tailwind CSS v4.",
+    "article": "<p><em>You deserve better than Linktree.</em></p><p>Landing Pad is the perfect way to share your projects and socials with one website - great for use on social media sites.</p><p>This theme has it all:</p><ul><li>Astro v5 and Tailwind CSS v4</li><li>Super fast with perfect lighthouse scores</li><li>Easy to edit with Keystatic CMS, or in Markdown / YAML</li><li>Bio, links, and socials</li><li>Configure light or dark theme, blurred background, and background image</li><li>Built-in image optimization with Astro:assets</li><li>Full code so you can change anything else desired (colors, fonts, etc.)</li></ul>",
+    "typeUrl": "https://github.com/Boston343/landingpad",
+    "liveUrl": "https://landingpad.cosmicthemes.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Boston343/landingpad",
+        "name": "landingpad",
+        "full_name": "Boston343/landingpad",
+        "description": "A free and open source template to host your links and socials. Built with Astro, Tailwind CSS, and Keystatic CMS by Cosmic Themes.",
+        "stargazers_count": 11,
+        "created_at": "2024-10-20T05:14:25Z",
+        "updated_at": "2025-08-05T13:14:06Z",
+        "pushed_at": "2025-05-09T01:16:24Z",
+        "git_url": "git://github.com/Boston343/landingpad.git",
+        "ssh_url": "git@github.com:Boston343/landingpad.git",
+        "clone_url": "https://github.com/Boston343/landingpad.git",
+        "homepage": "https://landingpad.cosmicthemes.com/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fw444ldhotzg8najsmoto27vp90j646gxwxzlod.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F4jfc2w5umxsirp1r9vot5d7gyved1r3zfmugp5.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F58fo7pis7bn0fdxo8m2jmuva166xj2tatoo80q.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fynumgsmhauqsail5533dqyj9h5a3gax0j3tyfm.webp&w=1600&h=900&f=webp"
+    ]
+}

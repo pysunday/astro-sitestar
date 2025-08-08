@@ -1,0 +1,25 @@
+---
+import clsx from 'clsx'
+import { getI18n } from "@/i18n/index"
+
+const { currentLocale } = Astro
+const i18n = await getI18n(currentLocale, 'sitestar.footer')
+const {
+  class: className,
+  links
+} = Astro.props;
+const year = new Date().getFullYear();
+---
+<footer class={clsx("bg-unset text-gray-400 text-center py-12", className)}>
+  <div class="max-w-4xl mx-auto px-4">
+    <p class="mb-2">
+      <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">{i18n('icp')}</a>
+      <span>&copy; {year} <a href="https://howduudu.tech">HOWDUUDU</a>. {i18n('cr')}</span>
+    </p>
+    {Array.isArray(links) && links.length && <div class="space-x-4 text-sm">
+      {
+        links.map(link => <a href={link.href} class="hover:text-accent transition-colors">{link.label}</a>)
+      }
+    </div>}
+  </div>
+</footer>

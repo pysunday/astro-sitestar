@@ -1,0 +1,13 @@
+{
+    "url": "https://astro.build/themes/details/rukia/",
+    "name": "rukia",
+    "title": "Rukia",
+    "desc": "Built with the latest version of Tailwind CSS, every part is structured into components for effortless customization and easy integration.",
+    "article": "<p>If you're launching a new product or looking for a fresh template, Rukia is the perfect choice. Its bold design puts your product in the spotlight, ensuring maximum impact.</p><p><br/></p><p>Built with the latest version of Tailwind CSS, every part is structured into components for effortless customization and easy integration.</p><p><br/></p><h3>Pages included:</h3><ol><li>Home</li><li>Pricing</li><li>Integrations</li><li>About</li><li>Blog / Posts</li><li>Contact</li><li>Legal Pages (Terms of Service, Privacy Policy, etc.)</li></ol><p><br/></p><h3>Dependencies used in this project:</h3><ul><li>TailwindCSS</li><li>GSAP</li><li>Remix Icon</li></ul><p><br/></p><p><br/></p>",
+    "typeUrl": "https://buy.stripe.com/7sI9AB72l38H17GfZ1",
+    "liveUrl": "https://rukia.netlify.app",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fkci9fjn3k3yklod4skrloyn56v2ejnfv1yu864.webp&w=1600&h=900&f=webp"
+    ]
+}

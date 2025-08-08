@@ -1,0 +1,16 @@
+
+---
+import App from '@/components/pages/sitestar/sites/index.astro'
+import getThemes from '@/lib/themes/getThemes';
+export const getStaticPaths = async () => {
+  const sites = await getThemes();
+  return sites.map((site) => {
+    return {
+      params: { site_id: site.name },
+      props: { site }
+    }
+  })
+};
+---
+
+<App {...Astro.props}/> 

@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/academic-project/",
+    "name": "academic-project",
+    "title": "Academic project page",
+    "desc": "Simple project page for your academic paper",
+    "article": "<p>This is a template you can use to create a simple project page for your research paper. It was adopted from Eliahu Horwitz's <a href=\"https://github.com/eliahuhorwitz/Academic-project-page-template\" rel=\"nofollow ugc\">Academic Project Page Template</a>, which was adopted from Keunhong Park's <a href=\"https://nerfies.github.io/\" rel=\"nofollow ugc\">project page for <em>Nerfies</em></a>. It's licensed under a <a href=\"http://creativecommons.org/licenses/by-sa/4.0/\" rel=\"nofollow ugc\">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p><h2>Features</h2><ul><li>Tailwind CSS: Styled with Tailwind CSS for utility-first, responsive design.</li><li>MDX: Edit the template in MDX, which allows you to write content in Markdown and use JSX variables, expressions, and components.</li><li>Native components: Includes components for figures, videos, YouTube embeds, two-column sections, and LaTeX equations.</li><li>Code highlighting: Syntax highlighting for code blocks using Shiki.</li><li>Responsive design: Fully responsive layout that looks great on all devices.</li></ul>",
+    "typeUrl": "https://github.com/RomanHauksson/academic-project-astro-template",
+    "liveUrl": "https://academic-project-astro-template.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/RomanHauksson/academic-project-astro-template",
+        "name": "academic-project-astro-template",
+        "full_name": "RomanHauksson/academic-project-astro-template",
+        "description": "Simple project page template for your research paper, built with Astro and Tailwind CSS",
+        "stargazers_count": 376,
+        "created_at": "2024-06-23T08:41:16Z",
+        "updated_at": "2025-08-03T13:28:18Z",
+        "pushed_at": "2025-05-08T15:52:00Z",
+        "git_url": "git://github.com/RomanHauksson/academic-project-astro-template.git",
+        "ssh_url": "git@github.com:RomanHauksson/academic-project-astro-template.git",
+        "clone_url": "https://github.com/RomanHauksson/academic-project-astro-template.git",
+        "homepage": "https://research-template.roman.technology"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F5w9d1syd7z0exsmoaotgwb43d10j55mkq1o5et.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astropie/",
+    "name": "astropie",
+    "title": "AstroPie",
+    "desc": "AstroPie is a free theme, designed to provide a beautiful and functional starting point for your next restaurant or bistro website.",
+    "article": "<h2>AstroPie</h2><p><br/></p><p>AstroPie is a free theme for the Astro framework, designed to provide a beautiful and functional starting point for your next restaurant or bistro website. Whether you're running an Italian restaurant, a cozy bistro, or any other type of dining establishment, AstroPie has you covered with its clean design and easy-to-use components.</p><p><br/></p><h3>ð About AstroPie</h3><p><br/></p><p>AstroPie is perfect for restaurant owners, developers, and designers who want to quickly set up a stylish and responsive website. It leverages modern web technologies to ensure a smooth and performant user experience.</p><p><br/></p><h3>ð ï¸ Technologies Used</h3><p><br/></p><p>- Astro: The core framework for building fast, content-focused websites.</p><p>- TailwindCSS: A utility-first CSS framework for rapid UI development.</p><p>- Alpine.js: A lightweight JavaScript framework for adding interactivity.</p><p>- Swiper: A modern slider library for creating responsive sliders.</p><p>- GLightbox: A pure JavaScript lightbox for displaying images and videos.</p><p><br/></p><h3>ð Premade Pages</h3><p><br/></p><p>- Home</p><p>- About Us</p><p>- Menu</p><p>- Gallery</p><p>- Contact</p><p>- Book a Table</p><p><br/></p><h3>ð§© Available Components</h3><p><br/></p><p>- Article</p><p>- Badge</p><p>- Button</p><p>- ButtonCallUs</p><p>- Card</p><p>- Footer</p><p>- FormBook</p><p>- FormContact</p><p>- Grid</p><p>- Header</p><p>- Heading</p><p>- Hero</p><p>- Menu</p><p>- ReviewSlider</p><p>- Section</p><p>- WideImage</p><p><br/></p><h3>ð Stuck?</h3><p><br/></p><p>If you have any questions or need help with AstroPie, feel free to reach out to me at info [at] wpinfusion.com, or open an issue on the AstroPie GitHub repository</p>",
+    "typeUrl": "https://github.com/wpinfusion/AstroPie",
+    "liveUrl": "https://astropie.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/wpinfusion/AstroPie",
+        "name": "AstroPie",
+        "full_name": "wpinfusion/AstroPie",
+        "description": "AstroPie is a free restaurant theme for Astro sites",
+        "stargazers_count": 28,
+        "created_at": "2024-12-22T17:51:06Z",
+        "updated_at": "2025-08-05T21:16:04Z",
+        "pushed_at": "2025-05-22T21:17:07Z",
+        "git_url": "git://github.com/wpinfusion/AstroPie.git",
+        "ssh_url": "git@github.com:wpinfusion/AstroPie.git",
+        "clone_url": "https://github.com/wpinfusion/AstroPie.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fifhir4qo3kkk0ryv1gdnfp9od34jvulr6r8yo9.webp&w=1600&h=900&f=webp"
+    ]
+}

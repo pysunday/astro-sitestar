@@ -1,0 +1,15 @@
+{
+    "url": "https://astro.build/themes/details/kishore-portfolio-free/",
+    "name": "kishore-portfolio-free",
+    "title": "Kishore Portfolio Free",
+    "desc": "This is version of free Kishore portfolio template, this template was designed with stunning animations in mind with clean aesthetic look This template have animations from GSAP & custom made Fade in animations!",
+    "article": "<h2>About Sections</h2><p><br/></p><p>this is free version of pro kishiore portfolio, you can get pro version [https://codexcode.store/themes/kishore-portfolio](link)</p><p><br/></p><p>All blocks was created with **React** and **Typescript** and all functionality is setup by **astro.build**</p><p>This means that even if you don't like **astro**, you can copy blocks from this project and easy use it with other languages like **next.js**!</p><p><br/></p><p>This is version of free Kishore portfolio template, this template was designed with stunning animations in mind with clean aesthetic look This template have animations from GSAP &amp; custom made Fade in animations!</p><h2> Pages ready to use:</h2><p><br/></p><p>-  Homepage - This is Landing page only website</p><p><br/></p><h2>ð ï¸ Easy to customize</h2><p>All <strong>blocks </strong>was created with <strong>React </strong>and <strong>Typescript </strong>and all <strong>functionality </strong>is setup by <strong>astro.build</strong></p><p>This means that even if you dont like <strong>astro</strong>, you can <strong>copy blocks </strong>from this project and easly use it with other <strong>languages </strong>like <strong>next.js!</strong></p><p><br/></p><p><br/></p><h2>â¨ Stunning Blocks!</h2><p>Blocks provide a minimalist look, enhancing the overall page aesthetic. Slider parallax looks amazing and work also well!</p><p><br/></p><p><br/></p><h2>ð¤ Full support for you!</h2><p>When you buy any of our themes, you will receive full assistance! (if you need our help on any step)</p><p><br/></p><p><br/></p>",
+    "typeUrl": "https://codexcode.store/themes/kishore-portfolio-free",
+    "liveUrl": "https://kishore-portfolio-free.netlify.app/",
+    "type": "free",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F6lxywm0t2rttnqre95j6uoba82m6mzk6d4cbfi.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fyaebhyu57z06os0pwrmpuz1t0jpopdzx5wekkk.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ftnb61un7wepffbee4us33entw50zjwxjnr4ofh.webp&w=1600&h=900&f=webp"
+    ]
+}

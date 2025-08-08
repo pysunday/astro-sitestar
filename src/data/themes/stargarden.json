@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/stargarden/",
+    "name": "stargarden",
+    "title": "Stargarden",
+    "desc": "A modern, content-focused starter theme for Astro, styled with Tailwind CSS and daisyUI.",
+    "article": "<p><br/></p><p>Welcome to the future, travelerâwhere the splendor of the Atomic Age meets modern Astro web development! StarGarden is your trusty rocket for launching simple, markdownâpowered websites into cyberspace with unmatched style and efficiency.</p><p><br/></p><p><strong>Features:</strong></p><p><br/></p><ul><li><strong>Tailwind CSS &amp; DaisyUI</strong> â Streamlined, customizable styling, complete with theme-switching for that radiant neon glow.</li><li><strong>Markdown &amp; Content Collections</strong> â Pen your prose in plain Markdown while the theme organizes posts posthaste.</li><li><strong>SEO Essentials</strong> â Built-in astro-seo for stellar metadata and social previews.</li><li><strong>Responsive Layouts</strong> â Navigation, hero, and footer components adapt gracefully from pocket radios to panoramic view-screens.</li><li><strong>Sitemap</strong> â Auto-generated so your avid listeners never miss a broadcast.</li><li><strong>Search</strong> â Built in search with<strong> astro-pagefind.</strong></li><li><strong>Code Highlighting </strong>â Beautiful syntax highlighting with <strong>astro-expressive-code</strong>.</li></ul><p><br/></p><p><strong>And more coming soon...</strong></p>",
+    "typeUrl": "https://github.com/sustanza/stargarden",
+    "liveUrl": "https://stargarden.pages.dev",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/sustanza/stargarden",
+        "name": "stargarden",
+        "full_name": "sustanza/stargarden",
+        "description": null,
+        "stargazers_count": 6,
+        "created_at": "2025-05-26T12:38:54Z",
+        "updated_at": "2025-07-22T04:16:34Z",
+        "pushed_at": "2025-07-18T20:42:25Z",
+        "git_url": "git://github.com/sustanza/stargarden.git",
+        "ssh_url": "git@github.com:sustanza/stargarden.git",
+        "clone_url": "https://github.com/sustanza/stargarden.git",
+        "homepage": "https://astro.build/themes/details/stargarden"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fx8110ow9akie6hmjznb0wvrpgmk62upjetzjxe.webp&w=1600&h=900&f=webp"
+    ]
+}

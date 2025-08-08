@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/astrofy-personal-porfolio-website-template/",
+    "name": "astrofy-personal-porfolio-website-template",
+    "title": "Astrofy | Personal Porfolio Website Template",
+    "desc": "A template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.",
+    "article": "",
+    "typeUrl": "https://github.com/manuelernestog/astrofy",
+    "liveUrl": "https://astrofy-template.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/manuelernestog/astrofy",
+        "name": "astrofy",
+        "full_name": "manuelernestog/astrofy",
+        "description": "Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.",
+        "stargazers_count": 1189,
+        "created_at": "2022-09-14T14:08:22Z",
+        "updated_at": "2025-08-07T03:03:02Z",
+        "pushed_at": "2024-07-04T19:41:11Z",
+        "git_url": "git://github.com/manuelernestog/astrofy.git",
+        "ssh_url": "git@github.com:manuelernestog/astrofy.git",
+        "clone_url": "https://github.com/manuelernestog/astrofy.git",
+        "homepage": "https://astrofy-template.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastrofy-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastrofy-2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastrofy-3.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastrofy-4.webp&w=1600&h=900&f=webp"
+    ]
+}

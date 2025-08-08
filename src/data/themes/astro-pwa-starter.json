@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-pwa-starter/",
+    "name": "astro-pwa-starter",
+    "title": "Astro PWA Starter",
+    "desc": "A minimal, opinionated starter that ships with full PWA support out the box. It also comes with TailwindCSS preinstalled as well as sensible ESLint and Prettier configurations.",
+    "article": "",
+    "typeUrl": "https://github.com/shaunchander/astro-pwa-starter",
+    "liveUrl": "https://astro-pwa-starter.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/shaunchander/astro-pwa-starter",
+        "name": "astro-pwa-starter",
+        "full_name": "shaunchander/astro-pwa-starter",
+        "description": "✨ An opinionated Astro starter for building robust static websites.",
+        "stargazers_count": 243,
+        "created_at": "2022-09-02T03:14:21Z",
+        "updated_at": "2025-08-04T13:47:58Z",
+        "pushed_at": "2024-02-05T02:36:07Z",
+        "git_url": "git://github.com/shaunchander/astro-pwa-starter.git",
+        "ssh_url": "git@github.com:shaunchander/astro-pwa-starter.git",
+        "clone_url": "https://github.com/shaunchander/astro-pwa-starter.git",
+        "homepage": "astro-pwa-starter.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-pwa-starter.webp&w=1600&h=900&f=webp"
+    ]
+}

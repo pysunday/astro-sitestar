@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/astro-tailwindcss-shadcnui-template/",
+    "name": "astro-tailwindcss-shadcnui-template",
+    "title": "Astro + TailwindCSS + shadcn/ui Template",
+    "desc": "This project is a comprehensive template with all the features needed for modern web development. It integrates Astro, TailwindCSS v4, shadcn/ui, React, and TypeScript, along with environment-specific build configurations and error tracking.",
+    "article": "<h2>ð Features</h2><ul><li><strong>Astro v5</strong>: Fast and modern static site generator</li><li><strong>TailwindCSS v4</strong>: Latest utility-first CSS framework</li><li><strong>shadcn/ui</strong>: Reusable and customizable UI components</li><li><strong>React Integration</strong>: Use React components within Astro</li><li><strong>TypeScript</strong>: Type-safe development environment</li><li><strong>Environment Configuration</strong>: Automatic switching between development, staging, and production</li><li><strong>Sentry</strong>: Error tracking and monitoring</li><li><strong>Custom Path Settings</strong>: Flexible configuration for base URLs and asset URLs</li></ul><p><br/></p><h2>ð¨ Using shadcn/ui</h2><p>\tThis template integrates shadcn/ui, providing a modern, reusable UI component system. shadcn/ui is a collection of beautiful, accessible, and customizable components.</p><h3>\tFeatures of shadcn/ui</h3><ul><li>Copy-and-paste approach: Components are copied directly into your project for full customization</li><li>TailwindCSS-based: Styling uses TailwindCSS for a consistent design system</li><li>Radix UI primitives: Adopts high-quality, accessible UI primitives</li><li>TypeScript support: Supports type-safe component development</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/n-tong009/astro-shadcn-template",
+    "liveUrl": "/themes/author/2288",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/n-tong009/astro-shadcn-template",
+        "name": "astro-shadcn-template",
+        "full_name": "n-tong009/astro-shadcn-template",
+        "description": "Modern Astro template with TailwindCSS v4, shadcn/ui, React, TypeScript",
+        "stargazers_count": 6,
+        "created_at": "2025-04-27T05:12:30Z",
+        "updated_at": "2025-08-05T02:26:35Z",
+        "pushed_at": "2025-05-02T05:37:33Z",
+        "git_url": "git://github.com/n-tong009/astro-shadcn-template.git",
+        "ssh_url": "git@github.com:n-tong009/astro-shadcn-template.git",
+        "clone_url": "https://github.com/n-tong009/astro-shadcn-template.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F16chrf2b8sbaxen37yml7f3wosf0ai5dnqe66g.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fwbw02ml08w9eultm360y6j92cs0ewbq5eo4fgp.webp&w=1600&h=900&f=webp"
+    ]
+}

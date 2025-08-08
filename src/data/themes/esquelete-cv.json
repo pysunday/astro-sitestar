@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/esquelete-cv/",
+    "name": "esquelete-cv",
+    "title": "Esquelete CV",
+    "desc": "A free, easy-to-use CV template with a clean design. Just fill in your details and you're ready to go!",
+    "article": "",
+    "typeUrl": "https://github.com/mmouzo/astro-cv-esquelete",
+    "liveUrl": "https://astro-cv-esquelete.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/mmouzo/astro-cv-esquelete",
+        "name": "astro-cv-esquelete",
+        "full_name": "mmouzo/astro-cv-esquelete",
+        "description": "A free, easy-to-use CV template with a clean design. Just fill in your details and you're ready to go!",
+        "stargazers_count": 58,
+        "created_at": "2024-02-26T15:47:09Z",
+        "updated_at": "2025-07-23T15:25:28Z",
+        "pushed_at": "2024-04-03T10:55:25Z",
+        "git_url": "git://github.com/mmouzo/astro-cv-esquelete.git",
+        "ssh_url": "git@github.com:mmouzo/astro-cv-esquelete.git",
+        "clone_url": "https://github.com/mmouzo/astro-cv-esquelete.git",
+        "homepage": "https://astro-cv-esquelete.vercel.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fgvani44nmfgjsfovyyw8zm99d9piabdhvmy7g5.png&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F6gw91l5fy60nbcejyszx1gggtsgcl3fqc5c586.png&w=1600&h=900&f=webp"
+    ]
+}

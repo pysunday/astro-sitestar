@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/pminimal/",
+    "name": "pminimal",
+    "title": "Pminimal",
+    "desc": "Pminimal is a web project built with Astro, designed as a personal portfolio. It leverages Tailwind CSS for styling, providing a sleek and modern user experience.",
+    "article": "<p><strong>pminima</strong>l is a web application built with Astro, designed as a minimalist and smooth personal portfolio. It utilizes Tailwind CSS for styling, ensuring a modern and responsive interface.</p>",
+    "typeUrl": "https://github.com/naissky/pminimal",
+    "liveUrl": "https://pminimal.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/naissky/pminimal",
+        "name": "pminimal",
+        "full_name": "naissky/pminimal",
+        "description": "pminimal es un proyecto web construido con Astro, diseñado para ser un portafolio personal. Este proyecto utiliza Tailwind CSS para el estilo y ofrece una experiencia fluida y moderna",
+        "stargazers_count": 2,
+        "created_at": "2025-03-19T02:26:38Z",
+        "updated_at": "2025-04-11T04:03:35Z",
+        "pushed_at": "2025-03-29T16:12:38Z",
+        "git_url": "git://github.com/naissky/pminimal.git",
+        "ssh_url": "git@github.com:naissky/pminimal.git",
+        "clone_url": "https://github.com/naissky/pminimal.git",
+        "homepage": "https://pminimal.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F097t7vnm1a40xtiuf0jh120ciwsekiyh71486o.webp&w=1600&h=900&f=webp"
+    ]
+}

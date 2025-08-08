@@ -1,0 +1,15 @@
+{
+    "url": "https://astro.build/themes/details/docs02/",
+    "name": "docs02",
+    "title": "Docs02",
+    "desc": "The Docs02 is a sleek and modern theme designed for documentation sites. It offers a clean layout, beautiful typography, and a focus on readability to ensure that your documentation shines. It is made from Astro Starlight, providing a foundation for its design and functionality. Astro Starlight is a versatile framework for building full-featured documentation themes.",
+    "article": "<p>The Docs02 is a sleek and modern theme designed for documentation sites. It offers a clean layout, beautiful typography, and a focus on readability to ensure that your documentation shines.</p><p>It is made from <a href=\"https://starlight.astro.build/getting-started/\">Astro Starlight</a>, providing a foundation for its design and functionality. Astro Starlight is a versatile framework for building full-featured documentation themes.</p><h2>Features</h2><ul><li>MDX Support: Write rich and interactive content with <a href=\"https://mdxjs.com/\" rel=\"nofollow ugc\">MDX</a>, combining markdown with JSX syntax.</li><li>Tailwind CSS: Utilizes the power of <a href=\"https://tailwindcss.com/\" rel=\"nofollow ugc\">Tailwind CSS</a> for easy and efficient styling.</li><li>Responsive Design: Your documentation will look great on desktops, tablets, and smartphones.</li><li>Dark Mode: Users can switch between light and dark modes for comfortable reading in any environment.</li><li>Syntax Highlighting: Code snippets are beautifully styled with syntax highlighting for various programming languages.</li><li>Customizable: Easily customize the theme to match your brand with built-in customization options.</li><li>Table of Contents: Automatically generated table of contents for easy navigation within long documents.</li><li>Search: Integrated search functionality helps users quickly find what they need.</li></ul><h2>Getting Started</h2><p>Check out the <a href=\"https://starlight.astro.build/guides/pages/\">documentation</a> to learn how to add data in these theme</p>",
+    "typeUrl": "https://elevatemind.gumroad.com/l/astro-docs02",
+    "liveUrl": "https://docs02.vercel.app/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F29n4bvq7zr9c6jjn3wo01ru4gemf2cdp8o66hv.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fpt06r1snseaoek41wfi710raeqx851grx8a7ba.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fiyjay18fz568lo7f48kn7lm12gm9rzaxzekeuk.webp&w=1600&h=900&f=webp"
+    ]
+}

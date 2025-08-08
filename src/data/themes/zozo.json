@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/zozo/",
+    "name": "zozo",
+    "title": "Zozo",
+    "desc": "An opinionated and neat blog template built with Astro.",
+    "article": "<p>An opinionated and neat blog template built with <a href=\"https://astro.build\">Astro</a>. The theme originates from <a href=\"https://github.com/varkai/hugo-theme-zozo\" rel=\"nofollow ugc\">hugo-theme-zozo</a>.</p><h2>Features</h2><ul><li>Fast and light weight. Lighthouse 4 * 100/100 on desktop. 1 point decreased on mobile.</li><li>Astro 4</li><li>No other UI frameworks integrated for better performance</li><li>mobile-friendly responsive design with <a href=\"https://tailwindcss.com/\" rel=\"nofollow ugc\">Tailwind CSS</a></li><li>Light / dark theme derived from <a href=\"https://github.com/varkai/hugo-theme-zozo\" rel=\"nofollow ugc\">hugo-theme-zozo</a></li><li>Markdown post support with emoji shortcode, katex</li><li>static search with <a href=\"https://pagefind.app\" rel=\"nofollow ugc\">Pagefind</a></li><li>comment system powered by <a href=\"https://github.com/giscus/giscus\" rel=\"nofollow ugc\">giscus</a></li><li>SEO-friendly setup with canonical URLs and OpenGraph data</li><li>RSS generation</li><li>Sitemap.xml generation</li><li>dynamic open graph image generation</li></ul>",
+    "typeUrl": "https://github.com/ladit/astro-blog-zozo",
+    "liveUrl": "https://astro-blog-zozo.pages.dev",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/ladit/astro-blog-zozo",
+        "name": "astro-blog-zozo",
+        "full_name": "ladit/astro-blog-zozo",
+        "description": "An opinionated and neat blog template built with Astro.",
+        "stargazers_count": 81,
+        "created_at": "2024-03-15T06:27:21Z",
+        "updated_at": "2025-08-06T06:06:36Z",
+        "pushed_at": "2024-11-14T12:57:24Z",
+        "git_url": "git://github.com/ladit/astro-blog-zozo.git",
+        "ssh_url": "git@github.com:ladit/astro-blog-zozo.git",
+        "clone_url": "https://github.com/ladit/astro-blog-zozo.git",
+        "homepage": "https://astro-blog-zozo.pages.dev"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Favbuuvpbp0v05vtvs1s2u7rp2nzb128q4rr59t.png&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fbj7p9fle2xnbh94d1y0j8fid6x5sqf9anvrt7x.png&w=1600&h=900&f=webp"
+    ]
+}

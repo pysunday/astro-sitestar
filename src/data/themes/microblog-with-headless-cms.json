@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/microblog-with-headless-cms/",
+    "name": "microblog-with-headless-cms",
+    "title": "Microblog with headless CMS",
+    "desc": "A microblog with Hygraph CMS for data",
+    "article": "<p>Explore the basics of both Hygraph and Astro.js with this microblog starter. With a small set of templates and components, and a very simple content model, this starter will get you up and running.</p><p>Features</p><ul><li>Rich Text</li><li>Astro + React components</li><li>React Islands for interactivity</li><li>Hygraph Pagination and \"Load More\" button</li></ul><p>Technologies used</p><ul><li>Astro 4.0</li><li>Astro Interactive Islands</li><li>Tailwind CSS</li><li>Hygraph</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/hygraph/hygraph-astro-microblog-starter",
+    "liveUrl": "https://astro-microblog.withheadlesscms.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/hygraph/hygraph-astro-microblog-starter",
+        "name": "hygraph-astro-microblog-starter",
+        "full_name": "hygraph/hygraph-astro-microblog-starter",
+        "description": null,
+        "stargazers_count": 7,
+        "created_at": "2024-02-14T20:10:06Z",
+        "updated_at": "2025-06-09T12:00:50Z",
+        "pushed_at": "2024-03-04T21:48:42Z",
+        "git_url": "git://github.com/hygraph/hygraph-astro-microblog-starter.git",
+        "ssh_url": "git@github.com:hygraph/hygraph-astro-microblog-starter.git",
+        "clone_url": "https://github.com/hygraph/hygraph-astro-microblog-starter.git",
+        "homepage": "https://hygraph-astro-microblog-starter.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fegoojqbn8jkfpnzr2pv7eczo0el6kk96ujocd2.webp&w=1600&h=900&f=webp"
+    ]
+}

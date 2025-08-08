@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-vim/",
+    "name": "astro-vim",
+    "title": "astro-vim",
+    "desc": "Astro-Vim is a super simple personal site that works just like your favorite text editor: Vim. Only a portion of the Vim commands are implemented, but the look and the way it feels makes Vim addicts love this site. ",
+    "article": "",
+    "typeUrl": "https://github.com/albertoperdomo2/astro-vim",
+    "liveUrl": "https://astro-vim.vercel.app",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/albertoperdomo2/astro-vim",
+        "name": "astro-vim",
+        "full_name": "albertoperdomo2/astro-vim",
+        "description": "Astro landing page simulating a Vim console, where key bindings work! ",
+        "stargazers_count": 44,
+        "created_at": "2024-06-26T09:38:41Z",
+        "updated_at": "2025-07-19T11:52:57Z",
+        "pushed_at": "2025-06-24T10:41:22Z",
+        "git_url": "git://github.com/albertoperdomo2/astro-vim.git",
+        "ssh_url": "git@github.com:albertoperdomo2/astro-vim.git",
+        "clone_url": "https://github.com/albertoperdomo2/astro-vim.git",
+        "homepage": "https://astro-vim.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fp36mp922k4yo3xk9xs4shjtzd7ruf06a3ewnff.webp&w=1600&h=900&f=webp"
+    ]
+}

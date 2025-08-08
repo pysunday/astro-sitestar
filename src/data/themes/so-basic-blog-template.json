@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/so-basic-blog-template/",
+    "name": "so-basic-blog-template",
+    "title": "So Basic - Blog Template",
+    "desc": "So Basic is perfect for your personal or professional blog. You can focus on writing your content, So Basic will take care of displaying it in a clean, minimal way. Readers will be delighted.",
+    "article": "<p>When using So Basic, it's all about you. Your articles, your projects.</p><p>Showcase who you are in the <strong>Home page</strong> with a list of featured articles and projects.</p><p>Share your thoughts and your stories through the <strong>Blog page</strong>.</p><p>Get readers to know how awesome you are in the <strong>About page</strong>.</p><p><br/></p><h2>Pages and components</h2><p>So Basic includes 4 pre built pages:</p><ol><li>Home page</li><li>Blog page</li><li>Article page</li><li>About me page</li><li>404</li></ol><p><br/></p><p>These pages are built with the following components you can mix and match to create other pages:</p><ul><li>Blog articles list with pagination</li><li>Featured articles</li><li>Projects list</li><li>Timeline</li><li>Newsletter sign up form</li><li>Contacts and social links</li></ul><h2>Features</h2><ul><li>Lightweight - for stellar page load time</li><li>SEO optimized</li><li>Light and dark theme support</li><li>Fully responsive</li></ul><h2>Technology</h2><p>Astro 5.8</p><p>Tailwind CSS 4.1</p><p>Vanilla JS ð</p>",
+    "typeUrl": "https://github.com/lukeska/sobasic",
+    "liveUrl": "https://sobasic.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/lukeska/sobasic",
+        "name": "sobasic",
+        "full_name": "lukeska/sobasic",
+        "description": null,
+        "stargazers_count": 5,
+        "created_at": "2025-05-17T03:29:45Z",
+        "updated_at": "2025-08-06T04:27:38Z",
+        "pushed_at": "2025-05-26T04:10:47Z",
+        "git_url": "git://github.com/lukeska/sobasic.git",
+        "ssh_url": "git@github.com:lukeska/sobasic.git",
+        "clone_url": "https://github.com/lukeska/sobasic.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F1dw3z08kkh9y8dlveckd1vscptqrv9a94t9g3e.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F88rrmrqad8d7wbpjyzyh3htu34p5cnvyy0n9c9.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fyywr9cqp4p94nzfj9nk28pkcv4zfoinzqn29rg.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fop1epmxuor4dzilao679c3m4p3ia7wdjx4jpsl.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fyyajmh7j0n0jwf52t4brf9o46ejx04scbec6td.webp&w=1600&h=900&f=webp"
+    ]
+}

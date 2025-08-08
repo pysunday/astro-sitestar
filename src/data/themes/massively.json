@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/massively/",
+    "name": "massively",
+    "title": "Massively",
+    "desc": "A is a free, fully responsive HTML5 + CSS3 site template designed by @ajlkn for HTML5 UP and released for free under the Creative Commons license.",
+    "article": "",
+    "typeUrl": "https://github.com/DBozhinovski/astro-massively",
+    "liveUrl": "https://astro-massively.darko.io/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/DBozhinovski/astro-massively",
+        "name": "astro-massively",
+        "full_name": "DBozhinovski/astro-massively",
+        "description": "https://html5up.net/massively port to Astro",
+        "stargazers_count": 13,
+        "created_at": "2022-09-12T08:08:40Z",
+        "updated_at": "2024-05-23T00:12:33Z",
+        "pushed_at": "2023-09-14T12:51:33Z",
+        "git_url": "git://github.com/DBozhinovski/astro-massively.git",
+        "ssh_url": "git@github.com:DBozhinovski/astro-massively.git",
+        "clone_url": "https://github.com/DBozhinovski/astro-massively.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fmassively.webp&w=1600&h=900&f=webp"
+    ]
+}

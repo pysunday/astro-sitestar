@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-bash/",
+    "name": "astro-bash",
+    "title": "ASTRObash",
+    "desc": "A terminal-like web application built with Astro, React, and Tailwind CSS that simulates a Linux environment, allowing users to navigate directories, interact with files, and view images in modals.",
+    "article": "<p><strong>Frameworks and Libraries</strong>:</p><ul><li>Built with <strong>Astro</strong>, which serves as the main framework for static site generation and fast builds.</li><li><strong>React</strong> is used for creating interactive components, particularly for handling commands and modals.</li><li>Styled using <strong>Tailwind CSS</strong> for a clean, responsive, and modern design.</li></ul><p><strong>Features</strong>:</p><p>Simulates a <strong>Linux terminal</strong> where users can execute common commands like:</p><ul><li>ls: List directory contents.</li><li>pwd: Display the current directory path.</li><li>cat: View file content.</li><li>open-image: Open and view images in a modal.</li><li>more commands in help</li></ul><p>Supports <strong>directory navigation</strong> and dynamic file path handling.</p><p>Displays responses to commands in an interactive and user-friendly interface.</p><p><strong>User Interaction</strong>:</p><ul><li>Users can type commands into a terminal-style input field.</li><li>The application responds with outputs in a terminal-like format.</li><li>The open-image command triggers a modal displaying images stored in the directory.</li></ul><p>This project combines the power of <strong>Astro</strong>, <strong>React</strong>, and <strong>Tailwind CSS</strong> to deliver an engaging, terminal-like experience thatâs both functional and visually appealing.</p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p>",
+    "typeUrl": "https://github.com/jjunlob074/ASTRObash",
+    "liveUrl": "https://astro-bash.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/jjunlob074/ASTRObash",
+        "name": "ASTRObash",
+        "full_name": "jjunlob074/ASTRObash",
+        "description": null,
+        "stargazers_count": 8,
+        "created_at": "2024-12-06T17:31:45Z",
+        "updated_at": "2025-05-07T02:19:58Z",
+        "pushed_at": "2024-12-22T15:59:39Z",
+        "git_url": "git://github.com/jjunlob074/ASTRObash.git",
+        "ssh_url": "git@github.com:jjunlob074/ASTRObash.git",
+        "clone_url": "https://github.com/jjunlob074/ASTRObash.git",
+        "homepage": "https://astro-bash.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F7mifqdxlm8hrtgmsc9o00pjrxdx9h5yuxjfaoz.webp&w=1600&h=900&f=webp"
+    ]
+}

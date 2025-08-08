@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/portfolio/",
+    "name": "portfolio",
+    "title": "Portfolio",
+    "desc": "Share your hard work with this portfolio starter from the Astro team.",
+    "article": "\n<p>\n  Showcase your creative work with a theme full of soft gradients, purple hues, and rounded corners.\n  This theme by the Astro design team features a dynamic landing page for highlighting your skills\n  and recent projects.\n</p>\n<ul>\n<li><strong>Theme toggle:</strong> Users can easily choose light or dark mode</li>\n<li><strong>Don't miss a lead:</strong> Clear contact call-to-action on all pages</li>\n<li>\n<strong>Type-safe frontmatter:</strong> Projects powered by Astro v2âs\n    <a href=\"https://docs.astro.build/en/guides/content-collections/\">content collections</a>\n</li>\n<li>\n<strong>Clean icons:</strong> 20 stylish\n    <a href=\"https://phosphoricons.com/\" rel=\"nofollow ugc\">Phosphor Icons</a> built in\n  </li>\n</ul>\n",
+    "typeUrl": "https://github.com/withastro/astro/tree/main/examples/portfolio",
+    "liveUrl": "https://preview.astro.new/portfolio/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/withastro/astro",
+        "name": "astro",
+        "full_name": "withastro/astro",
+        "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
+        "stargazers_count": 52709,
+        "created_at": "2021-03-15T17:19:47Z",
+        "updated_at": "2025-08-08T02:34:32Z",
+        "pushed_at": "2025-08-07T16:10:52Z",
+        "git_url": "git://github.com/withastro/astro.git",
+        "ssh_url": "git@github.com:withastro/astro.git",
+        "clone_url": "https://github.com/withastro/astro.git",
+        "homepage": "https://astro.build"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fportfolio.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fportfolio-1.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fportfolio-2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fportfolio-3.webp&w=1600&h=900&f=webp"
+    ]
+}

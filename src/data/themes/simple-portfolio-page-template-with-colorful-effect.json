@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/simple-portfolio-page-template-with-colorful-effect/",
+    "name": "simple-portfolio-page-template-with-colorful-effect",
+    "title": "Simple Portfolio Template With Colorful Effect",
+    "desc": "Beautiful template for those who seeking catchy and performant design.",
+    "article": "<ul><li>Built with <strong>Astro framework</strong> for fast performance.</li><li><strong>Perfect performance</strong> with full SEO optimization for better search rankings.</li><li>Styled using <strong>Tailwind CSS</strong> for responsive, customizable design.</li><li><strong>TypeScript</strong> enhances the development experience with strong typing.</li><li><strong>Catchy, colorful design</strong> ensures a memorable visual experience.</li><li><strong>Engaging animations</strong> with interactive cursor and hover effects.</li><li>Utilizes <strong>JSON</strong>, making content easy to edit and highly flexible.</li><li>Ideal for creating a <strong>memorable online presence</strong>.</li></ul><p><br/></p><p>\t\tLIVE DEMO URL - <a href=\"https://www.kuktenko.dev/\" rel=\"nofollow ugc\">https://www.kuktenko.dev/</a></p>",
+    "typeUrl": "https://github.com/AndrewKuktenko/kandy.app",
+    "liveUrl": "https://www.kuktenko.dev/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/AndrewKuktenko/kandy.app",
+        "name": "kandy.app",
+        "full_name": "AndrewKuktenko/kandy.app",
+        "description": "Personal website created using Astro 4.0 and Tailwind CSS.",
+        "stargazers_count": 22,
+        "created_at": "2024-09-23T02:39:08Z",
+        "updated_at": "2025-07-28T06:28:40Z",
+        "pushed_at": "2024-10-02T01:18:58Z",
+        "git_url": "git://github.com/AndrewKuktenko/kandy.app.git",
+        "ssh_url": "git@github.com:AndrewKuktenko/kandy.app.git",
+        "clone_url": "https://github.com/AndrewKuktenko/kandy.app.git",
+        "homepage": "https://www.kuktenko.dev"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F39mkzmwxf1dcuv8e9j3rv7y6j3gr1hq2v4uhiu.webp&w=1600&h=900&f=webp"
+    ]
+}

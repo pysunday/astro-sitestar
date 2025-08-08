@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astrobuild-starter-theme/",
+    "name": "astrobuild-starter-theme",
+    "title": "astrobuild starter theme",
+    "desc": "A nice looking starter blog to get you up and running!",
+    "article": "<p>A nice looking starter blog to get you up and running!</p><p><br/></p><p>Features:</p><p><br/></p><p>â Minimal styling (make it your own!)</p><p>â 100/100 Lighthouse performance</p><p>â SEO-friendly with canonical URLs and OpenGraph data</p><p>â Sitemap support</p><p>â RSS Feed support</p><p>â Markdown &amp; MDX support</p>",
+    "typeUrl": "https://github.com/fabforms/astrobuild-starter-blog",
+    "liveUrl": "https://astrobuild-starter-blog.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/fabforms/astrobuild-starter-blog",
+        "name": "astrobuild-starter-blog",
+        "full_name": "fabforms/astrobuild-starter-blog",
+        "description": "astrobuild starter blog demo",
+        "stargazers_count": 1,
+        "created_at": "2025-02-25T19:57:42Z",
+        "updated_at": "2025-04-11T04:22:58Z",
+        "pushed_at": "2025-02-25T21:03:46Z",
+        "git_url": "git://github.com/fabforms/astrobuild-starter-blog.git",
+        "ssh_url": "git@github.com:fabforms/astrobuild-starter-blog.git",
+        "clone_url": "https://github.com/fabforms/astrobuild-starter-blog.git",
+        "homepage": "https://astrobuild-starter-blog.vercel.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ft2nvxq5431emsgj0m0or1z8err6j1vaus90r14.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/sleek-minimal-developer-portfolio-website/",
+    "name": "sleek-minimal-developer-portfolio-website",
+    "title": "Sleek & Minimal Developer Portfolio Website",
+    "desc": "This is a sleek, modern, and highly customizable portfolio template built using Astro. Designed with performance, accessibility, and SEO in mind, it offers a clean and minimalistic experience while providing all the essential features needed for a professional online presence.",
+    "article": "<h2>Minimalistic Portfolio Website</h2><p><br/></p><h3>Overview</h3><p>This is a sleek, modern, and highly customizable portfolio template built using <strong>Astro</strong>. Designed with performance, accessibility, and SEO in mind, it offers a clean and minimalistic experience while providing all the essential features needed for a professional online presence.</p><p><br/></p><h3>Features</h3><p>- ð <strong>Light &amp; Dark Mode</strong> â Seamlessly switch between themes.</p><p>- ð± <strong>Mobile-Friendly</strong> â Fully responsive design.</p><p>- ð <strong>Blog Section</strong> â Supports **MDX** with automatic table of contents (TOC) and pagination.</p><p>- ð·ï¸ <strong>Categorized Articles</strong>â Filter posts by series or category.</p><p>- ð <strong>Projects Showcase</strong> â Detailed overview of projects with images and descriptions.</p><p>- ð¼ï¸ <strong>SEO &amp; Open Graph</strong> â Optimized metadata and dynamic OG images.</p><p>- ð¨ <strong>Sleek &amp; Modern Design</strong> â Crafted with a focus on simplicity and elegance.</p><p><br/></p><h3>Tech Stack</h3><p>Built using the following technologies:</p><p><br/></p><p>- <strong>Astro</strong> â Blazing fast static site generation.</p><p>- <strong>TailwindCSS</strong> â Highly customizable utility-first CSS framework.</p><p>- <strong>TypeScript</strong> â Strict type safety for maintainability.</p><p>- <strong>Prettier</strong> â Code formatting for consistency.</p><p>- <strong>Framer Motion</strong> â Smooth animations and transitions.</p><p><br/></p><h3>How to Use</h3><p>Customization is simple and straightforward:</p><p><br/></p><p>- All customizable data (name, links, content, etc.) is stored in `lib/constants/` dir.</p><p>- Images can be replaced in the `public` folder.</p><p>- OG images for blogs and projects are stored in `public/og/`.</p><p>- Theming follows **shadcn's** color palette and can be easily tweaked.</p><p><br/></p><h3>Contribute &amp; Support</h3><p>Love the project? Give it a â­ on GitHub! Contributions are always welcomeâwhether it's fixing a bug, adding a new feature, or even correcting a small typo.</p><p><br/></p><p>---</p><p><br/></p><p>Built with â¤ï¸ using <strong>Astro</strong></p><p><br/></p>",
+    "typeUrl": "https://github.com/Louai-Zokerburg/louai",
+    "liveUrl": "https://louai.site",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Louai-Zokerburg/louai",
+        "name": "louai",
+        "full_name": "Louai-Zokerburg/louai",
+        "description": "This is a sleek, modern, and highly customizable portfolio template built using Astro. Designed with performance, accessibility, and SEO in mind, it offers a clean and minimalistic experience while providing all the essential features needed for a professional online presence.",
+        "stargazers_count": 45,
+        "created_at": "2025-01-31T16:42:49Z",
+        "updated_at": "2025-08-06T03:59:50Z",
+        "pushed_at": "2025-05-23T12:17:58Z",
+        "git_url": "git://github.com/Louai-Zokerburg/louai.git",
+        "ssh_url": "git@github.com:Louai-Zokerburg/louai.git",
+        "clone_url": "https://github.com/Louai-Zokerburg/louai.git",
+        "homepage": "https://louai.site"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fc8inteuhenrsxxvi1cvzgrzz3chlx8pts2yiag.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F0x91l0krb8vi7iijji6hhulnptagr7qc17n11f.webp&w=1600&h=900&f=webp"
+    ]
+}

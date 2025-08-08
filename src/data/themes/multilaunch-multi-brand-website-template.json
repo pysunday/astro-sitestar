@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/multilaunch-multi-brand-website-template/",
+    "name": "multilaunch-multi-brand-website-template",
+    "title": "MultiLaunch: Multi-Brand Website Template",
+    "desc": "A high-performance monorepo template built with Astro & DatoCMS for managing multiple brands effortlessly. Ideal for startups and mid-sized retailers needing a scalable, cost-effective, and multi-language brand hierarchy.",
+    "article": "<h2>Tech Stack</h2><ul><li>Astro</li><li>DatoCMS</li><li>Tailwind CSS 4</li></ul><h2>Features</h2><ul><li>â Multi-Brand Architecture â One main site, multiple brand landing pages</li><li>â Rapid Deployment â Add a new brand in minutes, not weeks</li><li>â Monorepo Setup â All brands in one repository for easy management</li><li>â AI-Powered Translation â Multi-language support with AI-assisted translations</li><li>â Geo-Redirects â Serve region-specific content automatically</li><li>â Brand-Specific Customization â Each brand gets its own colors and assets</li><li>â Dark &amp; Light Mode</li></ul><h2>Quick Start</h2><ol><li>Create an account on DatoCMS</li><li>Deploy on Vercel with GitHub Integration</li><li><a href=\"https://dashboard.datocms.com/deploy?repo=bejamas%2Fastro-dato-multilaunch\" rel=\"nofollow ugc\">Clone DatoCMS Project</a></li></ol><h2>Local Setup</h2><h3>Prerequisites</h3><ul><li>Node.js</li><li>Bun</li></ul><h3>Project Structure</h3><p><br/></p><pre>multilaunch/\r\nâââ apps/\r\nâ   âââ core/       # Main retail company page\r\nâ   âââ brands/     # Brand landing pages\r\nâââ packages/\r\n    âââ ui/         # Shared UI components\r\n</pre><h3>Getting Started</h3><pre># Install dependencies\r\nbun install\r\n\r\n# Set up environment variables\r\ncp .env.example .env\r\n</pre><h3>Environment Variables</h3><ol><li>Go to DatoCMS project Settings</li><li>Navigate to API tokens</li><li>Copy Read-only API token</li><li>Paste into <span>.env</span> file</li></ol><h2>Available Scripts</h2><pre># Run development server\r\nbun dev\r\n\r\n# Build for production\r\nbun run build\r\n\r\n# Preview production build\r\nbun run preview\r\n</pre><h2>Contributing</h2><p>Contributions are welcome!</p>",
+    "typeUrl": "https://github.com/bejamas/astro-dato-multilaunch",
+    "liveUrl": "https://astro-dato-multilaunch.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/bejamas/astro-dato-multilaunch",
+        "name": "astro-dato-multilaunch",
+        "full_name": "bejamas/astro-dato-multilaunch",
+        "description": null,
+        "stargazers_count": 36,
+        "created_at": "2025-01-31T09:32:49Z",
+        "updated_at": "2025-08-07T13:38:58Z",
+        "pushed_at": "2025-04-13T14:30:22Z",
+        "git_url": "git://github.com/bejamas/astro-dato-multilaunch.git",
+        "ssh_url": "git@github.com:bejamas/astro-dato-multilaunch.git",
+        "clone_url": "https://github.com/bejamas/astro-dato-multilaunch.git",
+        "homepage": "https://astro-dato-multilaunch.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3s20bzigaos16jfoki9wzr514ehmw0ntk5t18k.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fgg89q9u3n1ytwhuy2ojqknihoptq1oe7mxe7ms.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fyjewzqyiyyt2nmt8zxu978v0gp6sfb5a1669ns.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fbcf4ixedzrnilwcetszvsrtpkgvo6n6hkeyoqv.webp&w=1600&h=900&f=webp"
+    ]
+}

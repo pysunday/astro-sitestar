@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/creek/",
+    "name": "creek",
+    "title": "Creek",
+    "desc": "Creek is an open source blog theme for Astro.",
+    "article": "\n<p>\n  This theme is built upon a theme called\n  <a href=\"https://github.com/statamic/starter-kit-starters-creek\" rel=\"noopener noreferrer\" target=\"_blank\">Starter's Creek</a>\n  for <a href=\"https://statamic.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Statamic CMS</a>.\n  Full design credit goes to\n  <a href=\"https://twitter.com/jackmcdade\" rel=\"noopener noreferrer\" target=\"_blank\">Jack McDade</a>.\n</p>\n<p>\n  This theme also take's some ideas and functionality from\n  <a href=\"https://github.com/one-aalam/astro-ink\" rel=\"noopener noreferrer\" target=\"_blank\">Ink</a>, another great theme for Astro.\n</p>\n<h3>Features</h3>\n<ul>\n<li>\n    Search powered by\n    <a href=\"https://lunrjs.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Lunr.js</a> and\n    <a href=\"https://markjs.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Mark.js</a>\n</li>\n<li>Sitemap</li>\n<li>RSS Feed</li>\n<li>\n    SEO ready. If you are looking for more SEO functionality, check out this\n    <a href=\"https://github.com/jonasmerlin/astro-seo\" rel=\"noopener noreferrer\" target=\"_blank\">Astro SEO Plugin</a>\n</li>\n</ul>\n",
+    "typeUrl": "https://github.com/robertguss/Astro-Theme-Creek",
+    "liveUrl": "https://astro-theme-creek.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/robertguss/Astro-Theme-Creek",
+        "name": "Astro-Theme-Creek",
+        "full_name": "robertguss/Astro-Theme-Creek",
+        "description": "A theme for Astro",
+        "stargazers_count": 264,
+        "created_at": "2021-10-11T13:34:25Z",
+        "updated_at": "2025-07-20T04:10:21Z",
+        "pushed_at": "2025-02-03T00:24:26Z",
+        "git_url": "git://github.com/robertguss/Astro-Theme-Creek.git",
+        "ssh_url": "git@github.com:robertguss/Astro-Theme-Creek.git",
+        "clone_url": "https://github.com/robertguss/Astro-Theme-Creek.git",
+        "homepage": "https://astro-theme-creek.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fcreek-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fcreek.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fcreek-post-page.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fcreek-search-page.webp&w=1600&h=900&f=webp"
+    ]
+}

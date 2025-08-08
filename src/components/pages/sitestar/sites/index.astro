@@ -1,0 +1,36 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { Button } from "@/components/ui/button";
+import { Icon } from 'astro-icon/components';
+import Footer from "@/components/sitestar/Footer.astro";
+import Slider from '@/components/common/Slider';
+import { getI18n } from "@/i18n/index"
+import { getRelativeLocaleUrl } from 'astro:i18n';
+import dayjs from 'dayjs';
+
+const { currentLocale } = Astro
+const i18n = await getI18n(currentLocale, 'sitestar')
+
+const { site } = Astro.props;
+---
+<BaseLayout hasCursor={false}>
+  <div class="py-8 flex flex-col max-w-[1400px] mx-auto w-[90%] md:w-[80%] xl:w-[70%]">
+    <Button variant="link" className="text-xl font-blod text-left w-max">
+      <Icon name="back" />
+      <a href="javascript:history.back()">{i18n('btn.back')}</a>
+    </Button>
+    <Slider class="my-8" imgs={site.imgs} client:only="react" />
+    <div class="flex items-center">
+      <h3 class=" text-4xl font-bold">
+        {site.title}
+      </h3>
+      <a class="text-xl ml-4" href={getRelativeLocaleUrl(currentLocale, `/preview/?url=${encodeURIComponent(site.liveUrl)}`)}>
+        <Icon name="look-site"/>
+      </a>
+    </div>
+    <p class="pt-8 text-xl">Update Time: {dayjs(site.update_time || '2025-08-08').format('YYYY-MM-DD')}</p>
+    <p class="pt-8 text-xl">{site.desc}</p>
+    <article class="pt-8 prose" set:html={site.article} />
+  </div>
+  <Footer/>
+</BaseLayout>

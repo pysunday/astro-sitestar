@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/profile-card/",
+    "name": "profile-card",
+    "title": "Profile Card",
+    "desc": "This project is a web application built with Astro to create a profile card featuring social media links.",
+    "article": "<p>This project is a web application built using Astro, designed to create a profile card with social media links. It includes various components and utilities to build a responsive and interactive user interface. The template allows for easy integration of multiple social links, enhancing user connectivity.</p>",
+    "typeUrl": "https://github.com/EngJurado/profile-card",
+    "liveUrl": "https://engjurado.github.io/profile-card/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/EngJurado/profile-card",
+        "name": "profile-card",
+        "full_name": "EngJurado/profile-card",
+        "description": "This project is a web application built with Astro to create a profile card featuring social media links.",
+        "stargazers_count": 3,
+        "created_at": "2024-08-29T23:19:27Z",
+        "updated_at": "2025-04-11T04:24:46Z",
+        "pushed_at": "2024-10-07T20:16:23Z",
+        "git_url": "git://github.com/EngJurado/profile-card.git",
+        "ssh_url": "git@github.com:EngJurado/profile-card.git",
+        "clone_url": "https://github.com/EngJurado/profile-card.git",
+        "homepage": "https://engjurado.github.io/profile-card/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fb075huqovvu53xjgec1b1jop514v41ct1welml.webp&w=1600&h=900&f=webp"
+    ]
+}

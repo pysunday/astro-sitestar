@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/celestialdocs/",
+    "name": "celestialdocs",
+    "title": "CelestialDocs",
+    "desc": "CelestialDocs is a simple and versatile documentation template built with Astro. It provides a clean and minimal interface for creating documentation websites, leveraging the power of Astro and Tailwind CSS for a streamlined user experience.",
+    "article": "",
+    "typeUrl": "https://github.com/HYP3R00T/CelestialDocs",
+    "liveUrl": "https://celestialdocs.hyperoot.dev/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/HYP3R00T/CelestialDocs",
+        "name": "CelestialDocs",
+        "full_name": "HYP3R00T/CelestialDocs",
+        "description": "CelestialDocs is a minimal and versatile documentation template built with Astro and Tailwind CSS. It offers a clean interface, fast static site generation, and modern UI components with Shadcn UI. Easily customizable, it's perfect for creating well-structured documentation sites.",
+        "stargazers_count": 58,
+        "created_at": "2024-07-22T11:28:59Z",
+        "updated_at": "2025-07-23T00:38:43Z",
+        "pushed_at": "2025-02-22T08:53:28Z",
+        "git_url": "git://github.com/HYP3R00T/CelestialDocs.git",
+        "ssh_url": "git@github.com:HYP3R00T/CelestialDocs.git",
+        "clone_url": "https://github.com/HYP3R00T/CelestialDocs.git",
+        "homepage": "https://celestialdocs.hyperoot.dev"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fqnuh8psxegdvpeix6ro4j80kmu2xkib3a01e67.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F30o6oreyad6fgu5652ifxnbr1gk5yr50do89bt.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F2jgoy3wbi5f4db98jx0bsnlr8jo7zp2mnkxdo5.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fwajsip0n1tysrwlna289qpwkawkevjlcas607p.webp&w=1600&h=900&f=webp"
+    ]
+}

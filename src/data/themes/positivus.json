@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/positivus/",
+    "name": "positivus",
+    "title": "positivus",
+    "desc": "A stunning and versatile Astro theme designed for digital marketing agencies.",
+    "article": "<p>Introducing <strong>Positivus</strong> - a stunning and versatile Astro theme designed for digital marketing agencies.</p><p><br/></p><p>Built with clean, modern aesthetics and leveraging the power of Astro and Tailwind, Positivus empowers you to craft a captivating website that showcases your agency's expertise and fosters trust with potential clients.</p><h3>Theme Features</h3><p>Leveraging the power of Astro and Tailwind CSS, Positivus offers:</p><ul><li>Clean and modern design.</li><li>SEO-friendly.</li><li>Multiple Layouts.</li><li>Seamless Navigation.</li><li>Pre-built Sections.</li><li>Customizable Components.</li><li>Mobile-Responsiveness.</li></ul>",
+    "typeUrl": "https://github.com/manulthanura/Positivus",
+    "liveUrl": "https://positivustheme.vercel.app",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/manulthanura/Positivus",
+        "name": "Positivus",
+        "full_name": "manulthanura/Positivus",
+        "description": "A stunning and versatile Astro theme designed for digital marketing agencies.",
+        "stargazers_count": 245,
+        "created_at": "2024-04-08T12:31:37Z",
+        "updated_at": "2025-08-04T22:46:49Z",
+        "pushed_at": "2024-12-17T05:14:05Z",
+        "git_url": "git://github.com/manulthanura/Positivus.git",
+        "ssh_url": "git@github.com:manulthanura/Positivus.git",
+        "clone_url": "https://github.com/manulthanura/Positivus.git",
+        "homepage": "https://positivustheme.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fab9d2ehh9t9fkx7w18hk6gus5dipjdphfmyu8n.webp&w=1600&h=900&f=webp"
+    ]
+}

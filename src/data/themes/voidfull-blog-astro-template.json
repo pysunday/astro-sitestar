@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/voidfull-blog-astro-template/",
+    "name": "voidfull-blog-astro-template",
+    "title": "Voidfull Blog Astro Template",
+    "desc": "Use this template to quickly get started by creating a Blog for your own Product / Company using Voidfull.",
+    "article": "",
+    "typeUrl": "https://github.com/voidfull-templates/astro-blog",
+    "liveUrl": "https://astro-blog-template.voidfull.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/voidfull-templates/astro-blog",
+        "name": "astro-blog",
+        "full_name": "voidfull-templates/astro-blog",
+        "description": null,
+        "stargazers_count": 5,
+        "created_at": "2024-08-18T14:22:46Z",
+        "updated_at": "2025-07-06T15:03:26Z",
+        "pushed_at": "2024-10-24T13:14:58Z",
+        "git_url": "git://github.com/voidfull-templates/astro-blog.git",
+        "ssh_url": "git@github.com:voidfull-templates/astro-blog.git",
+        "clone_url": "https://github.com/voidfull-templates/astro-blog.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Feweo33ki6xmfgaw44lv233srgg371j1vr7se30.webp&w=1600&h=900&f=webp"
+    ]
+}

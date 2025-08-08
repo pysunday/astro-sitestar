@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/glyptodon/",
+    "name": "glyptodon",
+    "title": "Glyptodon",
+    "desc": "A minimal, modern fluid theme with mesh gradients for personal writing and portfolios.",
+    "article": "<p>A personal website theme with soft, engaging gradients in cold winter colors, perfect for a personal blog or a portfolio displaying your work. Light and dark modes are shown based on the user's system preferences.</p><p><br/></p><p>I've used newer CSS techniques to resize the text and grids dynamically and fluidly based on any screen size. If you'd like a different color scheme, I've included notes with tools to find a good palette and ensure the text colors are legible and accessible.</p><p><br/></p><p>You can demo this site at <a href=\"https://glyptodon-demo.netlify.app/\" rel=\"nofollow ugc\">https://glyptodon-demo.netlify.app/ </a> or my website, which uses a modified version of the theme, at <a href=\"http://www.timeaton.dev\" rel=\"nofollow ugc\">http://www.timeaton.dev</a>.</p>",
+    "typeUrl": "https://github.com/yakbrother/glyptodon/",
+    "liveUrl": "https://glyptodon-demo.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/yakbrother/glyptodon",
+        "name": "glyptodon",
+        "full_name": "yakbrother/glyptodon",
+        "description": "Blog template for Astro",
+        "stargazers_count": 8,
+        "created_at": "2025-01-07T16:49:03Z",
+        "updated_at": "2025-06-08T08:27:34Z",
+        "pushed_at": "2025-05-27T21:01:09Z",
+        "git_url": "git://github.com/yakbrother/glyptodon.git",
+        "ssh_url": "git@github.com:yakbrother/glyptodon.git",
+        "clone_url": "https://github.com/yakbrother/glyptodon.git",
+        "homepage": "http://www.timeaton.dev"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F9ontpslqqlylg2dwb22h8x91xep0gv0o5v6rch.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F87v2jpqmawhcoq0nl0dxyb7l3pc43ynwu4gn2j.webp&w=1600&h=900&f=webp"
+    ]
+}

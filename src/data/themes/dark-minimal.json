@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/dark-minimal/",
+    "name": "dark-minimal",
+    "title": "Oscar Hernandez",
+    "desc": "A sleek and modern portfolio theme for developers, featuring a dark mode design, responsive layout, and customizable skill sections.",
+    "article": "<p><strong>Modern Developer Portfolio Theme</strong></p><p> An elegant and professional design for software developers looking to showcase their expertise and skills. This theme includes:</p><ul><li><strong>Minimalist dark interface:</strong> Perfect for a clean and professional visual experience.</li><li><strong>Standout typography:</strong> Modern, accessible fonts that prioritize clarity and aesthetics.</li><li><strong>Support for modern technologies:</strong> Customizable icons and sections to highlight your tools and skills like Astro, React, TypeScript, and more.</li><li><strong>Responsive design:</strong> Optimized for both desktop and mobile screens.</li><li><strong>Intuitive interactivity:</strong> Smooth dropdown menus for sections like \"What I Do?\" to showcase areas of expertise.</li><li><strong>Personalized touches:</strong> Unique details like animated code in the background for added visual impact.</li></ul><p>Ideal for frontend developers and anyone seeking a sophisticated online presence.</p>",
+    "typeUrl": "https://github.com/Gothsec/Portfolio",
+    "liveUrl": "https://oscarhernandez.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Gothsec/Portfolio",
+        "name": "Portfolio",
+        "full_name": "Gothsec/Portfolio",
+        "description": "Portfolio built with Astro, React, TypeScript and TailwindCSS.",
+        "stargazers_count": 141,
+        "created_at": "2024-06-17T17:08:10Z",
+        "updated_at": "2025-08-07T23:32:47Z",
+        "pushed_at": "2025-08-07T17:21:15Z",
+        "git_url": "git://github.com/Gothsec/Portfolio.git",
+        "ssh_url": "git@github.com:Gothsec/Portfolio.git",
+        "clone_url": "https://github.com/Gothsec/Portfolio.git",
+        "homepage": "https://oscarhernandez.vercel.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fgdsmjish18p64lpzdcogyahd5wnp5tu9qsth1p.webp&w=1600&h=900&f=webp"
+    ]
+}

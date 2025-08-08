@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-micro/",
+    "name": "astro-micro",
+    "title": "Astro Micro",
+    "desc": "Blog with search, comments, and zero frameworks. Now on Astro 5.0!",
+    "article": "<p>Astro Micro is an accessible theme for Astro. It's a fork of <a href=\"https://github.com/markhorn-dev\" rel=\"nofollow ugc\">Mark Horn's</a> popular theme <a href=\"https://astro.build/themes/details/astronano/\">Astro Nano</a>. Like Nano, Micro comes with zero frameworks installed.</p><p><br/></p><p>Micro adds features like <a href=\"https://pagefind.app\" rel=\"nofollow ugc\">Pagefind</a> for search, <a href=\"https://giscus.app\" rel=\"nofollow ugc\">Giscus</a> for comments, and more. For a full list of changes, see this <a href=\"https://astro-micro.vercel.app/blog/00-micro-changelog\" rel=\"nofollow ugc\">blog post</a>.</p><p><br/></p><p>Micro still comes with everything great about Nano â full type safety, a sitemap, an RSS feed, and Markdown + MDX support. Styled with TailwindCSS and preconfigured with system, light, and dark themes.</p><p><br/></p><p>Visit <a href=\"https://github.com/trevortylerlee/astro-micro\" rel=\"nofollow ugc\">Astro Micro</a> on Github to get started.</p>",
+    "typeUrl": "https://github.com/trevortylerlee/astro-micro",
+    "liveUrl": "https://astro-micro.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/trevortylerlee/astro-micro",
+        "name": "astro-micro",
+        "full_name": "trevortylerlee/astro-micro",
+        "description": "Blog theme for Astro with search and comments built-in. Zero frameworks.",
+        "stargazers_count": 415,
+        "created_at": "2024-05-24T05:58:06Z",
+        "updated_at": "2025-08-06T19:29:32Z",
+        "pushed_at": "2025-07-28T20:45:05Z",
+        "git_url": "git://github.com/trevortylerlee/astro-micro.git",
+        "ssh_url": "git@github.com:trevortylerlee/astro-micro.git",
+        "clone_url": "https://github.com/trevortylerlee/astro-micro.git",
+        "homepage": "https://astro-micro.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fpsv03l747aocnjhs669aq3geh3h50kdbfzxpsm.webp&w=1600&h=900&f=webp"
+    ]
+}

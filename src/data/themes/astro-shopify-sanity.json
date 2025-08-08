@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-shopify-sanity/",
+    "name": "astro-shopify-sanity",
+    "title": "Astro Shopify Sanity",
+    "desc": "A lightweight and powerful e-commerce theme to build headless Shopify storefronts with Astro and manage content with Sanity.",
+    "article": "<p>This theme is an extension of the work done by <a href=\"https://github.com/thomasKn\" rel=\"nofollow ugc\">ThomasKn</a>. If you want to check the original code, <a href=\"https://github.com/thomasKn/astro-shopify\" rel=\"nofollow ugc\">click here</a>.</p><p>This reposition adds a Sanity studio content management system, synced with Shopify for better control on your website. I also added variant selection to product pages for a more featured theme.</p><p>The theme is built with Svelte components and you can use any framework you like (Vue, Solid etc.) thanks to Astro. Tailwind CSS 4 is used for styling with a modern design system.</p>",
+    "typeUrl": "https://github.com/jazsouf/astro-shopify-sanity",
+    "liveUrl": "https://astro-shopify-sanity-theme.netlify.app",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/jazsouf/astro-shopify-sanity",
+        "name": "astro-shopify-sanity",
+        "full_name": "jazsouf/astro-shopify-sanity",
+        "description": "A lightweight and powerful e-commerce theme to build headless Shopify storefronts with Astro and manage content with Sanity.",
+        "stargazers_count": 10,
+        "created_at": "2024-12-16T20:35:54Z",
+        "updated_at": "2025-07-21T07:46:04Z",
+        "pushed_at": "2025-06-14T09:40:22Z",
+        "git_url": "git://github.com/jazsouf/astro-shopify-sanity.git",
+        "ssh_url": "git@github.com:jazsouf/astro-shopify-sanity.git",
+        "clone_url": "https://github.com/jazsouf/astro-shopify-sanity.git",
+        "homepage": "https://astro-shopify-sanity-theme.netlify.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fs1zhhhak3p891z4t5ajq1go9l3erxrnku24s3j.webp&w=1600&h=900&f=webp"
+    ]
+}

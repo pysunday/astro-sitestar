@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/blogcord/",
+    "name": "blogcord",
+    "title": "BlogCord",
+    "desc": "A discord theme blog site made in astro and tailwind.",
+    "article": "",
+    "typeUrl": "https://github.com/tanmaydot/TheBlogMaster",
+    "liveUrl": "https://the-blog-master.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/tanmaydot/BlogCord",
+        "name": "BlogCord",
+        "full_name": "tanmaydot/BlogCord",
+        "description": null,
+        "stargazers_count": 1,
+        "created_at": "2023-08-04T06:38:57Z",
+        "updated_at": "2025-02-18T15:27:23Z",
+        "pushed_at": "2024-07-26T07:20:44Z",
+        "git_url": "git://github.com/tanmaydot/BlogCord.git",
+        "ssh_url": "git@github.com:tanmaydot/BlogCord.git",
+        "clone_url": "https://github.com/tanmaydot/BlogCord.git",
+        "homepage": "https://the-blog-master.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F79wkwxiepnmcwwqxlres8zj55a0hqe3thskfi2.webp&w=1600&h=900&f=webp"
+    ]
+}

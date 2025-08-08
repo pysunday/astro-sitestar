@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/payflo-fintech-saas-payroll-theme/",
+    "name": "payflo-fintech-saas-payroll-theme",
+    "title": "Payflo - Fintech SaaS Payroll Theme",
+    "desc": "A professional Astro 5 fintech theme with 12+ pages, 25+ components, and complete blog system for payroll and embedded finance companies. Built with TypeScript and Tailwind CSS, featuring full accessibility compliance and performance optimization.",
+    "article": "<h2><strong>Payflo Payroll Solution Theme</strong></h2><p>A professional Astro 5 fintech theme with 12+ pages, 25+ components, and complete blog system for payroll and embedded finance companies. Built with TypeScript and Tailwind CSS, featuring full accessibility compliance and performance optimization.</p><p><br/></p><p><strong>Technologies:</strong></p><ul><li>Astro 5.7</li><li>TypeScript  </li><li>Tailwind CSS</li><li>Content Collections</li></ul><p><br/></p><p>A professional Astro 5 theme designed for fintech and payroll solution companies that need to demonstrate complex B2B software capabilities through clean, modern web experiences. Perfect for showcasing API-first infrastructure, embedded finance solutions, and developer tools.</p><h3><strong>FEATURES:</strong></h3><p>ð <strong>Built with Astro 5.7</strong> - Latest framework with optimal performance</p><p>ð¨ <strong>Tailwind CSS Design System</strong> - Consistent, customizable brand styling</p><p>ð± <strong>Fully Responsive Design</strong> - Mobile-first approach across all devices</p><p>ð <strong>SEO Optimized</strong> - Complete meta tags, structured data, and sitemap</p><p>ð <strong>Perfect Lighthouse Scores</strong> - Optimized for performance and accessibility</p><p>ð¯ <strong>Content Collections</strong> - Modern blog system with type-safe content management</p><p>â¿ <strong>WCAG Compliant</strong> - Full accessibility support with screen reader optimization</p><p>ð§ <strong>Easy Customization</strong> - Component-based architecture for rapid development</p><h3><strong>COMPREHENSIVE PAGE COLLECTION:</strong></h3><p><strong>ð 12+ Pre-built Pages:</strong></p><p>- Landing page with hero section and feature showcase</p><p>- Product overview with technical specifications</p><p>- Solutions page for different use cases  </p><p>- Pricing with multiple tiers and feature comparison</p><p>- About Us with team profiles and company story</p><p>- Blog system with 4 sample articles and filtering</p><p>- Careers page for talent acquisition</p><p>- Case Studies for customer success stories</p><p>- Contact page with interactive elements</p><p>- Legal pages (Privacy Policy, Terms, Cookie Policy)</p><p>- Documentation hub with API reference</p><p>- Tutorial center for developer resources</p><p><br/></p><p><strong>ð§© 25+ Reusable Components:</strong></p><p>- Dynamic navigation with mobile menu</p><p>- Hero sections with call-to-action elements</p><p>- Feature grids with icon integration</p><p>- Testimonial carousels with customer quotes</p><p>- FAQ accordions with smooth animations</p><p>- Newsletter signup with form validation</p><p>- Footer with organized link sections</p><p>- Blog cards with reading time calculation</p><p>- Progress indicators and loading states</p><p>- Modal dialogs and interactive overlays</p><p><br/></p><p>Whether you're a fintech startup, established payroll provider, or SaaS platform adding embedded finance, this theme provides everything needed to communicate complex technical solutions through compelling visual design. The component-driven architecture ensures rapid customization while maintaining professional aesthetics that convert visitors into customers.</p><p><br/></p><p>The theme leverages Astro's island architecture for optimal performance, TypeScript for development confidence, and Tailwind CSS for maintainable styling. Perfect for companies in the embedded finance, payroll infrastructure, or developer tools space seeking to establish credibility and drive API adoption.</p>",
+    "typeUrl": "https://github.com/ctrimm/astro-payroll-solution-theme",
+    "liveUrl": "https://payflo.corytrimm.com",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/ctrimm/astro-payroll-solution-theme",
+        "name": "astro-payroll-solution-theme",
+        "full_name": "ctrimm/astro-payroll-solution-theme",
+        "description": "A SaaS Theme for a Fictional Payroll Provider with subtle animations",
+        "stargazers_count": 13,
+        "created_at": "2025-04-25T12:01:32Z",
+        "updated_at": "2025-08-05T05:25:13Z",
+        "pushed_at": "2025-07-16T11:17:12Z",
+        "git_url": "git://github.com/ctrimm/astro-payroll-solution-theme.git",
+        "ssh_url": "git@github.com:ctrimm/astro-payroll-solution-theme.git",
+        "clone_url": "https://github.com/ctrimm/astro-payroll-solution-theme.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fy0u8xt98xnlf2zi90qcg0gfk2xrpe7x892lege.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F54vlgyv82g6rhpu5ljhb06m2gqyjffals66kpz.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fwmdbwq9vap3d3ld33ynmmvaoattjutmb2pana7.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fmhrxu77w3sfpv53q966d66tyqlnpdufsir6ggp.webp&w=1600&h=900&f=webp"
+    ]
+}

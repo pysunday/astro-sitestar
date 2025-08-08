@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/minimalistic-astro-blog/",
+    "name": "minimalistic-astro-blog",
+    "title": "Minimalistic Astro Blog",
+    "desc": "A modern, minimalist, high-performance blog platform built with Astro.js",
+    "article": "<p>ð <strong>Maximum Performance</strong> - Built with Astro.js for lightning-fast static sites</p><p>ð¨ <strong>Minimalist Design</strong> - Clean UI that focuses on content</p><p>ð <strong>Light/Dark Mode</strong> - Smooth theme switching</p><p>ð± <strong>Responsive </strong>- Perfect experience on all devices</p><p>â¡ <strong>SPA Transitions</strong> - Smooth page navigation with transition effects</p><p>ð <strong>Markdown &amp; MDX </strong>- Write posts with Markdown and extend with MDX</p><p>ð<strong> SEO Optimized</strong> - Meta tags, Open Graph, and Twitter Cards</p><p>ð <strong>Analytics</strong> - Reading time, views, and statistics</p><p>ð <strong>Categorization</strong> - Tags and categories system</p><p>ð <strong>RSS Feed</strong> - Automatically generated RSS feed</p><p>ðµ <strong>Spotify Integration</strong> - Display currently playing track</p><p>ð <strong>Internationalization Ready</strong> - Prepared for multiple languages</p><p>ð <strong>Secure</strong> - No unnecessary client-side JavaScript</p>",
+    "typeUrl": "https://github.com/williamcachamwri/astro-blog",
+    "liveUrl": "https://astro-blog-pi-ashen.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/williamcachamwri/astro-blog",
+        "name": "astro-blog",
+        "full_name": "williamcachamwri/astro-blog",
+        "description": "A modern, minimalist, high-performance blog platform built with Astro.js",
+        "stargazers_count": 19,
+        "created_at": "2025-04-03T16:47:22Z",
+        "updated_at": "2025-08-07T14:33:38Z",
+        "pushed_at": "2025-04-09T16:02:12Z",
+        "git_url": "git://github.com/williamcachamwri/astro-blog.git",
+        "ssh_url": "git@github.com:williamcachamwri/astro-blog.git",
+        "clone_url": "https://github.com/williamcachamwri/astro-blog.git",
+        "homepage": "https://astro-blog-pi-ashen.vercel.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fdaik19j3p4khfroidwx6m2626hwjthjaf02xq2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fztesbl4r5psgo67f57nbun0p75vstfh4w1d3cs.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://astro.build/themes/details/wholesome-dev-portfolio/",
+    "name": "wholesome-dev-portfolio",
+    "title": "Wholesome Dev Portfolio",
+    "desc": "A fun and interactive developer portfolio template with a wholesome aesthetic, built with Astro and Tailwind CSS.",
+    "article": "<h2>Key Features</h2><ul><li>ð¨ Fun &amp; professional design with wholesome aesthetic</li><li>ð Built with Astro &amp; Tailwind CSS for lightning-fast performance</li><li>ð Dark/Light mode with customizable themes</li><li>ð± Fully responsive on all devices</li><li>ð Integrated blog with Markdown support</li><li>ð­ Playful animations (customizable or disable-able)</li><li>â¿ Accessibility features with reduced motion options</li><li>ð SEO optimized with meta tags and sitemaps</li><li>ð ï¸ Easy to customize and extend</li></ul>",
+    "typeUrl": "https://buy.polar.sh/polar_cl_5NtafjUlnPDGUd9hSq31VmDvQFucixEU7m1i82A7pdj",
+    "liveUrl": "https://wholesome-portfolio.larryxue.dev",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fz5lkfj4zbohiryk8znf2k8g1rdnhdpwnepauwx.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F58v85ay2l92ncrrbv758m7mdvitj06xgwfl4on.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F60uowstzg23hssow8i6oxydaop8vh6pgyod5un.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fi0oq8f4cetj23lay5ygnml8p756tth9mq6f1r7.webp&w=1600&h=900&f=webp"
+    ]
+}

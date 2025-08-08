@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/frieren-blog-kit/",
+    "name": "frieren-blog-kit",
+    "title": "Frieren Blog Kit",
+    "desc": "A beautifully designed Astro blog theme inspired by the beloved anime, Frieren. Perfect for fans who want a stylish, anime-themed blog with a modern touch.",
+    "article": "<p>The Astro Frieren Blog Kit is a blog theme inspired by the anime <em>Frieren</em>, designed for fans who want a stylish, anime-themed blog.</p><p><strong>Features:</strong></p><ul><li><strong>Markdown Support:</strong> Write faster with simple, easy formatting.</li><li><strong>Obsidian Integration:</strong> Draft and publish directly from your Obsidian vault.</li><li><strong>Beginner-Friendly:</strong> Easy to customize, even for new coders, thanks to Astro components!</li></ul><p>Download the Astro Frieren Blog Kit and start your anime-themed blog today!</p>",
+    "typeUrl": "https://github.com/fishingelephants/astro-frieren-blog-kit",
+    "liveUrl": "https://astro-frieren-blog-kit.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/leifjerami/astro-frieren-blog-kit",
+        "name": "astro-frieren-blog-kit",
+        "full_name": "leifjerami/astro-frieren-blog-kit",
+        "description": "An Astro blog theme inspired by the anime called Frieren",
+        "stargazers_count": 4,
+        "created_at": "2024-08-29T14:36:09Z",
+        "updated_at": "2025-06-12T03:20:51Z",
+        "pushed_at": "2025-06-12T03:20:48Z",
+        "git_url": "git://github.com/leifjerami/astro-frieren-blog-kit.git",
+        "ssh_url": "git@github.com:leifjerami/astro-frieren-blog-kit.git",
+        "clone_url": "https://github.com/leifjerami/astro-frieren-blog-kit.git",
+        "homepage": "https://astro-frieren-blog-kit.netlify.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fbl966876cilg6f32ibmpkzxts5x339126d2r5k.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F1frl2dvefjxsp9s8hlzkftoja2u77ldzusdar5.webp&w=1600&h=900&f=webp"
+    ]
+}

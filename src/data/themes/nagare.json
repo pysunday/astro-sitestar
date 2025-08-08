@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/nagare/",
+    "name": "nagare",
+    "title": "Nagare",
+    "desc": "A portfolio website template, featuring simplicity, beauty and clarity.",
+    "article": "<p>A modern personal portfolio website built with the Astro framework. It offers a clean, responsive interface to showcase your projects, experience, and contact information.</p><p><br/></p><h3>Features</h3><ul><li>Responsive Design</li><li>Project Showcase Page</li><li>Timeline/Updates Page</li><li>Contact Information Page</li><li>Resume Page</li></ul>",
+    "typeUrl": "https://github.com/angine04/nagare",
+    "liveUrl": "https://nagare.angine.tech/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/angine04/nagare",
+        "name": "nagare",
+        "full_name": "angine04/nagare",
+        "description": "A portfolio website template featuring simplicity, beauty and clarity.",
+        "stargazers_count": 9,
+        "created_at": "2025-05-07T14:47:48Z",
+        "updated_at": "2025-07-18T17:20:02Z",
+        "pushed_at": "2025-07-11T11:55:49Z",
+        "git_url": "git://github.com/angine04/nagare.git",
+        "ssh_url": "git@github.com:angine04/nagare.git",
+        "clone_url": "https://github.com/angine04/nagare.git",
+        "homepage": "https://nagare.angine.tech"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fdw1izhe0czdp82zrwpt667cltkm4vu6e9ov6jg.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fuo6juy1g7z66zlz6bcyt0m6bdf0c882etxmiiz.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F1nx1idx6jfnat6p6cpp48jlhab3o15a8qlht06.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F7jx3uxsl7n6ckmcig8w7kouj8z9c6xgjuwhdqm.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fn5a6kzzpfe44tlfgdxg5zanjsxplrvqg4ex7vo.webp&w=1600&h=900&f=webp"
+    ]
+}

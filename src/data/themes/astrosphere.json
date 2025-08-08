@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astrosphere/",
+    "name": "astrosphere",
+    "title": "AstroSphere",
+    "desc": "Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog.",
+    "article": "<h2>ð Features</h2><p><br/></p><ul><li>â 100/100 Lighthouse performance</li><li>â Responsive</li><li>â Accessible</li><li>â SEO-friendly</li><li>â Typesafe</li><li>â Minimal style</li><li>â Light/Dark Theme</li><li>â Animated UI</li><li>â Tailwind styling</li><li>â Auto generated sitemap</li><li>â Auto generated RSS Feed</li><li>â Markdown support</li><li>â MDX Support (components in your markdown)</li><li>â Searchable content (posts and projects)</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/markhorn-dev/astro-sphere",
+    "liveUrl": "https://astro-sphere-demo.vercel.app",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/markhorn-dev/astro-sphere",
+        "name": "astro-sphere",
+        "full_name": "markhorn-dev/astro-sphere",
+        "description": "Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog.",
+        "stargazers_count": 551,
+        "created_at": "2024-03-18T13:54:42Z",
+        "updated_at": "2025-08-05T09:30:34Z",
+        "pushed_at": "2025-06-16T12:04:02Z",
+        "git_url": "git://github.com/markhorn-dev/astro-sphere.git",
+        "ssh_url": "git@github.com:markhorn-dev/astro-sphere.git",
+        "clone_url": "https://github.com/markhorn-dev/astro-sphere.git",
+        "homepage": "https://astro-sphere-demo.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3ouqxyrf0eupg3y5c26bwnjs6f214s9kjur2xp.webp&w=1600&h=900&f=webp"
+    ]
+}

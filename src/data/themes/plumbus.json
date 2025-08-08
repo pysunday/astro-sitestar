@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/plumbus/",
+    "name": "plumbus",
+    "title": "Plumbus",
+    "desc": "A stunning, interdimensional landing page for the mysterious yet ubiquitous Plumbus. Built with Astro and enhanced with cosmic animations.",
+    "article": "<h2>â¨ Features</h2><p><br/></p><ul><li>ð¨ Stunning visual design with cosmic animations</li><li>ð± Fully responsive across all dimensions</li><li>ð Built with Astro for optimal performance</li><li>ð Interactive UI elements with portal effects</li><li>ð Dynamic content management via JSON</li><li>ð­ Custom animations and transitions</li><li>ð SEO optimized for interdimensional search</li><li>ð Blog section with MDX support</li><li>ð¯ Quantum-crystalline verification system</li><li>ð¡ï¸ Galactic Federation compliance built-in</li></ul><h2>ð  Tech Stack</h2><p><br/></p><ul><li><a href=\"https://astro.build/\">Astro</a> - The web framework for content-driven websites</li><li>Modern CSS with custom properties</li><li>Responsive images and lazy loading</li><li>JSON-based content management</li><li>Advanced CSS animations</li><li>MDX for enhanced content creation</li><li>RSS feed support</li></ul><h2>ð Security Features</h2><p><br/></p><ul><li>Galactic Federation ID verification</li><li>Quantum-crystalline authentication</li><li>Interdimensional access controls</li><li>Temporal paradox prevention</li><li>Fleeb juice encryption standards</li></ul><h2>ð License</h2><p><br/></p><p>MIT License - feel free to use this across any dimension</p><h2>ð Credits</h2><p><br/></p><ul><li>Design inspired by interdimensional aesthetics</li><li>Images sourced from various dimensions</li><li>Built with love by the Council of Ricks</li><li>Fleeb juice provided by certified Fleeb farmers</li><li>Schlami testing by professional Schlamis</li></ul><h2>ð¤ Contributing</h2><p><br/></p><ol><li>Fork the repository</li><li>Create your feature branch</li><li>Commit your changes</li><li>Push to the branch</li><li>Open a pull request</li></ol><h3>Development Guidelines</h3><p><br/></p><ul><li>Follow the Interdimensional Style Guide</li><li>Test across multiple dimensions</li><li>Verify Fleeb compatibility</li><li>Maintain Schlami standards</li><li>Document any temporal anomalies</li></ul><h2>ð« Special Thanks</h2><p><br/></p><p>Special thanks to:</p><ul><li>The Plumbus manufacturers</li><li>All the Fleeb juice providers</li><li>The Council of Ricks</li><li>Interdimensional quality testers</li><li>Beta dimension users</li><li>Quantum uncertainty reducers</li></ul><p><br/></p><p>Remember: Every Plumbus is unique, just like the dimension it comes from!</p>",
+    "typeUrl": "https://github.com/temaprint/plumbus",
+    "liveUrl": "https://plumbus.temaprint.com",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/temaprint/plumbus",
+        "name": "plumbus",
+        "full_name": "temaprint/plumbus",
+        "description": "A stunning, interdimensional landing page for the mysterious yet ubiquitous Plumbus. Built with Astro and enhanced with cosmic animations.",
+        "stargazers_count": 6,
+        "created_at": "2025-04-05T13:55:21Z",
+        "updated_at": "2025-07-20T22:32:19Z",
+        "pushed_at": "2025-04-05T14:02:16Z",
+        "git_url": "git://github.com/temaprint/plumbus.git",
+        "ssh_url": "git@github.com:temaprint/plumbus.git",
+        "clone_url": "https://github.com/temaprint/plumbus.git",
+        "homepage": "https://plumbus.temaprint.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fz3cexjkakkpzj9fpaqv8fcgmwsrpd1ecm18e3y.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fz0em1099v157tk9kwf6mggyuq8fpki6n2hrx9a.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F4838nnp4b73plj9egyg15e3qni8yosga96jqn6.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fn7206q8tranodn92ctmwhhufaq77d9086prebr.webp&w=1600&h=900&f=webp"
+    ]
+}

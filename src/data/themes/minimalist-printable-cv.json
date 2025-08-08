@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/minimalist-printable-cv/",
+    "name": "minimalist-printable-cv",
+    "title": "Minimalist Printable CV",
+    "desc": "Simple, minimalist, printable CV",
+    "article": "<p>A simple, minimalist and printable CV inspired by <a href=\"https://github.com/BartoszJarocki/cv\" rel=\"nofollow ugc\">Minimalist CV by Bartosz Jarocki</a> with some extra features.</p><p><br/></p><p>Built with Astro and Tailwind.</p><p><br/></p><p>Includes <a href=\"https://jsonresume.org/\" rel=\"nofollow ugc\">JSON Resume</a> compatible API</p>",
+    "typeUrl": "https://github.com/JanVavrinek/cv",
+    "liveUrl": "https://cv-aru.pages.dev/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/JanVavrinek/cv",
+        "name": "cv",
+        "full_name": "JanVavrinek/cv",
+        "description": "A simple Astro CV",
+        "stargazers_count": 2,
+        "created_at": "2024-04-18T19:47:42Z",
+        "updated_at": "2025-04-11T04:23:57Z",
+        "pushed_at": "2025-01-05T16:41:58Z",
+        "git_url": "git://github.com/JanVavrinek/cv.git",
+        "ssh_url": "git@github.com:JanVavrinek/cv.git",
+        "clone_url": "https://github.com/JanVavrinek/cv.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Farpa7ai3b4z16yhir4w0skjxvvcdol1isth7tr.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F0ry8yjsxv9q303lkkn31o2jmnabr5f1dr6qh1d.webp&w=1600&h=900&f=webp"
+    ]
+}

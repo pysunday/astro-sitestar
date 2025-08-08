@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/alfadev-astro-starter/",
+    "name": "alfadev-astro-starter",
+    "title": "Alfadev-Astro-Starter",
+    "desc": "An Astro Starter ð ï¸ - batteries-included - designed for content-driven pages like portfolios, landing pages, showcases, and more.\r\n\r\nWith a focus on simplicity, speed, and developer happiness, this starter helps you skip the repetitive boilerplate setup and dive straight into creating.\r\n\r\n",
+    "article": "<p><strong>An Astro Starter</strong> ð ï¸ - <em>batteries-included </em>- designed for content-driven pages like portfolios, landing pages, showcases, and more.</p><p><br/></p><p>With a focus on simplicity, speed, and developer happiness, this starter helps you skip the repetitive boilerplate setup and dive straight into creating.  </p><p><br/></p><h2>ð¨ Design Philosophy</h2><p>The mantra is simple: <strong>\"Don't make me think\"</strong>. This starter is designed to be as <strong>unobtrusive as possible</strong>, providing you with the tools and guidelines needed to focus on what's important, and with the minimal amount of code to get you started.</p><p><br/></p><p>Our goals are:</p><p><br/></p><ul><li><strong>Ready in minutes:</strong> Get started quickly with a pre-configured setup.</li><li><strong>Don't make me think:</strong>Spend your time building, not understanding the template.</li><li><strong>Simple and clean:</strong> The codebase is minimal and clean.</li></ul><p><br/></p><h2>â¨ Features</h2><p>Why choose <strong>alfadev-astro-starter</strong>?</p><p><br/></p><p>The starter is designed to be <strong>the less intrusive as possible</strong>, providing you with the tools and guidelines needed to focus on what's important, and with the minimal amount of code to get you started, because <strong>you don't want another template that you have to spend hours removing unnecessary code</strong>.</p><p><br/></p><ul><li><strong>Simple: </strong>Lightweight and easy to use. No unnecessary complexity.</li><li><strong>Up-to-Date:</strong> Built with the latest versions of **Astro**, **TailwindCSS**, and **Sass**, following best practices.</li><li><strong>SEO Friendly:</strong> Boost your site's visibility with built-in SEO configurations for each page and automatic [sitemap](https://docs.astro.build/es/guides/integrations-guide/sitemap). generation.</li><li><strong>Extendable:</strong> Easily add or edit content using markdown files with the power of [Astro]</li><li><strong>Focused:</strong> Spend your time building, do not waste your time understanding the template.</li><li><strong>Intuitive:</strong> Project structure is designed to be easy to understand and navigate. And the built-in codebase is minimal and clean.</li><li><strong>Customizable:</strong> Adapt every corner of the template to fit your needs. The code is yours to change. The </li><li><strong>Themable:</strong> Fully supports dark theme with a simple and extensible system.  </li><li><strong>Lightweight:</strong> Assets are optimized for minimal load times with [sharp](https://sharp.pixelplumbing.com/).</li><li><strong>Content-Centric:</strong> Perfect for showcasing content like services, portfolios, or products.  </li><li><strong>Developer-Friendly:</strong> Built for developers who value simplicity, flexibility, and modern tools.</li><li><strong>Reduced Boilerplate:</strong> Get started quickly with a pre-configured setup.</li></ul>",
+    "typeUrl": "https://github.com/diego-alfadev/alfadev-astro-starter",
+    "liveUrl": "https://astro-starter.alfadev.io/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/diego-alfadev/alfadev-astro-starter",
+        "name": "alfadev-astro-starter",
+        "full_name": "diego-alfadev/alfadev-astro-starter",
+        "description": "**An Astro Starter** 🛠️ - *batteries-included* - designed for content-driven pages like portfolios, landing pages, showcases, and more.",
+        "stargazers_count": 41,
+        "created_at": "2024-11-29T17:54:33Z",
+        "updated_at": "2025-07-27T08:59:18Z",
+        "pushed_at": "2024-12-03T17:28:27Z",
+        "git_url": "git://github.com/diego-alfadev/alfadev-astro-starter.git",
+        "ssh_url": "git@github.com:diego-alfadev/alfadev-astro-starter.git",
+        "clone_url": "https://github.com/diego-alfadev/alfadev-astro-starter.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Feudkxih5uxhroq4qk8dxgwzbmn5okzjkqiv0gk.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F224ossmu64ej1m3x5hg8ylu6oliq1sahxru221.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ffpxhlxvig2nih7m6j9121sth6hoiukcgv4afk8.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fdch6ozfmyq8mj7l900ejznmyaoafcpar7s5o98.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fgvsdhjysb2os02ftig0rhb6i38o5w0z2yt9yxs.webp&w=1600&h=900&f=webp"
+    ]
+}

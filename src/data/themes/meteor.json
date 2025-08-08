@@ -1,0 +1,16 @@
+{
+    "url": "https://astro.build/themes/details/meteor/",
+    "name": "meteor",
+    "title": "Meteor",
+    "desc": "A minimalistic, clean & modern personal website & blog Astro theme.",
+    "article": "<p>Built using <a href=\"http://astro.build\" rel=\"nofollow ugc\">Astro</a>, <a href=\"http://tailwindcss.com\" rel=\"nofollow ugc\">Tailwind CSS</a>, <a href=\"https://preactjs.com/\" rel=\"nofollow ugc\">Preact</a> &amp; <a href=\"http://typescriptlang.org\" rel=\"nofollow ugc\">TypeScript</a>.</p><p><br/></p><p>â­ View Demo: <a href=\"http://meteor.butterythemes.com\" rel=\"nofollow ugc\">meteor.butterythemes.com</a></p><h3><strong>What do I get when I purchase this?</strong></h3><p>After purchase you will be provided a URL to download a zip archive that contains the source code for the Astro project with a guide on how to set it up &amp; use it.</p><p><br/></p><p>Made with ð by <a href=\"https://twitter.com/nurodev\" rel=\"nofollow ugc\">Ben</a> @ <a href=\"http://butterythemes.com\" rel=\"nofollow ugc\">Buttery Themes</a></p>",
+    "typeUrl": "https://butterythemes.com/buy/959f821b-3729-4c56-8247-5dc8496171b3",
+    "liveUrl": "https://meteor.butterythemes.com",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ftspyr1mojdwysatdd7m1ekqwy45mb3y02jucrr.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fvpuph2yh7tppd9yn6k7jy801dxnf4ukv70xibg.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fhgfje95kfzpemh9jeg9nb6btti6mvwuecd0yk2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fj27vqq8r40vnsohmjtabkweyb9adgcsm57ndyu.webp&w=1600&h=900&f=webp"
+    ]
+}

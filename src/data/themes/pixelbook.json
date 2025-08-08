@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/pixelbook/",
+    "name": "pixelbook",
+    "title": "Pixelbook ",
+    "desc": "Starter static blog template minimally styled with PicoCSS. Equipped with out-of-the-box support for a Sitemap, RSS feed, dark/light modes, content collection configuration, Tailwind, content tags, and Iconify icons.",
+    "article": "<h2>Welcome to Pixelbook! </h2><p><br/></p><p>Inspired by <a href=\"https://eatonphil.com/\" rel=\"nofollow ugc\">eatonphil</a>, this template will get you writing as soon as possible. Care was taken to make sure that the content configuration and RSS feed setup is easy to extend as your blog and posting style develops. Open graph and standard best semantic html practices with <a href=\"https://github.com/mozilla/readability\" rel=\"nofollow ugc\">Mozilla readability.js</a> are implemented as well. </p><p><br/></p><p>Head over to the repository at <a href=\"https://github.com/skeptrunedev/pixelbook\" rel=\"nofollow ugc\">github.com/skeptrunedev/pixelbook</a> to get started.</p><h2>Features</h2><p><br/></p><ul><li><strong>Batteries included:</strong> Get started immediately with a ready-to-use setup. Start writing right away, no extensive configuration required.</li><li><strong>Fast by default: </strong>Leverage the power of Astro, Tailwind CSS, and Markdown to create fast, lightweight web pages.</li><li><strong>Extensible and customizable:</strong> Perfect foundation to build upon and meet your unique needs.</li><li><strong>SEO-friendly:</strong> Sitemap, RSS feeds, and Open Graph protocol support out of the box.</li><li><strong>Best practices:</strong> Follows industry best practices for development, ensuring high-quality, maintainable code.</li><li><strong>Accessible:</strong> Dark and light mode support, keyboard navigation, and semantic HTML. Fully compliant with WCAG standards.</li><li><strong>Free and open source:</strong> Read all of the <a href=\"https://github.com/skeptrunedev/pixelbook\" rel=\"nofollow ugc\">code on Github</a> and contribute to make this project even better!</li></ul><h2>Showcase</h2><p><br/></p><p>Visit the example site at <a href=\"https://pixelbook.skeptrune.com/\" rel=\"nofollow ugc\">pixelbook.skeptrune.com</a> to see how this theme looks in production.</p><p><br/></p><p><br/></p>",
+    "typeUrl": "https://github.com/skeptrunedev/pixelbook",
+    "liveUrl": "https://pixelbook.skeptrune.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/skeptrunedev/pixelbook",
+        "name": "pixelbook",
+        "full_name": "skeptrunedev/pixelbook",
+        "description": "AstroJS static blog template minimally styled with PicoCSS. Features include Sitemap, RSS feed, dark/light modes, content collection configuration, Tailwind, content tags, and Iconify icons.",
+        "stargazers_count": 10,
+        "created_at": "2025-04-14T05:49:27Z",
+        "updated_at": "2025-08-02T18:35:24Z",
+        "pushed_at": "2025-04-22T07:12:18Z",
+        "git_url": "git://github.com/skeptrunedev/pixelbook.git",
+        "ssh_url": "git@github.com:skeptrunedev/pixelbook.git",
+        "clone_url": "https://github.com/skeptrunedev/pixelbook.git",
+        "homepage": "https://pixelbook.skeptrune.com/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fw3rv2xp0gosgzchnio51zf4eluy8ny8wgz5erv.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fr56m8s7ao5d4jt5tit7vse1g1h2c952jjh890m.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F4dufgc4i58rnkwewrf6g8o6jmyo6pkxyprhpfk.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F0kjr7o58qura21w2qf1i652wf4phtnu5j2mg8v.webp&w=1600&h=900&f=webp"
+    ]
+}

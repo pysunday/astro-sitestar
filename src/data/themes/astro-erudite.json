@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/astro-erudite/",
+    "name": "astro-erudite",
+    "title": "astro-erudite",
+    "desc": "ð An opinionated, no-frills static blogging templateâbuilt with Astro, Tailwind, and shadcn/ui.",
+    "article": "<h2>astro-erudite</h2><p>astro-erudite is an opinionated, no-frills static blogging template built with <a href=\"https://astro.build/\">Astro</a>, <a href=\"https://tailwindcss.com/\" rel=\"nofollow ugc\">Tailwind</a>, and <a href=\"https://ui.shadcn.com/\" rel=\"nofollow ugc\">shadcn/ui</a>. Extraordinarily loosely based off the <a href=\"https://astro-micro.vercel.app/\" rel=\"nofollow ugc\">Astro Micro</a> theme.</p><p><br/></p><p>Visit <a href=\"https://github.com/jktrn/astro-erudite\" rel=\"nofollow ugc\">jktrn/astro-erudite</a> on GitHub to get started.</p><h3>Features</h3><p>- Astro's <a href=\"https://docs.astro.build/en/concepts/islands/\">Islands</a> architecture for partial/selective hydration and client-side interactivity while maintaining a fast-to-render static site.</p><p>- shadcn/ui's Tailwind color convention for automatic styling across both light and dark themes. Includes accessible, theme-aware UI components for navigation, buttons, etc.</p><p>- <a href=\"https://rehype-pretty.pages.dev/\" rel=\"nofollow ugc\">rehype-pretty-code</a> with <a href=\"https://github.com/shikijs/shiki\" rel=\"nofollow ugc\">Shiki</a> for advanced code block styling, highlighting, and code block titles/captions.</p><p>- Blog post authoring using <a href=\"https://mdxjs.com/\" rel=\"nofollow ugc\">MDX</a> for component-style content, alongside LaTeX rendering using <a href=\"https://katex.org/\" rel=\"nofollow ugc\">KaTeX</a>.</p><p>- Astro <a href=\"https://docs.astro.build/en/guides/view-transitions/\">View Transitions</a> in SPA mode for smooth, opt-in animations during route switching.</p><p>- SEO optimization with fine-grained control over metadata and Open Graph tags for each post.</p><p>- RSS feeds and sitemap generation!</p><p>- Supports author profiles (with a dedicated authors page) and adding multiple authors per post.</p><p>- Supports project tags (with a dedicated tags page) for easy post categorization and discovery.</p>",
+    "typeUrl": "https://github.com/jktrn/astro-erudite",
+    "liveUrl": "https://astro-erudite.vercel.app",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/jktrn/astro-erudite",
+        "name": "astro-erudite",
+        "full_name": "jktrn/astro-erudite",
+        "description": "📝 An opinionated, unstyled static blogging template—built with Astro, Tailwind, and shadcn/ui.",
+        "stargazers_count": 430,
+        "created_at": "2024-09-10T17:08:19Z",
+        "updated_at": "2025-08-07T14:29:37Z",
+        "pushed_at": "2025-07-26T01:44:06Z",
+        "git_url": "git://github.com/jktrn/astro-erudite.git",
+        "ssh_url": "git@github.com:jktrn/astro-erudite.git",
+        "clone_url": "https://github.com/jktrn/astro-erudite.git",
+        "homepage": "https://astro-erudite.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ftcj36b7qemjfmnjcfwv5d6ozvsb542iz74jit1.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F05fbu96t5b16r80lea5uixh1t1czfdf29p7bun.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fyz59roltryf3s4pjrznqz2s4jg9sl22eilq57j.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F1dkc7munmp2qpaju77y8xn0qt7g0xsj4ndhrg1.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3gxzipt3x0fav3spk1gktrl82kv5fzih9edieu.webp&w=1600&h=900&f=webp"
+    ]
+}

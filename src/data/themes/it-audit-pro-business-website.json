@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/it-audit-pro-business-website/",
+    "name": "it-audit-pro-business-website",
+    "title": "IT Audit Pro Business Website",
+    "desc": "A professional Astro 5 theme built with React, TypeScript, and Tailwind CSS that transforms security auditing with AI-powered assessment tools, automated compliance checks, and comprehensive quality management workflows.",
+    "article": "<p>A professional Astro 5 theme built with React, TypeScript, and Tailwind CSS for a fake security auditing firm that transforms the process with AI-powered assessment tools, automated compliance checks, and comprehensive quality management workflows.</p><p><br/></p><p><strong>FEATURES:</strong></p><p>ð Built with Astro 5, React, and TypeScript</p><p>ð¨ Tailwind CSS with customizable design system</p><p>ð± Fully responsive layouts and components</p><p>ð SEO optimized with meta tags</p><p>ð Perfect Lighthouse scores</p><p>ð¯ Performance-focused architecture</p><p>ð§ Easy configuration and customization</p><p><br/></p><p>Various other pages include - about, careers, blog, pricing, best practices, success stories, and many more.</p><p><br/></p><p><br/></p>",
+    "typeUrl": "https://github.com/ctrimm/astro-audit-pro-theme",
+    "liveUrl": "https://audit.corytrimm.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/ctrimm/astro-audit-pro-theme",
+        "name": "astro-audit-pro-theme",
+        "full_name": "ctrimm/astro-audit-pro-theme",
+        "description": "A professional Astro 5 theme built with React, TypeScript, and Tailwind CSS that transforms security auditing with AI-powered assessment tools, automated compliance checks, and comprehensive quality management workflows.",
+        "stargazers_count": 4,
+        "created_at": "2025-03-21T02:39:41Z",
+        "updated_at": "2025-08-05T05:26:37Z",
+        "pushed_at": "2025-04-24T12:10:46Z",
+        "git_url": "git://github.com/ctrimm/astro-audit-pro-theme.git",
+        "ssh_url": "git@github.com:ctrimm/astro-audit-pro-theme.git",
+        "clone_url": "https://github.com/ctrimm/astro-audit-pro-theme.git",
+        "homepage": "https://audit.corytrimm.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F7lou1hxm2f8cu75aaogli0zmchjio430m8eqdk.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fphy4zicq9fgojdyl2rvprmfs97veepy0e66lni.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F565mennb9lkofyugl5b90s3f3431segzud2qvs.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fx0zr158ons8ec0nzy3rmw0o5ndrh8wf2cudxl7.webp&w=1600&h=900&f=webp"
+    ]
+}

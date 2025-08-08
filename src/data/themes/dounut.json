@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/dounut/",
+    "name": "dounut",
+    "title": "Dounut",
+    "desc": "Minimal e-commerce boilerplate using Astro and Crystallize.",
+    "article": "<p>Dounut is a minimal e-commerce boilerplate that features a frontpage, individual product pages, cart, and checkout using a dummy payment method. The application is using Crystallize as the headless e-commerce service and is built using Astro.</p>",
+    "typeUrl": "https://github.com/CrystallizeAPI/dounut-astro",
+    "liveUrl": "https://dounut-astro.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/CrystallizeAPI/dounut-astro",
+        "name": "dounut-astro",
+        "full_name": "CrystallizeAPI/dounut-astro",
+        "description": null,
+        "stargazers_count": 48,
+        "created_at": "2024-01-04T14:37:43Z",
+        "updated_at": "2025-08-04T10:15:45Z",
+        "pushed_at": "2024-05-02T02:31:18Z",
+        "git_url": "git://github.com/CrystallizeAPI/dounut-astro.git",
+        "ssh_url": "git@github.com:CrystallizeAPI/dounut-astro.git",
+        "clone_url": "https://github.com/CrystallizeAPI/dounut-astro.git",
+        "homepage": "https://dounut-astro.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fsmamd7e3f07350haabl1o8u1njk6sc6r0a6syx.png&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fy9q0sevzmnnjvasvo631sssb4n3c1agx9uf765.png&w=1600&h=900&f=webp"
+    ]
+}

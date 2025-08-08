@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-cube/",
+    "name": "astro-cube",
+    "title": "Astro Cube",
+    "desc": "A tiny & minimal Astro starter template set-up with CUBE CSS ð§âð ð§",
+    "article": "\n<p>\n  A tiny, almost unopinionated starter for your next blog, documentation, personal/marketing\n  website, and more.\n</p>\n<p>\n  It comes with the <a href=\"https://cube.fyi/\" rel=\"noopener noreferrer\" target=\"_blank\">CUBE CSS</a> file structure, a methodology for building robust UIs in a declarative manner, and managing\n  stylesheets efficiently no matter the size of the project.\n</p>\n<p>\n  The project is mostly barebones, the goal isn't to provide an opionionated batteries-included\n  template, just an easy starter kit and stylesheets to copy/paste from.\n</p>\n<p>\n  Most styles are for demo purposes and to explain the underlying philosophy: \"Be the browser's\n  mentor, not its micromanager\" (see <a href=\"https://buildexcellentwebsit.es/\" rel=\"noopener noreferrer\" target=\"_blank\">buildexcellentwebsit.es</a>).\n</p>\n",
+    "typeUrl": "https://github.com/williamhzo/astro-cube",
+    "liveUrl": "https://astro-cube.vercel.app//",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/williamhzo/astro-cube",
+        "name": "astro-cube",
+        "full_name": "williamhzo/astro-cube",
+        "description": "A minimal Astro starter template with CUBE CSS 🧑‍🚀 🧊",
+        "stargazers_count": 75,
+        "created_at": "2023-01-22T21:49:28Z",
+        "updated_at": "2025-08-01T23:38:31Z",
+        "pushed_at": "2023-07-17T17:05:31Z",
+        "git_url": "git://github.com/williamhzo/astro-cube.git",
+        "ssh_url": "git@github.com:williamhzo/astro-cube.git",
+        "clone_url": "https://github.com/williamhzo/astro-cube.git",
+        "homepage": "https://astro-cube.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-cube-hero.webp&w=1600&h=900&f=webp"
+    ]
+}

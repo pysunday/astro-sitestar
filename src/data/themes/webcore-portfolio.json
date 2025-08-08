@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/webcore-portfolio/",
+    "name": "webcore-portfolio",
+    "title": "Webcore Portfolio",
+    "desc": "Showcase your expertise and share your work with others",
+    "article": "<p>This template is designed to help you create a professional online portfolio fast. Whether youâre a designer, developer, writer, or artist, this template provides a flexible and easy-to-use structure to highlight your skills, share your projects, and attract potential clients or collaborators. You can easily customize the template with the following props:</p><pre>---\r\nimport Portfolio from '@templates/Portfolio.astro'\r\n\r\nconst layout = {\r\n    seo: { ... } // Your SEO configuration\r\n    menu: { ... } // Menu configuration\r\n    footer: { ... } // Footer configuration\r\n}\r\n---\r\n\r\n&lt;Portfolio\r\n    layout={layout}\r\n    hero={{ ... }} {/* Your Hero section */}\r\n    aboutMe={{ ... }} {/* About Me configuration */}\r\n    ratings={[ ... ]} {/* Display a list of ratings */}\r\n    ratingCta={{ ... }} {/* CTA button displayed under ratings */}\r\n    myWork={[ ... ]} {/* Showcase your most recent work */}\r\n    services={[ ... ]} {/* Provide information about your services */}\r\n    servicesCta={{ ... }} {/* Display a CTA at the end of the portfolio */}\r\n/&gt;\r\n</pre><h2>Key Features</h2><ul><li><strong>Create a hero section</strong>: Start with an eye-catching hero section that introduces who you are and what you do.</li><li><strong>Write your about section with testimonials</strong>: Share your story, experience, and values in a dedicated about section.</li><li><strong>Showcase your work</strong>: Highlight your best work in a visually appealing section.</li><li><strong>Present your services</strong>: Outline the services you offer with concise descriptions and visuals.</li><li><strong>Integrate CTAs</strong>: Encourage action with strategically placed call-to-action buttons.</li></ul><h2>Documentation</h2><p>To help you get the most out of this template, you can use the following documentation pages to explore a wide range of customization options:</p><p><br/></p><ul><li><a href=\"https://webcoreui.dev/blocks/hero\" rel=\"nofollow ugc\">Hero</a></li><li><a href=\"https://webcoreui.dev/docs/rating\" rel=\"nofollow ugc\">Rating</a></li><li><a href=\"https://webcoreui.dev/blocks/layout\" rel=\"nofollow ugc\">Layout</a></li><li><a href=\"https://webcoreui.dev/blocks/seo\" rel=\"nofollow ugc\">SEO</a></li></ul>",
+    "typeUrl": "https://github.com/Frontendland/webcoreui/tree/main/src/templates/Portfolio",
+    "liveUrl": "https://webcoreui.dev/previews/portfolio",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Frontendland/webcoreui",
+        "name": "webcoreui",
+        "full_name": "Frontendland/webcoreui",
+        "description": "Customizable Astro UI component library styled with Sass, with Svelte and React support.",
+        "stargazers_count": 89,
+        "created_at": "2024-06-11T21:09:00Z",
+        "updated_at": "2025-08-05T14:17:43Z",
+        "pushed_at": "2025-08-05T14:17:40Z",
+        "git_url": "git://github.com/Frontendland/webcoreui.git",
+        "ssh_url": "git@github.com:Frontendland/webcoreui.git",
+        "clone_url": "https://github.com/Frontendland/webcoreui.git",
+        "homepage": "https://webcoreui.dev"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fg43pogw2vjgdaqrbzpsfrzlrb91ak0rbg92v05.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fp1iyts9qrgny0nkqvnhlj0oqqsk9q831yfrny8.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fkbwz93qrdwfjaehkb145s9qaa9m3a2iq8rvhbo.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fzo5g8wi6niuyfgospljwxioiqh5odru0rgrmth.webp&w=1600&h=900&f=webp"
+    ]
+}

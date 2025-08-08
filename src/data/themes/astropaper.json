@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/astropaper/",
+    "name": "astropaper",
+    "title": "AstroPaper",
+    "desc": "A minimal, accessible and SEO-friendly Astro blog theme.",
+    "article": "\n<p>\n  AstroPaper is crafted with best practices and accessibility in mind. If you want a blog with clean\n  design, fully responsiveness, good accessibility (keyboard/VoiceOver navigation, proper landmarks\n  etc), and fast performance, then AstroPaper is for you.\n</p>\n<h2>Highly Customizable</h2>\n<p>\n  AstroPaper is highly customizable - from color schemes, social links to meta tags for SEO. You can\n  customize AstroPaper according to your taste and requirements.\n</p>\n<h2>Features</h2>\n<ul>\n<li>Build with TypeScript</li>\n<li>\n    Fuzzy search with React &amp;\n    <a href=\"https://fusejs.io/\" rel=\"noopener noreferrer\" target=\"_blank\">FuseJS</a>\n</li>\n<li>Accessible out of the box</li>\n<li>SEO-friendly</li>\n<li>Light &amp; Dark mode support</li>\n<li>Includes draft posts &amp; pagination</li>\n<li>Provides Sitemap &amp; RSS feed</li>\n<li>Dynamic OG image generation</li>\n<li>Type-safe markdown</li>\n</ul>\n",
+    "typeUrl": "https://github.com/satnaing/astro-paper",
+    "liveUrl": "https://astro-paper.pages.dev/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/satnaing/astro-paper",
+        "name": "astro-paper",
+        "full_name": "satnaing/astro-paper",
+        "description": "A minimal, accessible and SEO-friendly Astro blog theme",
+        "stargazers_count": 3610,
+        "created_at": "2022-09-08T12:46:37Z",
+        "updated_at": "2025-08-08T02:47:10Z",
+        "pushed_at": "2025-08-07T16:50:29Z",
+        "git_url": "git://github.com/satnaing/astro-paper.git",
+        "ssh_url": "git@github.com:satnaing/astro-paper.git",
+        "clone_url": "https://github.com/satnaing/astro-paper.git",
+        "homepage": "https://astro-paper.pages.dev/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-paper-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-paper.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-paper-2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-paper-3.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,126 @@
+---
+import clsx from 'clsx';
+import { getI18n } from "@/i18n/index"
+import Typewriter from '@/components/common/Typewriter';
+
+const { currentLocale } = Astro
+const i18n_btns = await getI18n(currentLocale, 'sitestar.btn')
+const i18n = await getI18n(currentLocale, 'sitestar.header')
+---
+
+<header
+  id="home"
+  class={clsx(
+    "relative min-h-screen mx-auto z-[1] bg-cover bg-fixed",
+    "before:content-[''] before:flex before:w-full before:min-h-screen before:z-1 before:bg-fixed before:opacity-0",
+    "before:bg-[url(/images/sitestar/Stars.svg)]",
+    "before:animate-stars-move-in",
+  )}
+  style={{
+    backgroundImage: 'linear-gradient(to bottom, #181d23 0%, #202736 80%)',
+  }}
+>
+  <div
+    class={clsx(
+      "absolute left-0 bottom-[-300px] w-full h-[80%] bg-cover bg-repeat-x bg-bottom opacity-0 border-b-[300px] border-[#181d23]",
+      "bg-[url('/images/sitestar/Trees.svg')]",
+      "animate-forest-move-in forest",
+    )}
+  />
+  <div
+    class={clsx(
+      "absolute bottom-0 left-0 w-1/2 h-1/2 opacity-0 bg-no-repeat bg-bottom-left animate-silhouette-move-in",
+      "silhouette",
+      "bg-[url(/images/sitestar/Silhouette.svg)]",
+
+    )}
+  />
+  <div
+    class={clsx(
+      "absolute top-0 right-0 w-full h-full opacity-0 bg-no-repeat bg-bottom",
+      "bg-right z-[-1] bg-fixed animate-moon-move-in",
+      "bg-[url(/images/sitestar/Moon.svg)]",
+      "[background-size:40%_40%]",
+    )}
+  />
+  <div class="absolute right-1/16 md:right-1/8 xl:right-1/6 top-3/5 opacity-0 translate-y-[-50%] w-fit animate-text-fade-in">
+	  <Typewriter
+		  text={i18n('tip')}
+      total={currentLocale === 'en' ? 4000 : 2500}
+      delay={1000}
+		  client:load
+		  className={clsx(
+		    "whitespace-pre-wrap mb-4 text-[clamp(2rem,5vw,4rem)] text-right font-bold text-white leading-[1.3]!",
+		  )}
+	  />
+    <div class={clsx(
+      "flex mt-4 w-max max-sm:flex-col gap-4",
+		  ['en', 'de', 'ko', 'ru', 'fr', 'es'].includes(currentLocale) ? 'float-right' : 'mx-auto',
+    )}>
+      <a
+        href="#sites"
+        class={clsx(
+          "w-full min-w-max p-2 break-words sm:p-4 border border-[#fafafa] text-[#fafafa] text-center uppercase text-base",
+          "hover:border hover:border-[#f300b4] hover:shadow-[0_10px_100px_-20px_#f300b4] hover:translate-y-[-2px]",
+        )}
+      >{i18n_btns('siter')}</a>
+      <a
+        href="#contact"
+        class={clsx(
+          "bg-[#f300b4] min-w-max w-full p-2 sm:p-4 border border-transparent text-bold text-[#fafafa] text-center uppercase text-base",
+          "hover:border hover:border-[#f300b4] hover:shadow-[0_10px_100px_-20px_#f300b4] hover:translate-y-[-2px] hover:bg-transparent",
+        )}
+      >{i18n_btns('contact')}</a>
+    </div>
+  </div>
+</header>
+<script is:inline data-astro-rerun>
+  function runInit() {
+    const navbar = document.querySelector('.navbar');
+    const header = document.querySelector('#home');
+    const forest = document.querySelector('.forest');
+    const silhouette = document.querySelector('.silhouette');
+    let forestInitPos = -300;
+
+    window.onscroll = () => {
+      let scrollPos = document.documentElement.scrollTop || document.body.scrollTop;
+
+      if (scrollPos <= window.innerHeight) {
+        silhouette.style.bottom = `${parseInt(scrollPos / 6)}px`;
+        forest.style.bottom = `${parseInt(forestInitPos + scrollPos / 6)}px`;
+      }
+
+      if (scrollPos - 100 <= window.innerHeight)
+        header.style.visibility = header.style.visibility === 'hidden' && 'visible';
+      else header.style.visibility = 'hidden';
+
+      if (scrollPos + 100 >= window.innerHeight) {
+        navbar.style.background = '#181d23';
+      } else {
+        navbar.style.background = 'unset';
+      }
+    };
+
+    (function navSmoothScrolling() {
+      const internalLinks = document.querySelectorAll('a[href^="#"]');
+      for (let i in internalLinks) {
+        if (internalLinks.hasOwnProperty(i)) {
+          internalLinks[i].addEventListener('click', e => {
+            e.preventDefault();
+            document.querySelector(internalLinks[i].hash).scrollIntoView({
+              block: 'start',
+              behavior: 'smooth'
+            });
+          });
+        }
+      }
+    })();
+  }
+if (document.readyState === 'complete') {
+  runInit();
+} else {
+  window.addEventListener('DOMContentLoaded', runInit);
+}
+
+window.addEventListener('astro:after-swap', runInit);
+</script>

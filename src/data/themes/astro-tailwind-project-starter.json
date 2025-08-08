@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/astro-tailwind-project-starter/",
+    "name": "astro-tailwind-project-starter",
+    "title": " Astrostart TD - Astro, Tailwind, DaisyUI project template",
+    "desc": "A minimalistic project starter. Using Astro 5, Tailwind 4. It also includes Apline JS",
+    "article": "<p>A minimalistic Astro project starter that's includes Astro 5, Tailwind 4 with DaisyUI 5. No JavaScript is preinstalled.</p><p>See also:</p><ul><li>Derived Starter but with Alpine.js <a href=\"https://github.com/aholbreich/astrostart_TDA\" rel=\"nofollow ugc\">astrostart_TDA</a></li><li><br/></li></ul><p>The purpose is the demonstration of the integration of the  eg. Tailwind 4. </p><p><br/></p><p><strong>## Includes</strong></p><p><br/></p><ul><li>Astro 5.4</li><li>Astro Icon</li><li>Astro SEO</li><li>Astro MDX</li><li>Tailwind css 4</li><li>DaisyUI 5</li><li>Netlify</li></ul><p><br/></p><p><br/></p>",
+    "typeUrl": "https://github.com/aholbreich/astrostart_TD",
+    "liveUrl": "https://astro-start-tailwind.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/aholbreich/astrostart_TD",
+        "name": "astrostart_TD",
+        "full_name": "aholbreich/astrostart_TD",
+        "description": "Astro and Tailwindcss Starter project",
+        "stargazers_count": 3,
+        "created_at": "2025-02-21T11:56:24Z",
+        "updated_at": "2025-05-04T01:42:49Z",
+        "pushed_at": "2025-04-27T16:18:59Z",
+        "git_url": "git://github.com/aholbreich/astrostart_TD.git",
+        "ssh_url": "git@github.com:aholbreich/astrostart_TD.git",
+        "clone_url": "https://github.com/aholbreich/astrostart_TD.git",
+        "homepage": "https://astro-start-tailwind.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F7f5ovv4l94iqyfgq27c27kh3ccf4albsqf94n8.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fdd82mc9hfdm8fe9pwoaahqsqpm6gk89yd2v1ra.webp&w=1600&h=900&f=webp"
+    ]
+}

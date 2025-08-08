@@ -1,0 +1,13 @@
+{
+    "url": "https://astro.build/themes/details/journal/",
+    "name": "journal",
+    "title": "Journal",
+    "desc": "Launch your blog today.",
+    "article": "<p>Journal, an Astro blog template.</p><ul><li>Light &amp; dark themes</li><li>Production-ready</li><li>Simple to deploy</li><li>Priority support</li></ul>",
+    "typeUrl": "https://new-ui.com/templates/journal",
+    "liveUrl": "https://template-journal.pages.dev/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fmw71pnwi2f3ejk5rkraa2y5ojalmedkmwspwfd.webp&w=1600&h=900&f=webp"
+    ]
+}

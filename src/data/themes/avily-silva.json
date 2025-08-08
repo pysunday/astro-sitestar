@@ -1,0 +1,13 @@
+{
+    "url": "https://astro.build/themes/details/avily-silva/",
+    "name": "avily-silva",
+    "title": "Avily Silva",
+    "desc": "A minimalist-inspired Blog and Portfolio.",
+    "article": "<h2>ð Technologies</h2><p>ð¥ <strong>Astro</strong> - Framework</p><p>ð¥ <strong>TailwindCSS</strong> - Style</p><p>ð¥ <strong>Typescript </strong>- Typing</p><p>ð¥ <strong>Eslint, Prettier, Husky </strong>- Tooling</p><h2>ð Specifications</h2><p>â <strong>Responsive</strong> </p><p><strong>â SEO-friendly</strong></p><p><strong>â Remote Profile Image from Github </strong></p><p><strong>â Dynamic Image Placeholder Effect</strong></p><p><strong>â Accessible </strong></p><p><strong>â Tailwind Styled </strong></p><p><strong>â Auto-Generated Sitemap </strong></p><p><strong>â 100 Score on Lighthouse </strong></p><p><strong>â Auto Generated RSS Feed </strong></p><p><strong>â Markdown Support</strong></p>",
+    "typeUrl": "https://buy.stripe.com/6oE1513zJezO0tq000",
+    "liveUrl": "https://avilysilva.com",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fvxl0fz6jeary4ckfd15wdq82ftlltrh0fij4zw.webp&w=1600&h=900&f=webp"
+    ]
+}

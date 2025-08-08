@@ -1,0 +1,17 @@
+{
+    "url": "https://astro.build/themes/details/optimize-astro/",
+    "name": "optimize-astro",
+    "title": "Optimize Astro",
+    "desc": "A production-ready SaaS theme designed for SaaS and startup companies.",
+    "article": "<h2><strong>Key Features:</strong></h2><ul><li>13 Complete SaaS Pages</li><li>100/100 Google PageSpeed Score on Desktop</li><li>Built with Astro v5 and Tailwind CSS v4</li><li>Highly customizable (Color, Font, Menu, Social Links, SEO Meta Tags, etc.)</li><li>Netlify &amp; Vercel setting pre-configured</li><li>Support Disqus Comments</li><li>Write and update content in Markdown / MDX</li><li>MDX components auto-import</li><li>Fully responsive on desktops, tablets, and smartphones</li><li>Clean folder structure</li><li>Simple and easy development environment setup</li><li>Compatible with all modern browsers</li><li>SEO Friendly</li><li>Animation on scroll</li><li>Free Google fonts</li><li>Lifetime free updates</li><li>Detail Documentation  </li></ul><h2>Unique Pages</h2><ol><li>About</li><li>Features</li><li>Changelog</li><li>Integrations</li><li>Book a Demo</li><li>Contact</li><li>Blog</li><li>Blog Single</li><li>Pricing</li><li>Privacy Policy</li><li>Terms &amp; Conditions</li><li>404 Page</li><li>Elements</li><li>FAQ</li></ol><p><br/></p>",
+    "typeUrl": "https://themefisher.com/products/optimize-astro?aff=abfeatured",
+    "liveUrl": "https://optimize-astro.vercel.app/?aff=abfeatured",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fopsm2elxiylbxgofo1y246pw2rscn3rbopcvwp.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F0y600fca51nk18yd1i6fpu6a8aryrc55oy3x5y.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F5qp3jsh56nkh86pw9r5ch309pyk0nvtvc3ydtd.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fiddtjkfhawenhfuw236khwzesxx0xmo7lt3gww.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fw0s5iu7og6dwdhuwpbda7aa04qor9zu7xmrars.webp&w=1600&h=900&f=webp"
+    ]
+}

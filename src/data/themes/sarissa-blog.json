@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/sarissa-blog/",
+    "name": "sarissa-blog",
+    "title": "Sarissa Blog",
+    "desc": "Responsive, functional, personal blog theme for Astro.",
+    "article": "",
+    "typeUrl": "https://github.com/iozcelik/SarissaBlogAstroStarter",
+    "liveUrl": "https://sarissa-blog-astro-starter.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/iozcelik/SarissaBlogAstroStarter",
+        "name": "SarissaBlogAstroStarter",
+        "full_name": "iozcelik/SarissaBlogAstroStarter",
+        "description": null,
+        "stargazers_count": 41,
+        "created_at": "2022-04-07T18:42:25Z",
+        "updated_at": "2025-02-28T07:11:38Z",
+        "pushed_at": "2024-12-21T09:12:15Z",
+        "git_url": "git://github.com/iozcelik/SarissaBlogAstroStarter.git",
+        "ssh_url": "git@github.com:iozcelik/SarissaBlogAstroStarter.git",
+        "clone_url": "https://github.com/iozcelik/SarissaBlogAstroStarter.git",
+        "homepage": "https://sarissa-blog-astro-starter.vercel.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fsarissa-blog.webp&w=1600&h=900&f=webp"
+    ]
+}

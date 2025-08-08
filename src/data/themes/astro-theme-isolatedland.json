@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-theme-isolatedland/",
+    "name": "astro-theme-isolatedland",
+    "title": "astro-theme-isolatedland",
+    "desc": "A Three Column Astro Blog Theme",
+    "article": "<p>A Three Column Astro Blog Theme</p>",
+    "typeUrl": "https://github.com/JIeJaitt/astro-theme-isolatedland",
+    "liveUrl": "https://astro-theme-isolatedland.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/JIeJaitt/astro-theme-isolatedland",
+        "name": "astro-theme-isolatedland",
+        "full_name": "JIeJaitt/astro-theme-isolatedland",
+        "description": "a astro blog theme",
+        "stargazers_count": 3,
+        "created_at": "2025-02-20T05:39:29Z",
+        "updated_at": "2025-04-20T22:27:59Z",
+        "pushed_at": "2025-04-16T06:45:16Z",
+        "git_url": "git://github.com/JIeJaitt/astro-theme-isolatedland.git",
+        "ssh_url": "git@github.com:JIeJaitt/astro-theme-isolatedland.git",
+        "clone_url": "https://github.com/JIeJaitt/astro-theme-isolatedland.git",
+        "homepage": "https://astro-theme-isolatedland.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fl817l4b13jgyyq7l8mhrm8h4mwd9b4mcpjw11a.webp&w=1600&h=900&f=webp"
+    ]
+}

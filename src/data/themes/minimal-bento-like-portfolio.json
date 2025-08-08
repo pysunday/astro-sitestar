@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/minimal-bento-like-portfolio/",
+    "name": "minimal-bento-like-portfolio",
+    "title": "Minimal Bento-like Portfolio",
+    "desc": "Astro-bento-portfolio is a minimal bento-like (almost) single-page portfolio website made in Astro",
+    "article": "<p>A minimal bento-like (almost) single-page portfolio website made in Astro</p><p><br/></p><p><strong>Features</strong></p><p><br/></p><ul><li>Modern and Minimal bento-like, sleek UI Design</li><li>All in one page (almost)</li><li>Fully Responsive</li><li>Performances and SEO optimizations</li><li>Ready to be deployed on <a href=\"https://www.netlify.com/\" rel=\"nofollow ugc\">https://www.netlify.com/</a></li><li>Blog</li><li>RSS support (your-domain/rss.xml)</li><li>Cool 3D globe to show where you have traveled</li><li>Digital Clock</li></ul><p><br/></p><p><br/></p><p>To view a demo example: <a href=\"https://sparkly-speculoos-0c9197.netlify.app\" rel=\"nofollow ugc\">https://sparkly-speculoos-0c9197.netlify.app</a></p><p>or my portfolio: <a href=\"https://gianmarcocavallo.com\" rel=\"nofollow ugc\">https://gianmarcocavallo.com</a></p>",
+    "typeUrl": "https://github.com/Ladvace/astro-bento-portfolio",
+    "liveUrl": "https://sparkly-speculoos-0c9197.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Ladvace/astro-bento-portfolio",
+        "name": "astro-bento-portfolio",
+        "full_name": "Ladvace/astro-bento-portfolio",
+        "description": "Astro-bento-portfolio is a minimal bento-like (almost) single page portfolio website made in Astro",
+        "stargazers_count": 301,
+        "created_at": "2023-08-16T18:26:27Z",
+        "updated_at": "2025-08-05T18:19:05Z",
+        "pushed_at": "2025-06-14T19:11:41Z",
+        "git_url": "git://github.com/Ladvace/astro-bento-portfolio.git",
+        "ssh_url": "git@github.com:Ladvace/astro-bento-portfolio.git",
+        "clone_url": "https://github.com/Ladvace/astro-bento-portfolio.git",
+        "homepage": "https://sparkly-speculoos-0c9197.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F0ukoavtdkv95xdc1ghrqfuk9bde4ni1aqm6kik.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/boilerplate-astro-react/",
+    "name": "boilerplate-astro-react",
+    "title": "Boilerplate Astro + React",
+    "desc": "Complete boilerplate with Astro, React and Typescript, ideal for scalable systems with focus on readability, reusability and Atomic Design architecture.",
+    "article": "<p>This boilerplate is a complete and professional foundation built with <strong>Astro.js</strong>, <strong>React</strong>, and <strong>TypeScript</strong>, designed to scale with performance, security, and code quality. Itâs ideal for complex and large applications that demand a solid and maintainable architecture.</p><p><br/></p><p>The core pillars of the project are <strong>readability</strong>, <strong>reusability</strong>, and <strong>refactorability</strong>. The UI follows the <strong>Atomic Design</strong> methodology, organizing components into atoms, molecules, organisms, and templates for better structure and consistency.</p><p><br/></p><h2>ð Technologies</h2><p><br/></p><p>ð Astro.js - Fast, modern static site generator with island architecture</p><p>â React.js - Reactive JavaScript library for building user interfaces</p><p>ð¥ TypeScript - Typed JavaScript for better developer experience and code quality</p><p>ð CSS Modules - Locally scoped CSS for component styling</p><p>ð© Lints &amp; Formatters:</p><ul><li>Lefthook - Git hooks manager</li><li>BiomeJS - Fast formatter and linter</li><li>Commitlint - Lint commit messages</li></ul><p>â Testing:</p><ul><li>Vitest - Fast unit testing framework</li><li>Playwright - End-to-end testing framework</li></ul><p><br/></p><h2>ð© Features</h2><p><br/></p><ul><li> Responsive design - Mobile-first approach for all screen sizes</li><li> Atomic Design - Structured component hierarchy for maintainable UI</li><li> Accessibility - Detection of prefers-reduced-motion and other a11y features</li><li> Theming - Theme configuration with CSS Modules for consistent styling</li><li> Developer Experience:</li><li>Global aliases for importing utilities like <strong>clsx</strong> without manual imports</li><li>Instant lint and formatter with BiomeJS</li><li>Lefthook runs lint only on changed files</li><li> Performance:</li><li>Ultra-optimized font setup, each font only 2kb with preload</li><li>Astro's partial hydration for minimal JavaScript</li><li> Icons - Customizable icon system supporting your own SVGs and any icon from <a href=\"https://icon-sets.iconify.design/\" rel=\"nofollow ugc\">Iconify</a></li><li> CI/CD:</li><li>Automatic release generation and versioning</li><li>Pre-configured GitHub Actions workflows</li></ul><p><br/></p><p><br/></p><p>The project is actively maintained and updated with best practices in architecture and developer experience. Preconfigured scripts make it easy to run the development environment, test, lint, format code, and check for dependency updates using pnpm.</p><p><br/></p><p>Strict linting and testing rules are enforced via Lefthook, ensuring clean and production-ready code at every commit and push.</p><p><br/></p><p>This theme is perfect for developers and teams who want to start with a scalable and well-structured codebase, avoiding setup overhead and focusing on building features faster.</p><p><br/></p><p>Created and maintained by <strong>Ãverton Toffanetto</strong></p><p>ð <a href=\"https://www.linkedin.com/in/everton-toffanetto\" rel=\"nofollow ugc\">LinkedIn</a></p><p>ð <a href=\"https://youtube.com/@toffanettodev\" rel=\"nofollow ugc\">YouTube</a></p>",
+    "typeUrl": "https://github.com/everton-dgn/boilerplate_astro_react",
+    "liveUrl": "https://boilerplate-astro-react.querocriarsite.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/everton-dgn/boilerplate_astro_react",
+        "name": "boilerplate_astro_react",
+        "full_name": "everton-dgn/boilerplate_astro_react",
+        "description": "This project is a complete Astro.js boilerplate, constantly updated, configured in the smallest details to serve as the basis for large professional projects that intend to scale.",
+        "stargazers_count": 3,
+        "created_at": "2024-01-12T08:30:32Z",
+        "updated_at": "2025-05-20T14:32:17Z",
+        "pushed_at": "2025-05-18T15:07:05Z",
+        "git_url": "git://github.com/everton-dgn/boilerplate_astro_react.git",
+        "ssh_url": "git@github.com:everton-dgn/boilerplate_astro_react.git",
+        "clone_url": "https://github.com/everton-dgn/boilerplate_astro_react.git",
+        "homepage": "https://boilerplate-astro-react.querocriarsite.com/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fjvqkgseib1w0ql6a7or6u5j6nblrvnv7joi226.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F4yuo2e9ppcdi56ns7w7oi1z5d66rlfoaoo7ucr.webp&w=1600&h=900&f=webp"
+    ]
+}

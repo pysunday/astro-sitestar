@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/swissfolio/",
+    "name": "swissfolio",
+    "title": "Swissfolio",
+    "desc": "A modern Astro and Tailwind CSS template for your your links, information, projects, and more.",
+    "article": "<p>The template includes:</p><ul><li>Landing</li></ul><p><br/></p><p>This template is open-source software licensed under the <a href=\"https://opensource.org/licenses/GPL-3.0\" rel=\"nofollow ugc\">GPL-3.0 license</a>. Feel free to fork, modify, and use it in your projects.</p><p><br/></p><p>If you have any questions do not hesitate to reach out on:</p><ul><li>Twitter: @Mike_Andreuzza or @lexingtonthemes</li><li>Email: michael@lexingtonthemes.com</li></ul><p><br/></p><p>Thank you so much for reading and showing interest on this template, if you need more templates, a bundle that includes other templates, free updates is also offered on Lexington Themes. </p><ul><li><a href=\"https://lexingtonthemes.com/pricing/\" rel=\"nofollow ugc\">Learn more about the bundle</a></li></ul><p><br/></p><p>Discover the adaptability of Lexington's multipage themes, each equipped with a dynamic MDX Blog and flexible sections for effortless customization. Offering the freedom to uniquely tailor your site, all our themes ensure you're up and running in hours, not days.</p><p>\n</p>",
+    "typeUrl": "https://github.com/michael-andreuzza/swissfolio",
+    "liveUrl": "https://swissfolio.lexingtonthemes.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/michael-andreuzza/swissfolio",
+        "name": "swissfolio",
+        "full_name": "michael-andreuzza/swissfolio",
+        "description": null,
+        "stargazers_count": 120,
+        "created_at": "2023-06-03T20:47:47Z",
+        "updated_at": "2025-08-06T04:12:06Z",
+        "pushed_at": "2025-06-16T19:45:54Z",
+        "git_url": "git://github.com/michael-andreuzza/swissfolio.git",
+        "ssh_url": "git@github.com:michael-andreuzza/swissfolio.git",
+        "clone_url": "https://github.com/michael-andreuzza/swissfolio.git",
+        "homepage": "https://swissfolio.lexingtonthemes.com/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F91zylr6jnnkkuy0t949xgdgczx0gp6rzn565vk.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F42xdazocgo4xxgf6ee1yr3cubii31fs75gw5j3.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F5hvdlsfvqf8uxcw1wkybeo31kbsm3hsru7kxlz.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fk8j9673dthxe93izkp1vnu9v3tmi3gliilpzqc.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/astroship/",
+    "name": "astroship",
+    "title": "Astroship",
+    "desc": "Astroship is a starter template for startups, marketing websites, landing pages & blogs. Free and Pro versions available. ",
+    "article": "<h3>Live Demos</h3><p><a href=\"https://astroship.web3templates.com/\" rel=\"nofollow ugc\">Free Version</a></p><p><a href=\"https://astroship-pro.web3templates.com/\" rel=\"nofollow ugc\">Pro Version</a></p><h3>Pro version</h3><p><a href=\"https://web3templates.com/templates/astroship-pro-astro-saas-website-template\" rel=\"nofollow ugc\"><strong>Purchase Pro Version</strong></a></p><h3>Modern tools</h3><p>Astroship comes preconfigured with <a href=\"https://astro.build\">Astro</a> and  <a href=\"https://tailwindcss.com\" rel=\"nofollow ugc\">TailwindCSS</a> for a modern developer experience out-of-the-box.\r\n</p><h3>Responsive components</h3><p>Donât spend hours reinventing the wheel!  Astroship comes with all the components you need to ship your marketing site fast.</p><h3>Page layouts\r\n</h3><p>We have created a set of pre-built pages so you start with a fully functional site.</p>",
+    "typeUrl": "https://github.com/surjithctly/astroship",
+    "liveUrl": "https://astroship-pro.web3templates.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/surjithctly/astroship",
+        "name": "astroship",
+        "full_name": "surjithctly/astroship",
+        "description": "Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS",
+        "stargazers_count": 1767,
+        "created_at": "2022-11-01T10:14:05Z",
+        "updated_at": "2025-08-07T23:32:26Z",
+        "pushed_at": "2025-03-14T13:41:25Z",
+        "git_url": "git://github.com/surjithctly/astroship.git",
+        "ssh_url": "git@github.com:surjithctly/astroship.git",
+        "clone_url": "https://github.com/surjithctly/astroship.git",
+        "homepage": "https://astroship.web3templates.com/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F360w9guslzz4jwdnei9aflfzj01dorhr5pvk89.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastroship.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastroship-2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastroship-3.webp&w=1600&h=900&f=webp"
+    ]
+}

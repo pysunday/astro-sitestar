@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-cv/",
+    "name": "astro-cv",
+    "title": "Astro CV",
+    "desc": "CV theme for Astro ð",
+    "article": "",
+    "typeUrl": "https://github.com/dofbi/astro-cv-theme",
+    "liveUrl": "https://astro-cv-theme.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/dofbi/astro-cv-theme",
+        "name": "astro-cv-theme",
+        "full_name": "dofbi/astro-cv-theme",
+        "description": "CV theme for Astro 🚀",
+        "stargazers_count": 26,
+        "created_at": "2022-08-28T10:50:03Z",
+        "updated_at": "2025-04-15T00:47:27Z",
+        "pushed_at": "2022-09-04T07:09:32Z",
+        "git_url": "git://github.com/dofbi/astro-cv-theme.git",
+        "ssh_url": "git@github.com:dofbi/astro-cv-theme.git",
+        "clone_url": "https://github.com/dofbi/astro-cv-theme.git",
+        "homepage": "https://astro-cv-theme.netlify.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-cv.webp&w=1600&h=900&f=webp"
+    ]
+}

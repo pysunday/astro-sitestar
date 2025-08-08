@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/hello-astro/",
+    "name": "hello-astro",
+    "title": "Hello Astro",
+    "desc": "A full featured corporate/marketing/blog starter theme written in Typescript, TailwindCSS and Astro. It supports Markdown and MDX based pages and blog posts.",
+    "article": "",
+    "typeUrl": "https://github.com/hellotham/hello-astro",
+    "liveUrl": "https://hellotham.github.io/hello-astro",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/hellotham/hello-astro",
+        "name": "hello-astro",
+        "full_name": "hellotham/hello-astro",
+        "description": "Hello Astro is a multi purpose Astro starter theme written in Typescript, TailwindCSS and AlpineJS. It supports Markdown and MDX based pages and blog posts.",
+        "stargazers_count": 186,
+        "created_at": "2022-08-12T02:13:10Z",
+        "updated_at": "2025-08-04T17:34:57Z",
+        "pushed_at": "2025-02-18T21:37:56Z",
+        "git_url": "git://github.com/hellotham/hello-astro.git",
+        "ssh_url": "git@github.com:hellotham/hello-astro.git",
+        "clone_url": "https://github.com/hellotham/hello-astro.git",
+        "homepage": "https://hellotham.github.io/hello-astro"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fhello-astro.webp&w=1600&h=900&f=webp"
+    ]
+}

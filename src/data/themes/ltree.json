@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/ltree/",
+    "name": "ltree",
+    "title": "LTree",
+    "desc": "An Astro theme that replicates Linktree and Linkinbio rolled in one. Optional TinaCMS on top.",
+    "article": "\n<p>\n  LTree is a free and open-source theme for Astro. It's a result of exploring how to build a clone\n  of Linkinbio and Linktree, rolled into one, using Astro. Blog post of the entire process\n  <a href=\"https://darko.io/posts/linktree-and-linkinbio-clone-with-astro-and-tinacms\" rel=\"nofollow ugc\">here</a>.\n</p>\n",
+    "typeUrl": "https://github.com/DBozhinovski/astro-theme-ltree",
+    "liveUrl": "https://ltree.darko.io",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/DBozhinovski/astro-theme-ltree",
+        "name": "astro-theme-ltree",
+        "full_name": "DBozhinovski/astro-theme-ltree",
+        "description": "An  Astro theme that replicates Linktree _and_ Linkinbio rolled in one. Optional TinaCMS on top.",
+        "stargazers_count": 35,
+        "created_at": "2023-12-01T13:23:42Z",
+        "updated_at": "2025-08-04T10:34:11Z",
+        "pushed_at": "2025-06-02T08:31:19Z",
+        "git_url": "git://github.com/DBozhinovski/astro-theme-ltree.git",
+        "ssh_url": "git@github.com:DBozhinovski/astro-theme-ltree.git",
+        "clone_url": "https://github.com/DBozhinovski/astro-theme-ltree.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fltree-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fltree-2.webp&w=1600&h=900&f=webp"
+    ]
+}

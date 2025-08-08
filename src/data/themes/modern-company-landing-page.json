@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/modern-company-landing-page/",
+    "name": "modern-company-landing-page",
+    "title": "Modern Company Landing Page",
+    "desc": "A visually stunning theme perfect for businesses seeking a modern and responsive online presence.",
+    "article": "<p>A modern and visually stunning website template designed for businesses of all kinds. This theme offers lightning-fast performance and an exceptional user experience with a set of reusable components.</p><p><br/></p><p>Whether you're a startup, a small business, or an established corporation, the theme provides a solid foundation to showcase your products or services and engage with your audience. With its clean and responsive design, intuitive navigation, and seamless integration of multimedia elements, this theme ensures that your website stands out from the crowd. Tailored to meet the needs of businesses across various industries, this is the perfect choice for companies seeking to make a lasting impression and connect with their target audience.</p><p><br/></p><p>The theme is built with functional React components and utilizes the popular Tailwind CSS framework for styling components. This ensures a modern and responsive design while providing a solid foundation for customization and extensibility.</p>",
+    "typeUrl": "https://github.com/ctrimm/astro-modern-company-theme",
+    "liveUrl": "https://modern.corytrimm.com",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/ctrimm/astro-modern-company-theme",
+        "name": "astro-modern-company-theme",
+        "full_name": "ctrimm/astro-modern-company-theme",
+        "description": "A visually stunning theme perfect for businesses seeking a modern and responsive online presence.",
+        "stargazers_count": 13,
+        "created_at": "2024-10-21T12:22:27Z",
+        "updated_at": "2025-07-23T14:12:24Z",
+        "pushed_at": "2025-02-25T11:12:26Z",
+        "git_url": "git://github.com/ctrimm/astro-modern-company-theme.git",
+        "ssh_url": "git@github.com:ctrimm/astro-modern-company-theme.git",
+        "clone_url": "https://github.com/ctrimm/astro-modern-company-theme.git",
+        "homepage": "https://modern.corytrimm.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fhpxwqtml70kvl31emon7bilfssp1uo1geexz8h.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fr8jtz39fva2rknfhizxtknun567577mib0i7w1.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F1e352ty31xv4p22okvo6rjwoer2q8r1jfb5jna.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F9ncpygvv0cf3eunlazdxgrkjigklo6eff51tm6.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F2hcncddkfn08j8x89cijy5hunbgiy38cdt9tn3.webp&w=1600&h=900&f=webp"
+    ]
+}

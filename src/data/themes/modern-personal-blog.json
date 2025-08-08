@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/modern-personal-blog/",
+    "name": "modern-personal-blog",
+    "title": "Modern Personal Blog",
+    "desc": "A modern, feature-rich personal blog theme built with Astro, React, and Tailwind CSS. Includes dark mode, responsive layout, search functionality, and optimized for SEO.",
+    "article": "<p>Modern Personal Blog is a professionally designed theme for content creators and bloggers who want a fast, responsive, and feature-rich website.</p><p><br/></p><p>Key Features:</p><p>â¢ Three-column responsive layout with mobile optimization</p><p>â¢ Dark/light mode with system preference detection</p><p>â¢ Full-featured search functionality</p><p>â¢ Content categorization with hierarchical structure</p><p>â¢ Tag system with cloud display</p><p>â¢ MDX support with code syntax highlighting</p><p>â¢ Optimized article cards and listings</p><p>â¢ Table of contents for long-form content</p><p>â¢ SEO optimized with Open Graph and structured data</p><p>â¢ High performance with 90+ PageSpeed score</p><p><br/></p><p>This theme is perfect for developers, writers, and content creators looking for a modern aesthetic with advanced functionality. The codebase is well-structured and extensively documented, making it easy to customize to your needs.</p><p><br/></p><p>Built with best practices for web development, including responsive design, accessibility, and performance optimization.</p>",
+    "typeUrl": "https://github.com/copyboy/product_whoami",
+    "liveUrl": "https://copyboy.github.io/product_whoami/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/copyboy/product_whoami",
+        "name": "product_whoami",
+        "full_name": "copyboy/product_whoami",
+        "description": "A modern, fast, and feature-rich blog platform built with Astro, React, and Tailwind CSS.",
+        "stargazers_count": 3,
+        "created_at": "2025-05-07T17:44:44Z",
+        "updated_at": "2025-07-25T18:06:10Z",
+        "pushed_at": "2025-06-30T01:41:13Z",
+        "git_url": "git://github.com/copyboy/product_whoami.git",
+        "ssh_url": "git@github.com:copyboy/product_whoami.git",
+        "clone_url": "https://github.com/copyboy/product_whoami.git",
+        "homepage": "https://copyboy.github.io/product_whoami/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fxgxv4agyhlljvgzv3dcn3n4h5i58ks5sokww9g.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fdsk0n851l2c54k2jn6khinmzodspp3imx5y8vw.webp&w=1600&h=900&f=webp"
+    ]
+}

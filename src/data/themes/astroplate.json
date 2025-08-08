@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/astroplate/",
+    "name": "astroplate",
+    "title": "Astroplate",
+    "desc": "Astroplate is the ultimate starter template built with Astro, TailwindCSS & TypeScript, providing everything you need to jumpstart your Astro project.",
+    "article": "\n<p>\n  Astroplate is a comprehensive starter template built using modern web technologies such as Astro,\n  TailwindCSS, and TypeScript. It provides developers with a solid foundation for building fast and\n  content-focused websites quickly and efficiently with the Astro framework. Use Astroplate for your\n  next Astro project and save valuable time.\n</p>\n<h2>Key Features:</h2>\n<ul>\n<li>Built with Astro, TailwindCSS &amp; TypeScript</li>\n<li>Google PageSpeed 100</li>\n<li>Write and update content in Markdown / MDX</li>\n<li>MDX components auto import</li>\n<li>Netlify setting pre-configured</li>\n<li>Highly Customizable</li>\n<li>Multi-Authors</li>\n<li>Related Posts Suggestion</li>\n<li>Search Functionality</li>\n<li>Dark Mode</li>\n<li>Tags &amp; Categories</li>\n<li>Support contact form</li>\n<li>Fully responsive</li>\n<li>Disqus Comment</li>\n<li>Social Share Option</li>\n<li>Syntax Highlighting</li>\n<li>SEO Metadata, Open Grap tags etc.</li>\n<li>100% Responsive</li>\n</ul>\n<h2>Pages</h2>\n<ul>\n<li>Homepage</li>\n<li>Authors</li>\n<li>Author Single</li>\n<li>Blog</li>\n<li>Blog Single</li>\n<li>Tags</li>\n<li>Tag Single</li>\n<li>Categories</li>\n<li>Category Single</li>\n<li>Custom 404</li>\n<li>Search</li>\n<li>About</li>\n<li>Contact</li>\n<li>Elements</li>\n<li>Privacy Policy</li>\n</ul>\n",
+    "typeUrl": "https://github.com/zeon-studio/astroplate",
+    "liveUrl": "https://astroplate.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/zeon-studio/astroplate",
+        "name": "astroplate",
+        "full_name": "zeon-studio/astroplate",
+        "description": "Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!",
+        "stargazers_count": 848,
+        "created_at": "2023-04-17T06:50:06Z",
+        "updated_at": "2025-08-05T17:44:15Z",
+        "pushed_at": "2025-07-10T10:05:01Z",
+        "git_url": "git://github.com/zeon-studio/astroplate.git",
+        "ssh_url": "git@github.com:zeon-studio/astroplate.git",
+        "clone_url": "https://github.com/zeon-studio/astroplate.git",
+        "homepage": "https://zeon.studio/preview?project=astroplate"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastroplate-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastroplate-2.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-blur/",
+    "name": "astro-blur",
+    "title": "Astro Blur",
+    "desc": "A static blog theme built with Astro. 100% Astro components.",
+    "article": "",
+    "typeUrl": "https://github.com/Jazee6/astro-blur",
+    "liveUrl": "https://jaze.top",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Jazee6/astro-blur",
+        "name": "astro-blur",
+        "full_name": "Jazee6/astro-blur",
+        "description": "A static blog theme built with Astro. 一个静态Astro博客主题",
+        "stargazers_count": 26,
+        "created_at": "2024-06-11T08:22:24Z",
+        "updated_at": "2025-07-29T16:22:52Z",
+        "pushed_at": "2025-03-05T06:42:34Z",
+        "git_url": "git://github.com/Jazee6/astro-blur.git",
+        "ssh_url": "git@github.com:Jazee6/astro-blur.git",
+        "clone_url": "https://github.com/Jazee6/astro-blur.git",
+        "homepage": "https://jaze.top"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Flwxgbg30h4cplz0lprszrb79rc0kmzg5aq9afw.webp&w=1600&h=900&f=webp"
+    ]
+}

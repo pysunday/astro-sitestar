@@ -1,0 +1,29 @@
+{
+    "url": "https://astro.build/themes/details/nobloger/",
+    "name": "nobloger",
+    "title": "nobloger",
+    "desc": "This project is a web application built using Astro, inspired by astro-nano, provide compatibility with notion.so.",
+    "article": "<p>nobloger is</p><ul><li>simple, llight-weight and elegant</li><li>using full static pages (deal with nested notion pages)</li><li>with easy deployment on github pages</li></ul><p>if you are lazy, and you happen to use notion, annnnd likes such theme, it's your dog day.</p><p><br/></p><p>either improvement or fork on this project is welcomed.</p>",
+    "typeUrl": "https://github.com/humbornjo/nobloger",
+    "liveUrl": "https://humbornjo.github.io/nobloger",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/humbornjo/nobloger",
+        "name": "nobloger",
+        "full_name": "humbornjo/nobloger",
+        "description": "a start template for notion.so, with the support of static pages generation provided by noblog.",
+        "stargazers_count": 26,
+        "created_at": "2024-08-03T16:59:31Z",
+        "updated_at": "2025-08-06T06:07:39Z",
+        "pushed_at": "2024-11-02T10:42:08Z",
+        "git_url": "git://github.com/humbornjo/nobloger.git",
+        "ssh_url": "git@github.com:humbornjo/nobloger.git",
+        "clone_url": "https://github.com/humbornjo/nobloger.git",
+        "homepage": "https://humbornjo.github.io/nobloger"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Flax1vczeq2vxi9497egjt6jixic67olao0rjeh.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F6wzndmrubcv6on4ryi4om5iste61q8gmsq9xx2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fm8ltzqa6pzq2tievzamk8qsj1lvpl15q5ii6f6.webp&w=1600&h=900&f=webp"
+    ]
+}

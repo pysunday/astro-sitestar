@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/void-flower/",
+    "name": "void-flower",
+    "title": "Void Flower",
+    "desc": "Void Flower is a calm and smooth template for your blog.",
+    "article": "<p>Multiple themes support via DaisyUI and Tailwind</p><p>Extended MDX support with remark and rehype plugins</p><p>Cool themed code blocks with Expressive Code</p><p>Global search via Pagefind</p><p>Global configuration of text width and size</p><p>Grid view to paginate posts</p><p>RSS, sitemap, OpenGraph images, SEO-optimized, adaptive and performant without any unnecessary JavaScript sent to the client</p><p>Database integration via Postgres, Supabase, Prisma, and Kysely</p>",
+    "typeUrl": "https://github.com/Serpentarius13/personal-blog",
+    "liveUrl": "https://voidflower.dev/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Serpentarius13/personal-blog",
+        "name": "personal-blog",
+        "full_name": "Serpentarius13/personal-blog",
+        "description": null,
+        "stargazers_count": 19,
+        "created_at": "2024-10-06T15:40:44Z",
+        "updated_at": "2025-05-27T07:38:00Z",
+        "pushed_at": "2025-05-27T07:37:57Z",
+        "git_url": "git://github.com/Serpentarius13/personal-blog.git",
+        "ssh_url": "git@github.com:Serpentarius13/personal-blog.git",
+        "clone_url": "https://github.com/Serpentarius13/personal-blog.git",
+        "homepage": "https://voidflower.dev"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F9kmaq2ugyj3si1ymjq8svvozbu40rvuwl9zebr.webp&w=1600&h=900&f=webp"
+    ]
+}

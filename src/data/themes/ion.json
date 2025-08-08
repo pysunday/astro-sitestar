@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/ion/",
+    "name": "ion",
+    "title": "Ion",
+    "desc": "A sleek, modern Starlight theme. ",
+    "article": "<p><strong>Ion</strong> is a Starlight template/theme that seeks to provide a modern look while maintaining all features of Starlight and even adding some new ones.</p><h2>Features</h2><ul><li>New footer component below pagination</li><li>Icon support for links and top-level groups in the sidebar</li><li>Badges for Headers in .mdx files</li><li>Modular</li><li>All modified components can be switched out for their original counterparts</li><li>Colors modifiable via CSS variables</li></ul>",
+    "typeUrl": "https://github.com/louisescher/starlight-ion-theme",
+    "liveUrl": "https://louisescher.github.io/starlight-ion-theme/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/louisescher/starlight-ion-theme",
+        "name": "starlight-ion-theme",
+        "full_name": "louisescher/starlight-ion-theme",
+        "description": "A sleek, modern theme for Starlight.",
+        "stargazers_count": 52,
+        "created_at": "2024-04-21T11:37:00Z",
+        "updated_at": "2025-07-31T01:47:22Z",
+        "pushed_at": "2025-07-19T15:33:48Z",
+        "git_url": "git://github.com/louisescher/starlight-ion-theme.git",
+        "ssh_url": "git@github.com:louisescher/starlight-ion-theme.git",
+        "clone_url": "https://github.com/louisescher/starlight-ion-theme.git",
+        "homepage": "https://louisescher.github.io/starlight-ion-theme/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fszfy2x7vnk6t9i79s8ttqm4jbebfi9p03upfxc.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fc6cudmgzc98n70gk4guctp26yb2wd01vpf7pko.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "url": "https://astro.build/themes/details/astrosas/",
+    "name": "astrosas",
+    "title": "Astrosas",
+    "desc": "Built with TailwindCSS and React/RadixUI. Dark design with brand theme colors. Smooth and fast transitions across clutter-free pages, perfect for creating a stylish and modern web presence.",
+    "article": "<p><strong>Built with Astro, TailwindCSS, and React/RadixUI</strong></p><p><strong>Main Features:</strong></p><ul><li><strong>Perfect Lighthouse Scores</strong>: 100/100/100/100 for both mobile and desktop!</li><li><strong>Fully Responsive and Easily Customizable</strong>: Seamlessly adapts to all devices with just two color sets â one neutral and one for your brand.</li><li><strong>Clean Dark Design</strong>: A consistent, easy-to-use dark theme with simple, well-structured components.</li><li><strong>Efficient Navigation</strong>: Includes a mega-style desktop menu, dropdowns for mobile, and an accordion component, all animated with RadixUI.</li><li><strong>Powerful Search Component</strong>: Fuzzy search with highlight, fallback options, arrow key navigation, Enter to select, and Escape to reset.</li><li><strong>Comprehensive Blog Setup</strong>: Astro Content Collections with pagination, search, previous/next post navigation, tags, table of contents, social sharing, and draft support.</li><li><strong>Customizable Contact Form</strong>: Fully functional and easy to configure.</li><li><strong>SEO Optimized</strong>: Includes SEO tags, RSS feed, and sitemap generation for better search engine visibility.</li><li><strong>Icon and Font Flexibility</strong>: Local fonts using Fontsource, with Carbon and Material Design icon sets.</li><li><strong>Flexible Footer Options</strong>: Choose between slim and classic designs.</li><li><strong>Detailed Pricing Page</strong>: Features a comparison layout for clear pricing information.</li><li><strong>404 Page</strong>: Includes the search component for better user experience.</li><li><strong>All Essential Pages</strong>: Everything you need is included, ready to be tailored to your needs.</li><li><strong>Clear Documentation</strong>: All necessary information and guidance are included in the documentation, with helpful code comments wherever they are needed for easy understanding and customization.</li></ul><p><br/></p>",
+    "typeUrl": "https://akcanakci.gumroad.com/l/astrosas",
+    "liveUrl": "https://astrosas.netlify.app/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F6zibiw52nqwk065g721y1412slbtbddxqgmsnt.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fgsmk1yq4o82cu95au93ql6o0epic8yx156pxwd.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fdi9ikwqjc5bg5nb7bwbcl9g168tyyt5c0asgm7.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3mjsykz9vj1y5mjkzevk75p5vrd2uide8760s1.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fa68jamlmcvcwlk2khf37uqy792vv83u808tz22.webp&w=1600&h=900&f=webp"
+    ]
+}

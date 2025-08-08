@@ -1,0 +1,29 @@
+{
+    "url": "https://astro.build/themes/details/astropaper-i18n/",
+    "name": "astropaper-i18n",
+    "title": "AstroPaper I18n",
+    "desc": "AstroPaper fork with I18n Support",
+    "article": "<p>This theme is a fork of <a href=\"https://github.com/satnaing/astro-paper\" rel=\"nofollow ugc\">AstroPaper</a> theme, enhanced to support internationalization (i18n).</p><p>The fork Builds upon the original AstroPaper theme to integrate i18n functionality.</p><p>I18n integration is implemented using <a href=\"https://docs.astro.build/en/guides/internationalization/\">Astorjs i18n routing</a></p><p>As I'm a native Arabic speaker, I made sure the i18n integration supports RTL languages (etc Arabic, Persian,...).</p><p>If god wills, this fork will maintain synchronization with the original <a href=\"https://github.com/satnaing/astro-paper\" rel=\"nofollow ugc\">AstroPaper</a> theme.</p><p>This Fork does not modify the original themeâs UI; it solely adds i18n support.</p><h2>Features</h2><p>This project includes all the features of the original <a href=\"https://github.com/satnaing/astro-paper\" rel=\"nofollow ugc\">AstroPaper</a> theme, with the following enhancements:</p><h3>Direction Agnostic:</h3><ul><li>Full <em>RTL</em> support.</li><li>Consistent UI for both <em>LTR</em> and <em>RTL</em></li></ul><h3>I18n Features</h3><ul><li> UI translations, including numbers and dates.</li><li> Language switcher.</li><li> Accessibility-related translations.</li><li> Type-safe i18n integration using TypeScript.</li><li> Sitemaps with i18n support (<a href=\"https://docs.astro.build/en/guides/integrations-guide/sitemap/\">@astrojs/sitemap</a>).</li><li> OG image generation with i18n support (<a href=\"https://github.com/vercel/satori\" rel=\"nofollow ugc\">satori</a> engine does not support <em>RTL</em> languages, causing layout issues for <em>RTL</em> OG images)</li><li> RSS Feeds with i18n support (<a href=\"https://docs.astro.build/en/guides/rss/\">@astrojs/rss</a>).</li></ul><p><br/></p><p><br/></p>",
+    "typeUrl": "https://github.com/yousef8/astro-paper-i18n",
+    "liveUrl": "https://astro-paper-i18n.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/yousef8/astro-paper-i18n",
+        "name": "astro-paper-i18n",
+        "full_name": "yousef8/astro-paper-i18n",
+        "description": "AstroPaper fork with I18n support",
+        "stargazers_count": 30,
+        "created_at": "2025-03-07T12:03:26Z",
+        "updated_at": "2025-07-29T05:46:20Z",
+        "pushed_at": "2025-07-16T00:28:13Z",
+        "git_url": "git://github.com/yousef8/astro-paper-i18n.git",
+        "ssh_url": "git@github.com:yousef8/astro-paper-i18n.git",
+        "clone_url": "https://github.com/yousef8/astro-paper-i18n.git",
+        "homepage": "https://astro-paper-i18n.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F9tdj4mo667znlx5vu2bztawxifuc7a52tm54sv.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fzubgp2cqq7lbdfl6fnmaeyw53ekvtretp9ueoe.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fxlw41iae39lj73ujs4wgb4v6ww74pw4ef5l3sc.webp&w=1600&h=900&f=webp"
+    ]
+}

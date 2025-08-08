@@ -1,0 +1,17 @@
+{
+    "url": "https://astro.build/themes/details/mobit-astro/",
+    "name": "mobit-astro",
+    "title": "Mobit Astro",
+    "desc": "A modern, performance-optimized website template designed specifically for SaaS and startups.",
+    "article": "<pre>Built with Astro v5 and Tailwind CSS v4\r\n</pre><h2>Key Features :</h2><ul><li>11+ Premium Pages</li><li>Highly customizable</li><li>Unique Carousel Animation</li><li>Free Update and Lifetime Premium Support</li><li>Write and update content in Markdown / MDX</li><li>MDX components auto-import</li><li>Fully responsive</li><li>Clean folder structure</li><li>Simple and easy development environment setup</li><li>Compatible with all modern browsers</li><li>Contact Form</li><li>SEO Friendly</li><li>Animation on scroll</li><li>Free Google fonts</li><li>Detail Documentation</li><li>Lifetime free updates</li></ul><h2>Pages :</h2><ol><li>Home</li><li>Features</li><li>Pricing</li><li>Reviews</li><li>Contact</li><li>Blog</li><li>Blog Details</li><li>Privacy Policy</li><li>Terms &amp; Conditions</li><li>404 Page</li><li>Elements</li></ol>",
+    "typeUrl": "https://themefisher.com/products/mobit-astro?aff=ab",
+    "liveUrl": "https://mobit-astro.vercel.app/?aff=ab",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Frk6kd8ablfxxqracki23mi8d5hfuoqx5zwndwr.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fsbhze9uitebg1h3y7ohwdu21qymtp27b5uw4op.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ffmzx0vs1ch4gv8ufn2ngards5b7lk4vmx1mjuu.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fjvy4kn84ucpzz6g09g77y8miov3qjawp020jfz.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fq3vucks85vxvgosb2eyx0t8q7grfknsb8abehj.webp&w=1600&h=900&f=webp"
+    ]
+}

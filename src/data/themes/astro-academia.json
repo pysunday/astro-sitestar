@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/astro-academia/",
+    "name": "astro-academia",
+    "title": "Astro Academia",
+    "desc": "Astro Academia is a personal academic website template. The website is designed to showcase academic achievements, research papers, blog posts, and a CV. It is fast, responsive, and easy to maintain, making it an ideal platform for academics and researchers to present their work.",
+    "article": "<h2> Astro Academia</h2><p><br/></p><p>Astro Academia is a modern, highly customizable template designed for academic professionals, researchers, and educators. Built with Astro, Tailwind CSS, and DaisyUI, this template offers a sleek and responsive design that can be easily tailored to fit your personal or institutional branding.</p><p><br/></p><h2>Features</h2><p><br/></p><h3>Customizable Layout</h3><p><br/></p><p>Astro Academia provides a flexible layout that can be easily customized to suit your needs. The main layout file includes several components that can be rearranged or modified:</p><p><br/></p><ul><li><strong>Navbar</strong>: A responsive navigation bar that adapts to different screen sizes.</li><li><strong>Footer</strong>: A customizable footer to include additional information or links.</li><li>Dark/Light Mode: Toggle between dark and light themes using the `DarkLightController` component.</li><li>Client-Side Transitions: Smooth page transitions using the `ClientRouter` from `astro:transitions`.</li></ul><p><br/></p><p><br/></p><h3>Tailwind CSS</h3><p><br/></p><p>Astro Academia uses Tailwind CSS for styling, providing a utility-first approach to design. Tailwind CSS allows you to quickly build custom designs without writing a lot of custom CSS. The configuration file (`tailwind.config.mjs`) can be customized to include your own color schemes, fonts, and other design tokens.</p><p><br/></p><h3>DaisyUI</h3><p><br/></p><p>DaisyUI is a plugin for Tailwind CSS that provides a set of pre-designed components and themes. With DaisyUI, you can easily apply consistent styling across your website without having to design each component from scratch. The template includes several DaisyUI components, such as buttons, forms, and modals, which can be customized to match your branding.</p><p><br/></p><h3>SEO and Metadata</h3><p><br/></p><p>The Head component in Astro Academia allows you to manage SEO metadata for each page. You can set custom titles, descriptions, and images to improve your website's search engine ranking and social media sharing.</p><p><br/></p><h3>Content Management</h3><p><br/></p><p>Astro Academia supports Markdown and MDX for content management, making it easy to write and manage your content. The template includes several example pages, such as a CV page, a research page, and a blog, to help you get started.</p><p><br/></p><p><br/></p><h2>Conclusion</h2><p><br/></p><p>Astro Academia is a powerful and flexible template for academic professionals, researchers, and educators. With its customizable layout, pre-built components, and support for Tailwind CSS and DaisyUI, you can easily create a professional and responsive website to showcase your work.</p><p><br/></p>",
+    "typeUrl": "https://github.com/maiobarbero/astro_academia",
+    "liveUrl": "https://maiobarbero.github.io/astro_academia/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/maiobarbero/astro_academia",
+        "name": "astro_academia",
+        "full_name": "maiobarbero/astro_academia",
+        "description": "A starter template for academic websites in Astro",
+        "stargazers_count": 34,
+        "created_at": "2025-02-18T14:52:15Z",
+        "updated_at": "2025-08-01T22:51:00Z",
+        "pushed_at": "2025-07-01T09:39:10Z",
+        "git_url": "git://github.com/maiobarbero/astro_academia.git",
+        "ssh_url": "git@github.com:maiobarbero/astro_academia.git",
+        "clone_url": "https://github.com/maiobarbero/astro_academia.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Faluywnrxqq773xsgurfa6fzge2dyao3owwod5s.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fgngswo8tbmxp3kcirb8zyybtoeaxoclbkawsdw.webp&w=1600&h=900&f=webp"
+    ]
+}

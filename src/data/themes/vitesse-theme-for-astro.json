@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/vitesse-theme-for-astro/",
+    "name": "vitesse-theme-for-astro",
+    "title": "Vitesse theme for Astro",
+    "desc": "A minimal, SEO-friendly portfolio and blog theme for Astro, supports Vue and UnoCSS.",
+    "article": "<p><br/></p>",
+    "typeUrl": "https://github.com/kaivanwong/astro-theme-vitesse",
+    "liveUrl": "https://astro-theme-vitesse.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/kieranwv/astro-theme-vitesse",
+        "name": "astro-theme-vitesse",
+        "full_name": "kieranwv/astro-theme-vitesse",
+        "description": "A minimal, SEO-friendly portfolio and blog theme for Astro, supports Vue and UnoCSS.",
+        "stargazers_count": 149,
+        "created_at": "2024-02-22T06:07:22Z",
+        "updated_at": "2025-08-06T03:52:18Z",
+        "pushed_at": "2025-07-21T01:20:52Z",
+        "git_url": "git://github.com/kieranwv/astro-theme-vitesse.git",
+        "ssh_url": "git@github.com:kieranwv/astro-theme-vitesse.git",
+        "clone_url": "https://github.com/kieranwv/astro-theme-vitesse.git",
+        "homepage": "https://astro-theme-vitesse.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fx3rjxvh5wwhs0kasf2niqzwv9wsl7rv7i7jw4e.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "url": "https://astro.build/themes/details/astro-resume-01/",
+    "name": "astro-resume-01",
+    "title": "AstroResume01",
+    "desc": "Perfect, minimal resume theme with no code configuration option, blog integration and custom stylings.",
+    "article": "<p>Stand tall among competitors and launch your career into orbit with Astro.js Theme Resume. Explore the cosmos of possibilities for your professional future today!</p><p><br/></p><p><strong>Features</strong></p><p>â¨ <strong>Astro.js v4 Powered</strong>: Easy customization options</p><p>â¨ <strong>UI/UX Design</strong>: User-friendly and convincing interface</p><p>â¨ <strong>Export</strong>: Downloadable CV option for the reader</p><p>â¨ <strong>Showcase</strong>: Showcase your Expert Areas, Experience, Education, Projects, Portfolio, Blogs, Skills and Tools with individual sections</p><p>â¨ <strong>Low Code Customization</strong>: No coding required - you can easily customize content and style by 30+ components and style variables</p><p>â¨ <strong>Tailwind CSS Integration</strong>: Easy to edit with light and dark mode</p><p>â¨ <strong>SEO-Support &amp; Performance</strong>: Excellent Lighthouse/PageSpeed scores &amp; sitemap integration</p><p>â¨ <strong>RSS Feed Support</strong>: Keeps your audience updated effortlessly</p><p>â¨ <strong>Framework of your choice:</strong> 100% Astro.js only template - choose your JS Framework (react preinstalled)</p><p>â¨ <strong>Markdown Compatibility</strong>: Streamlines content creation with easy formatting</p><p>â¨ <strong>Syntax Highlighting</strong>: Enhances code snippet readability for tech enthusiasts</p><p>â¨ <strong>ESLint / Prettier</strong>: pre-installed and pre-configured to keep your workflow simple</p><p>â¨ <strong>Vercel Deployment:</strong> preconfigured Vercel deployment &amp; web analytics</p><p><br/></p><p><strong>Coming soon...</strong></p><p>â¨ HeadlessCMS Support -&gt; write me wishes to the product you want</p>",
+    "typeUrl": "https://3474070726452.gumroad.com/l/astro-resume-01",
+    "liveUrl": "https://astro-resume-01.vercel.app/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F9bjt64m6hh4y5q9ccza2u05mabzze83tf2xbos.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fgevpvnujuilfujcihlmn0s3a9yt7zy92i45zxm.webp&w=1600&h=900&f=webp"
+    ]
+}

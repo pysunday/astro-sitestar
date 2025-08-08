@@ -1,0 +1,16 @@
+{
+    "url": "https://astro.build/themes/details/trantor-saas-ai/",
+    "name": "trantor-saas-ai",
+    "title": "Trantor SaaS / AI",
+    "desc": "Trantor is an advanced Astro SaaS template specifically designed for AI-driven tech companies and startups",
+    "article": "<p>Trantor is a state-of-the-art SaaS template crafted for AI-driven tech companies and startups. Featuring a sleek, minimalist design with a fresh mint color palette, it exudes modernity and simplicity. Its intuitive navigation, responsive layouts, and lightning-fast load speeds ensure a seamless user experience.</p><p><br/></p><p>This template includes fully customizable components like AI-powered pricing tables, dynamic testimonials, feature showcases, and engaging call-to-action sections, all optimized to spotlight the unique advantages of your AI SaaS product.</p><p><br/></p><p>Features:</p><p>- Features over 11+ pages</p><p>- Automatically imports MDX components</p><p>- Allows content creation and updates in Markdown or MDX</p><p>- OG image support included</p><p>- Fully customizable (CSS, Menu Links, Socials, SEO meta tags)</p><p>- Responsive design for desktops, tablets, and smartphones</p><p>- Built using the Tailwind CSS framework</p><p>- SEO-friendly structure</p><p>- Custom multi-category dropdown menu</p><p><br/></p><p>Content / Pages:</p><p>- Home (landing page)</p><p>- Solution</p><p>- How it works</p><p>- Pricing (&amp; comparison table)</p><p>- Integrations</p><p>- Changelog</p><p>- Sign Up &amp; Sign In</p><p>- Careers</p><p>- Blog</p><p>- About Us</p><p>- Terms And Conditions</p>",
+    "typeUrl": "https://www.etsy.com/uk/listing/1844732358/trantor-saas-astro-theme",
+    "liveUrl": "https://astrotrantor.vercel.app/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fnxa0r4wq2qipzz2pcxpx902d0ydmqpwcilwvn2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Faur4u3bkcs1mrmyj7asjc84ezg6yn39le03qol.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ffp1q5l30m2ez0h5ufrlrxnt8ktkko1dz39gk6r.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fyiny4hlgik9xpxxc3kr4w2amvut0l63veir055.webp&w=1600&h=900&f=webp"
+    ]
+}

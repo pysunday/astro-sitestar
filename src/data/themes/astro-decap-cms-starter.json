@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-decap-cms-starter/",
+    "name": "astro-decap-cms-starter",
+    "title": "Astro Decap CMS Starter",
+    "desc": "A starter theme for Astro and Decap CMS. It is fully compatible with SEO and has amazing UI/UX, as well as a great developer experience.",
+    "article": "\n<p>\n  Astro Decap CMS Starter is a starter theme for Astro and Decap CMS. It is fully compatible with\n  SEO and has amazing UI/UX, as well as a great developer experience. This theme uses a git-based\n  CMS, which allows you to manage your content as a CMS from anywhere.\n</p>\n<p>\n  To use the theme, simply download it from GitHub and install it in your Astro project. Once\n  installed, you can start creating posts and pages with the built-in CMS. The theme also includes a\n  number of features that make it easy to customize your site, such as a color picker, a font\n  selector, and a layout builder.\n</p>\n<p>\n  If you are looking for a powerful and easy-to-use starter theme for Astro and Decap CMS, then\n  Astro Decap CMS Starter is the perfect choice for you.\n</p>\n<p>Here are some additional details about the theme:</p>\n<ul>\n<li>Features:</li>\n<li>SEO-friendly</li>\n<li>\n    Amazing UI/UX Great developer experience Git-based CMS Color picker Font selector Layout builder\n  </li>\n<li>Benefits:</li>\n<li>Easy to use</li>\n<li>Powerful</li>\n<li>Customizable</li>\n<li>SEO-friendly</li>\n<li>Requirements:</li>\n<li>Astro CMS</li>\n<li>Decap CMS</li>\n</ul>\n",
+    "typeUrl": "https://github.com/gxanshu/astro-decap-cms-starter",
+    "liveUrl": "https://astro-decapcms-starter.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/gxanshu/astro-decap-cms-starter",
+        "name": "astro-decap-cms-starter",
+        "full_name": "gxanshu/astro-decap-cms-starter",
+        "description": "Portfolio with a blog part built with Astro and backend with Decap (netlify) CMS",
+        "stargazers_count": 37,
+        "created_at": "2023-07-12T10:45:15Z",
+        "updated_at": "2025-07-09T11:23:31Z",
+        "pushed_at": "2024-01-27T04:46:55Z",
+        "git_url": "git://github.com/gxanshu/astro-decap-cms-starter.git",
+        "ssh_url": "git@github.com:gxanshu/astro-decap-cms-starter.git",
+        "clone_url": "https://github.com/gxanshu/astro-decap-cms-starter.git",
+        "homepage": "https://astro-decapcms-starter.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fastro-decap-cms-starter-hero.webp&w=1600&h=900&f=webp"
+    ]
+}

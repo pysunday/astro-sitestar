@@ -1,0 +1,13 @@
+{
+    "url": "https://astro.build/themes/details/minimal-monochrome-landing-page-and-ui-kit/",
+    "name": "minimal-monochrome-landing-page-and-ui-kit",
+    "title": "Minimal - Monochrome Landing Page and UI Kit",
+    "desc": "Minimal is an elegant and cleanly coded landing page HTML template built with Bulma CSS and Alpine.js. Minimal relies on a very bold and minimalistic design, bringing consistency and visual power into the product.",
+    "article": "<p>Minimal is an elegant and cleanly coded landing page HTML template built with Bulma CSS and Alpine.js. Minimal relies on a very bold and minimalistic design, bringing consistency and visual power into the product.</p><p><br/></p><p>Minimal also features a component library, with basic markup building blocks, that you can use aloine or together, to create outstanding pages for your project.</p><p><br/></p><p><strong>For developers</strong> â this product has been built and coded with care, from inception and design to production, following the best available practices regarding code structure and maintainability.</p><p><br/></p><p><strong>Easy branding</strong> â the UI is built using Bulma CSS and custom SCSS styling. You can easily change the primary color to apply your branding and change the look and feel consistently through the entire template.</p><p><br/></p><p><strong>Built with Alpine.js</strong> â this template is written with Alpine.js, a rugged and minimal javascript framework that works pretty much like Vue, but allows you to write it in your markup.</p><p><br/></p><p><strong>Prebuilt layouts</strong> â this template features a great set of prebuilt pages that you can use to save some time on your development and design process.</p><p><br/></p><p><strong>Documentation</strong> â this template ships with a detailed documentation to help you get started with project structure, installation and development guidelines.</p><p><br/></p><p><strong>For projects</strong> â this product is a robust template made to fit in real life projects and use cases, providing a solid starting point for an internal or a public saas application, with many kinds of setups and architectures.</p>",
+    "typeUrl": "https://cssninja.io/product/minimal",
+    "liveUrl": "https://minimal.cssninja.io/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fqh35he1k7e4lk6w2eoejvhwr8mv5w2be5p2qsz.webp&w=1600&h=900&f=webp"
+    ]
+}

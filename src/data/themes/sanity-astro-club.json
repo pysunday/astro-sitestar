@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/sanity-astro-club/",
+    "name": "sanity-astro-club",
+    "title": "Sanity Astro Club",
+    "desc": "Sanity Astro Club is a free Astro template for showcasing ans selling artworks or any other digital product.",
+    "article": "<p>Sanity Astro Club is a free Astro template for showcasing and selling any digital product.</p><p>At first, it was an experimental proof of concept built by <a href=\"https://www.codrops.com\" rel=\"nofollow ugc\">Codrops</a> in collaboration with <a href=\"http://alextkachev.com/\" rel=\"nofollow ugc\">Alex Tkachev</a>.</p><p><a href=\"https://soufianee.com\" rel=\"nofollow ugc\">Soufiane</a> then enhanced the template with the addition of an extendable <a href=\"https://sanity.io\" rel=\"nofollow ugc\">Sanity Studio</a> to handle content and a simple <a href=\"https://polar.sh\" rel=\"nofollow ugc\">Polar.sh</a> API integration to generate checkout sessions.</p><p>Checkout the <a href=\"https://github.com/jazsouf/sanity-astro-club\" rel=\"nofollow ugc\">code</a> and try it out.</p>",
+    "typeUrl": "https://github.com/jazsouf/sanity-astro-club",
+    "liveUrl": "https://sanity-astro-club.netlify.app",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/jazsouf/sanity-astro-club",
+        "name": "sanity-astro-club",
+        "full_name": "jazsouf/sanity-astro-club",
+        "description": null,
+        "stargazers_count": 9,
+        "created_at": "2025-04-01T15:59:43Z",
+        "updated_at": "2025-08-07T23:38:07Z",
+        "pushed_at": "2025-04-29T09:32:27Z",
+        "git_url": "git://github.com/jazsouf/sanity-astro-club.git",
+        "ssh_url": "git@github.com:jazsouf/sanity-astro-club.git",
+        "clone_url": "https://github.com/jazsouf/sanity-astro-club.git",
+        "homepage": "http://sanity-astro-club.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fbf7etmi59wsz2py8xs0njl8l487sclu2mk54si.webp&w=1600&h=900&f=webp"
+    ]
+}

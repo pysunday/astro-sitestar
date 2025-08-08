@@ -1,0 +1,13 @@
+{
+    "url": "https://astro.build/themes/details/astro-snipcart/",
+    "name": "astro-snipcart",
+    "title": "Astro Snipcart",
+    "desc": "Start selling products with some HTML and Astro components in minutes! Contains several UI components and page layouts.",
+    "article": "<p>Astro Snipcart contains a theme and ready to use Snipcart setup.</p><p><br/></p><p><strong>Step one:</strong></p><p><br/></p><p>Use the following snippet somewhere common, such as your layout component, and ensure you <a href=\"https://astro-snipcart.vercel.app/guides/requirements/\" rel=\"nofollow ugc\">setup your environment variable for the API key</a>:</p><pre>&lt;SnipcartSetup /&gt;\r\n</pre><p><br/></p><p><strong>Step two:</strong></p><p><br/></p><p>Allow the user to open their shopping cart:</p><pre>&lt;CartCheckout&gt;\r\n    &lt;button&gt;\r\n        Open basket\r\n    &lt;/button&gt;\r\n&lt;/CartCheckout&gt;\r\n</pre><p><br/></p><p><strong>Step three:</strong></p><p><br/></p><p>Create your first product:</p><p><br/></p><pre>&lt;Product\r\n    as=\"span\"\r\n    id=\"SKU-0001\"\r\n    name=\"Standard T-Shirt\"\r\n    url=\"/product/standard-t-shirt\"\r\n    price={12.99}\r\n    description=\"Every day basic t-shirt\"\r\n    image=\"/blue-t-shirt.jpg\"&gt;\r\n    &lt;button&gt;\r\n        Add\r\n    &lt;/button&gt;\r\n&lt;/Product&gt;\r\n</pre><p><br/></p><p>How easy was that!</p><p><br/></p><p><strong>Pre-built theme components:</strong></p><p><br/></p><p>The theme contains several UI components and page layouts, make sure to see the documentation and live demo.</p>",
+    "typeUrl": "https://astro-snipcart.vercel.app/",
+    "liveUrl": "https://astro-snipcart-playground.vercel.app/",
+    "type": "free",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F87ep9fy4coi4m5kybrud43omzyfznxq9txagyf.png&w=1600&h=900&f=webp"
+    ]
+}

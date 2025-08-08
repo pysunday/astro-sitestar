@@ -1,0 +1,13 @@
+{
+    "url": "https://astro.build/themes/details/feather/",
+    "name": "feather",
+    "title": "Feather",
+    "desc": "An elegant, minimalist blog theme for Astro. Clean typography, and blazing-fast performance. Built with Tailwind CSS v4.0",
+    "article": "<h2>Features</h2><ul><li>ð¨ Elegant, minimalist design styled with Tailwind CSS v4.0</li><li>ð Markdown &amp; MDX support for flexible content authoring</li><li>ð·ï¸ Tag-based content organization with dedicated tag pages</li><li>ð SEO-friendly with canonical URLs and OpenGraph data</li><li>ð Configurable pagination for blog entries</li><li>ð° RSS Feed support for content syndication</li><li>ðºï¸ Automatic sitemap generation</li><li>ð¼ï¸ Optimized image handling with `astro:assets`</li></ul><h2>Configuration</h2><p>The theme has several configurable options which can be found inside the `src/consts.ts` file.</p><h2>Support</h2><p>Support is provided as described in the `LICENSE.md` file included in your theme.</p><p><br/></p>",
+    "typeUrl": "https://astrothem.es/themes/feather/",
+    "liveUrl": "https://astrothem.es/preview/feather/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fg8un6cszka10oxle7sa3czmn7fcv9ojkqdiyns.webp&w=1600&h=900&f=webp"
+    ]
+}

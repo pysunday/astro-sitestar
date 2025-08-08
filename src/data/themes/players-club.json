@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/players-club/",
+    "name": "players-club",
+    "title": "Players Club",
+    "desc": "Players Club is a free Astro template for showcasing music artists, featuring smooth animations, dynamic navigation, and SEO-friendly content management.",
+    "article": "<p><strong>Players Club</strong> is a <strong>free Astro template</strong> for showcasing music artists, inspired by a Dribbble shot from <strong>Alex Tkachev</strong>. Designed as an <strong>experimental proof of concept</strong>, this template explores <strong>Astro 5.2âs hybrid capabilities</strong>, delivering a smooth, <strong>SPA-like</strong> user experience while maintaining the performance benefits of static sites.</p><p><br/></p><h3><strong>Key Features:</strong></h3><ul><li><strong>Content Collections &amp; Content Layer API</strong> â Manage structured artist and album data with Markdown.</li><li><strong>Full-Site View Transitions</strong> â Uses Astroâs <strong>View Transitions API</strong> for seamless, animated navigation.</li><li><strong>GSAP &amp; Lenis</strong> â Enhances UX with <strong>micro-interactions and smooth scrolling</strong>.</li><li><strong>Dynamic Search, Sort &amp; Shuffle</strong> â Reorder or filter artists dynamically.</li><li><strong>Optimized for SEO</strong> â Includes <strong>Astro SEO integration and a sitemap</strong> for better discoverability.</li></ul><h3><strong>File Structure Overview:</strong></h3><p>The project follows a structured layout with components for <strong>artists, albums, tooltips, preloading effects, and smooth scrolling.</strong> Pages include a <strong>landing page, artist detail pages, album pages, and a search dialog</strong>.</p><p>This theme is a great <strong>starting point for anyone looking to build a sleek music showcase</strong> with <strong>Astro</strong>, and it welcomes contributions to improve layout and styling (e.g., <strong>Tailwind CSS integration</strong>).</p><p>Check out the <a href=\"#\" rel=\"nofollow ugc\"><strong>Demo</strong></a><strong> and </strong><a href=\"#\" rel=\"nofollow ugc\"><strong>GitHub Repo</strong></a> to explore and modify it for your own projects!</p>",
+    "typeUrl": "https://github.com/crnacura/PlayersClub",
+    "liveUrl": "https://playersclub88.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/crnacura/PlayersClub",
+        "name": "PlayersClub",
+        "full_name": "crnacura/PlayersClub",
+        "description": "Players Club is a free Astro template for showcasing music artists—an experimental proof of concept built in collaboration with Alex Tkachev.",
+        "stargazers_count": 84,
+        "created_at": "2025-02-05T11:54:42Z",
+        "updated_at": "2025-07-20T04:30:00Z",
+        "pushed_at": "2025-02-14T03:40:59Z",
+        "git_url": "git://github.com/crnacura/PlayersClub.git",
+        "ssh_url": "git@github.com:crnacura/PlayersClub.git",
+        "clone_url": "https://github.com/crnacura/PlayersClub.git",
+        "homepage": "https://playersclub88.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F4jgkcl8qw0iftfllqj9fwnfsvsr7blh9l74vu5.webp&w=1600&h=900&f=webp"
+    ]
+}

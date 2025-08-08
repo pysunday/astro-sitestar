@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astrolaunch-ui/",
+    "name": "astrolaunch-ui",
+    "title": "AstroLaunch UI",
+    "desc": "Meet AstroLaunch UI, a free Astro template for your website. With its seamless integration of Astro, React, and Material Tailwind, setting up your website has never been easier. Made by Creative-Tim.com",
+    "article": "<p><strong>AstroLaunch UI v1.10. </strong>is a free starter template built with the powerful combination of Astro, React, and Material Tailwind. Packed with a plethora of features, this product is designed to elevate your web development experience to new heights. ** Save hours of work now with our free Astro template!**</p><h2>Main Features</h2><p>With AstroLaunch UI, you gain access to a free collection of fully coded elements, example pages, and blocks. Whether you're a startup, working on a landing page, or managing a blog, our Astro template has got you covered.</p><ul><li>70 fully coded elements</li><li>3 example pages</li><li>Responsive design</li></ul><h2>Example Pages</h2><p>See the free example pages available with AstroLaunch UI.</p><ul><li>Sign In page</li><li>Sign Up page</li><li>Reset page</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/creativetimofficial/astro-launch-ui",
+    "liveUrl": "https://www.creative-tim.com/astro/launch-ui/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/creativetimofficial/astro-launch-ui",
+        "name": "astro-launch-ui",
+        "full_name": "creativetimofficial/astro-launch-ui",
+        "description": "AstroLaunch UI - Ready to use components",
+        "stargazers_count": 123,
+        "created_at": "2023-08-17T12:29:17Z",
+        "updated_at": "2025-08-07T18:45:27Z",
+        "pushed_at": "2025-03-31T12:09:12Z",
+        "git_url": "git://github.com/creativetimofficial/astro-launch-ui.git",
+        "ssh_url": "git@github.com:creativetimofficial/astro-launch-ui.git",
+        "clone_url": "https://github.com/creativetimofficial/astro-launch-ui.git",
+        "homepage": "https://www.creative-tim.com/astro"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fg2hsraqor7qv49c8j9kxuspo04czrelpk8tu9f.webp&w=1600&h=900&f=webp"
+    ]
+}

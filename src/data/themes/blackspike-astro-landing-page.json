@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/blackspike-astro-landing-page/",
+    "name": "blackspike-astro-landing-page",
+    "title": "blackspike astro landing page",
+    "desc": "A free Astro landing theme made with Tailwind to help kick start your Astro website.",
+    "article": "<p>We built this page as the first version of our own website, <a href=\"https://www.blackspike.com\" rel=\"nofollow ugc\">blackspike.com</a>, but switched to a different design later. </p><p><br/></p><p>Rather than let it gather dust, we decided to modernise it, try out some fresh new CSS features and give it back to the Astro community.</p><p><br/></p><p>You can read more about how we built it and the cool new tech we used <a href=\"https://www.blackspike.com/blog/blackspike-free-astro-tailwind-theme/\" rel=\"nofollow ugc\">on our blog post</a>.</p><h2>Astro 5 Features</h2><ul><li><a href=\"https://docs.astro.build/en/guides/images/#display-optimized-images-with-the-image--component\">Image component</a> for optimised AVIF images</li><li>All-<a href=\"https://docs.astro.build/en/reference/astro-syntax/\">JSX</a> native astro components</li><li>SVGs imported as <a href=\"https://docs.astro.build/en/guides/images/#svg-components\">SVG components</a></li><li>JSON-powered content (easy to edit UI text or hook up a CMS!)</li><li>Experimental <a href=\"https://docs.astro.build/en/reference/experimental-flags/fonts/\">Fonts API</a></li></ul><h2>CSS &amp; HTML Features</h2><ul><li><a href=\"https://tailwindcss.com/blog/tailwindcss-v4\" rel=\"nofollow ugc\">Tailwind 4</a></li><li>HTML modal dialog</li><li>JS-free scroll-linked animations</li><li>JS-free exclusive accordions with details/summary (animated!)</li><li>Container queries</li><li>Linear easing for bouncing / springing</li><li>Text wrap pretty / balance</li></ul><h2>JS Features</h2><ul><li><a href=\"https://swiperjs.com/\" rel=\"nofollow ugc\">swiper.js</a> carousel</li></ul><p><br/></p><h2>Figma File </h2><p><a href=\"https://www.figma.com/design/wZHty4Xu9dc8oaqmbDiTPL/blackspike-astro-landing-page?node-id=350-7970&amp;t=Q08n6hUXWk3m2bP5-1\" rel=\"nofollow ugc\">Grab it here</a>!</p><p><br/></p><h2>License</h2><p>Theme and 3D images are licensed under a <a href=\"https://creativecommons.org/licenses/by/4.0/\" rel=\"nofollow ugc\">Creative Commons Attribution 4.0 International Public License</a>. Created by blackspike <a href=\"https://www.blackspike.com\" rel=\"nofollow ugc\">blackspike design</a> â a web design &amp; development team specialising in Astro, Vue, Nuxt &amp; Wordpress websites</p>",
+    "typeUrl": "https://github.com/blackspike/blackspike-astro-landing-page",
+    "liveUrl": "https://astro-theme.blackspike.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/blackspike/blackspike-astro-landing-page",
+        "name": "blackspike-astro-landing-page",
+        "full_name": "blackspike/blackspike-astro-landing-page",
+        "description": "A free, modern, Astro landing page theme made with Tailwind to help kick start your next Astro project",
+        "stargazers_count": 37,
+        "created_at": "2025-05-16T13:10:07Z",
+        "updated_at": "2025-08-05T09:16:17Z",
+        "pushed_at": "2025-07-10T11:59:14Z",
+        "git_url": "git://github.com/blackspike/blackspike-astro-landing-page.git",
+        "ssh_url": "git@github.com:blackspike/blackspike-astro-landing-page.git",
+        "clone_url": "https://github.com/blackspike/blackspike-astro-landing-page.git",
+        "homepage": "https://astro-theme.blackspike.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fqv9vocxlcn6gydao7ow8jutl19efd2xsbsle1r.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fuuo2sq702rdp0i9khwxd4iokzyknm3pa357ksm.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fonvxb76jzaixgv2a0840qmohe40nop9bui4cja.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fizfzqw6elda6ijmh38t8aefu78hrppi9ji3ysj.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fiprl4kftgx8krll8gfv71qus32py7xxr07jx4w.webp&w=1600&h=900&f=webp"
+    ]
+}

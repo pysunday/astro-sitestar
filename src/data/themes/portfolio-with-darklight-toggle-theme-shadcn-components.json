@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/portfolio-with-darklight-toggle-theme-shadcn-components/",
+    "name": "portfolio-with-darklight-toggle-theme-shadcn-components",
+    "title": "Dark/Light theme Portfolio",
+    "desc": "Elegant portfolio website to showcase the experience you can't include in your resume. \r\nBuilt with astro + Shadcn Components",
+    "article": "<p>This project is a portfolio website showcasing projects, experience, and skills. Built using modern web technologies, it provides an interactive and dynamic way to present professional achievements.</p>",
+    "typeUrl": "https://github.com/raulrls/Astro-Shadcn-portfolio",
+    "liveUrl": "https://isaac-rosales.vercel.app",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/isaac-ros/Astro-Shadcn-portfolio",
+        "name": "Astro-Shadcn-portfolio",
+        "full_name": "isaac-ros/Astro-Shadcn-portfolio",
+        "description": "Astro project to showcase your skills, built with Shadcn UI and React integration",
+        "stargazers_count": 10,
+        "created_at": "2025-02-05T04:24:50Z",
+        "updated_at": "2025-07-07T06:27:50Z",
+        "pushed_at": "2025-02-05T04:46:08Z",
+        "git_url": "git://github.com/isaac-ros/Astro-Shadcn-portfolio.git",
+        "ssh_url": "git@github.com:isaac-ros/Astro-Shadcn-portfolio.git",
+        "clone_url": "https://github.com/isaac-ros/Astro-Shadcn-portfolio.git",
+        "homepage": null
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ft8ekkwb4pl8uw6ns5dqg1j9771fi8vw3wurs10.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fv96anl09uehiyg0d8vx0o7wcwns9x077r2xqhh.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fbn1l5k1lp19cvw24bztbm50eh4lv4crrf0naup.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fr75p4qau5lo30gtaf9m95u6way0tlgn2j6ek5m.webp&w=1600&h=900&f=webp"
+    ]
+}

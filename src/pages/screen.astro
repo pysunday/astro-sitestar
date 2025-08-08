@@ -1,0 +1,67 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+---
+
+<BaseLayout>
+  <main class="min-h-screen bg-white text-gray-800 p-6 flex flex-col items-center justify-center space-y-6">
+    <h1 class="text-2xl font-bold">📱 Tailwind 断点检测工具</h1>
+    <div class="space-y-2 text-lg">
+      <div>当前断点：<span id="breakpoint" class="font-mono text-blue-600">检测中...</span></div>
+      <div>屏幕宽度：<span id="width" class="font-mono text-green-600">--</span> px</div>
+      <div>屏幕高度：<span id="height" class="font-mono text-green-600">--</span> px</div>
+      <div>设备像素比 DPR：<span id="dpr" class="font-mono text-purple-600">--</span></div>
+    </div>
+
+    <div class="w-full max-w-xl mt-8">
+      <h2 class="text-xl font-semibold mb-8 text-center">📐 Tailwind 默认断点宽度</h2>
+      <table class="w-full table-auto border border-gray-300 text-sm">
+        <thead>
+          <tr class="bg-gray-100">
+            <th class="border px-2 py-1 text-left">断点</th>
+            <th class="border px-2 py-1 text-left">宽度范围</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border px-2 py-1">default</td><td class="border px-2 py-1">&lt; 640px (40rem)</td></tr>
+          <tr><td class="border px-2 py-1">sm</td><td class="border px-2 py-1">≥ 640px (40rem)</td></tr>
+          <tr><td class="border px-2 py-1">md</td><td class="border px-2 py-1">≥ 768px (48rem)</td></tr>
+          <tr><td class="border px-2 py-1">lg</td><td class="border px-2 py-1">≥ 1024px (64rem)</td></tr>
+          <tr><td class="border px-2 py-1">xl</td><td class="border px-2 py-1">≥ 1280px (80rem)</td></tr>
+          <tr><td class="border px-2 py-1">2xl</td><td class="border px-2 py-1">≥ 1536px (96rem)</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- 用于断点检测的隐藏节点 -->
+    <div class="sr-only">
+      <div id="bp-default" class="block sm:hidden">default</div>
+      <div id="bp-sm" class="hidden sm:block md:hidden">sm</div>
+      <div id="bp-md" class="hidden md:block lg:hidden">md</div>
+      <div id="bp-lg" class="hidden lg:block xl:hidden">lg</div>
+      <div id="bp-xl" class="hidden xl:block 2xl:hidden">xl</div>
+      <div id="bp-2xl" class="hidden 2xl:block">2xl</div>
+    </div>
+
+    <script>
+      function getScreenType() {
+        const ids = ['default', 'sm', 'md', 'lg', 'xl', '2xl'];
+        for (const id of ids) {
+          const el = document.getElementById('bp-' + id);
+          if (el && el.offsetParent !== null) return id;
+        }
+        return 'unknown';
+      }
+
+      function updateDisplay() {
+        document.getElementById('breakpoint').textContent = getScreenType();
+        document.getElementById('width').textContent = window.innerWidth;
+        document.getElementById('height').textContent = window.innerHeight;
+        document.getElementById('dpr').textContent = window.devicePixelRatio.toFixed(2);
+      }
+
+      window.addEventListener('DOMContentLoaded', updateDisplay);
+      window.addEventListener('resize', updateDisplay);
+    </script>
+  </main>
+</BaseLayout>
+

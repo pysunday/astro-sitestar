@@ -1,0 +1,31 @@
+{
+    "url": "https://astro.build/themes/details/ultimate-astro-theme-multiframework-heaven/",
+    "name": "ultimate-astro-theme-multiframework-heaven",
+    "title": "Ultimate Astro Template - Multiframework Heaven",
+    "desc": "A preconfigured Astro theme that integrates Vue, React, Svelte, and SolidJS  â all in one place, ready to use.",
+    "article": "<h2>ð Ultimate Astro - Multi-Framework Showcase</h2><p>ð The Ultimate Astro Template: A blazing-fast, multi-framework project showcasing <strong>Vue, React, Svelte, and SolidJS </strong>â all <strong>preconfigured </strong>and ready to explore! ð¨ TailwindCSS styling, smooth transitions, and modern UI included. </p><p><br/></p><p>  ð ï¸ Features</p><p>- ð§© Multi-framework support: <strong>Vue, React, Svelte, SolidJS</strong></p><p>- ð¨ Beautiful UI with TailwindCSS</p><p>- â¡ Optimized performance and Astro ViewTransitions</p><p><br/></p><p><strong>â ï¸ Note: Use a browser that supports ViewTransitions for the best experience</strong></p><p><br/></p><p><br/></p><p><br/></p>",
+    "typeUrl": "https://github.com/Marve10s/UltimateAstroTemplate",
+    "liveUrl": "https://ultimate-astro-template.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Marve10s/UltimateAstroTemplate",
+        "name": "UltimateAstroTemplate",
+        "full_name": "Marve10s/UltimateAstroTemplate",
+        "description": null,
+        "stargazers_count": 52,
+        "created_at": "2025-01-05T18:11:38Z",
+        "updated_at": "2025-07-29T14:10:36Z",
+        "pushed_at": "2025-05-22T13:29:50Z",
+        "git_url": "git://github.com/Marve10s/UltimateAstroTemplate.git",
+        "ssh_url": "git@github.com:Marve10s/UltimateAstroTemplate.git",
+        "clone_url": "https://github.com/Marve10s/UltimateAstroTemplate.git",
+        "homepage": "https://ultimate-astro-template.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F3cgk9d6ezuhnn7l02gmw06bugwaugx0v1r4nby.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fxi0bhfcu86dh7cay0myqprvo4jgn79px1vr594.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fybkap7zyew97kmkwnfnxotprskiku86pkgdk61.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fw88265bun68tbeg0mjk1s8goul6ms1prrdc61j.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F6hm69ppg3ugxd472wv1fgc5c1mlm5jgd7jf0gs.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/cojocarudavidme/",
+    "name": "cojocarudavidme",
+    "title": "cojocarudavid.me",
+    "desc": "Blazing fast personal website built with Astro.js and styled with Tailwind CSS.",
+    "article": "<h3>ð Project Overview</h3><p><strong>cojocarudavid.me</strong> is my personal portfolio website, built with Astro.js and styled using Tailwind CSS. It serves as a hub for my projects, blog posts, and personal updates.</p><p><br/></p><h3>ð Features</h3><ul><li>Blazing fast - Optimized for performance and SEO.</li><li>Modern &amp; responsive - Tailwind CSS for easy customization.</li><li>Secure &amp; reliable - Follows best security practices.</li><li>Mobile-friendly - Fully responsive across devices.</li><li>Blog support - Share insights and experiences.</li></ul><h3>ð ï¸ Tech Stack</h3><ul><li>Astro.js - Static site generator.</li><li>React.js - Used for components.</li><li>Tailwind CSS - Utility-first CSS framework.</li><li>TypeScript - Typed JavaScript at scale.</li><li>JavaScript - Core language.</li><li>CSS - Styles and layouts.</li></ul>",
+    "typeUrl": "https://github.com/cojocaru-david/cojocarudavid.me",
+    "liveUrl": "https://old.cojocarudavid.me/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/cojocaru-david/cojocarudavid.me",
+        "name": "cojocarudavid.me",
+        "full_name": "cojocaru-david/cojocarudavid.me",
+        "description": "Blazing fast personal website built with Astro.js and styled with Tailwind CSS. ",
+        "stargazers_count": 71,
+        "created_at": "2023-10-16T19:36:58Z",
+        "updated_at": "2025-07-22T16:22:20Z",
+        "pushed_at": "2025-08-07T18:05:52Z",
+        "git_url": "git://github.com/cojocaru-david/cojocarudavid.me.git",
+        "ssh_url": "git@github.com:cojocaru-david/cojocarudavid.me.git",
+        "clone_url": "https://github.com/cojocaru-david/cojocarudavid.me.git",
+        "homepage": "https://old.cojocarudavid.me/?ref=github"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fgu5f8rvr2cnsbksqrft7jgokkvcv3f82pihcmh.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ffy6mehq73ivpnqhni8tt8sqj0zy04nd7lnvo5r.webp&w=1600&h=900&f=webp"
+    ]
+}

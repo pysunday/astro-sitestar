@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/litos/",
+    "name": "litos",
+    "title": "Litos",
+    "desc": "Litos is a modern, high-performance blog theme built on Astro.",
+    "article": "<h2>â¨ Key Features</h2><h3>ð± Responsive Design</h3><ul><li>Fluid layouts that adapt seamlessly across devices</li><li>Optimized reading experience on all screen sizes</li></ul><h3>ð¨ Content Presentation</h3><ul><li>Multiple post layouts (16:9, 3:4, no-image)</li><li>Dynamic image handling with zoom capability</li><li>Clean typography with customizable styles</li></ul><h3>â¡ Performance</h3><ul><li>Fast page loads with optimized assets</li><li>Built-in image optimization</li><li>Minimal JavaScript usage</li></ul><h3>ð ï¸ Developer Experience</h3><ul><li>VS Code snippets for quick content creation</li><li>Structured content organization</li><li>Type-safe content collections</li></ul><h3>ð¦ Built-in Features</h3><ul><li>ð·ï¸ Tag-based navigation</li><li>ð Reading time estimation</li><li>ð SEO optimization</li><li>ð Dark/Light mode</li><li>ð± Social media previews</li></ul><h3>ð¯ Content Focus</h3><ul><li>Distraction-free reading experience</li><li>Multiple content layouts</li><li>Code syntax highlighting</li><li>Responsive image galleries</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/Dnzzk2/Litos",
+    "liveUrl": "https://litos.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/Dnzzk2/Litos",
+        "name": "Litos",
+        "full_name": "Dnzzk2/Litos",
+        "description": "A Simple & Modern Blog Theme for Astro",
+        "stargazers_count": 30,
+        "created_at": "2025-03-04T07:18:09Z",
+        "updated_at": "2025-08-07T18:27:34Z",
+        "pushed_at": "2025-08-07T18:27:31Z",
+        "git_url": "git://github.com/Dnzzk2/Litos.git",
+        "ssh_url": "git@github.com:Dnzzk2/Litos.git",
+        "clone_url": "https://github.com/Dnzzk2/Litos.git",
+        "homepage": "https://litos.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Flv42hohytrudqylpl5ne7vl9rmvelzdjpj8mtv.webp&w=1600&h=900&f=webp"
+    ]
+}

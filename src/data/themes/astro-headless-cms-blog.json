@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-headless-cms-blog/",
+    "name": "astro-headless-cms-blog",
+    "title": "Astro Headless CMS Blog",
+    "desc": "A statically generated blog built with Astro, Tailwind CSS, and Cosmic. Utilize the Cosmic headless CMS to store blog posts and media content.",
+    "article": "",
+    "typeUrl": "https://github.com/cosmicjs/simple-astro-blog",
+    "liveUrl": "https://simple-astro-blog.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/cosmicjs/simple-astro-blog",
+        "name": "simple-astro-blog",
+        "full_name": "cosmicjs/simple-astro-blog",
+        "description": "A simple astro blog powered by the Cosmic CMS",
+        "stargazers_count": 54,
+        "created_at": "2022-09-09T18:11:39Z",
+        "updated_at": "2025-06-09T19:01:13Z",
+        "pushed_at": "2024-03-13T23:13:21Z",
+        "git_url": "git://github.com/cosmicjs/simple-astro-blog.git",
+        "ssh_url": "git@github.com:cosmicjs/simple-astro-blog.git",
+        "clone_url": "https://github.com/cosmicjs/simple-astro-blog.git",
+        "homepage": "https://simple-astro-blog.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fcosmic-cms-blog.webp&w=1600&h=900&f=webp"
+    ]
+}

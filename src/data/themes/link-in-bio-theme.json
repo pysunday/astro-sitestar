@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/link-in-bio-theme/",
+    "name": "link-in-bio-theme",
+    "title": "Link In Bio Theme",
+    "desc": "Easily customizable Link In Bio for creators that highlights social networks, links, and digital products.",
+    "article": "<p>Edit a single file and have your own Link In Bio page. Built with Astro, Tailwind, FontAwesome icons, and not much else, this minimal theme can help you get an accessible website online ASAP.</p><p><br/></p><p>You can customize:</p><ul><li>User details (name, bio, profile image)</li><li>Background color and image</li><li>Social links</li><li>Custom links</li><li>Products</li></ul><p><br/></p><p>Simply follow the directions in the repository.</p><p><br/></p><p><br/></p>",
+    "typeUrl": "https://github.com/ctrimm/astro-link-in-bio-theme",
+    "liveUrl": "https://lib.corytrimm.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/ctrimm/astro-link-in-bio-theme",
+        "name": "astro-link-in-bio-theme",
+        "full_name": "ctrimm/astro-link-in-bio-theme",
+        "description": "Link In Bio Theme for Astro",
+        "stargazers_count": 15,
+        "created_at": "2024-10-07T15:42:42Z",
+        "updated_at": "2025-08-04T10:28:48Z",
+        "pushed_at": "2025-04-10T02:36:08Z",
+        "git_url": "git://github.com/ctrimm/astro-link-in-bio-theme.git",
+        "ssh_url": "git@github.com:ctrimm/astro-link-in-bio-theme.git",
+        "clone_url": "https://github.com/ctrimm/astro-link-in-bio-theme.git",
+        "homepage": "https://lib.corytrimm.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fa4u5n4i6w01pfu4l13n4zkms6fhy5tgpkl6tcy.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fn2y0qvy92f1bfxrzbdav8tpbox8j1rd8mjs2jz.webp&w=1600&h=900&f=webp"
+    ]
+}

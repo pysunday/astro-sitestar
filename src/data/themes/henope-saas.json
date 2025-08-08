@@ -1,0 +1,13 @@
+{
+    "url": "https://astro.build/themes/details/henope-saas/",
+    "name": "henope-saas",
+    "title": "Henope Saas",
+    "desc": "â¡ Henope â A blazing-fast Astro JS theme with Tailwind CSS, TypeScript & smooth animations.",
+    "article": "<h2>ð Features</h2><ul><li>â¡ Blazing Fast - Powered by Astro for ultra-fast performance</li><li>ð¨ Modern UI - Clean and responsive design with Tailwind CSS</li><li>ð¡ Type Safety - Built with TypeScript for better code reliability</li><li>â¨ Animations - Smooth and eye-catching transitions</li><li>ð SEO Optimized - Pre-rendered pages for better search engine ranking</li><li>ð§ Easy Customization - Well-structured and developer-friendly codebase</li><li>ð Dark Mode - Fully compatible with light and dark themes</li><li>â¿ Accessible - Follows best accessibility practices</li></ul><h2>ð Pages Included</h2><ul><li>ð  <strong>Home</strong> </li><li>â¹ï¸ <strong>About</strong> </li><li>âï¸ <strong>Contact</strong> </li><li>â¡ <strong>Features</strong> </li><li>ð° <strong>Pricing</strong> </li><li>ð <strong>Blog</strong> </li><li>â <strong>FAQ</strong> </li><li>ð <strong>Terms</strong> </li><li>â <strong>404</strong> </li></ul><h2>ð ï¸ Installation</h2><pre># Clone the repository\r\ngit clone https://github.com/shahid4003/henope-saas.git\r\n\r\n# Navigate to project directory\r\ncd henope-saas\r\n\r\n# Install dependencies\r\nnpm install\r\n</pre><h2>ð Project Structure</h2><pre>/\r\nâââ public/\r\nâ   âââ assets/\r\nâ       âââ images/\r\nâ       âââ fonts/\r\nâââ src/\r\nâ   âââ components/\r\nâ   â   âââ ui/\r\nâ   â   âââ sections/\r\nâ   âââ layouts/\r\nâ   âââ pages/\r\nâ   âââ styles/\r\nâââ package.json\r\n</pre><h2>â¡ Development</h2><pre># Start development server\r\nnpm run dev\r\n\r\n# Build for production\r\nnpm run build\r\n\r\n# Preview production build\r\nnpm run preview\r\n</pre><h2>ð§ Performance Optimizations</h2><ul><li>Partytown implementation for third-party scripts</li><li>Asset minification</li><li>Code splitting</li><li>Prefetching critical assets</li><li>SEO optimization</li></ul><h2>ð§ Support</h2><p>For support, email <a href=\"mailto:shahid.dev.aziz@gmail.com\" rel=\"nofollow ugc\">shahid.dev.aziz@gmail.com</a>.</p>",
+    "typeUrl": "https://azizdev0.gumroad.com/l/ibetes?wanted=true",
+    "liveUrl": "https://henope-saas.netlify.app/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fotvs980iibqem1tfib86su6p0182oa8h62t1p1.webp&w=1600&h=900&f=webp"
+    ]
+}

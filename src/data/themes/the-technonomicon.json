@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/the-technonomicon/",
+    "name": "the-technonomicon",
+    "title": "The Technonomicon",
+    "desc": "The book of the devs is a set of living glyphs lifted from demonic literature and religious texts.",
+    "article": "<p>The Technonomicon is built around the idea of content growing over time. You can make quick tip cards in a few seconds and they will get their own page. You could then curate a few tips into an Article, and a few Articles into an issue. Building and curating content is the game. </p><p><br/></p><p> Use it to build a course, blog, set of tutorials, or a fan website about trading cards. Whatever you want. Get weird with it. </p>",
+    "typeUrl": "https://github.com/technomancy-dev/technonomicon",
+    "liveUrl": "https://technonomicon-red.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/technomancy-dev/technonomicon",
+        "name": "technonomicon",
+        "full_name": "technomancy-dev/technonomicon",
+        "description": "The book of the devs. ",
+        "stargazers_count": 34,
+        "created_at": "2024-03-06T17:15:09Z",
+        "updated_at": "2025-07-06T15:53:32Z",
+        "pushed_at": "2024-04-19T16:47:05Z",
+        "git_url": "git://github.com/technomancy-dev/technonomicon.git",
+        "ssh_url": "git@github.com:technomancy-dev/technonomicon.git",
+        "clone_url": "https://github.com/technomancy-dev/technonomicon.git",
+        "homepage": "https://technonomicon-red.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Foqavhyzjntxyxy8n0x8vvvygabswaq6wycolsg.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Flbwkmrk6259a7ffpdznyoigrxtovo76lr4qxw1.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Feewldxd61kksvpmrvucta9elf4867w5nwme6e1.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F4c7va7z5p69i4ur8upbkvhosqk87sylugwowyu.webp&w=1600&h=900&f=webp"
+    ]
+}

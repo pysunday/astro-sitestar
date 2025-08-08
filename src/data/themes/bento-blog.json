@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/bento-blog/",
+    "name": "bento-blog",
+    "title": "Bento Blog",
+    "desc": "A modern and aesthetic design template inspired by the Bento UI style. Built with Astro and optimized for performance and visual appeal.",
+    "article": "<h2>Bento Style for Astro</h2><p><br/></p><p>A modern and aesthetic design template inspired by the Bento UI style. Built with Astro and optimized for performance and visual appeal.</p><h3>Features</h3><p><br/></p><p>- Clean and organized Bento-style layout</p><p>- Fast and efficient performance</p><p>- Dynamic content blocks for better structure</p><p>- Modular design for easy customization</p><p>- Responsive and mobile-friendly</p><p>- Supports Astro Image Tools for optimized images</p><p><br/></p>",
+    "typeUrl": "https://github.com/temaprint/bento",
+    "liveUrl": "https://bento.temaprint.com",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/temaprint/bento",
+        "name": "bento",
+        "full_name": "temaprint/bento",
+        "description": "A modern and aesthetic design template inspired by the Bento UI style. Built with Astro and optimized for performance and visual appeal.",
+        "stargazers_count": 5,
+        "created_at": "2025-03-11T14:54:48Z",
+        "updated_at": "2025-06-01T10:09:46Z",
+        "pushed_at": "2025-06-01T10:09:42Z",
+        "git_url": "git://github.com/temaprint/bento.git",
+        "ssh_url": "git@github.com:temaprint/bento.git",
+        "clone_url": "https://github.com/temaprint/bento.git",
+        "homepage": "https://bento.temaprint.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F798ew5f7ocqx1h69buu38rb85m3n56j0uamxhx.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fof970rf51nh1rnuz4aro4sxntcuzha7d58uq90.webp&w=1600&h=900&f=webp"
+    ]
+}

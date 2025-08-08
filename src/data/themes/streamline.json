@@ -1,0 +1,17 @@
+{
+    "url": "https://astro.build/themes/details/streamline/",
+    "name": "streamline",
+    "title": "Streamline",
+    "desc": "A sleek and modern landing page template crafted with shadcn/ui, and Tailwind. ",
+    "article": "<h3>Tech Stack</h3><ul><li>Astro 5</li><li>shadcn/ui</li><li>Tailwind 4</li><li>Figma</li><li>Markdown</li><li>Typescript</li></ul><h3>Features</h3><ul><li>100+ components</li><li>10+ pages</li><li>Figma File included</li><li>Astro React</li><li>All pages built using block sections, easily insert new blocks from our library!</li><li>Astro content collections</li><li>Markdown &amp; MDX</li><li>Responsive mobile-first design</li><li>Astro SEO</li><li>Astro Sitemap</li></ul><p><br/></p>",
+    "typeUrl": "https://www.shadcnblocks.com/template/streamline?bundle=astro",
+    "liveUrl": "https://streamline-astro-template.vercel.app/",
+    "type": "buy",
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fgqj2l6appnedane5faijdy38f08z85cpo7e15b.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fv7kweozeilnpg5kzacjhwr2ivjzcub1bapusu6.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fclw993u74drqk2rjmy97aabfcuxxevth1jsg8h.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fwu0dhaojxmybkva84j54dxpwo93sq0na62ruj2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fiemf4i9j0j7ia5yyg0u1u3v1ibkys0ub7wf6xb.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://astro.build/themes/details/planetario/",
+    "name": "planetario",
+    "title": "Planetario",
+    "desc": "Simple landing using Tailwind for your business or startup.",
+    "article": "",
+    "typeUrl": "https://github.com/eavinti/astro-landing",
+    "liveUrl": "https://astro-landing-topaz.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/eavinti/astro-landing",
+        "name": "astro-landing",
+        "full_name": "eavinti/astro-landing",
+        "description": null,
+        "stargazers_count": 30,
+        "created_at": "2023-09-04T16:27:49Z",
+        "updated_at": "2025-07-07T07:31:12Z",
+        "pushed_at": "2024-02-25T22:02:38Z",
+        "git_url": "git://github.com/eavinti/astro-landing.git",
+        "ssh_url": "git@github.com:eavinti/astro-landing.git",
+        "clone_url": "https://github.com/eavinti/astro-landing.git",
+        "homepage": "https://astro-landing-topaz.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fplanetario-hero.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fplanetario-2.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fplanetario-3.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fplanetario-4.webp&w=1600&h=900&f=webp"
+    ]
+}

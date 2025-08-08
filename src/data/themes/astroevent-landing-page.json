@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astroevent-landing-page/",
+    "name": "astroevent-landing-page",
+    "title": "AstroEvent Landing Page",
+    "desc": "AstroEvent, is a minimal open-source Event Website Template built using Astro 3.0 (View Transitions) and TailwindCSS.",
+    "article": "<p>An elegant and responsive event landing page template built using Astro, Tailwind CSS, and View Transitions API. This template is perfect for showcasing events, concerts, festivals, and more with a modern and visually appealing design.</p><h2>Features</h2><ul><li><strong>Astro Integration</strong>: Utilizes Astro's static site generation capabilities for fast and optimized web performance.</li><li><strong>View Transitions</strong>: Smooth and seamless transitions between pages for an enhanced user experience.</li><li><strong>Tailwind CSS</strong>: Styled with Tailwind CSS for a clean, responsive, and highly customizable design.</li><li><strong>Responsive Design</strong><span>: Fully responsive and mobile-friendly layout.</span></li><li><strong>Dynamic Content</strong>: Easy to update and manage content for events, including images, dates, and descriptions.</li></ul><h2>Sections Included</h2><ul><li><strong>Hero Section</strong>: A captivating banner with a headline and a call-to-action button.</li><li><strong>Event Highlights</strong>: Showcase key event highlights with images and descriptions.</li><li><strong>Blog Post Section</strong>: Display blog posts or event recaps with images, titles, and short descriptions.</li><li><strong>Event Schedule</strong>: List of upcoming events with dates, times, and locations.</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/99points/astrojs-event-template",
+    "liveUrl": "https://astro-event-template.netlify.app/arts/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/99points/astrojs-event-template",
+        "name": "astrojs-event-template",
+        "full_name": "99points/astrojs-event-template",
+        "description": "Event Website Template built with Astro View Transitions and TailwindCSS",
+        "stargazers_count": 9,
+        "created_at": "2024-06-17T03:38:37Z",
+        "updated_at": "2025-08-05T00:50:06Z",
+        "pushed_at": "2024-06-30T08:57:48Z",
+        "git_url": "git://github.com/99points/astrojs-event-template.git",
+        "ssh_url": "git@github.com:99points/astrojs-event-template.git",
+        "clone_url": "https://github.com/99points/astrojs-event-template.git",
+        "homepage": "https://astro-event-template.netlify.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fhny102brvskp4pjaomdnyfljmndzjyd77e0xkv.webp&w=1600&h=900&f=webp"
+    ]
+}

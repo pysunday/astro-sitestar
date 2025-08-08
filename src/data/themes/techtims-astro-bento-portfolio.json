@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/techtims-astro-bento-portfolio/",
+    "name": "techtims-astro-bento-portfolio",
+    "title": "TechTim's Astro Bento Portfolio",
+    "desc": "Yet Another Bento Style Astro template for personal portfolio, including blog, projects, tag system and more. ",
+    "article": "<p>This template helps you build a portfolio using Astro, Typescript, React, Tailwind CSS, and Shadcn UI.</p><ul><li><a href=\"https://techtim42.com\" rel=\"nofollow ugc\">Live Demo</a></li></ul><h2>Technologies Used</h2><p>This project utilizes the following technologies:</p><ul><li><strong>Astro</strong>: A modern framework for building fast and efficient websites.</li><li><strong>Tailwind CSS</strong>: A utility-first CSS framework for rapid and responsive design.</li><li><strong>Shadcn UI</strong>: A collection of accessible and easy-to-use UI components.</li><li><strong>React</strong>: For interactive components and advanced functionality.</li><li><strong>TypeScript</strong>: For static type checking and improved developer experience.</li></ul><p><br/></p><p><br/></p><h2>In Addition</h2><ul><li><strong>Accessibility</strong>: Ensure your portfolio is accessible to all users, including those with disabilities.</li><li><strong>SEO</strong>: Optimize your portfolio for search engines by adding meta tags and relevant content.</li><li><strong>Performance</strong>: Use modern web development practices to ensure optimal performance, such as lazy loading images and minimizing CSS/JS.</li><li><strong>Responsive Design</strong>: Make sure your portfolio looks good on devices of all sizes, from mobile to desktop screens.</li><li>Centralised data management inside one folder</li><li>Use Astro recommended <a href=\"https://docs.astro.build/en/guides/content-collections/\">Content Collection</a> to manage data</li><li>&lt;code&gt;src/content&lt;/code&gt; folder for blog posts, project data and profile data</li><li>&lt;code&gt;src/content/profileData.ts&lt;/code&gt; for general profile data</li><li>Tags system</li><li>Simplified Dark/Light mode toggle</li></ul><p><br/></p><p><br/></p><ul><li><a href=\"https://github.com/tim-hub/techtim-astro-bento-portfolio\" rel=\"nofollow ugc\">Github source code</a></li><li><a href=\"https://techtim42.com/\" rel=\"nofollow ugc\">Live Demo</a></li></ul>",
+    "typeUrl": "https://github.com/tim-hub/techtim-astro-bento-portfolio",
+    "liveUrl": "https://techtim42.com/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/tim-hub/techtim-astro-bento-portfolio",
+        "name": "techtim-astro-bento-portfolio",
+        "full_name": "tim-hub/techtim-astro-bento-portfolio",
+        "description": "An Astro template for personal portfolio, including blog, projects, and more.",
+        "stargazers_count": 48,
+        "created_at": "2024-09-12T09:04:13Z",
+        "updated_at": "2025-07-01T01:24:21Z",
+        "pushed_at": "2025-08-01T05:45:52Z",
+        "git_url": "git://github.com/tim-hub/techtim-astro-bento-portfolio.git",
+        "ssh_url": "git@github.com:tim-hub/techtim-astro-bento-portfolio.git",
+        "clone_url": "https://github.com/tim-hub/techtim-astro-bento-portfolio.git",
+        "homepage": "https://techtim42.com"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fzppr63njq67r25v41mjxyfp4iauku2pknmqvp7.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fi2ah3b6jk14qcly1ewn7rcnhji3158it2xpav7.webp&w=1600&h=900&f=webp"
+    ]
+}

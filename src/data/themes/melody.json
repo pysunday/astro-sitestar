@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/melody/",
+    "name": "melody",
+    "title": "Melody",
+    "desc": "A simple personal blog theme",
+    "article": "<p><strong>A simple personal blog themeï¼Less code, more love for life</strong></p><h3>Features:</h3><ul><li>â DasiyUI + Tailwind CSS + Astro</li><li>â Minimal styling (make it your own!)</li><li>â 100/100 Lighthouse performance</li><li>â SEO-friendly with canonical URLs and OpenGraph data</li><li>â Sitemap support</li><li>â RSS Feed support</li><li>â Markdown &amp; MDX support</li></ul>",
+    "typeUrl": "https://github.com/ouranoshong/astro-melody-starter",
+    "liveUrl": "https://subtle-rugelach-637941.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/ouranoshong/astro-melody-starter",
+        "name": "astro-melody-starter",
+        "full_name": "ouranoshong/astro-melody-starter",
+        "description": "Astrojs blog with dasiyUI, making personal blog easy!",
+        "stargazers_count": 20,
+        "created_at": "2024-11-06T08:24:32Z",
+        "updated_at": "2025-07-21T09:07:32Z",
+        "pushed_at": "2025-03-16T13:41:56Z",
+        "git_url": "git://github.com/ouranoshong/astro-melody-starter.git",
+        "ssh_url": "git@github.com:ouranoshong/astro-melody-starter.git",
+        "clone_url": "https://github.com/ouranoshong/astro-melody-starter.git",
+        "homepage": "https://subtle-rugelach-637941.netlify.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fd41nq2swndfdx768rlqxt5hm0bnusyvxgdja5j.webp&w=1600&h=900&f=webp"
+    ]
+}

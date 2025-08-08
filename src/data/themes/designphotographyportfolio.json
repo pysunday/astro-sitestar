@@ -1,0 +1,29 @@
+{
+    "url": "https://astro.build/themes/details/designphotographyportfolio/",
+    "name": "designphotographyportfolio",
+    "title": "DesignPhotographyPortfolio",
+    "desc": "Design/Photography Portfolio is a free Astro template for showcasing the works of designers and photographers.",
+    "article": "<p>DesignPhotographyPortfolio is an Astro template designed for quickly building static portfolio websites for designers and photographers.</p><p>Tech Stack: <a href=\"https://astro.build/\">Astro</a> + React + HeroUI + <a href=\"https://tailwindcss.com/\" rel=\"nofollow ugc\">Tailwind CSS</a></p><h2>Features</h2><p><br/></p><ul><li>Content Collections and Content-layer API: Manage portfolio and page content with Markdown files.</li><li>Image Compression and Efficient Management: Store images by portfolio and automatically generate compressed versions.</li><li>Interaction Design: Enhance user experience with mouse hover effects and font animations.</li><li>SEO-optimized: Integrated with Astro SEO and sitemap for greater search engine visibility.</li><li>Image Display Handling: Displays images in a responsive column layout, employing compression and dimension metadata to avoid rendering shift and enable lazy loading.</li><li>Dark Mode Support: Easily enable dark mode with Tailwindâs dark mode configuration.</li></ul><p><br/></p>",
+    "typeUrl": "https://github.com/pysunday/DesignPhotographyPortfolio",
+    "liveUrl": "https://cosmic-cactus-65b8d8.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/pysunday/DesignPhotographyPortfolio",
+        "name": "DesignPhotographyPortfolio",
+        "full_name": "pysunday/DesignPhotographyPortfolio",
+        "description": "Design/Photography Portfolio is a free Astro template for showcasing the works of designers and photographers.",
+        "stargazers_count": 7,
+        "created_at": "2025-06-17T06:52:07Z",
+        "updated_at": "2025-08-02T08:08:51Z",
+        "pushed_at": "2025-06-30T05:08:36Z",
+        "git_url": "git://github.com/pysunday/DesignPhotographyPortfolio.git",
+        "ssh_url": "git@github.com:pysunday/DesignPhotographyPortfolio.git",
+        "clone_url": "https://github.com/pysunday/DesignPhotographyPortfolio.git",
+        "homepage": "https://cosmic-cactus-65b8d8.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Ffdbappn715lz5p0lddomcb32mpcieey15xc4r6.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fy1d9h0trmeqn2w1q1arrxereu20i4ios5kjz2t.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F1j5baheze28tpwirfo94to08lmgriz0f56gt36.webp&w=1600&h=900&f=webp"
+    ]
+}

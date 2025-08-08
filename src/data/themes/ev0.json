@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/ev0/",
+    "name": "ev0",
+    "title": "EV0",
+    "desc": "EV0 Astro Theme is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript.",
+    "article": "\n<p>\n<strong>EV0 Astro Theme</strong> is a free and open-source serverless blog template, built with\n  Astro, Tailwind CSS, and TypeScript. It serves as a starting point for creating your personal\n  portfolio website or showcasing your projects online. The template is open-source and released\n  under the MIT license, meaning you are free to use, modify, and distribute it for personal or\n  commercial purposes.\n</p>\n<h3>Features</h3>\n<ul>\n<li>Minimal styling (Tailwind CSS)</li>\n<li>100/100 Lighthouse performance</li>\n<li>SEO-friendly with canonical URLs and OpenGraph data</li>\n<li>Sitemap support</li>\n<li>RSS Feed support</li>\n<li>Markdown &amp; MDX support</li>\n<li>PWA-ready</li>\n<li>Fully responsive</li>\n<li>Robots.txt &amp; Humans.txt</li>\n<li>TypeScript support</li>\n<li>Syntax highlighting</li>\n<li>YouTube Integration</li>\n<li>CLI for adding new posts</li>\n</ul>\n",
+    "typeUrl": "https://github.com/gndx/ev0-astro-theme",
+    "liveUrl": "https://ev0.gndx.dev/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/gndx/ev0-astro-theme",
+        "name": "ev0-astro-theme",
+        "full_name": "gndx/ev0-astro-theme",
+        "description": "EV0 Astro Theme is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript.",
+        "stargazers_count": 196,
+        "created_at": "2023-09-19T03:09:30Z",
+        "updated_at": "2025-07-27T01:22:44Z",
+        "pushed_at": "2024-11-03T17:20:42Z",
+        "git_url": "git://github.com/gndx/ev0-astro-theme.git",
+        "ssh_url": "git@github.com:gndx/ev0-astro-theme.git",
+        "clone_url": "https://github.com/gndx/ev0-astro-theme.git",
+        "homepage": "https://ev0.gndx.dev"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fev0-hero.webp&w=1600&h=900&f=webp"
+    ]
+}

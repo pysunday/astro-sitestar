@@ -1,0 +1,45 @@
+---
+import { Icon } from 'astro-icon/components';
+import clsx from 'clsx';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+
+const { currentLocale } = Astro
+const {
+  title,
+  name,
+  liveUrl,
+  imgs,
+  desc,
+  class: className,
+  github,
+} = Astro.props;
+---
+<div class={clsx("bg-[#fafafa] border-6 border-[#fafafa] flex h-full flex-col overflow-hidden", className)}>
+  <div class="h-max overflow-hidden">
+    <img
+      src={imgs[0]}
+      width="600"
+      height="400"
+      class="aspect-video w-full object-cover hover:scale-110 duration-300 "
+      loading="lazy"
+      decoding="async"
+    />
+  </div>
+  <div class="flex flex-1 flex-col gap-6 p-6 text-left">
+    <div>
+      <a href={getRelativeLocaleUrl(currentLocale, `/sites/${name}`)}><h3 class="heading-5 mb-2 font-bold">{title}</h3></a>
+      <p class="line-clamp-3">{desc}</p>
+    </div>
+    <footer class="mt-auto flex justify-between items-center gap-2 overflow-hidden border-t border-astro-gray-400 pt-6">
+      <a href={getRelativeLocaleUrl(currentLocale, `/preview/?url=${encodeURIComponent(liveUrl)}`)}>
+        <Icon name="look-site"/>
+      </a>
+      {
+        import.meta.env.MODE === 'development' && github && <a href={github.html_url} target="_blank">
+          <Icon name="github" class="inline" />
+          <span>{github.stargazers_count}</span>
+        </a>
+      }
+    </footer>
+  </div>
+</div>

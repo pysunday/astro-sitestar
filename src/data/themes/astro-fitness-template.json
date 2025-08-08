@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/astro-fitness-template/",
+    "name": "astro-fitness-template",
+    "title": "Astro Fitness Template ",
+    "desc": "Astro fitness themed landing page",
+    "article": "<p>Astro Fitness Template</p><p><br/></p><p>Fitness themed landing page using Astro Is and tailwind CSS.</p><p><br/></p><p>Converted Canva template design</p><p>GitHub repo link</p><p>Canva template link</p><p>YouTube Tutorial series link</p>",
+    "typeUrl": "https://github.com/petipois/fitness-astro-template",
+    "liveUrl": "https://fitness-astro-template.netlify.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/petipois/fitness-astro-template",
+        "name": "fitness-astro-template",
+        "full_name": "petipois/fitness-astro-template",
+        "description": "Astro 4 template aimed at gym and fitness websites",
+        "stargazers_count": 6,
+        "created_at": "2024-01-13T22:55:35Z",
+        "updated_at": "2025-07-28T12:03:22Z",
+        "pushed_at": "2024-01-20T14:23:45Z",
+        "git_url": "git://github.com/petipois/fitness-astro-template.git",
+        "ssh_url": "git@github.com:petipois/fitness-astro-template.git",
+        "clone_url": "https://github.com/petipois/fitness-astro-template.git",
+        "homepage": "https://fitness-astro-template.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fqq66cli9ojp3rhwsqmzlr349sn5fl87p94wpax.webp&w=1600&h=900&f=webp"
+    ]
+}

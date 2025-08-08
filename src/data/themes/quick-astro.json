@@ -1,0 +1,27 @@
+{
+    "url": "https://astro.build/themes/details/quick-astro/",
+    "name": "quick-astro",
+    "title": "Quick Web",
+    "desc": "A minimal, fast-loading template for building simple websites and landing pages. Perfect for showcasing information with a clean, lightweight design.",
+    "article": "<p>This template comes preconfigured with commonly used tools in web development. With minimal styling, SEO support, sitemap integration, and ViewTransition, it also includes automated workflows for linting, formatting, and Git hooks, along with testing setups using Vitest and end-to-end testing with Playwright, making it a solid and efficient starting point.</p><p><br/></p>",
+    "typeUrl": "https://github.com/tinogasta-labs/quick-web",
+    "liveUrl": "https://quick-web-template.netlify.app",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/tinux-labs/quick-web",
+        "name": "quick-web",
+        "full_name": "tinux-labs/quick-web",
+        "description": "A minimal, fast-loading template for building simple websites and landing pages. Perfect for showcasing information with a clean, lightweight design.",
+        "stargazers_count": 5,
+        "created_at": "2025-02-22T06:20:48Z",
+        "updated_at": "2025-07-01T00:38:05Z",
+        "pushed_at": "2025-07-01T00:38:01Z",
+        "git_url": "git://github.com/tinux-labs/quick-web.git",
+        "ssh_url": "git@github.com:tinux-labs/quick-web.git",
+        "clone_url": "https://github.com/tinux-labs/quick-web.git",
+        "homepage": "https://quick-web-template.netlify.app/"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2F099sl5ent4zy40xwoe1f5q3ckya4dk38ndzq1c.webp&w=1600&h=900&f=webp"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://astro.build/themes/details/astro-micro-academics/",
+    "name": "astro-micro-academics",
+    "title": "Astro-Micro-Academics",
+    "desc": "Astro-Micro-Academics theme is an academic version of  Astro-Micro and Nano. ",
+    "article": "<p>Astro Micro Academic is an academic version of <a href=\"https://github.com/trevortylerlee/astro-micro\" rel=\"nofollow ugc\">Astro Micro</a> and <a href=\"https://astro-nano-demo.vercel.app/\" rel=\"nofollow ugc\">Astro Nano</a>.</p><p>It is a minimal and elegant theme tailored for researchers. </p><p>Micro Academics adds features like tags, blog math support, and about, CV, publications, etc. sections for academic users and also inherits <a href=\"https://pagefind.app/\" rel=\"nofollow ugc\">Pagefind</a> for search, <a href=\"https://giscus.app/\" rel=\"nofollow ugc\">Giscus</a> for comments, from Astro Micro.</p><p>Micro Academics still comes with everything great about Micro and Nano â full-type safety, a sitemap, an RSS feed, and Markdown + MDX support. Styled with TailwindCSS and preconfigured with system, light, and dark themes.</p><p><br/></p><p>What is new:</p><ol><li>Add Latex Math Support</li><li>Add News, Research, Publication, CV sections</li><li>Add Tag functions to blogs</li><li>RSS feed with blogs with posts with rss-feed tag only</li><li>Markdown emoji</li></ol><p><br/></p><p>Old functions:</p><ol><li>MDX callouts</li><li>Comment section</li><li>Table of Contents for blogs</li><li>Page search</li></ol><p><br/></p><p><br/></p>",
+    "typeUrl": "https://github.com/jingwu2121/astro-micro-academic",
+    "liveUrl": "https://astro-micro-academic.vercel.app/",
+    "type": "free",
+    "github": {
+        "html_url": "https://github.com/jingwu2121/astro-micro-academic",
+        "name": "astro-micro-academic",
+        "full_name": "jingwu2121/astro-micro-academic",
+        "description": "Astro Micro Academic Theme. Built on Astro Micro and Nano, an academic theme for researchers",
+        "stargazers_count": 23,
+        "created_at": "2024-07-25T18:50:41Z",
+        "updated_at": "2025-07-02T09:33:27Z",
+        "pushed_at": "2024-08-13T13:44:46Z",
+        "git_url": "git://github.com/jingwu2121/astro-micro-academic.git",
+        "ssh_url": "git@github.com:jingwu2121/astro-micro-academic.git",
+        "clone_url": "https://github.com/jingwu2121/astro-micro-academic.git",
+        "homepage": "https://astro-micro-academic.vercel.app"
+    },
+    "imgs": [
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fiaas6mjg12cpy599xkdl456sl748nkyrji815r.webp&w=1600&h=900&f=webp",
+        "https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fbi7t77eknqc1vz3x852sgfxqnd8g167gh2xra3.webp&w=1600&h=900&f=webp"
+    ]
+}
