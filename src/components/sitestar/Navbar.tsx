@@ -3,7 +3,7 @@ import clsx from 'clsx'
 import { LangToggle } from '@/components/common/LangToggle';
 import HomeIcon from '@/icons/home.svg?react';
 import ServiceIcon from '@/icons/service.svg?react';
-import AboutIcon from '@/icons/About.svg?react';
+import AboutIcon from '@/icons/about.svg?react';
 import SiteIcon from '@/icons/site.svg?react';
 import ContactIcon from '@/icons/contact.svg?react';
 import LogoZh from '@/icons/sitestar/logo_zh.svg?react';
